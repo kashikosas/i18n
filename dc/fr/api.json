@@ -1,3 +1,35 @@
 {
-  "required-param-missing": "A required parameter was missing"
+  "required-param-missing": "Données invalides",
+  "invalid-configuration-params": "Configuration invalide",
+  "invalid-params": "Données invalides",
+  "saving-failed": "Enregistrement échouée",
+  "loading-failed": "Chargement échoué",
+  "configuration-saving-failed": "Echec enregistrement configuration",
+  "configuration-saved-successfully": "Configuration enregistrée",
+  "invalid-username-or-password": "Nom d'utilisateur et/ou mot de passe incorrect(s).",
+  "builder-not-found": "Constructeur non trouvé",
+  "builder-loading-failed": "Chargement constructeur échoué",
+  "deletion-failed": "Suppression échoué",
+  "deletion-successful": "Suppression terminée",
+  "configuration-rretrieval-failed": "Recherche de configuration échouée",
+  "configuration-not-found": "Configuration non trouvé",
+  "connection-failed": "Echec de connexion",
+  "login-failed": "Connexion échouée",
+
+  "configuration-successful": "Configuration terminée",
+  "configuration-failed": "Configuration échouée",
+
+  "added-to-cart": "Configuration ajoutée à votre panier Dani Alu",
+  "add-to-cart-failed": "Echec ajout au panier Dani Alu",
+  "request-sent-to-da": "Configuration enregistrée et requête envoyée à Dani Alu",
+  "request-failed": "Request failed",
+  "nothing-found": "List vide",
+
+  "access-forbidden": "Access forbidden",
+  "unable-to-add-to-cart-product-not-found": "Unable to add to cart product not found",
+  "invalid-outputs-format": "invalid-outputs-format",
+  "invalid-inputs-format": "invalid-inputs-format",
+  "invalid-bom-format": "invalid-bom-format",
+  "cannot-update-a-cart-product":"cannot-update-a-cart-product",
+  "form-saved-succesfully": "Form saved succesfully"
 }

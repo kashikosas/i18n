@@ -1,0 +1,43 @@
+{
+  "guided-tour": "Hi there, <br/> <bold>new to this? </bold> <br/> Let me show you around",
+
+  "title-tour-start": "Welcome",
+  "tour-start": "Lets get started",
+
+  "title-formular-side-tour-guide": "Form",
+  "formular-side-tour-guide": "This is the form side. <br> Make sure it is correct",
+  "formular-side-tour-guide-candraw": "Your form seems to be filled with no errors, lets continue to the drawer side.",
+
+  "title-drawer-side-tour-guide": "Drawer",
+  "drawer-side-tour-guide": "",
+
+  "title-cannot-draw-panel": "",
+  "cannot-draw-panel": "Please fill the form",
+
+  "title-configurator-compute": "",
+  "configurator-compute": "",
+
+  "title-configurator-drawer-2D-3D-switch": "",
+  "configurator-drawer-2D-3D-switch": "",
+
+  "title-configurator-exports": "",
+  "configurator-exports": "",
+
+  "title-crisp-chatbox-tour-guide": "Ask us",
+  "crisp-chatbox-tour-guide": "If you need anything else, don't be shy to chat with us!",
+
+  "title-drawer-action-toggle-group": "Drawer actions",
+  "drawer-action-toggle-group": "Drawer actions",
+
+  "title-drawer-action-select": "Select action",
+  "drawer-action-select": "Once active, you can move around the drawer or zoom in/out.",
+
+  "title-drawer-action-line": "Drawing action",
+  "drawer-action-line": "If selected, you will be able to draw your line segments, update the endpoints, etc.",
+
+  "title-drawer-action-undo-redo-reset": "More actions",
+  "drawer-action-line-undo-redo-reset": "",
+
+  "title-drawer-settings": "Drawer settings",
+  "drawer-settings": "Drawer settings"
+}
