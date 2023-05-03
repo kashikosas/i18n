@@ -1,3 +1,27 @@
 {
-  "close-terrace": "Close terrace"
+  "close-terrace": "Fermer la terrasse",
+  "angle": "Angle",
+  "length": "Longueur",
+  "general": "Général",
+  "drawing-precision": "Précision tracé",
+  "invert-faces": "Inverser les faces",
+  "pointer": "Curseur",
+  "drawer": "Désinner",
+  "undo": "Undo",
+  "redo": "Redo",
+  "reset": "Réinitialiser",
+  "close": "Fermer",
+
+  "plinth-is-required": "Une plinthe est requise.",
+
+  "add-gate": "Ajouter porte",
+  "optimize": "Optimiser",
+  "delete": "Supprimer",
+  "delete-gate": "Supprimer porte",
+  "free-end": "Extremité libre",
+  "fixed-end": "Extremité fixe",
+
+  "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "Une terrasse n'est pas fermée ou le type d'un extremité n'est pas défini.",
+  "no-terrace-drawn": "Aucune terrasse trouvée!",
+  "an-angle-is-out-of-bound": "Un angle est hors de l'intervalle autorisé."
 }

@@ -1,3 +1,32 @@
 {
-  "country": "Country"
+  "country": "Pays",
+  "protectionType": "Type de protection",
+  "acrotere": "Acrotère",
+  "gravel": "Gravier",
+  "handrailHeight": "Hauteur main courante",
+  "postType": "Type de poste",
+  "weight": "Poids",
+  "plinth": "Plinthe",
+  "configuration": "Configuration",
+  "permanentProtectionEdges": "Bords de protection permanente",
+  "temporaryProtectionEdges": "Bords de protection temporaire",
+  "permanentProtectionMachinery": "Equipements de protection permanent",
+  "france": "France",
+  "austria": "Autriche",
+  "germany": "Allemagne",
+  "switzerland": "Suisse",
+  "unitedKingdom": "Royaume-Uni",
+  "straight": "Droit",
+  "curved": "Courbé",
+  "bacdal": "Bacdal",
+
+  "barrialFreestandingDrawer": "Barrial Autoporté avec Dessinateur",
+  "about-to-reset-drawer": "Vous êtes sur le point de réinitialiser dessinateur.",
+  "make-sure-form-valid": "Le formulaire doit être valide pour continuer.",
+
+  "more-than-max": "Supérieur au max autorisé {{0}}",
+  "less-than-min": "Inférieur au min autorisé {{0}}",
+  "field-required": "Champs requis",
+
+  "walldrawer-changed-recompute": "Le dessin a changé. Veuillez clicker sur 'Calculer' d'abord."
 }

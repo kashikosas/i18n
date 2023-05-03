@@ -1,3 +1,34 @@
 {
-  "country": "Country"
+  "country": "Country",
+  "protectionType": "Protection Type",
+  "acrotere": "Acrotere",
+  "gravel": "Gravel",
+  "handrailHeight": "Handrail Height",
+  "postType": "Post Type",
+  "weight": "Weight",
+  "plinth": "Plinth",
+  "configuration": "Configuration",
+  "permanentProtectionEdges": "Permanent protection edges",
+  "temporaryProtectionEdges": "Temporary protection edges",
+  "permanentProtectionMachinery": "Permanent protection machinery",
+  "france": "France",
+  "austria": "Austria",
+  "germany": "Germany",
+  "switzerland": "Switzerland",
+  "unitedKingdom": "United Kingdom",
+  "straight": "Straight",
+  "curved": "Curved",
+  "bacdal": "Bacdal",
+
+  "plinth-is-required": "A plinth is required",
+
+  "barrialFreestanding": "Barrial Freestanding",
+  "about-to-reset-drawer": "You are about to reset the drawer",
+  "make-sure-form-valid": "Please make sure the form is valid.",
+
+  "more-than-max": "More than the max authorised: {{0}}",
+  "less-than-min": "Less than the min authorised: {{0}}",
+  "field-required": "Required field",
+
+  "walldrawer-changed-recompute": "Wall drawer has changed. Please re-compute!"
 }

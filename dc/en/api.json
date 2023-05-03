@@ -1,3 +1,38 @@
 {
-  "required-param-missing": "A required parameter was missing"
+  "required-param-missing": "A required parameter was missing",
+  "invalid-configuration-params": "Invalid configuration",
+  "invalid-params": "Invalid parameters",
+  "saving-failed": "Saving failed",
+  "loading-failed": "Loading failed",
+  "configuration-saving-failed": "Configuration saving failed",
+  "configuration-saved-successfully": "Configuration saved successfully",
+  "invalid-username-or-password": "Invalid username or password",
+  "builder-not-found": "Builder not found",
+  "builder-loading-failed": "Builder loading failed",
+  "builder-saving-failed": "Builder saving failed",
+  "deletion-failed": "Deletion failed",
+  "deletion-successful": "Deletion successful",
+  "configuration-retrieval-failed": "Configurartion retrieval failed",
+  "configuration-not-found": "Configuration not found",
+  "connection-failed": "Connection failed",
+  "login-failed": "Login failed",
+
+  "configuration-successful": "Configuration successful",
+  "configuration-failed": "Configuration failed",
+
+  "added-to-cart": "Configuration added to Dani Alu cart",
+  "add-to-cart-failed": "Failed adding to cart",
+  "request-sent-to-da": "Your configuration has been saved and your message has been sent to Dani Alu!",
+  "request-failed": "Request failed",
+  "nothing-found": "Nothing found",
+
+  "access-forbidden": "Access forbidden",
+  "unable-to-add-to-cart-product-not-found": "Unable to add to cart product not found",
+  "invalid-outputs-format": "invalid-outputs-format",
+  "invalid-inputs-format": "invalid-inputs-format",
+  "invalid-bom-format": "invalid-bom-format",
+  "cannot-update-a-cart-product": "cannot-update-a-cart-product",
+  "form-saved-succesfully": "Form saved succesfully",
+  "id-exists-already": "Id exists already",
+  "invalid-params-for-complex-builder": "Invalid params for complex builder"
 }
