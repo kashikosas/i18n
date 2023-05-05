@@ -1,46 +1,91 @@
 {
   "terrassenkit": "Terrassenkit",
   "country": "Country",
+  "country-info": "",
   "france": "France",
   "austria": "Austria",
   "germany": "Germany",
   "switzerland": "Switzerland",
   "unitedKingdom": "United Kingdom",
+
   "use": "Use",
+  "use-info": "",
   "residential": "Residential",
   "private-areas-within-offices-existing-buildings": "Private areas within offices existing buildings",
   "private-areas-within-schools-hospitals-carehomes": "Private areas within schools hospitals/carehomes",
+  "private-areas-within-schools-hospitals-carehomes-without-fixed-seating": "Private areas within schools/hospitals/carehomes without fixed seating",
   "offices": "Offices",
+
   "position": "Position",
+  "position-info": "",
   "top-building": "Top building",
   "side-building": "Side building",
-  "escape-route": "Escape route", 
+  "escape-route": "Escape route",
   "no-escape-route": "No Escape route",
+
   "std-use": "Standard use",
+  "std-use-info": "",
+  "non-applicable": "None applicable",
+  "case-A": "Case A",
+  "case-B": "Case B",
+  "case-C": "Case C",
+  "case-D": "Case D",
+  "case-E": "Case E",
+  "case-F": "Case F",
+  "case-G": "Case G",
+  "case-H": "Case H",
+  "case-A-helper": "The terrace is positioned less than 20 m above ground level in wind zone 1, terrain category III OR  less than 30 m above ground level in wind zone 1, terrain category IV OR the peak wind pressure, qp(z), at the position of the terrace is less than 0,63 kN/m².",
+  "case-B-helper": "The terrace is positioned less than 20 m above ground level in wind zone 2, terrain category III OR less than 30 m above ground level in wind zone 2, terrain category IV OR the peak wind pressure, qp(z), at the position of the terrace is less than 0,77 kN/m².",
+  "case-C-helper": "The terrace is positioned less than 20m above ground level in wind zone 1, 2 or 3, terrain category III OR  less than 30m above ground level in wind zone 1, 2 or 3, terrain category IV OR the peak wind pressure, qp(z), at the position of the terrace is less than 0,94 kN/m².",
+  "case-D-helper": "The terrace is positioned on a roof less than 6 m above ground level in wind zone qp(0)=0,9 kN/m², terrain category III OR  less than 20 m above ground level in wind zone qp(0)=0,9 kN/m², terrain category IV OR the peak wind pressure, qp(z), at the position of the terrace is less than 0,81 kN/m².",
+  "case-E-helper": "The terrace is positioned on a balcony less than 16 m above ground level in wind zone qp(0)=0,9 kN/m², terrain category III OR  less than 35 m above ground level in wind zone qp(0)=0,9 kN/m², terrain category IV OR less than 6 m above ground level in wind zone qp(0)=1,1 kN/m², terrain category III OR  less than 20 m above ground level in wind zone qp(0)=1,1 kN/m², terrain category IV OR the peak wind pressure, qp(z), at the position of the terrace is less than 1 kN/m².",
+  "case-F-helper": "The terrace is positioned less than 15 m above ground level in terrain category III OR less than 30 m above ground level in terrain category IV OR the peak wind pressure, qp(z), at the position of the terrace is less than 0,94 kN/m².",
+  "case-G-helper": "The terrace is positioned less than 21 m above ground level in wind zone 1,2 or 3, terrain category IIIb or IV OR the peak wind pressure, qp(z), at the position of the terrace is less than 0,79kN/m².",
+  "case-H-helper": "The terrace is positioned less than 10 m above ground level in an area where Vb,map≤23 m/s, terrain category 'Town', 30 km from the coast and >3 km inside the town OR the peak wind pressure, qp(z), at the position of the terrace is less than 0,68 kN/m².",
+
   "terrace-material": "Terrace material",
+  "terrace-material-info": "",
   "concrete-slabs": "Concrete slabs",
   "ceramic-tiles": "Ceramic tiles",
   "wooden-planks": "Wooden planks",
   "composite-planks": "Composite planks",
+
   "terrace-thickness": "Terrace thickness",
+  "terrace-thickness-info": "",
+
   "terrace-grid": "Terrace grid",
+  "terrace-grid-info": "",
+
   "free-height": "Height of circulation",
-  "handrailHeight": "Handrail Height",
+  "free-height-info": "",
+
+  "handrail-height": "Handrail Height",
+  "handrail-height-info": "",
+
   "fill-type": "Fill type",
+  "fill-type-info": "",
   "rounded-bars": "Rounded bars",
   "squared-bars": "Squared bars",
   "glass": "Glass",
+
   "fill-style": "Fill style",
+  "fill-style-info": "",
   "full-height": "Full height",
   "100mm-void": "100mm void",
+
   "fill-position": "Fill position",
+  "fill-position-info": "Fill position",
   "behind-post": "Behind post",
   "infront-post": "Infront post",
+
   "planks-width": "Planks width",
+  "planks-width-info": "",
+
   "planks-orientation": "Planks orientation",
+  "planks-orientation-info": "",
   "horizontal": "Horizontal",
   "vertical": "Vertical",
-  "non-applicable": "None applicable",
+
   "color": "Color",
   "guardrails-color": "Guardrails color",
 
@@ -48,8 +93,6 @@
 
   "about-to-reset-drawer": "You are about to reset the drawer",
   "make-sure-form-valid": "Please make sure the form is valid.",
-  "list-colisage": "Liste de colisage",
-  "fabrication-order": "Ordre de fabrication",
 
   "more-than-max": "More than the max authorised: {{0}}",
   "less-than-min": "Less than the min authorised: {{0}}",

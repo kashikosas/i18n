@@ -6,7 +6,7 @@
   "drawing-precision": "Drawing precision",
   "invert-faces": "Invert faces",
   "pointer": "Pointer",
-  "drawer": "Drawer",
+  "draw-line": "Draw",
   "undo": "Undo",
   "redo": "Redo",
   "reset": "Reset",

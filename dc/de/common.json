@@ -92,6 +92,7 @@
   "documents": "Documents",
   "technical-drawings": "Technical drawings",
   "builder": "Builder",
+  "drawer": "Draw",
   "updatedAt": "Updated at",
   "createdAt": "Created at",
 
@@ -129,13 +130,13 @@
 
   "terrace": "Terrace",
   "update-config-info": "Update info",
+
   "open-prices-options": "Open price options",
   "prices-options": "Prices options",
   "quantity": "Quantity",
 
   "cutting-list": "Cutting list",
   "glass-list": "Glass list",
-  "walldrawer-changed-recompute": "Wall drawer has changed. Please re-compute!",
   "data-changed-recompute": "Some input has changed. Please re-compute!",
 
   "update-and-ask-question-on-configuration": "Update configuration and send request to Dani Alu",

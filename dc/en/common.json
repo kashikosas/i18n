@@ -92,6 +92,7 @@
   "documents": "Documents",
   "technical-drawings": "Technical drawings",
   "builder": "Builder",
+  "drawer": "Draw",
   "updatedAt": "Updated at",
   "createdAt": "Created at",
 
@@ -112,6 +113,8 @@
 
   "list-colisage": "Packing list",
   "fabrication-order": "Fabrication order",
+  "cutting-list": "Cutting list",
+  "glass-list": "Glass list",
 
   "about-to-leave-daniconfigs": "You are about to leave DaniConfigs.",
   "about-to-delete-builder": "You are about to delete a configuration Builder.",
@@ -129,18 +132,16 @@
 
   "terrace": "Terrace",
   "update-config-info": "Update info",
+  
   "open-prices-options": "Open price options",
   "prices-options": "Prices options",
   "quantity": "Quantity",
 
-  "cutting-list": "Cutting list",
-  "glass-list": "Glass list",
-  "walldrawer-changed-recompute": "Wall drawer has changed. Please re-compute!",
-  "data-changed-recompute": "Some input has changed. Please re-compute!",
+  "data-changed-recompute": "Some data have changed. Please re-compute!",
 
   "update-and-ask-question-on-configuration": "Update configuration and send request to Dani Alu",
   "save-and-ask-question-on-configuration": "Save configuration and send request to Dani Alu",
 
-  "if-checked-config-saved-with-given-ref-and-query-send": "if checked the configuration is saved with the given reference and then the message is sent to Dani Alu",
+  "if-checked-config-saved-with-given-ref-and-query-send": "If checked the configuration is saved with the given reference and then the message is sent to Dani Alu",
   "no-configuration-input-found-to-attach-to-request-make-sure-you-compute-after-drawing": "No configuration input was found to attach to your request. Please make sure you click on compute after the drawing."
 }

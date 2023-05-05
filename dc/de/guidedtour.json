@@ -1,5 +1,13 @@
 {
-  "guided-tour": "Hi there, <br/> <bold>new to this? </bold> <br/> Let me show you around",
+  "back": "Back",
+  "next": "Next",
+  "skip": "Skip",
+  "close": "Close",
+  "last": "Last",
+  "open": "Open",
+  
+  "guided-tour": "Guided tour",
+  "guided-tour-hint": "Hi there, <br/> <bold>new to this? </bold> <br/> Let me show you around",
 
   "title-tour-start": "Welcome",
   "tour-start": "Lets get started",

@@ -54,8 +54,9 @@
   "dilat": "Dilat",
   "inputs": "Entrées",
   "outputs": "Sorties",
-  "question": "Question", 
+  "question": "Question",
   "builder": "Builder",
+  "drawer": "Dessiner",
   "updatedAt": "Date modification",
   "createdAt": "Date création",
 
@@ -92,6 +93,8 @@
 
   "list-colisage": "Liste de colisage",
   "fabrication-order": "Ordre de fabrication",
+  "cutting-list": "Cutting list",
+  "glass-list": "Glass list",
 
   "copyright-dessin-document": "Ce dessin est la propriété exclusive de la société dani alu, toute reproduction ou utilisation sans le consentement de la société dani alu est interdite.",
   "scale": "Echèlle",
@@ -101,14 +104,15 @@
   "material": "Matière",
   "ref": "Réf.",
   "designation": "Désignation",
+
   "terrace": "Terrasse",
   "update-config-info": "Mettre à jour",
+
   "open-prices-options": "Voir les prix",
   "prices-options": "Options de prix",
   "quantity": "Quantité",
 
-  "cutting-list": "Cutting list",
-  "walldrawer-changed-recompute": "Le dessin a changé. Veuillez clicker sur 'Calculer' d'abord.",
+  "data-changed-recompute": "Some data have changed. Please re-compute!",
 
   "update-and-ask-question-on-configuration": "Update configuration and send request to Dani Alu",
   "save-and-ask-question-on-configuration": "Save configuration and send request to Dani Alu",

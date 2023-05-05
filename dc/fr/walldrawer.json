@@ -6,11 +6,13 @@
   "drawing-precision": "Précision tracé",
   "invert-faces": "Inverser les faces",
   "pointer": "Curseur",
-  "drawer": "Désinner",
+  "draw-line": "Désinner",
   "undo": "Undo",
   "redo": "Redo",
   "reset": "Réinitialiser",
   "close": "Fermer",
+  "wall": "Wall",
+  "datum": "Reference",
 
   "plinth-is-required": "Une plinthe est requise.",
 
