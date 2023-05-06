@@ -1,26 +1,26 @@
 {
-  "back": "Back",
-  "next": "Next",
-  "skip": "Skip",
-  "close": "Close",
-  "last": "Last",
-  "open": "Open",
+  "back": "Précédent",
+  "next": "Suivant",
+  "skip": "Passer",
+  "close": "Fermer",
+  "last": "Dernier",
+  "open": "Ouvrir",
 
-  "guided-tour": "Guided tour",
-  "guided-tour-hint": "Hi there, <br/> <bold>new to this? </bold> <br/> Let me show you around",
+  "guided-tour": "Visite guidée",
+  "guided-tour-hint": "Bonjour, <br/> <bold>besoin d'aide? </bold> <br/> Suivez le guide!",
 
-  "title-tour-start": "Welcome",
-  "tour-start": "Lets get started",
+  "title-tour-start": "Bienvenue",
+  "tour-start": "Démarrer la visite",
 
-  "title-formular-side-tour-guide": "Form",
-  "formular-side-tour-guide": "This is the form side. <br> Make sure it is correct",
-  "formular-side-tour-guide-candraw": "Your form seems to be filled with no errors, lets continue to the drawer side.",
+  "title-formular-side-tour-guide": "Formulaire",
+  "formular-side-tour-guide": "Ceci est le formulaire à remplir avant de pouvoir dessiner. <br> Renseignez chaque champ.",
+  "formular-side-tour-guide-candraw": "Le formulaire est rempli, passons au dessin",
 
-  "title-drawer-side-tour-guide": "Drawer",
-  "drawer-side-tour-guide": "",
+  "title-drawer-side-tour-guide": "Dessinateur",
+  "drawer-side-tour-guide": "Ceci est la zone de dessin",
 
   "title-cannot-draw-panel": "",
-  "cannot-draw-panel": "Please fill the form",
+  "cannot-draw-panel": "Renseigner le formulaire pour pouvoir dessiner",
 
   "title-configurator-compute": "",
   "configurator-compute": "",
@@ -31,21 +31,21 @@
   "title-configurator-exports": "",
   "configurator-exports": "",
 
-  "title-crisp-chatbox-tour-guide": "Ask us",
-  "crisp-chatbox-tour-guide": "If you need anything else, don't be shy to chat with us!",
+  "title-crisp-chatbox-tour-guide": "Aide",
+  "crisp-chatbox-tour-guide": "Besoin d'aide? Nous sommes à votre écoute.",
 
-  "title-drawer-action-toggle-group": "Drawer actions",
-  "drawer-action-toggle-group": "Drawer actions",
+  "title-drawer-action-toggle-group": "Dessinateur",
+  "drawer-action-toggle-group": "Dessinateur",
 
-  "title-drawer-action-select": "Select action",
-  "drawer-action-select": "Once active, you can move around the drawer or zoom in/out.",
+  "title-drawer-action-select": "Sélectionner outil",
+  "drawer-action-select": "Cliquez pour vous déplacer dans le dessin ou zoomer",
 
-  "title-drawer-action-line": "Drawing action",
-  "drawer-action-line": "If selected, you will be able to draw your line segments, update the endpoints, etc.",
+  "title-drawer-action-line": "Dessin",
+  "drawer-action-line": "Cliquer pour tracer des lignes, ajuster segments, les cotes et les angles",
 
   "title-drawer-action-undo-redo-reset": "More actions",
   "drawer-action-line-undo-redo-reset": "",
 
   "title-drawer-settings": "Drawer settings",
-  "drawer-settings": "Drawer settings"
+  "drawer-settings": "Paramètres dessin"
 }
