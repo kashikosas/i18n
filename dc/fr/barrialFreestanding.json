@@ -1,32 +1,32 @@
 {
   "country": "Pays",
-  "protectionType": "Type de protection",
+  "protectionType": "Type de sécurisation",
   "acrotere": "Acrotère",
-  "gravel": "Gravier",
+  "gravel": "Gravillon",
   "handrailHeight": "Hauteur main courante",
-  "postType": "Type de poste",
+  "postType": "Type de montant",
   "weight": "Poids",
   "plinth": "Plinthe",
   "configuration": "Configuration",
-  "permanentProtectionEdges": "Bords de protection permanente",
-  "temporaryProtectionEdges": "Bords de protection temporaire",
-  "permanentProtectionMachinery": "Equipements de protection permanent",
+  "permanentProtectionEdges": "Bordure avec sécurisation permanente",
+  "temporaryProtectionEdges": "Bordure avec sécurisation temporaire",
+  "permanentProtectionMachinery": "Equipements ou machines avec sécurisation permanente",
   "france": "France",
   "austria": "Autriche",
   "germany": "Allemagne",
   "switzerland": "Suisse",
   "unitedKingdom": "Royaume-Uni",
   "straight": "Droit",
-  "curved": "Courbé",
+  "curved": "Coudé",
   "bacdal": "Bacdal",
 
-  "barrialFreestandingDrawer": "Barrial Autoporté avec Dessinateur",
-  "about-to-reset-drawer": "Vous êtes sur le point de réinitialiser dessinateur.",
-  "make-sure-form-valid": "Le formulaire doit être valide pour continuer.",
+  "barrialFreestandingDrawer": "Dessinateur de Barrial Autoporté",
+  "about-to-reset-drawer": "Confirmation réinitialisation dessin",
+  "make-sure-form-valid": "Vérifier validité formulaire",
 
   "more-than-max": "Supérieur au max autorisé {{0}}",
   "less-than-min": "Inférieur au min autorisé {{0}}",
   "field-required": "Champs requis",
 
-  "walldrawer-changed-recompute": "Le dessin a changé. Veuillez clicker sur 'Calculer' d'abord."
+  "walldrawer-changed-recompute": "Le dessin du contour a changé. Veuillez recliquer sur 'Calculer'"
 }
