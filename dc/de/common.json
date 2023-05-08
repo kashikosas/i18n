@@ -14,7 +14,7 @@
   "germany": "Deutschland",
 
   "page-home": "Startseite",
-  "page-build": "Konfiguratoren",
+  "page-build": "Baumeister",
   "page-profil": "Profil",
 
   "forms": "Formulare",
@@ -29,12 +29,12 @@
   "remember-me": "Daten speichern",
   "return-to-da": "Weiter zur dani alu Seite",
 
-  "configuration-builders": "Konfigurator Ersteller",
+  "configuration-builders": "Konfigurationsbaumeister",
   "form-validation-failed": "Formular Validierung Fehlgeschlagen",
   "form-saved-successfully": "Formular erfolgreich gespeichert",
-  "editting-builder": "Bearbeitung - {{builderLabel}}",
+  "editting-builder": "Bearbeitungsbaumeister - {{builderLabel}}",
   "configurating-with": "Konfigurieren mit: {{builderLabel}}",
-  "new-builder": "Neuer Konfigurator Ersteller",
+  "new-builder": "Neuer Baumeister",
 
   "email": "E-Mail",
   "address": "Adresse",
@@ -91,7 +91,7 @@
   "contact": "Kontact",
   "documents": "Dokumente",
   "technical-drawings": "Technische Zeichnungen",
-  "builder": "Konfigurator",
+  "builder": "Baumeister",
   "drawer": "Zeichner",
   "updatedAt": "Aktualisiert",
   "createdAt": "Erstellt",
@@ -115,7 +115,7 @@
   "fabrication-order": "Fertigungsauftrag",
 
   "about-to-leave-daniconfigs": "DaniConfigs verlassen",
-  "about-to-delete-builder": "Konfigurator löschen",
+  "about-to-delete-builder": "Baumeister löschen",
   "about-to-reset-configuration": "Aktuelle Konfiguration zurücksetzen",
   "about-to-delete-configuration": "Konfiguration löschen: {{ids}}.",
 
