@@ -9,7 +9,7 @@
   "unitedKingdom": "United Kingdom",
 
   "use": "Anwendungsbereich",
-  "use-info": "",
+  "use-info": "Anwendungsbereich",
   "residential": "Wohnung",
   "private-areas-within-offices-existing-buildings": "Privatbereiche in bestehenden Bürogebäuden",
   "private-areas-within-schools-hospitals-carehomes": "Privatbereiche in Schulen, Krankenhäusern/Pflegeheimen",
@@ -17,14 +17,14 @@
   "offices": "Büroräume",
 
   "position": "Lage",
-  "position-info": "",
+  "position-info": "Lage",
   "top-building": "Dach des Gebäudes",
   "side-building": "Seite des Gebäudes",
   "escape-route": "Fluchtweg",
   "no-escape-route": "Kein Fluchtweg",
 
   "std-use": "Standard Verwendung",
-  "std-use-info": "",
+  "std-use-info": "Standard Verwendung",
   "non-applicable": "Nicht zutreffend",
   "case-A": "Fall A",
   "case-B": "Fall B",
@@ -44,32 +44,32 @@
   "case-H-helper": "Die Terrasse befindet sich weniger als 10 m über dem Boden in einem Gebiet mit Vb,map≤23 m/s, Geländekategorie \"Stadt\", 30 km von der Küste entfernt und >3 km innerhalb der Stadt ODER der Spitzenwinddruck, qp(z), an der Position der Terrasse ist kleiner als 0,68 kN/m².",
 
   "terrace-material": "Terrassenbelag",
-  "terrace-material-info": "",
+  "terrace-material-info": "Terrassenbelag",
   "concrete-slabs": "Betonplatten",
   "ceramic-tiles": "Fliesen",
   "wooden-planks": "Holzdielen",
   "composite-planks": "Verbundwerkstoff-Dielen",
 
   "terrace-thickness": "Stärke Terrassenbelag",
-  "terrace-thickness-info": "",
+  "terrace-thickness-info": "Stärke Terrassenbelag",
 
   "terrace-grid": "Terrassenraster",
-  "terrace-grid-info": "",
+  "terrace-grid-info": "Terrassenraster",
 
   "free-height": "Höhe der Zirkulationsebene",
-  "free-height-info": "",
+  "free-height-info": "Höhe der Zirkulationsebene",
 
   "handrail-height": "Handlaufhöhe",
-  "handrail-height-info": "",
+  "handrail-height-info": "Handlaufhöhe",
 
   "fill-type": "Art der Füllung",
-  "fill-type-info": "",
+  "fill-type-info": "Art der Füllung",
   "rounded-bars": "Runde Stäbe",
   "squared-bars": "Eckige Stäbe",
   "glass": "Glass",
 
   "fill-style": "Füllungsstyl",
-  "fill-style-info": "",
+  "fill-style-info": "Füllungsstyl",
   "full-height": "Vollflächige Füllung",
   "100mm-void": "Handlauf mit 100 mm Zwischenraum zur Füllung",
 
@@ -79,10 +79,10 @@
   "infront-post": "Vor der Stütze",
 
   "planks-width": "Dielenbreite",
-  "planks-width-info": "",
+  "planks-width-info": "Dielenbreite",
 
   "planks-orientation": "Dielenausrichtung",
-  "planks-orientation-info": "",
+  "planks-orientation-info": "Dielenausrichtung",
   "horizontal": "Waagerecht",
   "vertical": "Senkrecht",
 
