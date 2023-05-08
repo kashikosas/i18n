@@ -3,7 +3,7 @@
   "angle": "Angle",
   "length": "Length",
   "general": "General",
-  "drawing-precision": "Drawing precision",
+  "drawing-precision": "Segment data",
   "invert-faces": "Invert faces",
   "pointer": "Pointer",
   "draw-line": "Draw",
@@ -11,17 +11,17 @@
   "redo": "Redo",
   "reset": "Reset",
   "close": "Close",
-  "wall": "Wall",
-  "datum": "Reference",
+  "wall": "Facade / wall",
+  "datum": "Reference - start point for fitting of terrace decking",
 
   "add-gate": "Add gate",
-  "optimize": "Optimize",
+  "optimize": "Optimise",
   "delete": "Delete",
   "delete-gate": "Delete gate",
   "free-end": "Free end",
   "fixed-end": "Fixed end",
 
-  "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "A terrace is not closed or an endpoint type is not defined.",
-  "no-terrace-drawn": "No terrace drawn!",
-  "an-angle-is-out-of-bound": "An angle is out of bounds."
+  "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "A terrace is not closed or an endpoint type is not defined",
+  "no-terrace-drawn": "No terrace drawn",
+  "an-angle-is-out-of-bound": "An angle is out of bounds"
 }
