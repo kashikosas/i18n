@@ -7,14 +7,14 @@
   "open": "Open",
 
   "guided-tour": "Guided tour",
-  "guided-tour-hint": "Hi there, <br/> <bold>new to this? </bold> <br/> Let me show you around",
+  "guided-tour-hint": "Hi there, <br/> <bold>new to this? </bold> <br/> let me show you around",
 
   "title-tour-start": "Welcome",
-  "tour-start": "Lets get started",
+  "tour-start": "Let's get started",
 
   "title-formular-side-tour-guide": "Form",
-  "formular-side-tour-guide": "This is the form side. <br> Make sure it is correct",
-  "formular-side-tour-guide-candraw": "Your form seems to be filled with no errors, lets continue to the drawer side.",
+  "formular-side-tour-guide": "This is the form side. <br> Make sure it is correctly filled.",
+  "formular-side-tour-guide-candraw": "Your form seems to be filled without errors, let's continue to the drawer side.",
 
   "title-drawer-side-tour-guide": "Drawer",
   "drawer-side-tour-guide": "",
@@ -32,7 +32,7 @@
   "configurator-exports": "",
 
   "title-crisp-chatbox-tour-guide": "Ask us",
-  "crisp-chatbox-tour-guide": "If you need anything else, don't be shy to chat with us!",
+  "crisp-chatbox-tour-guide": "If you need anything, don't be shy, chat with us!",
 
   "title-drawer-action-toggle-group": "Drawer actions",
   "drawer-action-toggle-group": "Drawer actions",
