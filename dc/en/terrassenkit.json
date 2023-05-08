@@ -11,15 +11,15 @@
   "use": "Use",
   "use-info": "",
   "residential": "Residential",
-  "private-areas-within-offices-existing-buildings": "Private areas within offices existing buildings",
-  "private-areas-within-schools-hospitals-carehomes": "Private areas within schools hospitals/carehomes",
+  "private-areas-within-offices-existing-buildings": "Private areas within offices in existing buildings",
+  "private-areas-within-schools-hospitals-carehomes": "Private areas within schools/hospitals/carehomes",
   "private-areas-within-schools-hospitals-carehomes-without-fixed-seating": "Private areas within schools/hospitals/carehomes without fixed seating",
   "offices": "Offices",
 
   "position": "Position",
   "position-info": "",
-  "top-building": "Top building",
-  "side-building": "Side building",
+  "top-building": "Top of the building",
+  "side-building": "Side of the building",
   "escape-route": "Escape route",
   "no-escape-route": "No Escape route",
 
@@ -59,24 +59,24 @@
   "free-height": "Height of circulation",
   "free-height-info": "",
 
-  "handrail-height": "Handrail Height",
+  "handrail-height": "Handrail height",
   "handrail-height-info": "",
 
-  "fill-type": "Fill type",
+  "fill-type": "Filling type",
   "fill-type-info": "",
   "rounded-bars": "Rounded bars",
   "squared-bars": "Squared bars",
   "glass": "Glass",
 
-  "fill-style": "Fill style",
+  "fill-style": "Filling style",
   "fill-style-info": "",
   "full-height": "Full height",
-  "100mm-void": "100mm void",
+  "100mm-void": "100 mm void between handrail and filling module",
 
-  "fill-position": "Fill position",
-  "fill-position-info": "Fill position",
+  "fill-position": "Filling position",
+  "fill-position-info": "Filling position",
   "behind-post": "Behind post",
-  "infront-post": "Infront post",
+  "infront-post": "In front of post",
 
   "planks-width": "Planks width",
   "planks-width-info": "",
@@ -87,12 +87,12 @@
   "vertical": "Vertical",
 
   "color": "Color",
-  "guardrails-color": "Guardrails color",
+  "guardrails-color": "Guardrail color",
 
   "open-input-form": "Open input form",
 
-  "about-to-reset-drawer": "You are about to reset the drawer",
-  "make-sure-form-valid": "Please make sure the form is valid.",
+  "about-to-reset-drawer": "Reset drawer",
+  "make-sure-form-valid": "Please make sure the form is properly filled",
 
   "more-than-max": "More than the max authorised: {{0}}",
   "less-than-min": "Less than the min authorised: {{0}}",
