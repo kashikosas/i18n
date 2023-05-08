@@ -1,5 +1,5 @@
 {
-  "required-param-missing": "A required parameter was missing",
+  "required-param-missing": "A required parameter is missing",
   "invalid-configuration-params": "Invalid configuration",
   "invalid-params": "Invalid parameters",
   "saving-failed": "Saving failed",
@@ -12,7 +12,7 @@
   "builder-saving-failed": "Builder saving failed",
   "deletion-failed": "Deletion failed",
   "deletion-successful": "Deletion successful",
-  "configuration-retrieval-failed": "Configurartion retrieval failed",
+  "configuration-retrieval-failed": "Configuration retrieval failed",
   "configuration-not-found": "Configuration not found",
   "connection-failed": "Connection failed",
   "login-failed": "Login failed",
@@ -20,19 +20,19 @@
   "configuration-successful": "Configuration successful",
   "configuration-failed": "Configuration failed",
 
-  "added-to-cart": "Configuration added to Dani Alu cart",
-  "add-to-cart-failed": "Failed adding to cart",
-  "request-sent-to-da": "Your configuration has been saved and your message has been sent to Dani Alu!",
+  "added-to-cart": "Configuration added to cart",
+  "add-to-cart-failed": "Adding to cart failed",
+  "request-sent-to-da": "Your configuration has been saved and your message has been sent to dani alu",
   "request-failed": "Request failed",
   "nothing-found": "Nothing found",
 
   "access-forbidden": "Access forbidden",
-  "unable-to-add-to-cart-product-not-found": "Unable to add to cart product not found",
-  "invalid-outputs-format": "invalid-outputs-format",
-  "invalid-inputs-format": "invalid-inputs-format",
-  "invalid-bom-format": "invalid-bom-format",
-  "cannot-update-a-cart-product": "cannot-update-a-cart-product",
+  "unable-to-add-to-cart-product-not-found": "Unable to add to cart, product not found",
+  "invalid-outputs-format": "invalid output format",
+  "invalid-inputs-format": "invalid input format",
+  "invalid-bom-format": "invalid BOM format",
+  "cannot-update-a-cart-product": "Cannot update a cart product",
   "form-saved-succesfully": "Form saved succesfully",
-  "id-exists-already": "Id exists already",
-  "invalid-params-for-complex-builder": "Invalid params for complex builder"
+  "id-exists-already": "ID already exists",
+  "invalid-params-for-complex-builder": "Invalid parameters for complex builder"
 }
