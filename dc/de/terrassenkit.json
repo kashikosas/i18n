@@ -41,7 +41,7 @@
   "case-E-helper": "Die Terrasse befindet sich auf einem Balkon weniger als 16 m über dem Boden in der Windzone qp(0)=0,9 kN/m², Geländekategorie III ODER weniger als 35 m über dem Boden in der Windzone qp(0)=0,9 kN/m², Geländekategorie IV ODER weniger als 6 m über dem Boden in der Windzone qp(0)=1, 1 kN/m², Geländekategorie III ODER weniger als 20 m über dem Boden in der Windzone qp(0)=1,1 kN/m², Geländekategorie IV ODER der Spitzenwinddruck, qp(z), an der Position der Terrasse ist kleiner als 1 kN/m².",
   "case-F-helper": "Die Terrasse befindet sich weniger als 15 m über dem Boden in der Geländekategorie III ODER weniger als 30 m über dem Boden in der Geländekategorie IV ODER der Spitzenwinddruck qp(z) an der Stelle der Terrasse ist kleiner als 0,94 kN/m².",
   "case-G-helper": "Die Terrasse befindet sich weniger als 21 m über dem Boden in Windzone 1, 2 oder 3, Geländekategorie IIIb oder IV ODER der Spitzenwinddruck, qp(z), an der Stelle der Terrasse ist kleiner als 0,79kN/m².",
-  "case-H-helper": "Die Terrasse befindet sich weniger als 10 m über dem Boden in einem Gebiet mit Vb,map≤23 m/s, Geländekategorie "Stadt", 30 km von der Küste entfernt und >3 km innerhalb der Stadt ODER der Spitzenwinddruck, qp(z), an der Position der Terrasse ist kleiner als 0,68 kN/m².",
+  "case-H-helper": "Die Terrasse befindet sich weniger als 10 m über dem Boden in einem Gebiet mit Vb,map≤23 m/s, Geländekategorie \"Stadt\", 30 km von der Küste entfernt und >3 km innerhalb der Stadt ODER der Spitzenwinddruck, qp(z), an der Position der Terrasse ist kleiner als 0,68 kN/m².",
 
   "terrace-material": "Terrassenbelag",
   "terrace-material-info": "",
