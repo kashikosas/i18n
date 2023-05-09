@@ -32,7 +32,7 @@
   "configuration-builders": "Configuration builders",
   "form-validation-failed": "Form validation failed",
   "form-saved-successfully": "Form saved successfully",
-  "editting-builder": "Editing - {{builderLabel}}",
+  "editting-builder": "Editing builder - {{builderLabel}}",
   "configurating-with": "Configurating with: {{builderLabel}}",
   "new-builder": "New builder",
 
