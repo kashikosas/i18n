@@ -1,51 +1,52 @@
 {
-  "back": "Back",
-  "next": "Next",
-  "skip": "Skip",
-  "close": "Close",
-  "last": "Last",
-  "open": "Open",
+  "back": "Zurück",
+  "next": "Weiter",
+  "skip": "Überspringen",
+  "close": "Schließen",
+  "last": "Zum Ende",
+  "open": "Öffnen",
   
-  "guided-tour": "Guided tour",
-  "guided-tour-hint": "Hi there, <br/> <bold>new to this? </bold> <br/> Let me show you around",
+  "guided-tour": "Geführter Rundgang",
+  "guided-tour-hint": "Hallo, <br/> <bold>new to this? </bold> <br/> wir stellen Ihnen die Hauptfunktionen kurz vor",
 
-  "title-tour-start": "Welcome",
-  "tour-start": "Lets get started",
+  "title-tour-start": "Willkommen",
+  "tour-start": "Fangen wir an",
 
-  "title-formular-side-tour-guide": "Form",
-  "formular-side-tour-guide": "This is the form side. <br> Make sure it is correct",
-  "formular-side-tour-guide-candraw": "Your form seems to be filled with no errors, lets continue to the drawer side.",
+  "title-formular-side-tour-guide": "Formular",
+  "formular-side-tour-guide": "Das ist die Formularseite. <br> Bitte sämtliche Felder ausfüllen",
+  "formular-side-tour-guide-candraw": "Ihr Formular scheint fehlerfrei ausgefüllt zu sein, fahren wir mit der Zeichenseite fort.",
 
-  "title-drawer-side-tour-guide": "Drawer",
-  "drawer-side-tour-guide": "Drawer",
 
-  "title-cannot-draw-panel": "Please fill the form",
-  "cannot-draw-panel": "Please fill the form",
+  "title-drawer-side-tour-guide": "Zeichner",
+  "drawer-side-tour-guide": "Zeichner",
 
-  "title-configurator-compute": "Compute",
-  "configurator-compute": "Compute",
+  "title-cannot-draw-panel": "Bitte füllen Sie das Formular aus",
+  "cannot-draw-panel": "Bitte füllen Sie das Formular aus",
 
-  "title-configurator-drawer-2D-3D-switch": "Switch",
-  "configurator-drawer-2D-3D-switch": "Switch",
+  "title-configurator-compute": "Berechnen",
+  "configurator-compute": "Berechnen",
 
-  "title-configurator-exports": "Data export",
-  "configurator-exports": "Data export",
+  "title-configurator-drawer-2D-3D-switch": "Schalter zwischen Zeichner - 2D Ansicht - 3D Ansicht",
+  "configurator-drawer-2D-3D-switch": "Schalter zwischen Zeichner - 2D Ansicht - 3D Ansicht",
 
-  "title-crisp-chatbox-tour-guide": "Ask us",
-  "crisp-chatbox-tour-guide": "If you need anything else, don't be shy to chat with us!",
+  "title-configurator-exports": "Downloads",
+  "configurator-exports": "Downloads",
 
-  "title-drawer-action-toggle-group": "Drawer actions",
-  "drawer-action-toggle-group": "Drawer actions",
+  "title-crisp-chatbox-tour-guide": "Fragen Sie uns",
+  "crisp-chatbox-tour-guide": "Melden Sie sich, wir helfen gerne",
 
-  "title-drawer-action-select": "Select action",
-  "drawer-action-select": "Once active, you can move around the drawer or zoom in/out.",
+  "title-drawer-action-toggle-group": "Zeichner Funktionen",
+  "drawer-action-toggle-group": "Zeichner Funktionen",
 
-  "title-drawer-action-line": "Drawing action",
-  "drawer-action-line": "If selected, you will be able to draw your line segments, update the endpoints, etc.",
+  "title-drawer-action-select": "Funktion auswählen",
+  "drawer-action-select": "Sobald aktiviert, können Sie sich in der Zeichenseite bewegen, oder ein- und auszoomen..",
 
-  "title-drawer-action-undo-redo-reset": "More actions",
-  "drawer-action-line-undo-redo-reset": "More actions",
+  "title-drawer-action-line": "Linie Zeichnen",
+  "drawer-action-line": "Wenn Sie diese Option auswählen, können Sie Liniensegmente zeichnen, Winkel definieren, usw.",
 
-  "title-drawer-settings": "Drawer settings",
-  "drawer-settings": "Drawer settings"
+  "title-drawer-action-undo-redo-reset": "Mehr Funktionen",
+  "drawer-action-line-undo-redo-reset": "Mehr Funktionen",
+
+  "title-drawer-settings": "Zeichenparameter",
+  "drawer-settings": "Zeichenparameter"
 }
