@@ -53,8 +53,8 @@
   "terrace-thickness": "Stärke Terrassenbelag",
   "terrace-thickness-info": "Stärke Terrassenbelag",
 
-  "terrace-grid": "Terrassenraster",
-  "terrace-grid-info": "Terrassenraster",
+  "terrace-grid": "Achsmaß der Profile der Unterkonstruktion",
+  "terrace-grid-info": "Achsmaß der Profile der Unterkonstruktion",
 
   "free-height": "Höhe der Zirkulationsebene",
   "free-height-info": "Höhe der Zirkulationsebene",
