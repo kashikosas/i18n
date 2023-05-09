@@ -48,10 +48,10 @@
   "concrete-slabs": "Betonplatten",
   "ceramic-tiles": "Fliesen",
   "wooden-planks": "Holzdielen",
-  "composite-planks": "Verbundwerkstoff-Dielen",
+  "composite-planks": "Verbundwerkstoff-Dielen"
 
-  "terrace-thickness": "Stärke Material Terrassenbelag",
-  "terrace-thickness-info": "Stärke Material Terrassenbelag",
+  "terrace-thickness": "Stärke Terrassenbelag",
+  "terrace-thickness-info": "Stärke Terrassenbelag",
 
   "terrace-grid": "Terrassenraster",
   "terrace-grid-info": "Terrassenraster",
