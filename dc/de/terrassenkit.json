@@ -1,7 +1,7 @@
 {
   "terrassenkit": "Terrassenkit",
   "country": "Land",
-  "country-info": "",
+  "country-info": "Land",
   "france": "France",
   "austria": "Österreich",
   "germany": "Deustchland",
@@ -48,7 +48,7 @@
   "concrete-slabs": "Betonplatten",
   "ceramic-tiles": "Fliesen",
   "wooden-planks": "Holzdielen",
-  "composite-planks": "Verbundwerkstoff-Dielen",
+  "composite-planks": "Verbundwerkstoff-Dielen"
 
   "terrace-thickness": "Stärke Terrassenbelag",
   "terrace-thickness-info": "Stärke Terrassenbelag",
