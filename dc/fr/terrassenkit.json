@@ -47,23 +47,23 @@
   "terrace-material-info": "",
   "concrete-slabs": "Dallettes béton",
   "ceramic-tiles": "Dalles céramique, carrelage",
-  "wooden-planks": "Planche en bois",
-  "composite-planks": "Planche composite",
+  "wooden-planks": "Plancher en bois",
+  "composite-planks": "Plancher composite",
 
   "terrace-grid": "Trame de la terrasse",
-  "terrace-grid-info": "",
+  "terrace-grid-info": "Trame de la terrasse",
 
   "terrace-thickness": "Epaisseur du revêtement de terrasse",
-  "terrace-thickness-info": "",
+  "terrace-thickness-info": "Epaisseur du revêtement de terrasse",
 
-  "free-height": "Hauteur de circulation",
-  "free-height-info": "",
+  "free-height": "Hauteur niveau de circulation / base des plots",
+  "free-height-info": "Hauteur niveau de circulation / base des plots",
 
   "handrail-height": "Hauteur main courante",
-  "handrail-height-info": "",
+  "handrail-height-info": "Hauteur main courante",
 
   "fill-type": "Type de remplissage",
-  "fill-type-info": "",
+  "fill-type-info": "Type de remplissage",
   "rounded-bars": "Barreaux ronds",
   "squared-bars": "Barreaux rectangulaires",
   "glass": "Vitrage",
