@@ -13,23 +13,23 @@
   "tour-start": "Let's get started",
 
   "title-formular-side-tour-guide": "Form",
-  "formular-side-tour-guide": "This is the form side. <br> Make sure it is correctly filled.",
+  "formular-side-tour-guide": "This is the form side. <br> Make sure it is correctly filled. Hoover over the (i) symbol for more information.",
   "formular-side-tour-guide-candraw": "Your form seems to be filled without errors, let's continue to the drawer side.",
 
   "title-drawer-side-tour-guide": "Drawer",
-  "drawer-side-tour-guide": "",
+  "drawer-side-tour-guide": "This is the drawer side. <br>It is where you draw your terrace, the tour continues with an explantation of the drawing tools.",
 
-  "title-cannot-draw-panel": "",
-  "cannot-draw-panel": "Please fill the form",
+  "title-cannot-draw-panel": "Please fill the form",
+  "cannot-draw-panel": "Once all the sections of the form are complete you will be able to draw your terrace.",
 
-  "title-configurator-compute": "",
-  "configurator-compute": "",
+  "title-configurator-compute": "Compute",
+  "configurator-compute": "Once your terrace is complete, click this button to configure the product.",
 
-  "title-configurator-drawer-2D-3D-switch": "",
-  "configurator-drawer-2D-3D-switch": "",
+  "title-configurator-drawer-2D-3D-switch": "View options",
+  "configurator-drawer-2D-3D-switch": "Use these options to select between the drawing view, the 2D installation plan view and (soon) a 3D view.",
 
-  "title-configurator-exports": "",
-  "configurator-exports": "",
+  "title-configurator-exports": "Documents",
+  "configurator-exports": "Click this to download installation plan of the terrace.",
 
   "title-crisp-chatbox-tour-guide": "Ask us",
   "crisp-chatbox-tour-guide": "If you need anything, don't be shy, chat with us!",
@@ -41,11 +41,11 @@
   "drawer-action-select": "Once active, you can move around the drawer or zoom in/out.",
 
   "title-drawer-action-line": "Drawing action",
-  "drawer-action-line": "If selected, you will be able to draw your line segments, update the endpoints, etc.",
+  "drawer-action-line": "If selected, you will be able to draw your line segments, modify the lengths and the angles etc.",
 
-  "title-drawer-action-undo-redo-reset": "More actions",
-  "drawer-action-line-undo-redo-reset": "",
+  "title-drawer-action-undo-redo-reset": "More tools",
+  "drawer-action-line-undo-redo-reset": "Use these tools to undo, redo or clear the drawer to start again.",
 
-  "title-drawer-settings": "Drawer settings",
-  "drawer-settings": "Drawer settings"
+  "title-drawer-settings": "Modification tools",
+  "drawer-settings": "Use this box to update the length and angle of the selected line. <br> When you have only one line left to draw, use the <italic>'Close'</italic> button to automatically draw this line.<br>To choose a line that does not have guardrails, right click on the line and select <italic>'Facade / Wall'</italic>.<br> To select the datum point for the terrace finish, right click on the line and select <italic>'Datum'</italic>."
 }
