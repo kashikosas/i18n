@@ -47,5 +47,5 @@
   "drawer-action-line-undo-redo-reset": "Utilisez ces outils pour défaire, refaire ou vider le tiroir pour recommencer.",
 
   "title-drawer-settings": "Outils de modifications",
-  "drawer-settings": "Utilisez ces outils pour mettre à jour la longueur et l'angle de la ligne sélectionnée. <br> Lorsqu'il ne vous reste plus qu'une ligne à tracer, utilisez le bouton <italic>'Fermer'</italic> pour tracer automatiquement cette ligne.<br>Pour choisir une ligne qui n'a pas de garde-corps, faites un clic droit sur la ligne et sélectionnez <italic>'Façade / Mur'</italic>.<br> Pour sélectionner le point de référence pour le materiau deterrasse, faites un clic droit sur la ligne et sélectionnez <italic>'Point de référence'</italic>.""
+  "drawer-settings": "Utilisez ces outils pour mettre à jour la longueur et l'angle de la ligne sélectionnée. <br> Lorsqu'il ne vous reste plus qu'une ligne à tracer, utilisez le bouton <italic>'Fermer'</italic> pour tracer automatiquement cette ligne.<br>Pour choisir une ligne qui n'a pas de garde-corps, faites un clic droit sur la ligne et sélectionnez <italic>'Façade / Mur'</italic>.<br> Pour sélectionner le point de référence pour le materiau deterrasse, faites un clic droit sur la ligne et sélectionnez <italic>'Point de référence'</italic>."
 }
