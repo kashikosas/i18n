@@ -44,32 +44,32 @@
   "case-H-helper": "The terrace is positioned less than 10 m above ground level in an area where Vb,map≤23 m/s, terrain category 'Town', 30 km from the coast and >3 km inside the town OR the peak wind pressure, qp(z), at the position of the terrace is less than 0,68 kN/m².",
 
   "terrace-material": "Terrace material",
-  "terrace-material-info": "",
+  "terrace-material-info": "Terrace material",
   "concrete-slabs": "Concrete slabs",
   "ceramic-tiles": "Ceramic tiles",
   "wooden-planks": "Wooden planks",
   "composite-planks": "Composite planks",
 
   "terrace-thickness": "Terrace thickness",
-  "terrace-thickness-info": "",
+  "terrace-thickness-info": "Terrace thickness",
 
-  "terrace-grid": "Terrace grid",
-  "terrace-grid-info": "",
+  "terrace-grid": "Centres of profiles supporting the walking surface",
+  "terrace-grid-info": "Centres of profiles supporting the walking surface",
 
-  "free-height": "Height of circulation",
-  "free-height-info": "",
+  "free-height": "Height of walking surface / basis of pedestals",
+  "free-height-info": "Height of walking surface / basis of pedestals",
 
   "handrail-height": "Handrail height",
-  "handrail-height-info": "",
+  "handrail-height-info": "Handrail height",
 
   "fill-type": "Filling type",
-  "fill-type-info": "",
+  "fill-type-info": "Filling type",
   "rounded-bars": "Rounded bars",
   "squared-bars": "Squared bars",
   "glass": "Glass",
 
   "fill-style": "Filling style",
-  "fill-style-info": "",
+  "fill-style-info": "Filling style",
   "full-height": "Full height",
   "100mm-void": "100 mm void between handrail and filling module",
 
@@ -82,7 +82,7 @@
   "planks-width-info": "",
 
   "planks-orientation": "Planks orientation",
-  "planks-orientation-info": "",
+  "planks-orientation-info": "Planks orientation",
   "horizontal": "Horizontal",
   "vertical": "Vertical",
 
