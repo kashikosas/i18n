@@ -23,9 +23,9 @@
   "escape-route": "Zone ou chemin d'évacuation incendie",
   "no-escape-route": "Hors zone d'évacuation incendie",
 
-  "std-use": "Cas d'utilisation",
-  "std-use-info": "",
-  "non-applicable": "Sans objet",
+  "std-use": "Cas d'utilisation standard",
+  "std-use-info": "Sélectionnez le <italic>cas d'utilisation standard</italic> applicable, ou <italic>'Aucun applicable'</italic> si cette utilisation n'est conforme à aucun <italic>cas d'utilisation standard</italic>.",
+  "non-applicable": "Aucun applicable",
   "case-A": "Cas A",
   "case-B": "Cas B",
   "case-C": "Cas C",
@@ -50,20 +50,20 @@
   "wooden-planks": "Plancher en bois",
   "composite-planks": "Plancher composite",
 
-  "terrace-grid": "Entraxe des profilés support de plancher",
-  "terrace-grid-info": "Entraxe des profilés support de plancher",
+  "terrace-grid": "Dimension des dalles / Entraxes des poutres",
+  "terrace-grid-info": "Pour les dalles de béton ou les carreaux de céramique, choisissez la dimension de la dalle/carreau. Pour les planches de bois ou de composite, choisissez les entraxes des poutres spécifiés par le fabricant.",
 
   "terrace-thickness": "Epaisseur du revêtement de terrasse",
-  "terrace-thickness-info": "Epaisseur du revêtement de terrasse",
+  "terrace-thickness-info": "",
 
-  "free-height": "Hauteur niveau de circulation / base des plots",
-  "free-height-info": "Hauteur niveau de circulation / base des plots",
+  "free-height": "Hauteur niveau de circulation",
+  "free-height-info": "Saisir la hauteur totale de la terrasse, de la surface sur laquelle les plots reposeront jusqu'au dessus de la finition de la terrasse.",
 
   "handrail-height": "Hauteur main courante",
-  "handrail-height-info": "Hauteur main courante",
+  "handrail-height-info": "",
 
   "fill-type": "Type de remplissage",
-  "fill-type-info": "Type de remplissage",
+  "fill-type-info": "",
   "rounded-bars": "Barreaux ronds",
   "squared-bars": "Barreaux rectangulaires",
   "glass": "Vitrage",
@@ -74,20 +74,20 @@
   "100mm-void": "Vide sous main courante de 100 mm",
 
   "fill-position": "Positionnement des modules de remplissage",
-  "fill-position-info": "Positionnement modules",
-  "behind-post": "A l'intérieur des montants",
-  "infront-post": "A l'extérieur des montants",
+  "fill-position-info": "Choisissez si les panneaux de remplissage doivent être vers l'extérieur de la terrasse ou vers l'intérieur par rapport aux montants.",
+  "behind-post": "A l'intérieur des terrasse",
+  "infront-post": "A l'extérieur des terrasse",
 
-  "planks-width": "Largeur planche",
-  "planks-width-info": "",
+  "planks-width": "Largeur planche et son espaceur",
+  "planks-width-info": "Saisir la largeur combinée d'une planche et d'un espaceur.",
 
   "planks-orientation": "Orientation planches",
-  "planks-orientation-info": "",
+  "planks-orientation-info": "Saisir l'orientation des planches par rapport au point de référence.",
   "horizontal": "Horizontale",
   "vertical": "Verticale",
 
-  "color": "Teinte RAL",
-  "guardrails-color": "Couleur du garde-corps",
+  "color": "Couleur",
+  "color-info": "Choisissez la couleur des garde-corps (montants, main courante, remplissages).",
 
   "open-input-form": "Ouvrir le formulaire",
 
