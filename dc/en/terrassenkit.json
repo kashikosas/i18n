@@ -1,5 +1,5 @@
 {
-  "terrassenkit": "Terrassenkit",
+  "terrassenkit": "Panorama Terrassenkit",
   "country": "Country",
   "country-info": "",
   "france": "France",
@@ -21,10 +21,10 @@
   "top-building": "Top of the building",
   "side-building": "Side of the building",
   "escape-route": "On escape route",
-  "no-escape-route": "No Escape route",
+  "no-escape-route": "Not on escape route",
 
   "std-use": "Standard use",
-  "std-use-info": "",
+  "std-use-info": "Select the applicable <italic>Standard Use Case</italic>, or <italic>'None Applicable'</italic> if this use does not comply with any <italic>Standard Use Case</italic>.",
   "non-applicable": "None applicable",
   "case-A": "Case A",
   "case-B": "Case B",
@@ -44,7 +44,7 @@
   "case-H-helper": "The terrace is positioned less than 10 m above ground level in an area where Vb,map≤23 m/s, terrain category 'Town', 30 km from the coast and >3 km inside the town OR the peak wind pressure, qp(z), at the position of the terrace is less than 0,68 kN/m².",
 
   "terrace-material": "Terrace material",
-  "terrace-material-info": "Terrace material",
+  "terrace-material-info": "",
   "concrete-slabs": "Concrete slabs",
   "ceramic-tiles": "Ceramic tiles",
   "wooden-planks": "Wooden planks",
@@ -54,40 +54,40 @@
   "terrace-thickness-info": "Terrace thickness",
 
   "terrace-grid": "Centres of profiles supporting the walking surface",
-  "terrace-grid-info": "Centres of profiles supporting the walking surface",
+  "terrace-grid-info": "For concrete slabs or ceramic tiles, choose the dimension of the slabn/tile. For wooden or composite planks, choose the joist centres specified by the manufacturer.",
 
-  "free-height": "Height of walking surface / basis of pedestals",
-  "free-height-info": "Height of walking surface / basis of pedestals",
+  "free-height": "Circulation height",
+  "free-height-info": "Enter the overall height of the terrace, from the surface the pedestals will sit on to the top of the terrace finish.",
 
   "handrail-height": "Handrail height",
-  "handrail-height-info": "Handrail height",
+  "handrail-height-info": "",
 
-  "fill-type": "Filling type",
-  "fill-type-info": "Filling type",
+  "fill-type": "Infill type",
+  "fill-type-info": "",
   "rounded-bars": "Rounded bars",
   "squared-bars": "Squared bars",
   "glass": "Glass",
 
-  "fill-style": "Filling style",
-  "fill-style-info": "Filling style",
+  "fill-style": "Infill style",
+  "fill-style-info": "",
   "full-height": "Full height",
-  "100mm-void": "100 mm void between handrail and filling module",
+  "100mm-void": "100 mm void between handrail and infill",
 
-  "fill-position": "Filling position",
-  "fill-position-info": "Filling position",
-  "behind-post": "Behind post",
-  "infront-post": "In front of post",
+  "fill-position": "Infill position",
+  "fill-position-info": "Choose whether the infill panels should be towards the exterior of the terrace or the interior in relation to the posts.",
+  "behind-post": "Interior of terrace",
+  "infront-post": "Exterior of terrace",
 
-  "planks-width": "Planks width",
-  "planks-width-info": "",
+  "planks-width": "Plank and spacer width",
+  "planks-width-info": "Enter the combined width of one plank and one spacer.",
 
   "planks-orientation": "Planks orientation",
-  "planks-orientation-info": "Planks orientation",
+  "planks-orientation-info": "Enter the orientation of the planks in relation to the datum.",
   "horizontal": "Horizontal",
   "vertical": "Vertical",
 
-  "color": "Color",
-  "guardrails-color": "Guardrail color",
+  "color": "Colour",
+  "guardrails-color": "Choose the colour of the guardrails (posts, handrail, infills)",
 
   "open-input-form": "Open input form",
 
