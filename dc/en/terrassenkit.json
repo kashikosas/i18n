@@ -51,10 +51,10 @@
   "composite-planks": "Composite planks",
 
   "terrace-thickness": "Terrace thickness",
-  "terrace-thickness-info": "Terrace thickness",
+  "terrace-thickness-info": "",
 
-  "terrace-grid": "Centres of profiles supporting the walking surface",
-  "terrace-grid-info": "For concrete slabs or ceramic tiles, choose the dimension of the slabn/tile. For wooden or composite planks, choose the joist centres specified by the manufacturer.",
+  "terrace-grid": "Dimensions of the slabs/joist centres",
+  "terrace-grid-info": "For concrete slabs or ceramic tiles, choose the dimension of the slab/tile. For wooden or composite planks, choose the joist centres specified by the manufacturer.",
 
   "free-height": "Circulation height",
   "free-height-info": "Enter the overall height of the terrace, from the surface the pedestals will sit on to the top of the terrace finish.",
@@ -87,7 +87,7 @@
   "vertical": "Vertical",
 
   "color": "Colour",
-  "guardrails-color": "Choose the colour of the guardrails (posts, handrail, infills)",
+  "color-info": "Choose the colour of the guardrails (posts, handrail, infills).",
 
   "open-input-form": "Open input form",
 
