@@ -82,7 +82,7 @@
   "planks-width-info": "Saisir la largeur combinée d'une planche et d'un espaceur.",
 
   "planks-orientation": "Orientation planches",
-  "planks-orientation-info": "Saisir l'angle entre les planches et la ligne référence. La ligne de référence est choisie sur le dessinateur.",
+  "planks-orientation-info": "Saisir l'angle entre les planches et la ligne référence. La ligne de référence est choisie sur le dessinateur.<br> Angle compris entre -180° et 180°.",
   "horizontal": "Horizontale",
   "vertical": "Verticale",
 
