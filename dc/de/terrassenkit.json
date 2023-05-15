@@ -93,6 +93,8 @@
 
   "about-to-reset-drawer": "Zeichnung zurücksetzen",
   "make-sure-form-valid": "Formulareingaben überprüfen",
+  "out-of-bounds": "Wert außerhalb der Grenzen: [{{0}}, {{1}}]",
+  "valid-number-interval": "Der Wert muss zwischen {{0}} und {{1}} liegen.",
 
   "more-than-max": "Über dem zulässigen Höchstwert: {{0}}",
   "less-than-min": "Unter dem zulässigen Mindestwert: {{0}}",
