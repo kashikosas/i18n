@@ -44,5 +44,5 @@
   "drawer-action-line-undo-redo-reset": "Utilisez ces outils pour annuler une action ou la refaire. Vous pouvez également supprimer le contenu du dessinateur pour recommencer.",
 
   "title-drawer-settings": "Outils de modifications",
-  "drawer-settings": "Utilisez ces outils pour mettre à jour la longueur et l'angle de la ligne sélectionnée.  <br><br> Les triangles rouges sur les lignes pointent vers l'intérieur de la terrasse, vous pouvez changé cette orientation. <br> <br> Lorsqu'il ne vous reste plus qu'une ligne à tracer, utilisez le bouton <italic>'Fermer'</italic> pour tracer automatiquement cette ligne et fermer la terrasse. "
+  "drawer-settings": "Utilisez ces outils pour mettre à jour la longueur et l'angle de la ligne sélectionnée.  <br><br> Les triangles rouges sur les lignes pointent vers l'intérieur de la terrasse, vous pouvez changé cette orientation en utilisant <italic>Inverser faces</italic>. <br> <br> Lorsqu'il ne vous reste plus qu'une ligne à tracer, utilisez le bouton <italic>'Fermer'</italic> pour tracer automatiquement cette ligne et fermer la terrasse. "
 }
