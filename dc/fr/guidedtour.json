@@ -7,45 +7,42 @@
   "open": "Ouvrir",
 
   "guided-tour": "Visite guidée",
-  "guided-tour-hint": "Bonjour, <br/> <bold>besoin d'aide? </bold> <br/> Suivez le guide!",
+  "guided-tour-hint": "Coucou, <br/> <bold>besoin d'aide? </bold> <br/> Suivez le guide!",
 
-  "title-tour-start": "Bienvenue",
-  "tour-start": "Démarrer la visite",
+  "title-tour-start": "Bienvenue sur ce guide d'utilisation",
+  "tour-start": "Il vous permettra de vous familiariser avec les différentes fonctionnalités d'application.<br> <br> <bold><italic>Note : Vous pouvez cliquer sur Passer pour quitter le tour et reprendre de là où vous avez laissé.</italic></bold>",
 
   "title-formular-side-tour-guide": "Formulaire",
-  "formular-side-tour-guide": "Ceci est le formulaire à remplir avant de pouvoir dessiner. <br> Renseignez chaque champ.",
-  "formular-side-tour-guide-candraw": "Le formulaire est rempli, passons au dessin",
+  "formular-side-tour-guide": "Le formulaire est la première étape de configuration.<br> Il permet de collecter des informations sur l'environement d'accueil et vos besoins. <br> <br> <italic> Les champs en * sont obligatoires.</italic> ",
+  "formular-side-tour-guide-candraw": "Le formulaire est rempli. On peut passer sur le dessinateur.",
 
   "title-drawer-side-tour-guide": "Dessinateur",
-  "drawer-side-tour-guide": "Ceci est la zone de dessin. <br>C'est là que vous dessinez votre terrasse, la visite se poursuit par une explication des outils de dessin.",
+  "drawer-side-tour-guide": "Ceci est la zone de dessin. <br><br> Elle permet dessiner un ou plusieurs terrasse(s). <br> <br> La visite se poursuit par une explication des outils de dessin.",
 
   "title-cannot-draw-panel": "Renseigner le formulaire pour pouvoir dessiner",
-  "cannot-draw-panel": "Une fois toutes les sections du formulaire remplies, vous pourrez dessiner votre terrasse.",
+  "cannot-draw-panel": "Une fois tous les champs du formulaire remplis, vous pourrez dessiner votre terrasse. <br><br> <italic> Merci de re-ouvrir le guide pour avoir un tour sur le dessinateur.</italic>",
 
   "title-configurator-compute": "Calculer",
-  "configurator-compute": "Une fois votre terrasse est bien dessinée, cliquez sur ce bouton pour configurer le produit.",
+  "configurator-compute": "Une fois votre terrasse dessinée, cliquez sur ce bouton pour lancer la configuration.",
 
   "title-configurator-drawer-2D-3D-switch": "Options d'affichage",
-  "configurator-drawer-2D-3D-switch": "Utilisez ces options pour choisir entre la vue en plan, la vue en plan de l'installation 2D et (bientôt) une vue 3D.",
+  "configurator-drawer-2D-3D-switch": "Une fois la configuration réussie, uutilisez ces options pour voir la vue en plan de l'installation 2D et (bientôt) une vue 3D.",
 
   "title-configurator-exports": "Documents",
-  "configurator-exports": "Cliquez ici pour télécharger le plan d'installation de la terrasse.",
+  "configurator-exports": "Ce bouton vous permet de télécharger le plan d'installation de la terrasse, la nomenclature, etc..",
 
   "title-crisp-chatbox-tour-guide": "Aide",
   "crisp-chatbox-tour-guide": "Besoin d'aide? Nous sommes à votre écoute.",
 
-  "title-drawer-action-toggle-group": "Dessinateur",
-  "drawer-action-toggle-group": "Dessinateur",
-
-  "title-drawer-action-select": "Sélectionner outil",
-  "drawer-action-select": "Cliquez pour vous déplacer dans le dessin ou zoomer",
+  "title-drawer-action-select": "Outil de sélection",
+  "drawer-action-select": "Utilisez ce outil pour <br><br>vous déplacer dans le dessin (avec le click gauche enfoncé) <br> ou zoomer (avec la mollette).",
 
   "title-drawer-action-line": "Dessin",
-  "drawer-action-line": "Si sélectionné, vous pourrez dessiner vos segments de ligne, modifier les longueurs et les angles, etc.",
+  "drawer-action-line": "Utilisez ce outil pour dessiner vos segments de ligne, modifier les longueurs et les angles, etc. <br><br> <italic>Pour tracer une ligne</italic>:  <br>  (1) cliquer sur le dessinateur,<br> (2) déplacer la souris pour recliquer sur un autre endroit. <br> <br> Après le tracé d'une ligne, l'outil vous proposera d'enchainer avec une autre ligne. Taper sur le bouton <italic>\"Echap.\"</italic> pour annuler. <br><br> Enfin, un clic droit sur une ligne vous permettra de lui affecter une propriété.",
 
-  "title-drawer-action-undo-redo-reset": "Plus des outils",
-  "drawer-action-line-undo-redo-reset": "Utilisez ces outils pour défaire, refaire ou vider le tiroir pour recommencer.",
+  "title-drawer-action-undo-redo-reset": "Autre outils",
+  "drawer-action-line-undo-redo-reset": "Utilisez ces outils pour annuler une action ou la refaire. Vous pouvez également supprimer le contenu du dessinateur pour recommencer.",
 
   "title-drawer-settings": "Outils de modifications",
-  "drawer-settings": "Utilisez ces outils pour mettre à jour la longueur et l'angle de la ligne sélectionnée. <br> Lorsqu'il ne vous reste plus qu'une ligne à tracer, utilisez le bouton <italic>'Fermer'</italic> pour tracer automatiquement cette ligne.<br>Pour choisir une ligne qui n'a pas de garde-corps, faites un clic droit sur la ligne et sélectionnez <italic>'Façade / Mur'</italic>.<br> Pour sélectionner le point de référence pour le materiau deterrasse, faites un clic droit sur la ligne et sélectionnez <italic>'Point de référence'</italic>."
+  "drawer-settings": "Utilisez ces outils pour mettre à jour la longueur et l'angle de la ligne sélectionnée.  <br><br> Les triangles rouges sur les lignes pointent vers l'intérieur de la terrasse, vous pouvez changé cette orientation. <br> <br> Lorsqu'il ne vous reste plus qu'une ligne à tracer, utilisez le bouton <italic>'Fermer'</italic> pour tracer automatiquement cette ligne et fermer la terrasse. "
 }

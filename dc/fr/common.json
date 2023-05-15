@@ -27,7 +27,7 @@
 
   "forms": "Formulaires",
   "customs": "Avancés",
-  "search": "Recherche",
+  "search": "Rechercher",
   "loading...": "Chargement...",
   "password": "Mot de passe",
   "username": "Nom d'utilisateur",
@@ -102,6 +102,8 @@
   "list-colisage": "Liste de colisage",
   "fabrication-order": "Ordre de fabrication",
   "cutting-list": "Fiche de débit",
+  "cutting-paint-list": "Fiche de débit - Laquage",
+  "bar-drilling-list": "Fiche de débit - Bar",
   "glass-list": "Nomenclature des vitrages",
 
   "copyright-dessin-document": "Système breveté. Ce dessin est la propriété exclusive de la société dani alu. Reproduction ou utilisation sans le consentement de la société dani alu interdits.",
