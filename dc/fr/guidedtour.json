@@ -13,14 +13,14 @@
   "tour-start": "Il vous permettra de vous familiariser avec les différentes fonctionnalités d'application.<br> <br> <bold><italic>Note : Vous pouvez cliquer sur Passer pour quitter le tour et reprendre de là où vous avez laissé.</italic></bold>",
 
   "title-formular-side-tour-guide": "Formulaire",
-  "formular-side-tour-guide": "Le formulaire est la première étape de configuration.<br> Il permet de collecter des informations sur l'environement d'accueil et vos besoins. <br> <br> <italic> Les champs en * sont obligatoires.</italic> ",
+  "formular-side-tour-guide": "Le formulaire est la première étape de configuration.<br> Il permet de collecter des informations sur l'environnement d'accueil du système et vos besoins. <br> <br> <italic> Les champs en * sont obligatoires.</italic> ",
   "formular-side-tour-guide-candraw": "Le formulaire est rempli. On peut passer sur le dessinateur.",
 
   "title-drawer-side-tour-guide": "Dessinateur",
   "drawer-side-tour-guide": "Cette zone de dessin vous permettra de dessiner un ou plusieurs terrasse(s), lancer vos calculs de configuration, visualiser les résultats, etc. <br> <br> La visite se poursuit par une explication des outils de dessin.",
 
   "title-cannot-draw-panel": "Renseigner le formulaire pour pouvoir dessiner",
-  "cannot-draw-panel": "Une fois tous les champs du formulaire remplis, vous pourrez dessiner votre terrasse. <br><br> <italic> Merci de re-ouvrir le guide pour avoir un tour sur le dessinateur.</italic>",
+  "cannot-draw-panel": "Une fois tous les champs du formulaire renseignés, vous aurez accès au dessinateur de terrasse(s). <br><br> <italic> Merci de re-ouvrir le guide pour avoir un tour sur le dessinateur.</italic>",
 
   "title-configurator-compute": "Calculer",
   "configurator-compute": "Une fois votre terrasse dessinée, utilisez ce bouton pour lancer la configuration.",
@@ -35,7 +35,7 @@
   "crisp-chatbox-tour-guide": "Besoin d'aide? Nous sommes à votre écoute.",
 
   "title-drawer-action-select": "Outil de sélection",
-  "drawer-action-select": "Utilisez ce outil pour <br><br>vous déplacer dans le dessin (avec le click gauche enfoncé) <br> ou zoomer (avec la mollette).",
+  "drawer-action-select": "Utilisez ce outil pour <br><br>vous déplacer dans le dessin (avec le clic gauche enfoncé) <br> ou zoomer (avec la mollette).",
 
   "title-drawer-action-line": "Dessin",
   "drawer-action-line": "Utilisez ce outil pour dessiner vos segments de ligne, modifier les longueurs et les angles, etc. <br><br> <italic>Pour tracer une ligne</italic>:  <br>  (1) cliquer sur le dessinateur,<br> (2) déplacer la souris pour recliquer sur un autre endroit. <br> <br> Après le tracé d'une ligne, l'outil vous proposera d'enchainer avec une autre ligne. Taper sur le bouton <italic>\"Echap.\"</italic> pour annuler. <br><br> Enfin, un clic droit sur une ligne vous permettra de lui affecter une propriété.",
