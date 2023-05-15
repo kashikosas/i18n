@@ -7,46 +7,46 @@
   "open": "Öffnen",
   
   "guided-tour": "Geführter Rundgang",
-  "guided-tour-hint": "Hallo, <br/> <bold>new to this? </bold> <br/> wir stellen Ihnen die Hauptfunktionen kurz vor",
+  "guided-tour-hint": "Hallo, <br/> <bold>sind Sie neu hier?</bold> <br/> wir stellen Ihnen die Hauptfunktionen kurz vor",
 
   "title-tour-start": "Willkommen",
   "tour-start": "Fangen wir an",
 
   "title-formular-side-tour-guide": "Formular",
-  "formular-side-tour-guide": "Das ist die Formularseite. <br> Bitte sämtliche Felder ausfüllen",
+  "formular-side-tour-guide": "Das ist die Formularseite. <br> Überprüfen Sie bitte, ob das Formular korrekt ausgefüllt ist.",
   "formular-side-tour-guide-candraw": "Ihr Formular scheint fehlerfrei ausgefüllt zu sein, fahren wir mit der Zeichenseite fort.",
 
 
-  "title-drawer-side-tour-guide": "Zeichner",
-  "drawer-side-tour-guide": "Zeichner",
+  "title-drawer-side-tour-guide": "Zeichnung",
+  "drawer-side-tour-guide": "Dies ist der Bereich zum Zeichnen. <br>Hier zeichnen Sie Ihre Terrasse. Die Tour geht weiter mit einer Erläuterung der Zeichenwerkzeuge.",
 
   "title-cannot-draw-panel": "Bitte füllen Sie das Formular aus",
-  "cannot-draw-panel": "Bitte füllen Sie das Formular aus",
+  "cannot-draw-panel": "Sobald alle Abschnitte des Formulars ausgefüllt sind, können Sie Ihre Terrasse zeichnen.",
 
   "title-configurator-compute": "Berechnen",
-  "configurator-compute": "Berechnen",
+  "configurator-compute": "Sobald Ihre Terrasse fertig ist, klicken Sie auf diese Schaltfläche, um das Produkt zu berechnen.",
 
-  "title-configurator-drawer-2D-3D-switch": "Schalter zwischen Zeichner - 2D Ansicht - 3D Ansicht",
-  "configurator-drawer-2D-3D-switch": "Schalter zwischen Zeichner - 2D Ansicht - 3D Ansicht",
+  "title-configurator-drawer-2D-3D-switch": " Ansichtsoptionen",
+  "configurator-drawer-2D-3D-switch": "Mit diesen Optionen können Sie zwischen der Zeichnungsansicht, der 2D-Grundriss und (bald) einer 3D-Ansicht wählen.",
 
-  "title-configurator-exports": "Downloads",
-  "configurator-exports": "Downloads",
+  "title-configurator-exports": " Dokumente",
+  "configurator-exports": "Klicken Sie hier, um den Grundriss der Terrasse herunterzuladen.",
 
   "title-crisp-chatbox-tour-guide": "Fragen Sie uns",
-  "crisp-chatbox-tour-guide": "Melden Sie sich, wir helfen gerne",
+  "crisp-chatbox-tour-guide": "Wenn Sie etwas brauchen oder Fragen haben, chatten Sie mit uns!",
 
   "title-drawer-action-toggle-group": "Zeichner Funktionen",
   "drawer-action-toggle-group": "Zeichner Funktionen",
 
-  "title-drawer-action-select": "Funktion auswählen",
+  "title-drawer-action-select": "Werkzeug: Auswählen",
   "drawer-action-select": "Sobald aktiviert, können Sie sich in der Zeichenseite bewegen, oder ein- und auszoomen..",
 
-  "title-drawer-action-line": "Linie Zeichnen",
-  "drawer-action-line": "Wenn Sie diese Option auswählen, können Sie Liniensegmente zeichnen, Winkel definieren, usw.",
+  "title-drawer-action-line": " Werkzeug: Zeichnen",
+  "drawer-action-line": "Wenn ausgewählt, können Sie Ihre Liniensegmente zeichnen, die Längen und Winkel ändern usw.",
 
-  "title-drawer-action-undo-redo-reset": "Mehr Funktionen",
-  "drawer-action-line-undo-redo-reset": "Mehr Funktionen",
+  "title-drawer-action-undo-redo-reset": "Weitere Werkzeuge",
+  "drawer-action-line-undo-redo-reset": " Verwenden Sie diese Werkzeuge, um die Zeichenfläche rückgängig zu machen, wiederherzustellen oder zu leeren, um von vorne zu beginnen.",
 
-  "title-drawer-settings": "Zeichenparameter",
-  "drawer-settings": "Zeichenparameter"
+  "title-drawer-settings": "Modifikationsfeld",
+  "drawer-settings": "Verwenden Sie dieses Feld, um die Länge und den Winkel der ausgewählten Linie zu aktualisieren. <br> Wenn Sie nur noch eine Linie zum Zeichnen übrighaben, verwenden Sie die Schaltfläche <italic>'Schließen'</italic>, um die Zeichnung automatisch abzuschließen. Diese Linie <br> Um eine Linie ohne Geländer auszuwählen, klicken Sie mit der rechten Maustaste auf die Linie und wählen Sie <kursiv>'Fassade/Wand'</italic>.<br>Um den Bezugspunkt für den Terrassenabschluss auszuwählen, klicken Sie rechts auf die Zeile und wählen Sie <italic>‘Ausgangspunkt für Belagsgverlegung‘</italic> aus."
 }
