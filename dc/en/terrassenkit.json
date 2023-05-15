@@ -93,6 +93,8 @@
 
   "about-to-reset-drawer": "Reset drawer",
   "make-sure-form-valid": "Please make sure the form is properly filled",
+  "out-of-bounds": "Value out of bounds : [{{0}}, {{1}}]",
+  "valid-number-interval": "Value must be between {{0}} and {{1}}.",
 
   "more-than-max": "More than the max authorised: {{0}}",
   "less-than-min": "Less than the min authorised: {{0}}",
