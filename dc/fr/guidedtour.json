@@ -23,13 +23,13 @@
   "cannot-draw-panel": "Une fois tous les champs du formulaire remplis, vous pourrez dessiner votre terrasse. <br><br> <italic> Merci de re-ouvrir le guide pour avoir un tour sur le dessinateur.</italic>",
 
   "title-configurator-compute": "Calculer",
-  "configurator-compute": "Une fois votre terrasse dessinée, cliquez sur ce bouton pour lancer la configuration.",
+  "configurator-compute": "Une fois votre terrasse dessinée, utilisez ce bouton pour lancer la configuration.",
 
   "title-configurator-drawer-2D-3D-switch": "Options d'affichage",
-  "configurator-drawer-2D-3D-switch": "Une fois la configuration réussie, uutilisez ces options pour voir la vue en plan de l'installation 2D et (bientôt) une vue 3D.",
+  "configurator-drawer-2D-3D-switch": "Une fois la configuration réussie, utilisez ces options pour voir la vue en plan de l'installation 2D et (bientôt) une vue 3D.",
 
   "title-configurator-exports": "Documents",
-  "configurator-exports": "Ce bouton vous permet de télécharger le plan d'installation de la terrasse, la nomenclature, etc..",
+  "configurator-exports": "Vous pouvez ici enregistrer votre configuration ou la mettre à jour.<br><br> Vous pouvez également télécharger le plan d'installation de la terrasse, la nomenclature, etc..",
 
   "title-crisp-chatbox-tour-guide": "Aide",
   "crisp-chatbox-tour-guide": "Besoin d'aide? Nous sommes à votre écoute.",
@@ -40,7 +40,7 @@
   "title-drawer-action-line": "Dessin",
   "drawer-action-line": "Utilisez ce outil pour dessiner vos segments de ligne, modifier les longueurs et les angles, etc. <br><br> <italic>Pour tracer une ligne</italic>:  <br>  (1) cliquer sur le dessinateur,<br> (2) déplacer la souris pour recliquer sur un autre endroit. <br> <br> Après le tracé d'une ligne, l'outil vous proposera d'enchainer avec une autre ligne. Taper sur le bouton <italic>\"Echap.\"</italic> pour annuler. <br><br> Enfin, un clic droit sur une ligne vous permettra de lui affecter une propriété.",
 
-  "title-drawer-action-undo-redo-reset": "Autre outils",
+  "title-drawer-action-undo-redo-reset": "Autres outils",
   "drawer-action-line-undo-redo-reset": "Utilisez ces outils pour annuler une action ou la refaire. Vous pouvez également supprimer le contenu du dessinateur pour recommencer.",
 
   "title-drawer-settings": "Outils de modifications",
