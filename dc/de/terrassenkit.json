@@ -4,7 +4,7 @@
   "country-info": "Land",
   "france": "France",
   "austria": "Österreich",
-  "germany": "Deustchland",
+  "germany": "Deutschland",
   "switzerland": "Schweiz",
   "unitedKingdom": "United Kingdom",
 
@@ -24,7 +24,7 @@
   "no-escape-route": "Kein Fluchtweg",
 
   "std-use": "Standard Verwendung",
-  "std-use-info": "Standard Verwendung",
+  "std-use-info": "Wählen Sie den anwendbaren <italic>Standard Verwendung</italic> oder <italic>'Nicht zutreffend'</italic> aus, wenn diese Verwendung keinem <italic>Standard Verwendung</italic> entspricht.",
   "non-applicable": "Nicht zutreffend",
   "case-A": "Fall A",
   "case-B": "Fall B",
@@ -44,50 +44,50 @@
   "case-H-helper": "Die Terrasse befindet sich weniger als 10 m über dem Boden in einem Gebiet mit Vb,map≤23 m/s, Geländekategorie \"Stadt\", 30 km von der Küste entfernt und >3 km innerhalb der Stadt ODER der Spitzenwinddruck, qp(z), an der Position der Terrasse ist kleiner als 0,68 kN/m².",
 
   "terrace-material": "Terrassenbelag",
-  "terrace-material-info": "Terrassenbelag",
+  "terrace-material-info": "",
   "concrete-slabs": "Betonplatten",
-  "ceramic-tiles": "Fliesen",
+  "ceramic-tiles": "Keramikfliesen",
   "wooden-planks": "Holzdielen",
   "composite-planks": "Verbundwerkstoff-Dielen",
 
-  "terrace-thickness": "Stärke Terrassenbelag",
-  "terrace-thickness-info": "Stärke Terrassenbelag",
+  "terrace-thickness": "Dicke des Terrassenbelages",
+  "terrace-thickness-info": "",
 
-  "terrace-grid": "Achsmaß der Profile der Unterkonstruktion",
-  "terrace-grid-info": "Achsmaß der Profile der Unterkonstruktion",
+  "terrace-grid": "Abmessungen der Platten/Trägermittel",
+  "terrace-grid-info": "Wählen Sie für Betonplatten oder Keramikfliesen die Abmessung der Platte oder Fliese. Für Holz- oder Verbunddielen wählen Sie die vom Hersteller angegebenen Lattenabstände aus.",
 
   "free-height": "Höhe der Zirkulationsebene",
-  "free-height-info": "Höhe der Zirkulationsebene",
+  "free-height-info": "Geben Sie die Gesamthöhe der Terrasse ein, von der Oberfläche, auf der die Stelzlager stehen, bis zur Oberseite des Terrassenbelages.",
 
   "handrail-height": "Handlaufhöhe",
-  "handrail-height-info": "Handlaufhöhe",
+  "handrail-height-info": "",
 
   "fill-type": "Art der Füllung",
-  "fill-type-info": "Art der Füllung",
+  "fill-type-info": "",
   "rounded-bars": "Runde Stäbe",
   "squared-bars": "Eckige Stäbe",
   "glass": "Glas",
 
   "fill-style": "Füllungsstyl",
-  "fill-style-info": "Füllungsstyl",
+  "fill-style-info": "",
   "full-height": "Vollflächige Füllung",
   "100mm-void": "Handlauf mit 100 mm Zwischenraum zur Füllung",
 
   "fill-position": "Position der Füllung",
-  "fill-position-info": "Position der Füllung",
-  "behind-post": "Hinter der Stütze",
-  "infront-post": "Vor der Stütze",
+  "fill-position-info": "Wählen Sie aus, ob Füllelement vor oder hinter den Geländerpfosten sein soll.",
+  "behind-post": "Zur Terrasse gewendet",
+  "infront-post": "Von der Terrasse abgewendet",
 
-  "planks-width": "Dielenbreite",
-  "planks-width-info": "Dielenbreite",
+  "planks-width": "Dielen- und Abstandshalterbreite",
+  "planks-width-info": "Geben Sie die kombinierte Breite einer Diele und eines Abstandshalters ein.",
 
   "planks-orientation": "Dielenausrichtung",
-  "planks-orientation-info": "Dielenausrichtung",
+  "planks-orientation-info": "Geben Sie die Ausrichtung der Dielen relativ zum Referenzpunkt ein.",
   "horizontal": "Waagerecht",
   "vertical": "Senkrecht",
 
   "color": "Farbe",
-  "guardrails-color": "Geländerfarbe",
+  "guardrails-color": "Wählen Sie die Farbe des Geländers (Pfosten, Handlauf, Füllelemente) aus.,
 
   "open-input-form": "Eingabeformular öffnen",
 
