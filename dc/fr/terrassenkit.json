@@ -6,12 +6,12 @@
   "germany": "Allemagne",
   "switzerland": "Suisse",
   "unitedKingdom": "Royaume-Uni",
-  "country-info": "",
+  "country-info": "Pays d'installation",
 
   "use": "Usage",
-  "use-info": "",
+  "use-info": "Zone dans laquelle la terrasse sera installée. Elle varie en fonction du pays.",
   "residential": "Résidentiel privatif",
-  "private-areas-within-offices-existing-buildings": "Zone privatives dans des bureaux de bâtiments existants",
+  "private-areas-within-offices-existing-buildings": "Zones privatives dans des bureaux de bâtiments existants",
   "private-areas-within-schools-hospitals-carehomes": "Zones privatives dans des écoles, hôpitaux ou autres établissements de santé",
   "private-areas-within-schools-hospitals-carehomes-without-fixed-seating": "Zones privatives dans des écoles, hôpitaux ou autres établissements de santé sans sièges fixes",
   "offices": "Bureaux, tertiaire",
@@ -24,7 +24,7 @@
   "no-escape-route": "Hors zone d'évacuation incendie",
 
   "std-use": "Cas d'utilisation standard",
-  "std-use-info": "Sélectionnez le <italic>cas d'utilisation standard</italic> applicable, ou <italic>'Aucun applicable'</italic> si cette utilisation n'est conforme à aucun <italic>cas d'utilisation standard</italic>.",
+  "std-use-info": "Chaque cas fourni un détail sur l'environement dans lequel sera installé la terrasse. Si aucun des cas d'utilisation ne correspond à votre situation, merci de choisir <italic>'Aucun applicable'</italic>.",
   "non-applicable": "Aucun applicable",
   "case-A": "Cas A",
   "case-B": "Cas B",
@@ -34,26 +34,26 @@
   "case-F": "Cas F",
   "case-G": "Cas G",
   "case-H": "Cas H",
-  "case-A-helper": "La terrasse se situe à moins de 20 m de hauteur en zone de vent 1, catégorie de terrain III OU à moins de 30 m de hauteur en zone de vent 1, catégorie de terrain IV OU la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,63 kN/m².",
-  "case-B-helper": "La terrasse se situe à moins de 20 m de hauteur en zone de vent 2, catégorie de terrain III OR à moins de 30 m de hauteur en zone de vent 2, catégorie de terrain IV OU la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,77 kN/m².",
-  "case-C-helper": "La terrasse se situe à moins de 20 m de hauteur en zone de vent 1, 2 ou 3, catégorie de terrain III OU à moins de 30m de hauteur en zone de vent 1, 2 ou 3, catégorie de terrain IV OU la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,94 kN/m².",
-  "case-D-helper": "La terrasse se situe en toiture à moins de 6 m de hauteur en zone de vent qp(0)=0,9 kN/m², catégorie de terrain III OU à moins de 20 m de hauteur en zone de vent qp(0)=0,9 kN/m², catégorie de terrain IV OU la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,81 kN/m².",
-  "case-E-helper": "La terrasse se situe sur un balcon à moins de 16 m de hauteur en zone de vent qp(0)=0,9 kN/m², catégorie de terrain III OU à moins de 35 m de hauteur en zone de vent qp(0)=0,9 kN/m², catégorie de terrain IV OU à moins de 6 m de hauteur en zon de vent qp(0)=1,1 kN/m², catégorie de terrain III OU à moins de 20 m de hauteur en zone de vent qp(0)=1,1 kN/m², catégorie de terrain IV OU la pression max du vent, qp(z), au niveau de la terrasse est inférieure à 1 kN/m².",
-  "case-F-helper": "La terrasse se situe à moins de 15 m de hauteur en catégorie de terrain III OU à moins de 30 m de hauteur en catégorie de terrain IV OU la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,94 kN/m².",
-  "case-G-helper": "La terrasse se situe à moins de 21 m de hauteur en zone de vent 1,2 or 3, catégorie de terrain IIIb or IV OU la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,79kN/m².",
-  "case-H-helper": "La terrasse se situe à moins de 10 m de hauteur dans une zone ou Vb,map≤23 m/s, catégorie de terrain 'Urbain', à 30 km de la côte et >3 km à l'intérieur de la ville OU la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,68 kN/m².",
+  "case-A-helper": "La terrasse se situe à moins de 20 m de hauteur en zone de vent 1, catégorie de terrain III <bold>OU</bold> à moins de 30 m de hauteur en zone de vent 1, catégorie de terrain IV  <bold>OU</bold>  la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,63 kN/m².",
+  "case-B-helper": "La terrasse se situe à moins de 20 m de hauteur en zone de vent 2, catégorie de terrain III  <bold>OU</bold>  à moins de 30 m de hauteur en zone de vent 2, catégorie de terrain IV  <bold>OU</bold>  la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,77 kN/m².",
+  "case-C-helper": "La terrasse se situe à moins de 20 m de hauteur en zone de vent 1, 2 ou 3, catégorie de terrain III  <bold>OU</bold>  à moins de 30m de hauteur en zone de vent 1, 2 ou 3, catégorie de terrain IV  <bold>OU</bold>  la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,94 kN/m².",
+  "case-D-helper": "La terrasse se situe en toiture à moins de 6 m de hauteur en zone de vent qp(0)=0,9 kN/m², catégorie de terrain III  <bold>OU</bold>  à moins de 20 m de hauteur en zone de vent qp(0)=0,9 kN/m², catégorie de terrain IV  <bold>OU</bold>  la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,81 kN/m².",
+  "case-E-helper": "La terrasse se situe sur un balcon à moins de 16 m de hauteur en zone de vent qp(0)=0,9 kN/m², catégorie de terrain III  <bold>OU</bold>  à moins de 35 m de hauteur en zone de vent qp(0)=0,9 kN/m², catégorie de terrain IV  <bold>OU</bold>  à moins de 6 m de hauteur en zon de vent qp(0)=1,1 kN/m², catégorie de terrain III  <bold>OU</bold>  à moins de 20 m de hauteur en zone de vent qp(0)=1,1 kN/m², catégorie de terrain IV  <bold>OU</bold>  la pression max du vent, qp(z), au niveau de la terrasse est inférieure à 1 kN/m².",
+  "case-F-helper": "La terrasse se situe à moins de 15 m de hauteur en catégorie de terrain III  <bold>OU</bold>  à moins de 30 m de hauteur en catégorie de terrain IV  <bold>OU</bold>  la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,94 kN/m².",
+  "case-G-helper": "La terrasse se situe à moins de 21 m de hauteur en zone de vent 1,2 or 3, catégorie de terrain IIIb or IV  <bold>OU</bold>  la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,79kN/m².",
+  "case-H-helper": "La terrasse se situe à moins de 10 m de hauteur dans une zone ou Vb,map≤23 m/s, catégorie de terrain 'Urbain', à 30 km de la côte et >3 km à l'intérieur de la ville  <bold>OU</bold>  la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,68 kN/m².",
 
-  "terrace-material": "Matériau revêtement terrasse",
-  "terrace-material-info": "",
+  "terrace-material": "Revêtement de la terrasse",
+  "terrace-material-info": "Choisissez le matériau",
   "concrete-slabs": "Dallettes béton",
   "ceramic-tiles": "Dalles céramique, carrelage",
   "wooden-planks": "Plancher en bois",
   "composite-planks": "Plancher composite",
 
   "terrace-grid": "Dimension des dalles / Entraxes des poutres",
-  "terrace-grid-info": "Pour les dalles de béton ou les carreaux de céramique, choisissez la dimension de la dalle/carreau. Pour les planches de bois ou de composite, choisissez les entraxes des poutres spécifiés par le fabricant.",
+  "terrace-grid-info": "Pour les dalles de béton ou les carreaux de céramique, ce champs correspond à la dimension de la dalle/carreau. <br> Pour les planches en bois ou composite, ce champs correspond à l'entraxe des poutres spécifié par le fabricant.",
 
-  "terrace-thickness": "Epaisseur du revêtement de terrasse",
+  "terrace-thickness": "Epaisseur du revêtement de la terrasse",
   "terrace-thickness-info": "",
 
   "free-height": "Hauteur niveau de circulation",
@@ -75,14 +75,14 @@
 
   "fill-position": "Positionnement des modules de remplissage",
   "fill-position-info": "Choisissez si les panneaux de remplissage doivent être vers l'extérieur de la terrasse ou vers l'intérieur par rapport aux montants.",
-  "behind-post": "A l'intérieur des terrasse",
-  "infront-post": "A l'extérieur des terrasse",
+  "behind-post": "Vers l'intérieur",
+  "infront-post": "Vers l'extérieur",
 
   "planks-width": "Largeur planche et son espaceur",
   "planks-width-info": "Saisir la largeur combinée d'une planche et d'un espaceur.",
 
   "planks-orientation": "Orientation planches",
-  "planks-orientation-info": "Saisir l'orientation des planches par rapport au point de référence.",
+  "planks-orientation-info": "Saisir l'angle entre les planches et la ligne référence. La ligne de référence est choisie sur le dessinateur.",
   "horizontal": "Horizontale",
   "vertical": "Verticale",
 
@@ -92,11 +92,14 @@
   "open-input-form": "Ouvrir le formulaire",
 
   "about-to-reset-drawer": "Réinitialiser le dessin",
-  "make-sure-form-valid": "Saisir données formulaire pour pouvoir dessiner",
+  "make-sure-form-valid": "Merci de remplir le formulaire pour pouvoir dessiner.",
+  "*-are-mandatory": "Les champs avec * sont obligatoires.",
 
   "more-than-max": "Supérieur au max autorisé {{0}}",
   "less-than-min": "Inférieur au min autorisé {{0}}",
   "field-required": "Champs requis",
+  "out-of-bounds": "Valeur hors interval autorisé : [{{0}}, {{1}}]",
+  "valid-number-interval": "Valeurs comprises entre {{0}} et {{1}}",
 
   "walldrawer-changed-recompute": "Le tracé a changé. Regénérer le calcul."
 }

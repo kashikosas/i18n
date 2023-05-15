@@ -26,7 +26,7 @@
   "nothing-found": "Pas de résultat",
 
   "access-forbidden": "Accès non autorisé",
-  "unable-to-add-to-cart-product-not-found": "ajout au panier impossible, produit non identifié",
+  "unable-to-add-to-cart-product-not-found": "Ajout au panier impossible, produit non identifié",
   "invalid-outputs-format": "Format de résultat non valide",
   "invalid-inputs-format": "Format de saisie non valide",
   "invalid-bom-format": "Format de nomenclature non valide",
