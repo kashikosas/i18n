@@ -2,7 +2,7 @@
   "terrassenkit": "Panorama Terrassenkit",
   "country": "Land",
   "country-info": "Land",
-  "france": "France",
+  "france": "Frankreich",
   "austria": "Österreich",
   "germany": "Deutschland",
   "switzerland": "Schweiz",
@@ -10,12 +10,24 @@
 
   "use": "Anwendungsbereich",
   "use-info": "Anwendungsbereich",
-  "residential": "Wohnung",
+  "residential": "Wohnflächen",
   "private-areas-within-offices-existing-buildings": "Privatbereiche in bestehenden Bürogebäuden",
   "private-areas-within-schools-hospitals-carehomes": "Privatbereiche in Schulen, Krankenhäusern/Pflegeheimen",
   "private-areas-within-schools-hospitals-carehomes-without-fixed-seating": "Private Bereiche in Schulen/Krankenhäusern/Pflegeheimen ohne feste Sitzplätze",
-  "offices": "Büroräume",
+  "offices": "Büroflächen",
 
+  "AU-A1": "A1",
+  "AU-A1-helper": "Flächen von Räumen in Wohngebäuden und - häusern, Stations- und Krankenzimmer in Krankenhäuser, Zimmer in Hotels und Herbergen, Küchen, Toiletten, sowie Räume mit wohnaffiner Nutzung in bestehenden Gebäuden.",
+  "AU-B1": "B1",
+  "AU-B1-helper": "Büroflächen in bestehenden Gebäuden.",
+  "DE-A2": "A2",
+  "DE-A2-helper": "Decken mit ausreichender Querverteilung der Lasten, Räume und Flure in Wohngebäuden, Bettenräume in Krankenhäusern, Hotelzimmer einschl. Zugehöriger Küchen und Bäder.",
+  "DE-B1": "B1",
+  "DE-B1-helper": "Flure in Bürogebäuden, Büroflächen, Arztpraxen ohne schweres Gerät, Stationsräume, Aufenthaltsräume einschl. der Flure, Kleinviehställe.",
+  "FR-UK-A": "Wohnflächen",
+  "FR-CH-UK-B": "Büroflächen",
+  "CH-A": "Wohnbereiche",
+  
   "position": "Lage",
   "position-info": "Lage",
   "top-building": "Dach des Gebäudes",
@@ -24,7 +36,7 @@
   "no-escape-route": "Kein Fluchtweg",
 
   "std-use": "Standard Verwendung",
-  "std-use-info": "Wählen Sie den anwendbaren <italic>Standard Verwendung</italic> oder <italic>'Nicht zutreffend'</italic> aus, wenn diese Verwendung keinem <italic>Standard Verwendung</italic> entspricht.",
+  "std-use-info": "Wählen Sie den anwendbaren <italic>Standard Verwendung</italic> oder <italic>'Nicht zutreffend'</italic> aus, wenn diese Verwendung keiner <italic>Standard Verwendung</italic> entspricht.",
   "non-applicable": "Nicht zutreffend",
   "case-A": "Fall A",
   "case-B": "Fall B",
@@ -53,14 +65,14 @@
   "terrace-thickness": "Dicke des Terrassenbelages",
   "terrace-thickness-info": "",
 
-  "terrace-grid": "Abmessungen der Platten/Trägermittel",
-  "terrace-grid-info": "Wählen Sie für Betonplatten oder Keramikfliesen die Abmessung der Platte oder Fliese. Für Holz- oder Verbunddielen wählen Sie die vom Hersteller angegebenen Lattenabstände aus.",
+  "terrace-grid": "Abmessungen der Platten oder Trägermittel",
+  "terrace-grid-info": "Wählen Sie für Betonplatten oder Keramikfliesen die Abmessung der Platte oder Fliese. Für Holz- oder Verbunddielen wählen Sie die vom Hersteller angegebenen Dielenabstäne aus.",
 
-  "free-height": "Höhe der Zirkulationsebene",
-  "free-height-info": "Geben Sie die Gesamthöhe der Terrasse ein, von der Oberfläche, auf der die Stelzlager stehen, bis zur Oberseite des Terrassenbelages.",
+  "free-height": "Höhe der Terrassenaufbaus",
+  "free-height-info": "Geben Sie die Gesamthöhe des Terrassenaufbaus ein, von der Oberfläche, auf der die Stelzlager stehen, bis zur Oberseite des Terrassenbelages.",
 
   "handrail-height": "Handlaufhöhe",
-  "handrail-height-info": "",
+  "handrail-height-info": "Abstand von der Oberkante des Terrassenbelages bis zur Oberkante des Handlaufes.",
 
   "fill-type": "Art der Füllung",
   "fill-type-info": "",
@@ -68,13 +80,13 @@
   "squared-bars": "Eckige Stäbe",
   "glass": "Glas",
 
-  "fill-style": "Füllungsstyl",
-  "fill-style-info": "",
+  "fill-style": "Füllungsstil",
+  "fill-style-info": "Höhe der Füllung",
   "full-height": "Vollflächige Füllung",
-  "100mm-void": "Handlauf mit 100 mm Zwischenraum zur Füllung",
+  "100mm-void": "100 mm Luftraum zwischen Handlauf und Füllung",
 
   "fill-position": "Position der Füllung",
-  "fill-position-info": "Wählen Sie aus, ob Füllelement vor oder hinter den Geländerpfosten sein soll.",
+  "fill-position-info": "Wählen Sie aus, ob die Füllelemente vor oder hinter den Geländerpfosten sein soll.",
   "behind-post": "Zur Terrasse gewendet",
   "infront-post": "Von der Terrasse abgewendet",
 
