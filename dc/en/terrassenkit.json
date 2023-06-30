@@ -16,6 +16,18 @@
   "private-areas-within-schools-hospitals-carehomes-without-fixed-seating": "Private areas within schools/hospitals/carehomes without fixed seating",
   "offices": "Offices",
 
+  "AU-A1": "A1",
+  "AU-A1-helper": "Areas of rooms in residential buildings and houses, ward and sick rooms in hospitals, rooms in hotels and hostels, kitchens, toilets, as well as rooms with residential use in existing buildings.",
+  "AU-B1": "B1",
+  "AU-B1-helper": "Office space in existing buildings.",
+  "DE-A2": "A2",
+  "DE-A2-helper": "Flat rooftops with sufficient cross-sectional load distribution, rooAUms and corridors in residential buildings, bedrooms in hospitals, hotel rooms including associated kitchens and bathrooms.",
+  "DE-B1": "B1",
+  "DE-B1-helper": "Corridors, offices, medical offices without heavy equipment, treatment rooms, recrea-tion rooms (including corridors), small stables. ",
+  "FR-UK-A": "Residential",
+  "FR-CH-UK-B": "Offices",
+  "CH-A": "Living areas",
+  
   "position": "Position",
   "position-info": "",
   "top-building": "Top of the building",
@@ -23,7 +35,7 @@
   "escape-route": "On escape route",
   "no-escape-route": "Not on escape route",
 
-  "std-use": "Standard use",
+  "std-use": "Standard Use Case",
   "std-use-info": "Select the applicable <italic>Standard Use Case</italic>, or <italic>'None Applicable'</italic> if this use does not comply with any <italic>Standard Use Case</italic>.",
   "non-applicable": "None applicable",
   "case-A": "Case A",
@@ -64,14 +76,14 @@
 
   "fill-type": "Infill type",
   "fill-type-info": "",
-  "rounded-bars": "Rounded bars",
-  "squared-bars": "Squared bars",
+  "rounded-bars": "Round bars",
+  "squared-bars": "Square bars",
   "glass": "Glass",
 
   "fill-style": "Infill style",
   "fill-style-info": "",
   "full-height": "Full height",
-  "100mm-void": "100 mm void between handrail and infill",
+  "100mm-void": "With 100 mm void between handrail and infill",
 
   "fill-position": "Infill position",
   "fill-position-info": "Choose whether the infill panels should be towards the exterior of the terrace or the interior in relation to the posts.",
