@@ -5,6 +5,12 @@
   "close": "Schließen",
   "last": "Zum Ende",
   "open": "Öffnen",
+
+  "walk-through-intro-title": "Willkommen",
+  "walk-through-intro-content": "Willkommen auf unserer Produktkonfigurationsplattform! Möchten Sie eine geführte Tour durch unseren Konfigurator erhalten? Entdecken Sie alle Funktionen und Optionen in dieser interaktiven Tour.",
+  "dont-show-again": "Nicht mehr anzeigen",
+  "no-thanks": "Ignorieren und mit der Anpassung beginnen",
+  "show-me-around": "Die Tour starten",
   
   "guided-tour": "Geführter Rundgang",
   "guided-tour-hint": "Hallo, <br/> <bold>sind Sie neu hier?</bold> <br/> wir stellen Ihnen die Hauptfunktionen kurz vor",
