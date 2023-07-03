@@ -114,5 +114,7 @@
 
   "more-than-max": "Über dem zulässigen Höchstwert: {{0}}",
   "less-than-min": "Unter dem zulässigen Mindestwert: {{0}}",
-  "field-required": "Pflichtfeld"
+  "field-required": "Pflichtfeld",
+  "search...": "Suche nach Name, RAL usw.",
+  "*-required-fields": "(*) Erforderliche Felder."
 }
