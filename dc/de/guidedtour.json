@@ -35,11 +35,11 @@
   "title-crisp-chatbox-tour-guide": "Fragen Sie uns",
   "crisp-chatbox-tour-guide": "Wenn Sie etwas brauchen oder Fragen haben, chatten Sie mit uns!",
 
-  "title-drawer-action-toggle-group": "Zeichner Funktionen",
-  "drawer-action-toggle-group": "Zeichner Funktionen",
+  "title-drawer-action-toggle-group": "Werkzeugauswahl",
+  "drawer-action-toggle-group": "Werkzeugauswahl.",
 
   "title-drawer-action-select": "Werkzeug: Auswählen",
-  "drawer-action-select": "Sobald aktiviert, können Sie sich in der Zeichenseite bewegen, oder ein- und auszoomen..",
+  "drawer-action-select": "Sobald aktiviert, können Sie sich in der Zeichenseite bewegen, oder ein- und auszoomen.",
 
   "title-drawer-action-line": " Werkzeug: Zeichnen",
   "drawer-action-line": "Wenn ausgewählt, können Sie Ihre Liniensegmente zeichnen, die Längen und Winkel ändern usw.",
@@ -48,5 +48,5 @@
   "drawer-action-line-undo-redo-reset": " Verwenden Sie diese Werkzeuge, um die Zeichenfläche rückgängig zu machen, wiederherzustellen oder zu leeren, um von vorne zu beginnen.",
 
   "title-drawer-settings": "Modifikationsfeld",
-  "drawer-settings": "Verwenden Sie dieses Feld, um die Länge und den Winkel der ausgewählten Linie zu aktualisieren. <br><br> Wenn Sie nur noch eine Linie zum Zeichnen übrighaben, verwenden Sie die Schaltfläche <italic>'Schließen'</italic>, um die Zeichnung automatisch abzuschließen. <br><br> Um eine Linie ohne Geländer auszuwählen, klicken Sie mit der rechten Maustaste auf die Linie und wählen Sie <italic>'Fassade/Wand'</italic>. <br><br>Um den Bezugspunkt für den Terrassenabschluss auszuwählen, klicken Sie rechts auf die Zeile und wählen Sie <italic>‘Ausgangspunkt für Belagsgverlegung‘</italic> aus."
+  "drawer-settings": "Verwenden Sie dieses Feld, um die Länge und den Winkel der ausgewählten Linie zu aktualisieren. <br><br> Wenn Sie nur noch eine Linie zum Zeichnen übrig haben, verwenden Sie die Schaltfläche <italic>'Schließen'</italic>, um die Zeichnung automatisch abzuschließen. <br><br> Um eine Linie ohne Geländer auszuwählen, klicken Sie mit der rechten Maustaste auf die Linie und wählen Sie <italic>'Fassade/Wand'</italic>. <br><br>Um den Bezugspunkt für den Terrassenabschluss auszuwählen, klicken Sie rechts auf die Zeile und wählen Sie <italic>‘Ausgangspunkt für Belagsgverlegung‘</italic> aus."
 }
