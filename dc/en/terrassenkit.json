@@ -27,6 +27,9 @@
   "FR-UK-A": "Residential",
   "FR-CH-UK-B": "Offices",
   "CH-A": "Living areas",
+  "FR-UK-A-helper": "",
+  "FR-CH-UK-B-helper": "",
+  "CH-A-helper": "",
   
   "position": "Position",
   "position-info": "",
