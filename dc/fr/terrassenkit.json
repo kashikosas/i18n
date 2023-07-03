@@ -27,6 +27,9 @@
   "FR-UK-A": "Résidentiel",
   "FR-CH-UK-B": "Bureaux",
   "CH-A": "Surfaces d'habitation",
+  "FR-UK-A-helper": "",
+  "FR-CH-UK-B-helper": "",
+  "CH-A-helper": "",
 
   "position": "Emplacement",
   "position-info": "",
