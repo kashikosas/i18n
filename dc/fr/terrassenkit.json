@@ -119,4 +119,5 @@
 
   "walldrawer-changed-recompute": "Le tracé a changé. Regénérer le calcul.",
   "search...": "Chercher par nom, RAL, etc...",
+  "*-required-fields" : "(*) Champs obligatoires."
 }
