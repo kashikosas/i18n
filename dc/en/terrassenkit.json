@@ -114,5 +114,7 @@
 
   "more-than-max": "More than the max authorised: {{0}}",
   "less-than-min": "Less than the min authorised: {{0}}",
-  "field-required": "Required field"
+  "field-required": "Required field",
+  "search...": "Search by name, RAL, etc.",
+  "*-required-fields": "(*) Required fields."
 }
