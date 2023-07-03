@@ -6,6 +6,12 @@
   "last": "Dernier",
   "open": "Ouvrir",
 
+  "walk-through-intro-title": "Bienvenue",
+  "walk-through-intro-content": "Bienvenue sur notre plateforme de configuration de produit ! Souhaitez-vous bénéficier d'une visite guidée de notre configurateur ? Découvrez toutes les fonctionnalités et options à travers cette visite interactive.",
+  "dont-show-again": "Ne plus afficher",
+  "no-thanks": "Ignorer et commencer à personnaliser",
+  "show-me-around": "Commencer la visite guidée",
+  
   "guided-tour": "Visite guidée",
   "guided-tour-hint": "Coucou, <br/> <bold>besoin d'aide? </bold> <br/> Suivez le guide!",
 
