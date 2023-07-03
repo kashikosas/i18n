@@ -3,7 +3,7 @@
   "angle": "Angle",
   "length": "Longueur",
   "general": "Général",
-  "drawing-precision": "Données de ligne",
+  "drawing-precision": "Précision de la ligne",
   "invert-faces": "Inverser faces",
   "pointer": "Curseur",
   "draw-line": "Tracer",
@@ -11,8 +11,8 @@
   "redo": "Rétablir",
   "reset": "Réinitialiser",
   "close": "Fermer",
-  "wall": "Façade",
-  "datum": "Face de référence",
+  "wall": "Mur, façade",
+  "datum": "Référence pour le démarrage de la pose du revêtement",
 
   "plinth-is-required": "Plinthe requise",
 
@@ -24,6 +24,6 @@
   "fixed-end": "Extremité fixe",
 
   "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "Terrasse non fermée ou type d'extremité non défini",
-  "no-terrace-drawn": "Aucune terrasse trouvée",
-  "an-angle-is-out-of-bound": "Un angle est hors plage de valeur autorisée"
+  "no-terrace-drawn": "Aucune terrasse dessinée",
+  "an-angle-is-out-of-bound": "Un angle est hors de l'intervalle autorisé"
 }
