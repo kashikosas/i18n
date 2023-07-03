@@ -5,7 +5,13 @@
   "close": "Close",
   "last": "Last",
   "open": "Open",
-
+  
+  "walk-through-intro-title": "Welcome",
+  "walk-through-intro-content": "Welcome to our product configuration platform! Would you like a guided tour of our configurator? Discover all the features and options through this interactive tour",
+  "dont-show-again": "Do not show again",
+  "no-thanks": "Ignore and start customising",
+  "show-me-around": "Start the guided tour",
+  
   "guided-tour": "Guided tour",
   "guided-tour-hint": "Hi there, <br/> <bold>new to this? </bold> <br/> let me show you around",
 
