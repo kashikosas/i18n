@@ -28,7 +28,7 @@
   "more-than-max": "Supérieur au max autorisé {{0}}",
   "less-than-min": "Inférieur au min autorisé {{0}}",
   "field-required": "Champs requis",
-  "*-required-fields": "(*) Champs obligatoires."
+  "*-required-fields": "(*) Champs obligatoires.",
 
   "walldrawer-changed-recompute": "Le dessin du contour a changé. Veuillez recliquer sur 'Calculer'"
 }
