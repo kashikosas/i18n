@@ -23,12 +23,14 @@
   "plinth-is-required": "Fußleiste erforderlich",
 
   "barrialFreestanding": "Barrial selbsttragend",
+  "barrialFreestanding-welcome-title": "Barrial selbsttragend Konfigurator",
   "about-to-reset-drawer": "Zeichnung zurücksetzen",
   "make-sure-form-valid": "Formulareingaben überprüfen",
 
   "more-than-max": "Mehr als zulässiger Höchstwert: {{0}}",
   "less-than-min": "Weniger als zulässiger Mindestwert: {{0}}",
   "field-required": "Pflichtfeld",
+  "*-required-fields": "(*) Erforderliche Felder.",
 
   "walldrawer-changed-recompute": "Zeicheneingaben wurden geändert. Bitte neu berechnen."
 }
