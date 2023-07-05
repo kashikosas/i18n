@@ -23,12 +23,14 @@
   "plinth-is-required": "A toe board is required",
 
   "barrialFreestanding": "Barrial freestanding",
+  "barrialFreestanding-welcome-title": "Barrial freestanding configurator",
   "about-to-reset-drawer": "Reset the drawer",
   "make-sure-form-valid": "Please make sure the form is valid",
 
   "more-than-max": "More than the max authorised: {{0}}",
   "less-than-min": "Less than the min authorised: {{0}}",
   "field-required": "Required field",
-
+  "*-required-fields": "(*) Required fields.",
+  
   "walldrawer-changed-recompute": "Drawing has changed. Please re-compute."
 }
