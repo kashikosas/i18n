@@ -16,8 +16,7 @@
   "guided-tour-hint": "Coucou, <br/> <bold>besoin d'aide? </bold> <br/> Suivez le guide!",
 
   "title-tour-start": "Bienvenue sur ce guide d'utilisation",
-  "tour-start": "Il vous permettra de vous familiariser avec les différentes fonctionnalités d'application.<br><br>Vous pouvez cliquer sur <italic>Passer</italic> pour quitter le tour. Cliquez sur le drapeau pour reprendre de là où vous avez laissé.
-",
+  "tour-start": "Il vous permettra de vous familiariser avec les différentes fonctionnalités d'application.<br><br>Vous pouvez cliquer sur <italic>Passer</italic> pour quitter le tour. Cliquez sur le drapeau pour reprendre de là où vous avez laissé.",
 
   "title-formular-side-tour-guide": "Formulaire",
   "formular-side-tour-guide": "Le formulaire est la première étape de configuration. Il permet de collecter des informations sur l'environnement d'accueil du système et vos besoins.<br><br>En cas de doute, consultez une personne appropriée (ingénieur, urbaniste etc.)<br><br>Les champs en * sont obligatoires.",
