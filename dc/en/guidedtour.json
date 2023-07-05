@@ -16,7 +16,7 @@
   "guided-tour-hint": "Hi there, <br/> <bold>new to this? </bold> <br/> let me show you around",
 
   "title-tour-start": "Welcome to this user guide",
-  "tour-start": "It will allow you to familiarise yourself with the different functionalities of the application.<br><br>You can click Skip to exit the tour. Click on the flag to pick up where you left off.",
+  "tour-start": "It will allow you to familiarise yourself with the different functionalities of the application.<br><br>You can click <italic>Skip</italic> to exit the tour. Click on the flag to pick up where you left off.",
 
   "title-formular-side-tour-guide": "Form",
   "formular-side-tour-guide": "The form is the first configuration step. It collects information about the system's home environment and your needs.<br><br>If in doubt consult an appropriate person (engineer, planning officer etc.).<br><br>Fields marked * are mandatory.",
