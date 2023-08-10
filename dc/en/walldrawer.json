@@ -13,6 +13,8 @@
   "close": "Close",
   "wall": "Facade / wall",
   "datum": "Datum",
+  "edit": "Edit",
+  "properties": "Properties",
 
   "add-gate": "Add gate",
   "optimize": "Optimise",
