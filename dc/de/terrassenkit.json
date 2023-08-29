@@ -116,5 +116,8 @@
   "less-than-min": "Unter dem zulässigen Mindestwert: {{0}}",
   "field-required": "Pflichtfeld",
   "search...": "Suche nach Name, RAL usw.",
-  "*-required-fields": "(*) Erforderliche Felder."
+  "*-required-fields": "(*) Erforderliche Felder.",
+  
+  "accept-terrace-offset-title": "Hinweis zum Ausmessen der Terrasse",
+  "accept-terrace-offset-content": "Reduzieren Sie beim Zeichnen der Terrasse die Maße um <bold>{{offset}}</bold> mm gegenüber der Brüstung."
 }
