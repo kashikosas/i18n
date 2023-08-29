@@ -116,5 +116,9 @@
   "less-than-min": "Less than the min authorised: {{0}}",
   "field-required": "Required field",
   "search...": "Search by name, RAL, etc.",
-  "*-required-fields": "(*) Required fields."
+  "*-required-fields": "(*) Required fields.",
+  
+  "accept-terrace-offset-title": "Note for measuring the terrace",
+  "accept-terrace-offset-content": "When drawing the terrace, reduce the dimensions by <bold>{{offset}}</bold> mm compared to the parapet."
+
 }
