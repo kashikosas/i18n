@@ -29,6 +29,8 @@
   "less-than-min": "Inférieur au min autorisé {{0}}",
   "field-required": "Champs requis",
   "*-required-fields": "(*) Champs obligatoires.",
+  "search...": "Chercher par nom, RAL, etc...",
+  "valid-number-interval": "Valeurs comprises entre {{0}} et {{1}}",
 
   "walldrawer-changed-recompute": "Le dessin du contour a changé. Veuillez recliquer sur 'Calculer'"
 }

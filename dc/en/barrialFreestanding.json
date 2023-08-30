@@ -31,6 +31,8 @@
   "less-than-min": "Less than the min authorised: {{0}}",
   "field-required": "Required field",
   "*-required-fields": "(*) Required fields.",
+  "search...": "Search by name, RAL, etc.",
+  "valid-number-interval": "Value must be between {{0}} and {{1}}.",
   
   "walldrawer-changed-recompute": "Drawing has changed. Please re-compute."
 }

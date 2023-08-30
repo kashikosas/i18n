@@ -31,6 +31,8 @@
   "less-than-min": "Weniger als zulässiger Mindestwert: {{0}}",
   "field-required": "Pflichtfeld",
   "*-required-fields": "(*) Erforderliche Felder.",
+  "search...": "Suche nach Name, RAL usw.",
+  "valid-number-interval": "Der Wert muss zwischen {{0}} und {{1}} liegen.",
 
   "walldrawer-changed-recompute": "Zeicheneingaben wurden geändert. Bitte neu berechnen."
 }
