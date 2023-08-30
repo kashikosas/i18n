@@ -20,7 +20,23 @@
   "straight": "Gerade",
   "curved": "Geneigt",
   "bacdal": "Bacdal",
+  "color": "Farbe",
+  "12.5kg": "2x 12.5 kg",
+  "25kg": "1x 25 kg",
 
+  "BS13700": "BS 13700 mit optimierbarer Schiene (1250/1450 mm)​",
+  "BS13700-helper": "Maximale Neigung der Dachterrasse = 5° (8.5%)",
+  "BS13700-SB": "BS 13700 mit 1250 mm Schiene (ohne Attika)​​",
+  "BS13700-SB-helper": "Maximale Neigung der Dachterrasse = 1.15° (2%)",
+  "EN13374": "EN 13374 mit optimierbarer Schiene (1250/1450 mm)​",
+  "EN13374-helper": "Maximale Neigung der Dachterrasse = 10° (17%)",
+  "EN13374-950": "EN 13374 mit 950 mm Schiene",
+  "EN13374-950-helper": "Maximale Neigung der Dachterrasse = 10° (17%)",
+  "EN13374-SB": "EN 13374 mit 1250 mm Schiene (ohne Attika)​​",
+  "EN13374-SB-helper": "Maximale Neigung der Dachterrasse = 1.15° (2%)",
+  "ISO14122-3": "ISO EN 14122-3 mit 1250 mm Schiene ​​",
+  "ISO14122-3-helper": "Maximale Neigung der Dachterrasse = 3° (5%)",
+  
   "plinth-is-required": "Fußleiste erforderlich",
 
   "barrialFreestanding": "Barrial selbsttragend",
