@@ -49,5 +49,7 @@
   "search...": "Chercher par nom, RAL, etc...",
   "valid-number-interval": "Valeurs comprises entre {{0}} et {{1}}",
 
-  "walldrawer-changed-recompute": "Le dessin du contour a changé. Veuillez recliquer sur 'Calculer'"
+  "walldrawer-changed-recompute": "Le dessin du contour a changé. Veuillez recliquer sur 'Calculer'",
+
+  "drawer-action-line": "Si sélectionné, vous pourrez dessiner vos sections de ligne.<br><br>Un clic droit sur une ligne ouvrira la fenêtre des propriétés de la section. Ici, vous pouvez modifier la longueur et l'angle de la section, insérer une porte et si la section est la dernière dessinée, vous pouvez également cliquer sur \"fermer la terrasse\" pour ajouter automatiquement une autre section fermant la terrasse.<br><br>Un clic droit sur un point d'extrémité vous permettra de sélectionner si la main courante est libre (extrémité libre) ou fixée à un mur ou à un autre substrat solide (extrémité fixe).<br><br>Si une terrasse jointe est dessinée, les rails seront automatiquement du côté « intérieur » des lignes. Si une terrasse ouverte est dessinée, l'application choisira de quel côté elle pense que les rails doivent être. Pour échanger le côté, faites un clic droit dans la zone ombrée et cliquez sur \"Inverser l'intérieur et l'extérieur\"."
 }
