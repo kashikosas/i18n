@@ -15,6 +15,7 @@
   "datum": "Datum",
   "edit": "Edit",
   "properties": "Properties",
+  "invert-inside-outside": "Invert inside and outside",
 
   "add-gate": "Add gate",
   "optimize": "Optimise",
