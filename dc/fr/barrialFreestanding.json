@@ -8,10 +8,10 @@
   "postType": "Type de montant",
   "weight": "Type de contrepoids",
   "plinth": "Plinthe",
-  "configuration": "Variante de produit​",
+  "configuration": "Variante de produit",
   "permanentProtectionEdges": "Garde-corps périphériques permanentes",
   "temporaryProtectionEdges": "Garde-corps périphériques temporaires",
-  "permanentProtectionMachinery": "Protection permanente pour l'accès aux machines ",
+  "permanentProtectionMachinery": "Protection permanente pour l'accès aux machines",
   "france": "France",
   "austria": "Autriche",
   "germany": "Allemagne",
@@ -23,19 +23,18 @@
   "color": "Couleur",
   "12.5kg": "2x 12,5 kg",
   "25kg": "1x 25 kg",
-  "invert-inside-outside": "Inverser l'intérieur et l'extérieur",
 
-  "BS13700": "BS 13700 avec rail optimisable (1250/1450 mm) rail​",
+  "BS13700": "BS 13700 avec rail optimisable (1250/1450 mm) rail",
   "BS13700-helper": "Pente maximale du toit-terrasse = 5° (8.5%)",
-  "BS13700-SB": "BS 13700 avec rail de 1250 mm (sans acrotère)​",
+  "BS13700-SB": "BS 13700 avec rail de 1250 mm (sans acrotère)",
   "BS13700-SB-helper": "Pente maximale du toit-terrasse = 1.15° (2%)",
   "EN13374": "EN 13374 avec rail optimisable (1250/1450 mm) rail",
   "EN13374-helper": "Pente maximale du toit-terrasse = 10° (17%)",
-  "EN13374-950": "EN 13374 avec rail de 950 mm​",
+  "EN13374-950": "EN 13374 avec rail de 950 mm",
   "EN13374-950-helper": "Pente maximale du toit-terrasse = 10° (17%)",
-  "EN13374-SB": "EN 13374 avec rail de 1250 mm (sans acrotère)​",
+  "EN13374-SB": "EN 13374 avec rail de 1250 mm (sans acrotère)",
   "EN13374-SB-helper": "Pente maximale du toit-terrasse = 1.15° (2%)",
-  "ISO14122-3": "ISO EN 14122-3 avec rail de 1250 mm​",
+  "ISO14122-3": "ISO EN 14122-3 avec rail de 1250 mm",
   "ISO14122-3-helper": "Pente maximale du toit-terrasse = 3° (5%)",
 
   "barrialFreestandingDrawer": "Dessinateur de Barrial Autoporté",
@@ -52,5 +51,5 @@
 
   "walldrawer-changed-recompute": "Le dessin du contour a changé. Veuillez recliquer sur 'Calculer'",
 
-  "drawer-action-line": "Si sélectionné, vous pourrez dessiner vos sections de ligne.<br><br>Un clic droit sur une ligne ouvrira la fenêtre des propriétés de la section. Vous pouvez modifier la longueur et l'angle de la section, insérer une porte et si la section est la dernière dessinée, cliquez sur \"fermer la terrasse\" pour ajouter automatiquement une autre section fermant la terrasse.​<br><brCertaines variantes de produits peuvent être optimisées. En cliquant sur cette option, vous optimiserez les entraxes des montants et la longueur des rails pour obtenir l'option la plus économique.<br><br>Un clic droit sur <strong>un point d'extrémité</strong> vous permettra de sélectionner si la main courante est libre (extrémité libre) ou fixée à un mur ou à un autre substrat solide (extrémité fixe).<br><br>Pour changer l'orientation des rails, faites un clic droit dans la zone ombrée et cliquez sur \"Inverser l'intérieur et l'extérieur\"."
+  "drawer-action-line": "Si sélectionné, vous pourrez dessiner vos sections de ligne.<br><br>Un clic droit sur une ligne ouvrira la fenêtre des propriétés de la section. Vous pouvez modifier la longueur et l'angle de la section, insérer une porte et si la section est la dernière dessinée, cliquez sur \"fermer la terrasse\" pour ajouter automatiquement une autre section fermant la terrasse.<br><brCertaines variantes de produits peuvent être optimisées. En cliquant sur cette option, vous optimiserez les entraxes des montants et la longueur des rails pour obtenir l'option la plus économique.<br><br>Un clic droit sur <strong>un point d'extrémité</strong> vous permettra de sélectionner si la main courante est libre (extrémité libre) ou fixée à un mur ou à un autre substrat solide (extrémité fixe).<br><br>Pour changer l'orientation des rails, faites un clic droit dans la zone ombrée et cliquez sur \"Inverser l'intérieur et l'extérieur\"."
 }

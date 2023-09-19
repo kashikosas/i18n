@@ -17,6 +17,7 @@
   "datum": "Ausgangspunkt für Belagsgverlegung",
   "edit": "Bearbeiten",
   "properties": "Eigenschaften",
+  "invert-inside-outside": "Innen und außen umkehren",
 
   "add-gate": "Tür hinzufügen",
   "optimize": "Optimieren",

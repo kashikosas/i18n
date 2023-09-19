@@ -3,10 +3,10 @@
   "protectionType": "Type of use",
   "acrotere": "Parapet height",
   "acrotere-info": "Including any gravel or other covering.",
-  "gravel": "Thickness of gravel​",
+  "gravel": "Thickness of gravel",
   "handrailHeight": "Handrail height",
   "postType": "Post type",
-  "weight": "Counterweight type​",
+  "weight": "Counterweight type",
   "plinth": "Toe board",
   "configuration": "Product variant",
   "permanentProtectionEdges": "Permanent protection of edges",
@@ -23,7 +23,6 @@
   "color": "Colour",
   "12.5kg": "2x 12.5 kg",
   "25kg": "1x 25 kg",
-  "invert-inside-outside": "Invert inside and outside",
 
   "BS13700": "BS 13700 with optimisable (1250/1450 mm) rail",
   "BS13700-helper": "Maximum slope of roof = 5° (8.5%)",
@@ -54,5 +53,5 @@
   
   "walldrawer-changed-recompute": "Drawing has changed. Please re-compute.",
 
-   "drawer-action-line": "If selected, you will be able to draw your line sections.​<br>​<br>Right clicking on a line will open the section properties window. Here you can modify the length and the angle of the section, insert a gate and if the section is the last one drawn, you can also click \“close terrace\” to automatically add another section closing the terrace.​<br>​<br>Certain product variants can be optimised, clicking this option will optimise the post centres and rail length to the most economical option.​<br>​<br>Right clicking on <strong>an end point</strong> will allow you to select if the handrail is free (free end) or fixed to a wall or other solid substrate (fixed end).​<br>​<br>If a joined terrace is drawn, the rails will automatically be on the ‘internal’ side of the lines. If an open-ended terrace is drawn, the application will choose which side it thinks the rails should be on. To swap the side, right click in the shaded area and click \“Invert inside and outside\”.​"
+   "drawer-action-line": "If selected, you will be able to draw your line sections.<br><br>Right clicking on a line will open the section properties window. Here you can modify the length and the angle of the section, insert a gate and if the section is the last one drawn, you can also click \"close terrace\" to automatically add another section closing the terrace.​<br>​<br>Certain product variants can be optimised, clicking this option will optimise the post centres and rail length to the most economical option.<br><br>Right clicking on <strong>an end point</strong> will allow you to select if the handrail is free (free end) or fixed to a wall or other solid substrate (fixed end).​<br>​<br>If a joined terrace is drawn, the rails will automatically be on the 'internal' side of the lines. If an open-ended terrace is drawn, the application will choose which side it thinks the rails should be on. To swap the side, right click in the shaded area and click \"Invert inside and outside\"."
 }

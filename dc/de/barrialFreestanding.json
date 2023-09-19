@@ -10,8 +10,8 @@
   "plinth": "Fußleiste",
   "configuration": "Produktvariante",
   "permanentProtectionEdges": "Permanenter Seitenschutz",
-  "temporaryProtectionEdges": "Temporäre Seitenschutz​",
-  "permanentProtectionMachinery": "Permanenter Schutz für den Zugang zu Maschinen​",
+  "temporaryProtectionEdges": "Temporäre Seitenschutz",
+  "permanentProtectionMachinery": "Permanenter Schutz für den Zugang zu Maschinen",
   "france": "Frankreich",
   "austria": "Österreich",
   "germany": "Deutschland",
@@ -23,19 +23,18 @@
   "color": "Farbe",
   "12.5kg": "2x 12.5 kg",
   "25kg": "1x 25 kg",
-  "invert-inside-outside": "Innen und außen umkehren",
 
-  "BS13700": "BS 13700 mit optimierbarer Schiene (1250/1450 mm)​",
+  "BS13700": "BS 13700 mit optimierbarer Schiene (1250/1450 mm)",
   "BS13700-helper": "Maximale Neigung der Dachterrasse = 5° (8.5%)",
-  "BS13700-SB": "BS 13700 mit 1250 mm Schiene (ohne Attika)​​",
+  "BS13700-SB": "BS 13700 mit 1250 mm Schiene (ohne Attika)",
   "BS13700-SB-helper": "Maximale Neigung der Dachterrasse = 1.15° (2%)",
-  "EN13374": "EN 13374 mit optimierbarer Schiene (1250/1450 mm)​",
+  "EN13374": "EN 13374 mit optimierbarer Schiene (1250/1450 mm)",
   "EN13374-helper": "Maximale Neigung der Dachterrasse = 10° (17%)",
   "EN13374-950": "EN 13374 mit 950 mm Schiene",
   "EN13374-950-helper": "Maximale Neigung der Dachterrasse = 10° (17%)",
-  "EN13374-SB": "EN 13374 mit 1250 mm Schiene (ohne Attika)​​",
+  "EN13374-SB": "EN 13374 mit 1250 mm Schiene (ohne Attika)",
   "EN13374-SB-helper": "Maximale Neigung der Dachterrasse = 1.15° (2%)",
-  "ISO14122-3": "ISO EN 14122-3 mit 1250 mm Schiene ​​",
+  "ISO14122-3": "ISO EN 14122-3 mit 1250 mm Schiene ",
   "ISO14122-3-helper": "Maximale Neigung der Dachterrasse = 3° (5%)",
   
   "plinth-is-required": "Fußleiste erforderlich",
@@ -54,5 +53,5 @@
 
   "walldrawer-changed-recompute": "Zeicheneingaben wurden geändert. Bitte neu berechnen.",
 
-   "drawer-action-line": ​"Wenn diese Option ausgewählt ist, können Sie Ihre Linienabschnitte zeichnen.​<br><br>Wenn Sie mit der rechten Maustaste auf eine Linie klicken, wird das Fenster mit den Abschnittseigenschaften geöffnet. Hier können Sie die Länge und den Winkel des Abschnitts ändern, ein Tor einfügen und wenn der Abschnitt der zuletzt gezeichnete Abschnitt ist, können Sie auch auf \„Terrasse schließen\“ klicken, um automatisch einen weiteren Abschnitt hinzuzufügen, der die Terrasse schließt.​<br><br>Bestimmte Produktvariante können optimiert werden. Durch Klicken auf diese Option werden die Pfostenmitten und die Schienenlänge auf die wirtschaftlichste Option optimiert.​​<br><br>Wenn Sie mit der rechten Maustaste auf einen <strong>Endpunkt</strong> klicken, können Sie auswählen, ob der Handlauf frei ist (Freistehendes Endes) oder an einer Wand oder einem anderen festen Untergrund befestigt ist (Festes Ende).​<br><br>Wenn eine verbundene Terrasse gezeichnet wird, liegen die Schienen automatisch auf der \„inneren\“ Seite der Linien. Wenn eine Terrasse mit offenem Ende gezeichnet wird, wählt die Anwendung aus, auf welcher Seite sich die Geländer befinden sollen. Um die Seite zu tauschen, klicken Sie mit der rechten Maustaste in den schattierten Bereich und klicken Sie auf \„Innen und außen umkehren\“."
+   "drawer-action-line": "Wenn diese Option ausgewählt ist, können Sie Ihre Linienabschnitte zeichnen.<br><br>Wenn Sie mit der rechten Maustaste auf eine Linie klicken, wird das Fenster mit den Abschnittseigenschaften geöffnet. Hier können Sie die Länge und den Winkel des Abschnitts ändern, ein Tor einfügen und wenn der Abschnitt der zuletzt gezeichnete Abschnitt ist, können Sie auch auf „Terrasse schließen“ klicken, um automatisch einen weiteren Abschnitt hinzuzufügen, der die Terrasse schließt.<br><br>Bestimmte Produktvariante können optimiert werden. Durch Klicken auf diese Option werden die Pfostenmitten und die Schienenlänge auf die wirtschaftlichste Option optimiert.<br><br>Wenn Sie mit der rechten Maustaste auf einen <strong>Endpunkt</strong> klicken, können Sie auswählen, ob der Handlauf frei ist (Freistehendes Endes) oder an einer Wand oder einem anderen festen Untergrund befestigt ist (Festes Ende).<br><br>Wenn eine verbundene Terrasse gezeichnet wird, liegen die Schienen automatisch auf der „inneren“ Seite der Linien. Wenn eine Terrasse mit offenem Ende gezeichnet wird, wählt die Anwendung aus, auf welcher Seite sich die Geländer befinden sollen. Um die Seite zu tauschen, klicken Sie mit der rechten Maustaste in den schattierten Bereich und klicken Sie auf „Innen und außen umkehren“."
 }
