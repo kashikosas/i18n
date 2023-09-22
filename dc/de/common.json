@@ -151,5 +151,9 @@
   "save-and-ask-question-on-configuration": "Konfiguration speichern und Anfrage senden",
 
   "if-checked-config-saved-with-given-ref-and-query-send": "Wenn angekreuzt, wird die Konfiguration mit der angegebenen Referenz gespeichert und die Nachricht gesendet",
-  "no-configuration-input-found-to-attach-to-request-make-sure-you-compute-after-drawing": "Es wurde keine Konfiguration gefunden. Bitte stellen Sie sicher, dass Sie nach dem Zeichnen auf Berechnen klicken"
+  "no-configuration-input-found-to-attach-to-request-make-sure-you-compute-after-drawing": "Es wurde keine Konfiguration gefunden. Bitte stellen Sie sicher, dass Sie nach dem Zeichnen auf Berechnen klicken",
+
+
+  "cant-display-pdf": "Hoppla! Ihr Browser erlaubt die Anzeige des PDFs nicht!",
+  "download-instead": "Laden Sie das Dokument herunter"
 }

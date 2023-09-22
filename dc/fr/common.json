@@ -128,5 +128,9 @@
   "save-and-ask-question-on-configuration": "Enregistrer et envoyer une demande de prix",
 
   "if-checked-config-saved-with-given-ref-and-query-send": "Si activé, la configuration sera enregistrée avec sa référence avant l'envoi de votre message",
-  "no-configuration-input-found-to-attach-to-request-make-sure-you-compute-after-drawing": "Aucune configuration trouvée. Cliquer sur calculer après avoir dessiné."
+  "no-configuration-input-found-to-attach-to-request-make-sure-you-compute-after-drawing": "Aucune configuration trouvée. Cliquer sur calculer après avoir dessiné.",
+
+
+  "cant-display-pdf": "Oops! Votre navigateur n'autorise pas l'affichage du PDF !",
+  "download-instead": "Téléchargez le document"
 }
