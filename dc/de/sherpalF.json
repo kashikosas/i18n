@@ -5,6 +5,7 @@
   "sherpal-custom": "Sherpal Custom",
   "custom-sherpalF": "Sherpal Custom",
   "configuration-type": "Configuration type",
+  "configuration-type-helper": "More information on choosing the type <a href=\"#\" id=\"configTypeInfo\">here</a>.",
   "4-legged-sherpalF": "Sherpal 4 Legs",
   "6-legged-sherpalF": "Sherpal 6 Legs",
   "8-legged-sherpalF": "Sherpal 8 Legs",
@@ -105,6 +106,7 @@
   "required-field": "Required field",
   "invalid-number": "Invalid number",
   "value-out-of-range": "Value out of range",
+  "btw-": "Values must be between {{0}} and {{1}}",
 
   "machine-length": "Machine length",
   "machine-width": "Machine width",

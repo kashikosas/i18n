@@ -5,6 +5,7 @@
   "sherpal-custom": "Sherpal sur mesure",
   "custom-sherpalF": "Sherpal sur mesure",
   "configuration-type": "Modèle",
+  "configuration-type-helper": "Plus information sur le choix du type <a href=\"#\" id=\"configTypeInfo\">ICI</a>",
   "4-legged-sherpalF": "Sherpal 4 potelets",
   "6-legged-sherpalF": "Sherpal 6 potelets",
   "8-legged-sherpalF": "Sherpal 8 potelets",
@@ -105,6 +106,7 @@
   "required-field": "Champ requis",
   "invalid-number": "Nombre incorrect",
   "value-out-of-range": "Valeur hors plage",
+  "btw-": "Valeur entre {{0}} et {{1}}",
 
   "machine-length": "Longueur machine",
   "machine-width": "Largeur machine",
