@@ -155,5 +155,10 @@
 
 
   "cant-display-pdf": "Hoppla! Ihr Browser erlaubt die Anzeige des PDFs nicht!",
-  "download-instead": "Laden Sie das Dokument herunter"
+  "download-instead": "Laden Sie das Dokument herunter",
+
+  "note-de-calcul": "Bemaßungszertifikat",
+  "descriptif-text": "Spezifikationstext",
+  "mise-en-oeuvre-text": "Implementierung",
+  "debit-flow": "Schnittliste"
 }

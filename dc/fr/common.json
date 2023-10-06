@@ -135,7 +135,7 @@
   "download-instead": "Téléchargez le document",
 
   "note-de-calcul": "Note de calcul",
-  "texte-descriptif": "Texte descriptif",
-  "mise-en-oeuvre": "Notice de pose",
+  "descriptif-text": "Texte descriptif",
+  "mise-en-oeuvre-text": "Notice de pose",
   "debit-flow": "Fiche de débit"
 }

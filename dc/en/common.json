@@ -159,7 +159,7 @@
 
 
   "note-de-calcul": "Dimensioning certificate",
-  "texte-descriptif": "Specification text",
-  "mise-en-oeuvre": "Implementation",
+  "descriptif-text": "Specification text",
+  "mise-en-oeuvre-text": "Implementation",
   "debit-flow": "Cutting list"
 }
