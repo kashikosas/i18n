@@ -110,6 +110,7 @@
   "invalid-number": "Nombre incorrect",
   "value-out-of-range": "Valeur hors plage",
   "btw-": "Valeur entre {{0}} et {{1}}",
+  "*-required-fields" : "(*) Champs obligatoires.",
 
   "machine-length": "Longueur machine",
   "machine-width": "Largeur machine",
