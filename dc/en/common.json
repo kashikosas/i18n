@@ -155,5 +155,11 @@
 
 
   "cant-display-pdf": "Oops! Your browser does not allow the display of the PDF!",
-  "download-instead": "Download instead"
+  "download-instead": "Download instead",
+
+
+  "note-de-calcul": "Dimensioning certificate",
+  "texte-descriptif": "Specification text",
+  "mise-en-oeuvre": "Implementation",
+  "debit-flow": "Cutting list"
 }

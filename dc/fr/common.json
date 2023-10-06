@@ -132,5 +132,10 @@
 
 
   "cant-display-pdf": "Oops! Votre navigateur n'autorise pas l'affichage du PDF !",
-  "download-instead": "Téléchargez le document"
+  "download-instead": "Téléchargez le document",
+
+  "note-de-calcul": "Note de calcul",
+  "texte-descriptif": "Texte descriptif",
+  "mise-en-oeuvre": "Notice de pose",
+  "debit-flow": "Fiche de débit"
 }
