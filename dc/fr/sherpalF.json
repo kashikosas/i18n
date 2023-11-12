@@ -226,7 +226,7 @@
   "descriptif-text-part-3": "La hauteur du Sherpal est {{height, number}}. (Sherpal est disponible en hauteurs 400 ou 800 mm)",
   "descriptif-text-part-4": "Des poutres et traverses de section 99x54 mm permettront de relier les potelets.",
   "descriptif-text-part-5": "Les dimensions et poids de chaque équipement à supporter sont :",
-  "descriptif-text-part-5-list": "{{length, number}} de long, {{width, number}} de large, {{height, number}} de haut, {{weigth, number}} kg",
+  "descriptif-text-part-5-list": "{{length, number}} de long, {{width, number}} de large, {{height, number}} de haut, {{weight, number}} kg",
   "descriptif-text-part-6": "Afin de faciliter la mise en oeuvre, le produit sera réglable en 3 points : au niveau du sabot en pied de potelet, à la jonction entre les potelets et les poutres et à la jonction entre les poutres et les traverses.",
   "descriptif-text-part-7": "Une note de calcul certifiant la conformité du système avec les Eurocodes devra être fournie par le fabricant.",
   "descriptif-text-part-8": "Finition: La finition sera en aluminium brut.",
