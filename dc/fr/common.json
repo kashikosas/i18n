@@ -26,6 +26,7 @@
   "page-profil": "Profil",
 
   "forms": "Formulaires",
+  "form": "Formulaire",
   "customs": "Avancés",
   "search": "Rechercher",
   "loading...": "Chargement...",
@@ -34,6 +35,7 @@
   "signin": "Connexion",
   "logout": "Déconnexion",
   "remember-me": "Se souvenir de moi",
+  "help": "Aide",
 
   "configuration-builders": "Constructeurs de configurateurs",
   "form-validation-failed": "Echec de validation du formulaire",
@@ -121,6 +123,13 @@
   "open-prices-options": "Ouvrir tarifs",
   "prices-options": "Tarifs",
   "quantity": "Quantité",
+
+  "valid-number-interval": "Valeurs comprises entre {{0}} et {{1}}.",
+  "authorised-values-are": "Les valeurs autorisées sont : {{0}}.",
+  "less-than-x-from-sea-lac": "Moins de {{0}}m de la mer ou d'un lac.",
+  "not-multiple-of": "Pas un multiple de {{0}}.",
+  "*-required-fields": "(*) Champs requis.",
+
 
   "data-changed-recompute": "Paramètres modifiés. Relancer le calcul.",
 

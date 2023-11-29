@@ -1,0 +1,22 @@
+{
+  "protegenet": "Protegenet",
+  "product-description-title": "Product description",
+  "product-description-content": "Protègenet is an aluminum window sill system. It protects window sills and facades. It can be used in new construction as well as renovation. The system consists of a window sill with rounded edge and finishing tips. <br/>Open the product page: <a href='https://www.danialu.fr/produits/facade/equipements-de-fenetre/protegenet-appui-fenetre-bavette-aluminium'> Link here </a> <br/>Open photo galery: <a href='https://www.danialu.fr/component/igallery/references-chantier/facade-galerie/encadrement-fenetre-galerie/protegenet-galerie'> Gallery</a>",
+  "product-description-image": "<img width='100%' src='https://www.danialu.fr/images/com_hikashop%2Fupload%2FProtegenet%2Fdanialu-facade-protegenet-appui-fenetre-bavette-aluminium-formulaire.jpg'>",
+
+  "product-description-extra": "<strong>Shipping times</strong> <br/><strong>(Delivery times subject to available stock – the exact shipping date will be communicated to you after validation of your order)</strong> <br/> Delivery time normal: ex factory within 10 working days <br/>Stock colors: ex factory within 5 working days for the following finishes: raw, anodized, lacquered aluminum RAL 1015, 7016, 9010, 9016<br> <strong>CAUTION:</strong> <br>Manufacturing depth: Allow concrete dimension + 30 mm. <br/> Manufacturing length: Allow - 10 mm for the passage of the tips.",
+
+  "type": "Protegenet type",
+  "finition": "Finish",
+  "appui": "Support",
+  "add-appui": "Add support",
+  "brut": "Raw",
+  "anodise": "Anodized",
+  "ral9010": "RAL 9010",
+  "autre": "Other colour",
+  "reference": "Reference",
+  "quantite": "Quantity",
+  "depth": "Depth",
+  "length": "Length",
+  "quantite-emb": "Bit quantity"
+}

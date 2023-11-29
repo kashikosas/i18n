@@ -36,6 +36,7 @@
   "logout": "Abmeldung",
   "remember-me": "Daten speichern",
   "return-to-da": "Weiter zur dani alu Seite",
+  "help": "Helfen",
 
   "configuration-builders": "Konfigurationseditor",
   "form-validation-failed": "Formular Validierung fehlgeschlagen",
@@ -142,6 +143,12 @@
   "open-prices-options": "Preislisten öffnen",
   "prices-options": "Preislisten",
   "quantity": "Menge",
+  
+  "valid-number-interval": "Der Wert muss zwischen {{0}} und {{1}} liegen.",
+  "authorised-values-are": "Die zulässigen Werte sind: {{0}}.",
+  "less-than-x-from-sea-lac": "Weniger als {{0}}m vom Meer oder einem See entfernt.",
+  "not-multiple-of": "Kein Vielfaches von {{0}}.",
+  "*-required-fields": "(*) Erforderliche Felder.",
 
   "cutting-list": "Zuschnittliste",
   "glass-list": "Liste der Glasscheiben",

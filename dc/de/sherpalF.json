@@ -38,6 +38,7 @@
   "weight": "Weight",
   "mesures": "Mesures",
   "machine": "Machine",
+  "add-machine": "Add machine",
   "request-quote": "Request a quote",
   "general-info": "Site info",
   "building-info": "Building info",
@@ -204,7 +205,7 @@
   "please-update-the-configuration-reference": "Please update the reference and address of current configuration",
 
   "dessin-info-title": "Prior information: ",
-  "dessin-info-text": "The fixing of the equipment to Sherpal is not provided by dani alu. The equipment must be mechanically fixed to the structure by means of an anti-vibration block so as not to transmit vibrations to the structure. The overall dimensions of the equipment must take into account the position of the anti-vibration mounts. \n\n EW : Distance width, EL : Distance length",
+  "dessin-info-text": "The fixing of the equipment to Sherpal is not provided by dani alu. The equipment must be mechanically fixed to the structure by means of an anti-vibration block so as not to transmit vibrations to the structure. The overall dimensions of the equipment must take into account the position of the anti-vibration mounts.",
   "dessin-recap-title": "Summary of site and machine:",
   "dessin-recap-install-place": "The system is installed at ",
   "dessin-recap-building-height": "Building height : ",
