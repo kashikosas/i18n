@@ -7,6 +7,9 @@
   "product-description-extra": "<strong>Shipping times</strong> <br/><strong>(Delivery times subject to available stock – the exact shipping date will be communicated to you after validation of your order)</strong> <br/> Delivery time normal: ex factory within 10 working days <br/>Stock colors: ex factory within 5 working days for the following finishes: raw, anodized, lacquered aluminum RAL 1015, 7016, 9010, 9016<br> <strong>CAUTION:</strong> <br>Manufacturing depth: Allow concrete dimension + 30 mm. <br/> Manufacturing length: Allow - 10 mm for the passage of the tips.",
 
   "type": "Protegenet type",
+  "embout": "Tip type",
+  "embout2": "V2",
+  "embout3": "V3",
   "finition": "Finish",
   "appui": "Support",
   "add-appui": "Add support",
@@ -14,6 +17,7 @@
   "anodise": "Anodized",
   "ral9010": "RAL 9010",
   "autre": "Other colour",
+  "teinte": "Custom colour",
   "reference": "Reference",
   "quantite": "Quantity",
   "depth": "Depth",

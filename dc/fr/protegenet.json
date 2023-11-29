@@ -7,6 +7,9 @@
   "product-description-extra": "<strong>Délais d'expédition</strong> <br/><strong>(Délais sous réserve de stock disponible – la date exacte d’expédition vous sera communiquée après validation de votre commande)</strong> <br/> Délai normal : départ usine sous 10 jours ouvrés <br/>Teintes de stock : départ usine sous 5 jours ouvrés pour les finitions suivantes : alu brut, anodisé, laqué RAL 1015, 7016, 9010, 9016. <br> <strong>ATTENTION :</strong> <br>Profondeur de fabrication : Prévoir cote béton + 30 mm. <br/> Longueur de fabrication : Prévoir - 10 mm pour le passage des embouts.",
 
   "type": "Type de Protegenet",
+  "embout": "Type d'embout",
+  "embout2": "Embout 2",
+  "embout3": "Embout 3",
   "finition": "Finition",
   "appui": "Appui",
   "add-appui": "Ajouter un appui",
@@ -14,6 +17,7 @@
   "anodise": "Anodisé",
   "ral9010": "RAL 9010",
   "autre": "Autre couleur",
+  "teinte": "Teinte",
   "reference": "Référence",
   "quantite": "Quantité",
   "depth": "Profondeur",
