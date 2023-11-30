@@ -146,7 +146,7 @@
   "prices-options": "Prices options",
   "quantity": "Quantity",
 
-  "valid-number-interval": "Values must be between {{0}} and {{1}}",
+  "valid-number-interval": "Value must be between {{0}} and {{1}}",
   "authorised-values-are": "The authorised values are: {{0}}.",
   "less-than-x-from-sea-lac": "Less than {{0}}m away from the sea or a lac.",
   "not-multiple-of": "Not a multiple of {{0}}.",

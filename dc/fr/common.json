@@ -124,7 +124,7 @@
   "prices-options": "Tarifs",
   "quantity": "Quantité",
 
-  "valid-number-interval": "Valeurs comprises entre {{0}} et {{1}}.",
+  "valid-number-interval": "Valeur comprise entre {{0}} et {{1}}.",
   "authorised-values-are": "Les valeurs autorisées sont : {{0}}.",
   "less-than-x-from-sea-lac": "Moins de {{0}}m de la mer ou d'un lac.",
   "not-multiple-of": "Pas un multiple de {{0}}.",
