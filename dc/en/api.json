@@ -34,5 +34,8 @@
   "cannot-update-a-cart-product": "Cannot update a cart product",
   "form-saved-succesfully": "Form saved succesfully",
   "id-exists-already": "ID already exists",
-  "invalid-params-for-complex-builder": "Invalid parameters for complex builder"
+  "invalid-params-for-complex-builder": "Invalid parameters for complex builder",
+
+
+  "shf-invalid-space-between-posts": "Invalid space between posts."
 }

@@ -31,5 +31,7 @@
   "invalid-inputs-format": "Format de saisie non valide",
   "invalid-bom-format": "Format de nomenclature non valide",
   "cannot-update-a-cart-product":"Impossible de mettre à jour le produit dans le panier",
-  "form-saved-succesfully": "Sauvegarde formulaire réussie"
+  "form-saved-succesfully": "Sauvegarde formulaire réussie",
+
+  "shf-invalid-space-between-posts": "Entraxe entre potelet inférieur à 500mm."
 }
