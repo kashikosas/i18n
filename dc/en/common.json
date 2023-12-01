@@ -141,7 +141,7 @@
 
   "terrace": "Terrace",
   "update-config-info": "Update info",
-  
+
   "open-prices-options": "Open price options",
   "prices-options": "Prices options",
   "quantity": "Quantity",
@@ -160,13 +160,13 @@
   "if-checked-config-saved-with-given-ref-and-query-send": "If checked, the configuration is saved with the given reference and a message is sent",
   "no-configuration-input-found-to-attach-to-request-make-sure-you-compute-after-drawing": "No configuration input was found to attach to your request. Please click on compute after drawing.",
 
-
   "cant-display-pdf": "Oops! Your browser does not allow the display of the PDF!",
   "download-instead": "Download instead",
-
 
   "note-de-calcul": "Dimensioning certificate",
   "descriptif-text": "Specification text",
   "mise-en-oeuvre-text": "Implementation",
-  "debit-flow": "Cutting list"
+  "debit-flow": "Cutting list",
+  "timesheet": "Timesheet",
+  "accessories-sheet": "Accessories sheet"
 }

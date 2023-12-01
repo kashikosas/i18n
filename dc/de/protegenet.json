@@ -22,5 +22,6 @@
   "quantite": "Quantity",
   "depth": "Depth",
   "length": "Length",
-  "quantite-emb": "Bit quantity"
+  "quantite-emb": "Bit quantity",
+  "not-multiple-of": "Not a multiple of {{0}}."
 }

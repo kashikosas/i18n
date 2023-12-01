@@ -97,6 +97,8 @@
   "nothing-found": "Pas de résultat",
   "add-to-cart": "Ajouter au panier",
   "edit-copy": "Editer-Copier",
+  "price": "Tarif",
+  "prices": "Tarifs",
 
   "reference": "Référence",
   "client": "Client",
@@ -146,5 +148,8 @@
   "note-de-calcul": "Note de calcul",
   "descriptif-text": "Texte descriptif",
   "mise-en-oeuvre-text": "Notice de pose",
-  "debit-flow": "Fiche de débit"
+  "debit-flow": "Fiche de débit",
+  "timesheet": "Fiche de temps",
+  "accessories-sheet": "Fiche accessoires"
+
 }

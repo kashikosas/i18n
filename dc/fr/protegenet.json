@@ -22,5 +22,6 @@
   "quantite": "Quantité",
   "depth": "Profondeur",
   "length": "Longueur",
-  "quantite-emb": "Quantité d'embouts"
+  "quantite-emb": "Quantité d'embouts",
+  "not-multiple-of": "Pas un multiple de {{0}}."
 }
