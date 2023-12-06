@@ -23,5 +23,7 @@
   "depth": "Depth",
   "length": "Length",
   "quantite-emb": "Bit quantity",
-  "not-multiple-of": "Not a multiple of {{0}}."
+  "not-multiple-of": "Not a multiple of {{0}}.",
+  "search...": "Search a colour by RAL, name, etc.",
+  "field-required": "Required field."
 }

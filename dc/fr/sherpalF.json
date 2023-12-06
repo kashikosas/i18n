@@ -40,7 +40,7 @@
   "weight": "Poids",
   "mesures": "Dimensions",
   "machine": "Machine",
-  "add-machine": "Ajouter une machine",
+  "add-machine": "Ajouter une machine sur la structure",
   "request-quote": "Demander un devis",
   "general-info": "Désignation du chantier",
   "building-info": "Données bâtiment",
@@ -131,6 +131,7 @@
   "price-options": "Tarifs",
   "price": "Tarif",
   "nothing-found": "Pas de résultat",
+  "field-required": "Champs requis.",
 
   "company-sector": "Activité de l'entreprise",
   "company-name": "Raison sociale",

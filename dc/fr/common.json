@@ -36,6 +36,10 @@
   "logout": "Déconnexion",
   "remember-me": "Se souvenir de moi",
   "help": "Aide",
+  "state": "Statut",
+  "saved": "Enregistrée",
+  "cart": "Panier",
+  "quote": "Devis",
 
   "configuration-builders": "Constructeurs de configurateurs",
   "form-validation-failed": "Echec de validation du formulaire",
@@ -71,6 +75,8 @@
   "createdAt": "Date création",
 
   "warning": "Attention",
+  "return-to-da": "Retourner sur le site de dani alu",
+  "about-to-leave-daniconfigs": "Vous êtes sur le point de quitter DaniConfigs",
   "about-to-delete-builder": "Suppression constructeur",
   "about-to-reset-configuration": "Réinitialisation configuration",
   "about-to-delete-configuration": "Supprimer configuration: {{ids}}.",
@@ -132,7 +138,6 @@
   "not-multiple-of": "Pas un multiple de {{0}}.",
   "*-required-fields": "(*) Champs requis.",
 
-
   "data-changed-recompute": "Paramètres modifiés. Relancer le calcul.",
 
   "update-and-ask-question-on-configuration": "Mettre à jour et envoyer une demande de prix",
@@ -141,15 +146,14 @@
   "if-checked-config-saved-with-given-ref-and-query-send": "Si activé, la configuration sera enregistrée avec sa référence avant l'envoi de votre message",
   "no-configuration-input-found-to-attach-to-request-make-sure-you-compute-after-drawing": "Aucune configuration trouvée. Cliquer sur calculer après avoir dessiné.",
 
-
   "cant-display-pdf": "Oops! Votre navigateur n'autorise pas l'affichage du PDF !",
   "download-instead": "Téléchargez le document",
 
   "note-de-calcul": "Note de calcul",
+  "dimensioning-certificate": "Attestation du dimensionnement",
   "descriptif-text": "Texte descriptif",
   "mise-en-oeuvre-text": "Notice de pose",
   "debit-flow": "Fiche de débit",
   "timesheet": "Fiche de temps",
   "accessories-sheet": "Fiche accessoires"
-
 }
