@@ -1,3 +1,65 @@
 {
-  "obelyx": "Obelyx"
+  "obelyx": "Obelyx",
+  "obelyx-welcome-title": "Obelyx® Konfigurator",
+  "make-sure-form-valid": "Bitte füllen Sie das Formular aus, um eine visuelle Darstellung Ihres Produkts zu erhalten.",
+  "use-type": "Art der Nutzung",
+  "private": "Privater Gebrauch",
+  "installation-type": "Installationstyp",
+  "on-dalle": "Auf Platte",
+  "on-acrotere": "Auf Brüstung",
+  "infill-type":"Fülltyp",
+  "glass":"Glas",
+  "panel": "Blech",
+  "panel-style": "Blechstil",
+  "glass-style": "Glasstil",
+  "clair": "Klar",
+  "opale": "Opal",
+  "teinte-bronze": "Anned Tint",
+  "teinte-gris": "Grauer Farbton",
+  "colour": "Systemtönung",
+  "parapet-height-above-circulation": "Brüstungshöhe",
+  "parapet-width-known": "Brüstungsbreite ist bekannt?",
+  "parapet-overhang-ext": "Äußerer Überstand der Brüstung",
+  "parapet-overhang-int": "Innenseitiger Brüstungsüberstand",
+  "parapet-width": "Brüstungsbreite",
+  "closoir": "Closoir",
+  "none": "Keiner",
+  "standard": "Standard",
+  "leds": "Mit Beleuchtung",
+  "washer-cover": "Waschmaschinenabdeckung",
+  "black": "Schwarz",
+  "white":"Weiß",
+  "gray": "Grau",
+  "field-required": "Pflichtfeld"
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

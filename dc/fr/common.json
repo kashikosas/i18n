@@ -66,6 +66,8 @@
   "barrialFreestanding": "Barrial autoporté",
   "protegenet": "Protègenet",
   "dilat": "Dilat",
+  "couvernet": "Couvernet",
+  "obelyx": "Obelyx",
   "inputs": "Entrées",
   "outputs": "Sorties",
   "question": "Question",
@@ -96,6 +98,7 @@
   "compute": "Calculer",
   "documents": "Documents",
   "technical-drawings": "Plans",
+  "open-formular": "Ouvrir formulaire",
 
   "write-your-message": "Votre message",
   "attach-current-config": "Joindre la configuration en cours",

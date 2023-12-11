@@ -70,6 +70,8 @@
   "protegenet": "Protègenet",
   "panorama": "Panorama Terrassenkit",
   "dilat": "Dilat",
+  "couvernet": "Couvernet",
+  "obelyx": "Obelyx",
   "inputs": "Eingaben",
   "outputs": "Ausgaben",
   "question": "Frage",
@@ -104,6 +106,7 @@
   "drawer": "Zeichner",
   "updatedAt": "Aktualisiert",
   "createdAt": "Erstellt",
+  "open-formular": "Formular öffnen",
 
   "write-your-message": "Ihre Nachricht",
   "attach-current-config": "Aktuelle Konfiguration anhängen",
@@ -165,7 +168,10 @@
   "download-instead": "Laden Sie das Dokument herunter",
 
   "note-de-calcul": "Bemaßungszertifikat",
+  "dimensioning-certificate": "Bemaßungszertifikat",
   "descriptif-text": "Spezifikationstext",
   "mise-en-oeuvre-text": "Implementierung",
-  "debit-flow": "Schnittliste"
+  "debit-flow": "Schnittliste", 
+  "timesheet": "Stundenzettel",
+  "accessories-sheet": "Zubehörblatt"
 }

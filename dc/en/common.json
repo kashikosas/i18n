@@ -70,6 +70,8 @@
   "protegenet": "Protègenet",
   "panorama": "Panaorama",
   "dilat": "Dilat",
+  "couvernet": "Couvernet",
+  "obelyx": "Obelyx",
   "inputs": "Input",
   "outputs": "Output",
   "question": "Question",
@@ -104,6 +106,7 @@
   "drawer": "Drawer",
   "updatedAt": "Updated",
   "createdAt": "Created",
+  "open-formular": "Open form",
 
   "write-your-message": "Write your message",
   "attach-current-config": "Attach current configuration",
