@@ -49,5 +49,9 @@
   "releve": "Relévé",
   "add-releve": "Add relévé",
   "length": "Length",
-  "height": "Height"
+  "height": "Height",
+  "field-required": "Required field",
+  "valid-number-interval": "Value must be between {{0}} and {{1}}.",
+  "more-than-max": "More than the max authorised: {{0}}",
+  "less-than-min": "Less than the min authorised: {{0}}"
 }

@@ -7,8 +7,8 @@
   "installation-type": "Installationstyp",
   "on-dalle": "Auf Platte",
   "on-acrotere": "Auf Brüstung",
-  "infill-type":"Fülltyp",
-  "glass":"Glas",
+  "infill-type": "Fülltyp",
+  "glass": "Glas",
   "panel": "Blech",
   "panel-style": "Blechstil",
   "glass-style": "Glasstil",
@@ -28,38 +28,17 @@
   "leds": "Mit Beleuchtung",
   "washer-cover": "Waschmaschinenabdeckung",
   "black": "Schwarz",
-  "white":"Weiß",
+  "white": "Weiß",
   "gray": "Grau",
-  "field-required": "Pflichtfeld"
+  "post": "Steigend",
+  "handrail": "Balustrade",
+  "parapet": "Parapet",
+  "post-foot": "Platte",
+  "out-of-bounds": "Wert außerhalb der Grenzen: [{{0}}, {{1}}]",
+  "valid-number-interval": "Der Wert muss zwischen {{0}} und {{1}} liegen.",
+  "more-than-max": "Über dem zulässigen Höchstwert: {{0}}",
+  "less-than-min": "Unter dem zulässigen Mindestwert: {{0}}",
+  "field-required": "Pflichtfeld",
+  "search...": "Suche nach Name, RAL usw.",
+  "*-required-fields": "(*) Erforderliche Felder."
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
