@@ -2,6 +2,10 @@
   "couvernet": "Couvernet",
   "couvernet-welcome-title": "Couvernet® configurator",
   "make-sure-form-valid": "Please fill out the form to have a visual of your product.",
+  "product-description-title": "Product description",
+  "product-description-content": "Couvernet is an aluminum roofing system suitable for protection against infiltration of all types of walls, waterproofed or not. It is characterized by invisible supports which allow free expansion of the cover. <br/> <a href='https://www.danialu.fr/produits/produits-toiture/produit-toiture-etancheite/couvernet-couvertine-aluminium'>See the product presentation.</a> ",
+  "product-description-image": "<img width='100%' src='https://www.danialu.fr/images/FR/Produits/Couvernet/Presentation-systeme/FR-toiture-etancheite-couvernet-presentation-systeme.jpg'/> ",
+
 
   "product-type": "Product type",
   "system": "System",
