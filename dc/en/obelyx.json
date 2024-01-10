@@ -38,6 +38,8 @@
   "handrail": "Handrail",
   "parapet": "Parapet",
   "post-foot": "Plate",
+  "terrace-on-pedestals": "Terrace on pedestals",
+  "circulation-height": "Circulation height",
   "field-required": "Required field",
   "valid-number-interval": "Value must be between {{0}} and {{1}}.",
   "more-than-max": "More than the max authorised: {{0}}",

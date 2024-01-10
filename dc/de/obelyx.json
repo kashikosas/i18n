@@ -34,6 +34,8 @@
   "handrail": "Balustrade",
   "parapet": "Parapet",
   "post-foot": "Platte",
+  "terrace-on-pedestals": "Terrasse auf den Grundstücken",
+  "circulation-height": "Verkehrshöhe",
   "out-of-bounds": "Wert außerhalb der Grenzen: [{{0}}, {{1}}]",
   "valid-number-interval": "Der Wert muss zwischen {{0}} und {{1}} liegen.",
   "more-than-max": "Über dem zulässigen Höchstwert: {{0}}",

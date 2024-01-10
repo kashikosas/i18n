@@ -155,6 +155,8 @@
 
   "cutting-list": "Zuschnittliste",
   "glass-list": "Liste der Glasscheiben",
+  "painted-list": "Gemäldeliste",
+  "cutting-paint-list": "Zuschnittliste – Bemalt",
   "data-changed-recompute": "Eingaben geändert. Bitte neu berechnen.",
 
   "update-and-ask-question-on-configuration": "Konfiguration aktualiseren und Anfrage senden",

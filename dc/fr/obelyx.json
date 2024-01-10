@@ -43,6 +43,8 @@
   "handrail": "Balustrade",
   "parapet": "Parapet",
   "post-foot": "Platine",
+  "terrace-on-pedestals": "Terrasse sur plots",
+  "circulation-height": "Hauteur de circulation",
   "field-required": "Champs requis",
   "more-than-max": "Supérieur au max autorisé {{0}}",
   "less-than-min": "Inférieur au min autorisé {{0}}",
