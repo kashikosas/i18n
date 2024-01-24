@@ -45,7 +45,7 @@
   "more-than-max": "More than the max authorised: {{0}}",
   "less-than-min": "Less than the min authorised: {{0}}",
 
-  "info-parapet-helper": "Please refer to the image below to complete the following fields. <br/> <center><img src='/assets/images/obx/fr-obx-hauteur-dsp.png' width='300px' /></center>",
-  "info-parapet-details-helper": "Please refer to the image below to complete the following fields. <br/> <center><img src='/assets/images/obx/fr-obx-largeur-dsp.png' width='300px' /></center>"
+  "info-parapet-helper": "Please refer to the image below to complete the following fields. <br/> <center><img src='/assets/images/obx/en-obx-hauteur-dsp.png' width='300px' /></center>",
+  "info-parapet-details-helper": "Please refer to the image below to complete the following fields. <br/> <center><img src='/assets/images/obx/en-obx-largeur-dsp.png' width='300px' /></center>"
 
 }
