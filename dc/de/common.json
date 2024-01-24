@@ -12,7 +12,7 @@
   "france": "Frankreich",
   "unitedKingdom": "United Kingdom",
   "germany": "Deutschland",
-  
+
   "da-france": "dani alu SAS (Frankreich)",
   "da-germany": "dani alu GmbH (Deutschland)",
   "da-austria": "dani alu Bausysteme GmbH (Österreich)",
@@ -107,6 +107,9 @@
   "updatedAt": "Aktualisiert",
   "createdAt": "Erstellt",
   "open-formular": "Formular öffnen",
+  "etude": "Studie",
+  "affaire": "Projekt",
+  "site-status": "Status",
 
   "write-your-message": "Ihre Nachricht",
   "attach-current-config": "Aktuelle Konfiguration anhängen",
@@ -146,7 +149,7 @@
   "open-prices-options": "Preislisten öffnen",
   "prices-options": "Preislisten",
   "quantity": "Menge",
-  
+
   "valid-number-interval": "Der Wert muss zwischen {{0}} und {{1}} liegen.",
   "authorised-values-are": "Die zulässigen Werte sind: {{0}}.",
   "less-than-x-from-sea-lac": "Weniger als {{0}}m vom Meer oder einem See entfernt.",
@@ -165,7 +168,6 @@
   "if-checked-config-saved-with-given-ref-and-query-send": "Wenn angekreuzt, wird die Konfiguration mit der angegebenen Referenz gespeichert und die Nachricht gesendet",
   "no-configuration-input-found-to-attach-to-request-make-sure-you-compute-after-drawing": "Es wurde keine Konfiguration gefunden. Bitte stellen Sie sicher, dass Sie nach dem Zeichnen auf Berechnen klicken",
 
-
   "cant-display-pdf": "Hoppla! Ihr Browser erlaubt die Anzeige des PDFs nicht!",
   "download-instead": "Laden Sie das Dokument herunter",
 
@@ -173,7 +175,7 @@
   "dimensioning-certificate": "Bemaßungszertifikat",
   "descriptif-text": "Spezifikationstext",
   "mise-en-oeuvre-text": "Implementierung",
-  "debit-flow": "Schnittliste", 
+  "debit-flow": "Schnittliste",
   "timesheet": "Stundenzettel",
   "accessories-sheet": "Zubehörblatt"
 }

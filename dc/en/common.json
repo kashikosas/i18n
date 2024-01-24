@@ -107,6 +107,9 @@
   "updatedAt": "Updated",
   "createdAt": "Created",
   "open-formular": "Open form",
+  "etude": "Study",
+  "affaire": "Project",
+  "site-status": "Status",
 
   "write-your-message": "Write your message",
   "attach-current-config": "Attach current configuration",

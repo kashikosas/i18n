@@ -40,6 +40,9 @@
   "saved": "Enregistrée",
   "cart": "Panier",
   "quote": "Devis",
+  "etude": "Etude",
+  "affaire": "Affaire",
+  "site-status": "Statut",
 
   "configuration-builders": "Constructeurs de configurateurs",
   "form-validation-failed": "Echec de validation du formulaire",
