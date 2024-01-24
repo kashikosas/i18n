@@ -49,5 +49,9 @@
   "more-than-max": "Supérieur au max autorisé {{0}}",
   "less-than-min": "Inférieur au min autorisé {{0}}",
   "out-of-bounds": "Valeur hors interval autorisé : [{{0}}, {{1}}]",
-  "valid-number-interval": "Valeurs comprises entre {{0}} et {{1}}"
+  "valid-number-interval": "Valeurs comprises entre {{0}} et {{1}}",
+
+  "info-parapet-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/> <center><img src='/assets/images/obx/fr-obx-hauteur-dsp.png' width='300px' /></center>",
+  "info-parapet-details-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/> <center><img src='/assets/images/obx/fr-obx-largeur-dsp.png' width='300px' /></center>"
+
 }
