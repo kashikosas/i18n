@@ -109,7 +109,11 @@
   "open-formular": "Open form",
   "etude": "Study",
   "affaire": "Project",
-  "site-status": "Status",
+  "renovation": "Renovation",
+  "new": "New",
+  "site-status": "Site status",
+  "site-type": "Site type",
+  "duedate": "Delivery date",
 
   "write-your-message": "Write your message",
   "attach-current-config": "Attach current configuration",

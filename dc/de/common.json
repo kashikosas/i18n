@@ -108,8 +108,13 @@
   "createdAt": "Erstellt",
   "open-formular": "Formular öffnen",
   "etude": "Studie",
-  "affaire": "Projekt",
-  "site-status": "Status",
+  "affaire": "Projekt", 
+  "renovation": "Renovierung",
+  "new": "Neun",
+  "site-status": "Baustellenstatus",
+  "site-type": "Art der Baustelle",
+  "duedate": "Liefertermin",
+
 
   "write-your-message": "Ihre Nachricht",
   "attach-current-config": "Aktuelle Konfiguration anhängen",
