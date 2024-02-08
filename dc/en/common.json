@@ -114,6 +114,7 @@
   "site-status": "Site status",
   "site-type": "Site type",
   "duedate": "Delivery date",
+  "from": "from",
 
   "write-your-message": "Write your message",
   "attach-current-config": "Attach current configuration",

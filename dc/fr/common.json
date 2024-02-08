@@ -47,6 +47,7 @@
   "site-status": "Statut chantier",
   "site-type": "Type chantier",
   "duedate": "Date de livraison",
+  "from": "à partir de",
 
   "configuration-builders": "Constructeurs de configurateurs",
   "form-validation-failed": "Echec de validation du formulaire",
