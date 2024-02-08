@@ -37,5 +37,6 @@
   "invalid-params-for-complex-builder": "Invalid parameters for complex builder",
 
 
-  "shf-invalid-space-between-posts": "Invalid space between posts."
+  "shf-invalid-space-between-posts": "Invalid space between posts.",
+  "submit": "Submit"
 }

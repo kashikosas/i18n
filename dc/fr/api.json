@@ -33,5 +33,6 @@
   "cannot-update-a-cart-product":"Impossible de mettre à jour le produit dans le panier",
   "form-saved-succesfully": "Sauvegarde formulaire réussie",
 
-  "shf-invalid-space-between-posts": "Entraxe entre potelet inférieur à 500mm."
+  "shf-invalid-space-between-posts": "Entraxe entre potelet inférieur à 500mm.",
+  "submit": "Soumettre"
 }

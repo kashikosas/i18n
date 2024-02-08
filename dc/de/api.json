@@ -36,6 +36,6 @@
   "id-exists-already": "ID existiert schon",
   "invalid-params-for-complex-builder": "Ungültige Parameter für Zeichnungskonfigurator",
 
-
-  "shf-invalid-space-between-posts": "Ungültiger Abstand zwischen Beiträgen."
+  "shf-invalid-space-between-posts": "Ungültiger Abstand zwischen Beiträgen.",
+  "submit": "Einreichen"
 }
