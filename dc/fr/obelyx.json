@@ -23,15 +23,15 @@
   "colour": "Teinte du système",
   "loading...": "Chargement...",
   "search...": "Chercher par nom, RAL, etc...",
-  "popular": "Populair",
+  "popular": "Populaire",
   "db": "DB",
   "all": "Tout",
   "leds": "Avec éclairage",
-  "parapet-height-above-circulation": "Hauteur du acrotère",
-  "parapet-width-known": "Largeur du acrotère connue ?",
-  "parapet-overhang-ext": "Porte-à-faux extérieur du acrotère",
-  "parapet-overhang-int": "Porte-à-faux intérieur du acrotère",
-  "parapet-width": "Largeur du acrotère",
+  "parapet-height-above-circulation": "Hauteur de l'acrotère",
+  "parapet-width-known": "Largeur de l'acrotère connue ?",
+  "parapet-overhang-ext": "Porte-à-faux extérieur de l'acrotère",
+  "parapet-overhang-int": "Porte-à-faux intérieur de l'acrotère",
+  "parapet-width": "Largeur de l'acrotère",
   "closoir": "Closoir",
   "none": "Aucun",
   "standard": "Standard",
@@ -55,5 +55,4 @@
   "info-parapet-details-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/> <center><img src='/assets/images/obx/fr-obx-largeur-ndsp.png' width='300px' /></center>",
   "info-parapet-circulation-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/> <center><img src='/assets/images/obx/fr-obx-hauteur-dsp.png' width='300px' /></center>",
   "info-parapet-circulation-details-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/> <center><img src='/assets/images/obx/fr-obx-largeur-dsp.png' width='300px' /></center>"
-
 }

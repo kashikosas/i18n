@@ -1,15 +1,11 @@
 {
-  "protegenet": "Protègenet",
+  "protegenet": "Protègenet Tradition",
   "product-description-title": "Product description",
   "product-description-content": "Protègenet is an aluminum window sill system. It protects window sills and facades. It can be used in new construction as well as renovation. The system consists of a window sill with rounded edge and finishing tips. <br/>Open the product page: <a href='https://www.danialu.fr/produits/facade/equipements-de-fenetre/protegenet-appui-fenetre-bavette-aluminium'> Link here </a> <br/>Open photo galery: <a href='https://www.danialu.fr/component/igallery/references-chantier/facade-galerie/encadrement-fenetre-galerie/protegenet-galerie'> Gallery</a>",
   "product-description-image": "<img width='100%' src='https://www.danialu.fr/images/com_hikashop%2Fupload%2FProtegenet%2Fdanialu-facade-protegenet-appui-fenetre-bavette-aluminium-formulaire.jpg'>",
 
   "product-description-extra": "<strong>Shipping times</strong> <br/><strong>(Delivery times subject to available stock – the exact shipping date will be communicated to you after validation of your order)</strong> <br/> Delivery time normal: ex factory within 10 working days <br/>Stock colors: ex factory within 5 working days for the following finishes: raw, anodised, lacquered aluminum RAL 1015, 7016, 9010, 9016<br> <strong>CAUTION:</strong> <br>Manufacturing depth: Allow concrete dimension + 30 mm. <br/> Manufacturing length: Allow - 10 mm for the passage of the ends.",
 
-  "type": "Protègenet type",
-  "embout": "End cap type",
-  "embout2": "V2",
-  "embout3": "V3",
   "finition": "Finish",
   "appui": "Sill",
   "add-appui": "Add sill",
@@ -27,6 +23,12 @@
   "depth": "Depth",
   "length": "Length",
   "quantite-emb": "Pairs (1x left + 1x right) of end caps",
+  "accessories": "Accessoires en option",
+  "corniereFinition": "Cornière de finition",
+  "corniereFinition-helper": "Renseigner le nombre d'unités (1 barre = 1500mm)",
+  "pvcAutocollant": "Profilé PVC autocollant",
+  "pvcAutocollant-helper": "Renseigner le nombre d'unités (1 barre = 2400mm)",
+
   "not-multiple-of": "Not a multiple of {{0}}.",
   "field-required": "Required field."
 }
