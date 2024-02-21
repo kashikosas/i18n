@@ -14,10 +14,11 @@
   "acrotere": "Parapet",
   "width": "Width",
   "slope": "Slope",
-  "has-int-isolation": "Has interior isolation",
-  "int-thickness": "Interior thickness",
-  "has-ext-isolation": "Has exterior isolation",
-  "ext-thickness": "Exterior thickness",
+  "has-int-isolation": "Has interior complex ?",
+  "int-thickness": "Interior complex thickness",
+  "has-ext-isolation": "Has exterior complex ?",
+  "ext-thickness": "Exterior complex thickness",
+  "has-top-isolation": "Has top isolation ?",
   "top-isolation": "Top isolation",
   "top-thickness": "Top thickness",
   "building-height": "Building height",
@@ -26,8 +27,12 @@
   "near-sea": "Near sea",
   "supports": "Supports",
   "type": "Type",
+  "qty-half-support-ext": "Quantity of Half exterior support",
+  "qty-half-support-int": "Quantity of Half interior support",
+  "ml-couvernet": "Linear meter of couvertine",
   "toles-group": "Sheet metal data",
   "type-pliage": "Folding type",
+  "on-angle": "On angle",
   "color": "Colour",
   "loading...": "Loading...",
   "search...": "Search by name, RAL, etc...",
@@ -74,6 +79,7 @@
   "straight": "Straight",
   "rounded": "Rounded",
   "type-bords": "Edge type",
+  "retours": "Returns",
   "finish-type": "Finish type",
   "matte": "Matte",
   "gloss": "Glossy",
@@ -86,8 +92,8 @@
 
   "acrotere-help-text": "Please refer to the image below to enter the dimensions of the parapet.. <br/> <center><img src='/assets/images/couv/en-couv-acrotere-help.png' width='300px' /></center>",
   "support-help-text": "Please refer to the image below to complete the fields in this section. <br/> <center><img src='/assets/images/couv/en-couv-acrotere-help.png' width='300px' /></center>",
-  "support-flat-help-text": "<strong>Note : </strong> Please refer to the image below to complete the following fields. <br/> <center><img src='/assets/images/couv/en-couv-support-dim-flat.png' width='300px' /></center>",
-  "support-slope-help-text": "<strong>Note : </strong> Please refer to the image below to complete the following fields. <br/> <center><img src='/assets/images/couv/en-couv-support-dim-slope.png' width='300px' /></center>",
+  "support-flat-help-text": "<strong>Note : </strong> Please refer to the image below to complete the following fields. <br/>  <center><img src='/assets/images/couv/en-couv-rec.png' width='400px' /></center>",
+  "support-slope-help-text": "<strong>Note : </strong> Please refer to the image below to complete the following fields. <br/>  <center><img src='/assets/images/couv/en-couv-rec.png' width='400px' /></center>",
   "tole-system-help-text": "Please refer to the image below to complete the following fields. <br/> <center><img src='/assets/images/couv/en-couv-tole-dims-edges-flat.png' width='300px' /></center>",
   "tole-complete-help-text": "Please refer to the image below to complete the following fields. <br/> <center><img src='/assets/images/couv/en-couv-tole-dims-edges-slope.png' width='300px' /></center>",
   "tole-base-slope-help-text": "Please refer to the image below to complete the following fields. <br/> <center><img src='/assets/images/couv/en-couv-tole-dims-slope.png' width='300px' /></center>",
@@ -120,10 +126,12 @@
 
   "tole-thickness-helper": "Specify the thickness of the coping, or allow the configurator to choose the most suitable according to the dimensions of the coping.",
 
+  "info-pieces-helper": "Please refer to the image below to complete the fields in this section.  <br/>  <center><img src='/assets/images/couv/en-couv-pieces.png' width='400px' /></center>",
+
   "info-sections-helper": "Add the linear metres needed of coping.<br> Different sections can be added that will be automatically added. As many sections can be added as necessary – a section can be a straight length, a building or an entire project of multiple buildings, there is no rule. <br>  The coping is supplied in 3 metre lengths.",
 
-  "info-corners-helper": "Add corner pieces and enter their angles and quantities. As many different angles as necessary can be entered. <br> The corner piece shown below is an angle of 90°. <center><img src='/assets/images/couv/couv-tole-corner.png' width='300px' /></center>",
-  "info-embouts-helper": "Select the number of end caps, specifying the left and right occurences in case the coping is asymmetric.  <center><img src='/assets/images/couv/couv-tole-end.png' width='300px' /></center>",
-  "intersections-helper": "Add the quantity of T pieces needed. These are three-way junctions with the secondary co ping joining the primary at 90°.  <center><img src='/assets/images/couv/couv-tole-t.png' width='300px' /></center>",
+  "info-corners-helper": "Add corner pieces and enter their angles and quantities. As many different angles as necessary can be entered. <br> The corner piece shown below is an angle of 90°.  ",
+  "info-embouts-helper": "Select the number of end caps, specifying the left and right occurences in case the coping is asymmetric.  ",
+  "intersections-helper": "Add the quantity of T pieces needed. These are three-way junctions with the secondary co ping joining the primary at 90°. ",
   "info-releves-helper": "The rélevé is used to raise the waterproof membrane along a wall. The height and width of the profile can vary but the two combined will always be 70 mm. As many different dimensions of rélevé as necessary can be added. <br> The rélevé is supplied in 3 metre lengths.  <center><img src='/assets/images/couv/couv-tole-releve.png' width='300px' /></center>"
 }
