@@ -1,7 +1,7 @@
 {
   "couvernet": "Couvernet",
   "couvernet-welcome-title": "Configurateur Couvernet®",
-  "make-sure-form-valid": "Merci de remplir le formulaire pour avoir un visuel de votre produit.",
+  "make-sure-form-valid": "Merci de remplir le formulaire pour configurer votre couvertine.",
   "product-description-title": "Description du produit",
   "product-description-content": "Couvernet est un système de couvertine en aluminium adapté à la protection contre les infiltrations de tous types de murets, étanchés ou non. Il se caractérise par des supports invisibles qui permettent une libre dilatation de la couvertine. <br/> <a href='https://www.danialu.fr/produits/produits-toiture/produit-toiture-etancheite/couvernet-couvertine-aluminium'>Voir la présentation du produit. </a> ",
   "product-description-image": "<img width='100%' src='https://www.danialu.fr/images/FR/Produits/Couvernet/Presentation-systeme/FR-toiture-etancheite-couvernet-presentation-systeme.jpg'/> ",
@@ -10,7 +10,7 @@
   "system": "Système",
   "couvertine": "Couvertine",
   "support": "Support",
-  "on-slope": "En pente",
+  "on-slope": "Inclure des cales ?",
   "acrotere": "Acrotère",
   "width": "Largeur",
   "slope": "Pente",
@@ -29,8 +29,8 @@
   "type": "Type",
   "qty-half-support-ext": "Quantité demi-support extérieur",
   "qty-half-support-int": "Quantité demi-support intérieur",
-  "ml-couvernet": "Mètre linéaire de couvertine",
-  "toles-group": "Données de tôlerie",
+  "ml-couvernet": "Mètres linéaires de couvertine",
+  "toles-group": "La couvertine",
   "type-pliage": "Type de pliage",
   "color": "Couleur",
   "loading...": "Chargement...",
@@ -79,7 +79,7 @@
   "rounded": "Arrondi",
   "type-bords": "Type de bords",
   "retours": "Retours",
-  "finish-type": "Type finition",
+  "finish-type": "Type de finition",
   "matte": "Mate",
   "gloss": "Brillant",
   "prolonged-fallout": "Retombée prolongée requise",
@@ -104,24 +104,24 @@
   "tole-base-flat-help-text": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/> <center><img src='/assets/images/couv/fr-couv-tole-dims-flat.png' width='300px' /></center>",
   "accessories-help-text": "Merci de vous référer à l'image ci-dessous pour remplir les champs de cette section. <br/> <center><img src='/assets/images/couv/fr-couv-acrotere-help.png' width='300px' /></center>",
 
-  "product-type-helper": "Choisissez les aspects du produit à configurer et à acheter. <br/> Cet outil vous permet de configurer nos produits selon vos besoins. Le dimensionnement (quantité de supports et leurs entraxes, fixations etc.) et la compatibilité (spécificités du bâtiment, charges de vent, de neige,…) des produits sélectionnés doivent être vérifiés au préalable par vos soins. Dani alu décline toute responsabilité quant à l'adéquation du produit à son environnement de pose. En cas de doute, contactez dani alu en utilisant le bouton en bas à droite.",
+  "product-type-helper": "Choisissez les aspects du produit à configurer et à acheter.<br/><br/>Cet outil vous permet de configurer nos produits selon vos besoins. Le dimensionnement (quantité de supports et leurs entraxes, fixations etc.) et la compatibilité (spécificités du bâtiment, charges de vent, de neige,…) des produits sélectionnés doivent être vérifiés au préalable par vos soins. Dani alu décline toute responsabilité quant à l'adéquation du produit à son environnement de pose. En cas de doute, contactez dani alu en utilisant le bouton en bas à droite.",
   "pt-system-helper": "Pour les supports et la couvertine et ses accessoires",
   "pt-support-helper": "Uniquement les supports à utiliser avec une couvertine tierce",
   "pt-tole-helper": "Uniquement la couvertine et ses accessoires pour fixation à l’acrotère directement ou avec des supports tiers",
 
   "ti-rigid-helper": "Pour être considéré comme « rigide », l’isolant doit être de classe C ou D avec une compression maximale de 10 % à 150 kPa",
 
-  "info-rage-helper": "Selon les règles RAGE, si le bâtiment mesure plus de 28 m de haut ou est proche du littoral, le retombée extérieure doit être d'au moins 100 mm. Si tel est le cas, sélectionnez « Retombée extérieure de 100 mm ».",
+  "info-rage-helper": "Assurez-vous que les retombées choisies offrent une couverture adéquate. En France, la couverture extérieure doit être de 50 mm, sauf si le bâtiment mesure plus de 28 m de haut ou en bord de mer (catégorie de terrain 0) où elle doit être de 100 mm.​",
 
-  "on-slope-helper": "Si vous souhaitez installer la couvertine avec une pente vers l'intérieur, sélectionnez « Installer sur un pente » pour inclure des cales à hauteur variable.",
+  "on-slope-helper": "Inclure cales de 6 mm de hauteur pour règles la pente de la couvertine ?",
   "support-type-helper": "Choisissez le support adapté à votre application :",
   "cannele4-helper": "Le support économique pour les acrotères petits ou avec un pente important.",
   "automatique-helper": "Un support facile à installer pour les acrotères petits et grands.",
   "autorh37Z-helper": "Un support facile à installer pour les acrotères petits et grands qui surélève la couvertine de 22 mm par rapport au support Automatique. Compatible avec une protection antichute Barrial installée avec le sabot Z.",
-  "autorh37Zd-helper": "Un support facile à installer pour les acrotères petits et grands qui surélève la couvertine de 37 mm par rapport au support Automatique. Compatible avec une protection antichute Barrial installée avec le sabot Zd. Ce support est compatible avec un acrotère à isolation intérieure.",
+  "autorh37Zd-helper": "Un support facile à installer pour les acrotères petits et grands qui surélève la couvertine de 37 mm par rapport au support Automatique. Compatible avec une protection antichute Barrial installée avec le sabot Zd.",
   "standard-helper": "Le support optimisé pour les acrotères petits et grands.",
   "standardrh26Z-helper": "Le support optimisé pour les acrotères petits et grands qui surélève la couvertine de 26 mm par rapport au support Standard. Compatible avec une protection antichute Barrial installée avec le sabot Z.",
-  "standardrh26Zd-helper": "Le support optimisé pour les acrotères petits et grands qui surélève la couvertine de 38 mm par rapport au support Standard. Compatible avec une protection antichute Barrial installée avec le sabot Z. Ce support est compatible avec un acrotère à isolation intérieure.",
+  "standardrh26Zd-helper": "Le support optimisé pour les acrotères petits et grands qui surélève la couvertine de 38 mm par rapport au support Standard. Compatible avec une protection antichute Barrial installée avec le sabot Z.",
   "console-helper": "À utiliser sur les acrotères avec isolant extérieur et/ou intérieur mais dont I'isolation supérieure est compressible. Le pente de la couvertine peut être réglé à l'aide du support.",
   "platine-helper": "À utiliser sur les acrotères avec isolant extérieur et/ou intérieur mais dont I'isolation supérieure est rigide (Classe C ou D avec une compression maximale de 10 % à 150 kPa). Le pente de la couvertine est fixé à 2°.",
 
@@ -131,10 +131,10 @@
   "tole-thickness-helper": "Précisez l'épaisseur de la couvertine, ou laissez le configurateur choisir la plus adaptée en fonction des dimensions de la couvertine.",
 
   "info-pieces-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/>  <center><img src='/assets/images/couv/fr-couv-pieces.png' width='400px' /></center>",
-  "info-sections-helper": "Ajoutez les mètres linéaires nécessaires de couvertine. Différentes sections peuvent être ajoutées qui seront automatiquement ajoutées. Autant de sections peuvent être ajoutées que nécessaire – une section peut être une longueur droite, un bâtiment ou un projet entier de plusieurs bâtiments, il n’y a pas de règle. <br> La couvertine est fournie en longueurs de 3 mètres.",
+  "info-sections-helper": "Ajoutez les mètres linéaires nécessaires de couvertine. La couvertine est fournie en longueurs de 3 mètres.",
 
-  "info-corners-helper": "Ajoutez des pièces d'angle et entrez leurs angles et quantités. Il est possible de saisir autant d'angles différents que nécessaire. <br> L’angle illustré ci-dessous forme un angle de 90°.  ",
-  "info-embouts-helper": "Sélectionnez le nombre d'embouts en précisant les occurrences gauche et droite au cas où la couvertine serait asymétrique.  ",
-  "intersections-helper": "Ajoutez la quantité de pièces T nécessaire. Il s'agit de jonctions à trois voies avec la couvertine secondaire rejoignant la primaire à 90°.  ",
+  "info-corners-helper": "Ajoutez des pièces d'angle et entrez leurs angles et quantités. Il est possible de saisir autant d'angles différents que nécessaire.",
+  "info-embouts-helper": "Sélectionnez le nombre d'embouts en précisant les occurrences gauche et droite au cas où la couvertine serait asymétrique.",
+  "intersections-helper": "Ajoutez la quantité de pièces T nécessaire. Il s'agit de jonctions à trois voies avec la couvertine secondaire rejoignant la primaire à 90°.",
   "info-releves-helper": "Le relevé d'étanchéité peut être réalisé afin de relever l'étanchéité le long d'un mur. La hauteur et la largeur du profilé peuvent varier mais les deux combinées seront toujours de 70 mm. Autant de dimensions différentes de relevé que nécessaire peuvent être ajoutées. <br> Le relevé est fourni en longueurs de 3 mètres.  <center><img src='/assets/images/couv/couv-tole-releve.png' width='300px' /></center>"
 }
