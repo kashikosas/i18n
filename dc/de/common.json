@@ -68,6 +68,7 @@
   "terrassenkit": "Terrassenkit",
   "barrialFreestanding": "Barrial selbsttragend",
   "protegenet": "Protègenet",
+  "protegenetTrad": "Protègenet Tradition",
   "panorama": "Panorama Terrassenkit",
   "dilat": "Dilat",
   "couvernet": "Couvernet",
@@ -181,6 +182,7 @@
   "descriptif-text": "Spezifikationstext",
   "mise-en-oeuvre-text": "Implementierung",
   "debit-flow": "Schnittliste",
+  "fabrication-sheet": "Produktionsblatt",
   "timesheet": "Stundenzettel",
   "accessories-sheet": "Zubehörblatt"
 }

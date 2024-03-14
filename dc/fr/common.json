@@ -73,6 +73,7 @@
   "terrassenkit": "Panorama Terrassenkit",
   "barrialFreestanding": "Barrial autoporté",
   "protegenet": "Protègenet",
+  "protegenetTrad": "Protègenet Tradition",
   "dilat": "Dilat",
   "couvernet": "Couvernet",
   "obelyx": "Obelyx",
@@ -122,7 +123,7 @@
 
   "list-colisage": "Liste de colisage",
   "fabrication-order": "Ordre de fabrication",
-  "cutting-list": "Fiche de débit",
+  "cutting-list": "Export Opticoupe",
   "painted-list": "Fiche laquage",
   "cutting-paint-list": "Fiche de débit - Laquage",
   "bar-drilling-list": "Fiche de débit - Bar",
@@ -167,5 +168,6 @@
   "mise-en-oeuvre-text": "Notice de pose",
   "debit-flow": "Fiche de débit",
   "timesheet": "Fiche de temps",
+  "fabrication-sheet": "Fiche de fabrication",
   "accessories-sheet": "Fiche accessoires"
 }
