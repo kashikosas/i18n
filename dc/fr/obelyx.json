@@ -46,10 +46,10 @@
   "post-plate": "Platine",
   "balcony": "Balcon",
   "washer": "Cache-écrou",
-  "fill-profile": "1fr",
-  "fill-profile-cap": "2fr",
-  "fill-side-cap": "Raidisseur",
-  "handrail-cap": "3fr",
+  "fill-profile": "Profil module de remplissage",
+  "fill-profile-cap": "Embout module de remplissage",
+  "fill-side-cap": "Raidisseur module de remplissage",
+  "handrail-cap": "Embout main courante",
   "terrace": "Terrasse",
   "terrace-on-pedestals": "Terrasse sur plots",
   "circulation-height": "Hauteur de circulation",
@@ -59,7 +59,7 @@
   "out-of-bounds": "Valeur hors intervalle autorisé : [{{0}}, {{1}}]",
   "valid-number-interval": "Valeurs comprises entre {{0}} et {{1}}",
 
-  "info-parapet-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br />La largeur minimale de l'acrotère est de 162mm. <br/> <center><img src='/assets/images/obx/fr-obx-hauteur-ndsp.png' width='300px' /></center>",
+  "info-parapet-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br/><b>La largeur minimale de l'acrotère est de 162mm.</b> <br/> <center><img src='/assets/images/obx/fr-obx-hauteur-ndsp.png' width='300px' /></center>",
   "info-parapet-details-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/> <center><img src='/assets/images/obx/fr-obx-largeur-ndsp.png' width='300px' /></center>",
   "info-parapet-circulation-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/> <center><img src='/assets/images/obx/fr-obx-hauteur-dsp.png' width='300px' /></center>",
   "info-parapet-circulation-details-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/> <center><img src='/assets/images/obx/fr-obx-largeur-dsp.png' width='300px' /></center>"
