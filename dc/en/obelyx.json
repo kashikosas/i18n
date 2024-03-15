@@ -59,7 +59,7 @@
   "less-than-min": "Less than the min authorised: {{0}}",
   "out-of-bounds": "Value out of authorized interval : [{{0}}, {{1}}]",
 
-  "info-parapet-helper": "Please refer to the image below to complete the following fields. <br/><br/><b>Minimum parapet width is 162mm. </b><br/> <center><img src='/assets/images/obx/en-obx-hauteur-ndsp.png' width='300px' /></center>",
+  "info-parapet-helper":"Please refer to the image below to complete the following fields. <br/><br/><strong>Minimum parapet width is 162mm.</strong> <br/><br/> <center><img src='/assets/images/obx/en-obx-hauteur-ndsp.png' width='300px' /></center>",
   "info-parapet-details-helper": "Please refer to the image below to complete the following fields. <br/> <center><img src='/assets/images/obx/en-obx-largeur-ndsp.png' width='300px' /></center>",
   "info-parapet-circulation-helper": "Please refer to the image below to complete the following fields.  <br/> <center><img src='/assets/images/obx/en-obx-hauteur-dsp.png' width='300px' /></center>",
   "info-parapet-circulation-details-helper": "Please refer to the image below to complete the following fields.  <br/> <center><img src='/assets/images/obx/en-obx-largeur-dsp.png' width='300px' /></center>"
