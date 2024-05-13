@@ -254,5 +254,8 @@
   "production-flow-mass": "Masse",
   "production-flow-made-by": "Fait par",
   "production-flow-entretoise": "Entretoise Ø80",
-  "production-flow-poutre": "Poutre BR019P"
+  "production-flow-poutre": "Poutre BR019P",
+  "production-flow-customer": "Client",
+  "production-flow-reference": "Référence",
+  "production-flow-affair": "Affaire"
 }
