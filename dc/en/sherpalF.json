@@ -243,5 +243,10 @@
   "save-config-problem-remark-title": "Problem ?",
   "save-config-problem-remark": "To send the configuration to dani alu, complete it and then save it. You can contact dani alu (contact@danialu.fr or +33 4 78 87 12 48) with the configuration reference.",
   "noteDe-calcul-bottom-remark-title": "",
-  "noteDe-calcul-bottom-remark": "The additional load brought by Sherpal and the machinery on the roof terrace is to be validated by the project owner or his calculation company delegated to the project. \n Fasteners are to be sized by the fastener supplier. \n This dimensioning certificate is specific to the Sherpal product from dani alu and should not be used to justify the use of similar products from other manufacturers."
+  "noteDe-calcul-bottom-remark": "The additional load brought by Sherpal and the machinery on the roof terrace is to be validated by the project owner or his calculation company delegated to the project. \n Fasteners are to be sized by the fastener supplier. \n This dimensioning certificate is specific to the Sherpal product from dani alu and should not be used to justify the use of similar products from other manufacturers.",
+
+  "production-flow-sheet": "Flow Sheet",
+  "production-flow-rate": "Flow rate in mm",
+  "production-flow-quantity": "Quantity",
+  "production-flow-landmark": "Landmark"
 }
