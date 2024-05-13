@@ -248,5 +248,11 @@
   "production-flow-sheet": "FEUILLE DE DEBIT",
   "production-flow-rate": "Débit en mm",
   "production-flow-quantity": "Quantité",
-  "production-flow-landmark": "Repère"
+  "production-flow-landmark": "Repère",
+  "production-flow-finishing": "Finition",
+  "production-flow-raw": "Brut",
+  "production-flow-mass": "Masse",
+  "production-flow-made-by": "Fait par",
+  "production-flow-entretoise": "Entretoise Ø80",
+  "production-flow-poutre": "Poutre BR019P"
 }

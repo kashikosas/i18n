@@ -248,5 +248,11 @@
   "production-flow-sheet": "Flow Sheet",
   "production-flow-rate": "Flow rate in mm",
   "production-flow-quantity": "Quantity",
-  "production-flow-landmark": "Landmark"
+  "production-flow-landmark": "Landmark",
+  "production-flow-finishing": "Finishing",
+  "production-flow-raw": "Raw",
+  "production-flow-mass": "Mass",
+  "production-flow-made-by": "Made by",
+  "production-flow-entretoise": "Entretoise Ø80",
+  "production-flow-poutre": "Poutre BR019P"
 }
