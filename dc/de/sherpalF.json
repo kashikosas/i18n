@@ -281,5 +281,7 @@
   "production-flow-reference": "Référence",
   "production-flow-affair": "Affaire",
 
-  "location": "Location"
+  "location": "Location",
+  "france": "Frankreich",
+  "germany": "Deutschland"
 }
