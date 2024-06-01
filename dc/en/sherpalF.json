@@ -257,5 +257,9 @@
   "production-flow-poutre": "Poutre BR019P",
   "production-flow-customer": "Customer",
   "production-flow-reference": "Reference",
-  "production-flow-affair": "Affair"
+  "production-flow-affair": "Affair",
+
+  "country": "Country",
+  "france": "France",
+  "germany": "Germany"
 }
