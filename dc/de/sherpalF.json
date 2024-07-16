@@ -52,12 +52,10 @@
   "zip-code-germany": "Post code",
   "choose-terrain-type": "Choose terrain category",
   "terrain0": "0 - Sea, immediate coast",
-  "terrainI": "I",
   "terrainII": "II - Countryside",
-  "terrainIII": "III",
-  "terrainIIIa": "IIIa - Countryside with hedges, etc.",
   "terrainIIIb": "IIIb - Urban/industrial area",
   "terrainIV": "IV - Town centre",
+  "terrainIIIa": "IIIa - Countryside with hedges, etc.",
   "number-of-machines": "Number of machines",
   "show-mesurements": "Show measurements",
   "none": "None",
@@ -289,5 +287,10 @@
 
   "country": "Country",
   "france": "Frankreich",
-  "germany": "Deutschland"
+  "germany": "Deutschland",
+
+  "termanTerrainI": "I",
+  "termanTerrainII": "II",
+  "termanTerrainIII": "III",
+  "termanTerrainIV": "IV"
 }
