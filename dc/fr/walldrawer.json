@@ -28,5 +28,6 @@
 
   "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "Terrasse non fermée ou type d'extremité non défini",
   "no-terrace-drawn": "Aucune terrasse dessinée",
-  "an-angle-is-out-of-bound": "Un angle est hors de l'intervalle autorisé"
+  "an-angle-is-out-of-bound": "Un angle est hors de l'intervalle autorisé",
+  "a-length-is-out-of-bound": "Une longueur est hors limites."
 }
