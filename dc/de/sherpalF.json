@@ -289,8 +289,8 @@
   "france": "Frankreich",
   "germany": "Deutschland",
 
-  "termanTerrainI": "I",
-  "termanTerrainII": "II",
-  "termanTerrainIII": "III",
-  "termanTerrainIV": "IV"
+  "germanTerrainI": "I",
+  "germanTerrainII": "II",
+  "germanTerrainIII": "III",
+  "germanTerrainIV": "IV"
 }
