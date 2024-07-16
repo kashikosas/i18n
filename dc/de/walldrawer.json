@@ -28,5 +28,6 @@
 
   "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "Eine Terrasse ist nicht geschlossen oder ein Endpunkttyp ist nicht definiert.",
   "no-terrace-drawn": "Keine Terrasse angelegt!",
-  "an-angle-is-out-of-bound": "Ein Winkelmaß ist unzulässig."
+  "an-angle-is-out-of-bound": "Ein Winkelmaß ist unzulässig.",
+  "a-length-is-out-of-bound": "Eine Länge ist außerhalb der Grenzen."
 }
