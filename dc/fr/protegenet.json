@@ -4,7 +4,7 @@
   "product-description-content": "Protègenet est un système d'appui de fenêtre en aluminium. Il protège les appuis de fenêtres et les façades. Il peut être utilisé en construction neuve comme en rénovation. Le système se compose d'un appui de fenêtre à bord arrondi et d'embouts de finition. <br/>Voir la page complète du produit : <a href='https://www.danialu.fr/produits/facade/equipements-de-fenetre/protegenet-appui-fenetre-bavette-aluminium'>Page produit</a>. <br/>Voir la galerie de photos : <a href='https://www.danialu.fr/component/igallery/references-chantier/facade-galerie/encadrement-fenetre-galerie/protegenet-galerie'>Références chantier</a>.",
   "product-description-image": "<img width='100%' src='https://www.danialu.fr/images/com_hikashop%2Fupload%2FProtegenet%2Fdanialu-facade-protegenet-appui-fenetre-bavette-aluminium-formulaire.jpg'>",
 
-  "product-description-extra": "<strong>Délais d'expédition</strong> <br/><strong>(Délais sous réserve de stock disponible – la date exacte d’expédition vous sera communiquée après validation de votre commande)</strong> <br/> Délai normal : départ usine sous 10 jours ouvrés <br/>Teintes de stock : départ usine sous 5 jours ouvrés pour les finitions suivantes : alu brut, anodisé, laqué RAL 1015, 7016, 9010, 9016. <br> <strong>ATTENTION :</strong> <br>Profondeur de fabrication : Prévoir cote béton + 30 mm. <br/> Longueur de fabrication : Prévoir - 10 mm pour le passage des embouts.",
+  "product-description-extra": "<strong>Délais d'expédition</strong> <br/><strong>(Délais sous réserve de stock disponible – la date exacte d’expédition vous sera communiquée après validation de votre commande)</strong> <br/> Délai normal : départ usine sous 10 jours ouvrés, dans la limite de 50 appuis. <br/>Teintes de stock : départ usine sous 5 jours ouvrés, dans la limite de 50 appuis, pour les finitions suivantes : alu brut, anodisé, laqué RAL 1015, 7016, 9010, 9016. <br> <strong>ATTENTION :</strong> <br>Profondeur de fabrication : Prévoir cote béton + 30 mm. <br/> Longueur de fabrication : Prévoir - 10 mm pour le passage des embouts.",
 
   "type": "Type de Protegenet",
   "type-helper": "Choix du modèle Protègenet",
@@ -27,5 +27,4 @@
   "not-multiple-of": "Pas un multiple de {{0}}.",
   "search...": "Recherche d'une couleur par RAL, nom, etc.",
   "field-required": "Champs requis."
-  
 }
