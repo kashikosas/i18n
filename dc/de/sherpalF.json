@@ -54,10 +54,9 @@
   "terrain0": "0 - Sea, immediate coast",
   "terrainI": "I",
   "terrainII": "II - Countryside",
-  "terrainIII": "III",
-  "terrainIIIa": "IIIa - Countryside with hedges, etc.",
   "terrainIIIb": "IIIb - Urban/industrial area",
   "terrainIV": "IV - Town centre",
+  "terrainIIIa": "IIIa - Countryside with hedges, etc.",
   "number-of-machines": "Number of machines",
   "show-mesurements": "Show measurements",
   "none": "None",
@@ -71,8 +70,6 @@
   "generate": "Generate",
   "distance-to-litoral": "Distance to shore",
   "terrain-type": "Land category",
-  "terrain-type-france": "Land category",
-  "terrain-type-germany": "Land category",
   "building-height": "Building height",
   "insulation-size": "Insulation thickness",
   "gravel-height": "Gravel thickness",
@@ -289,5 +286,10 @@
 
   "country": "Country",
   "france": "Frankreich",
-  "germany": "Deutschland"
+  "germany": "Deutschland",
+
+  "germanTerrainI": "I",
+  "germanTerrainII": "II",
+  "germanTerrainIII": "III",
+  "germanTerrainIV": "IV"
 }
