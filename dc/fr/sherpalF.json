@@ -262,10 +262,5 @@
 
   "country": "Pays",
   "france": "France",
-  "germany": "Allemagne",
-
-  "germanTerrainI": "I",
-  "germanTerrainII": "II",
-  "germanTerrainIII": "III",
-  "germanTerrainIV": "IV"
+  "germany": "Allemagne"
 }
