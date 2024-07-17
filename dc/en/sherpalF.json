@@ -262,5 +262,10 @@
 
   "country": "Country",
   "france": "France",
-  "germany": "Germany"
+  "germany": "Germany",
+
+  "germanTerrainI": "I",
+  "germanTerrainII": "II",
+  "germanTerrainIII": "III",
+  "germanTerrainIV": "IV"
 }
