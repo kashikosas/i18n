@@ -36,7 +36,7 @@
   "length": "Length",
   "width": "Width",
   "height": "Height",
-  "city": "City",
+  "city": "Commune",
   "weight": "Weight",
   "mesures": "Mesures",
   "machine": "Machine",
@@ -67,7 +67,7 @@
   "debit-flow": "Cutting list",
   "generate": "Generate",
   "distance-to-litoral": "Distance to shore",
-  "terrain-type": "Land category",
+  "terrain-type": "Terrain category",
   "building-height": "Building height",
   "insulation-size": "Insulation thickness",
   "gravel-height": "Gravel thickness",
@@ -84,7 +84,7 @@
   "configuration-save-failed": "Configuration saving failed",
   "formHas-incorrect-values": "Invalid form",
   "sherpal-info": "Sherpal info",
-  "free-height": "Clearance - free height",
+  "free-height": "Clearance (free height)",
   "with-manchon-bottom": "Use bottom sleeve",
   "with-manchon-top": "Use top sleeve",
   "save": "Save",
@@ -94,7 +94,7 @@
   "help": "Help",
   "save-title": "Save configuration",
   "address": "Address",
-  "reference": "Reference",
+  "reference": "Reference (client)",
   "designation": "Description",
   "material": "Material",
   "finition": "Finish",
@@ -182,7 +182,7 @@
 
   "sherpal-bars": "Beams",
   "sherpal-legs": "Legs",
-  "sherpal-sabots": "Feet",
+  "sherpal-sabots": "Shoes",
   "sherpal-traverses": "Joists",
   "manchon-bottom": "Bottom sleeve",
   "manchon-top": "Top sleeve",
@@ -262,6 +262,12 @@
 
   "country": "Country",
   "france": "France",
+  "germany": "Germany",
+
+  "germanTerrainI": "I",
+  "germanTerrainII": "II",
+  "germanTerrainIII": "III",
+  "germanTerrainIV": "IV"
   "germany": "Germany",
 
   "germanTerrainI": "I",
