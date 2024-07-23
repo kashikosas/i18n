@@ -54,10 +54,9 @@
   "terrain0": "0 - Bord de mer, proche côte",
   "terrainI": "I",
   "terrainII": "II - Campagne",
-  "terrainIII": "III",
-  "terrainIIIa": "IIIa - Campagne avec haies, etc.",
   "terrainIIIb": "IIIb - Ville/zone industrielle",
   "terrainIV": "IV - Centre ville",
+  "terrainIIIa": "IIIa - Campagne avec haies, etc.",
   "number-of-machines": "Nombre de machines",
   "show-mesurements": "Afficher dimensions",
   "none": "Aucune",
@@ -99,7 +98,7 @@
   "help": "Aide",
   "save-title": "Enregistrer la configuration",
   "address": "Adresse",
-  "reference": "Référence",
+  "reference": "Référence (cliente)",
   "designation": "Désignation",
   "material": "Matériau",
   "finition": "Finition",
@@ -267,5 +266,10 @@
 
   "country": "Pays",
   "france": "France",
-  "germany": "Allemagne"
+  "germany": "Allemagne",
+
+  "germanTerrainI": "I",
+  "germanTerrainII": "II",
+  "germanTerrainIII": "III",
+  "germanTerrainIV": "IV"
 }
