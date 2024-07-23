@@ -48,6 +48,8 @@
   "machine-info": "Machine info",
   "basic-sherpal-info": "Basic Sherpal info",
   "zip-code": "Post code",
+  "zip-code-france": "Post code",
+  "zip-code-germany": "Post code",
   "choose-terrain-type": "Choose terrain category",
   "terrain0": "0 - Sea, immediate coast",
   "terrainI": "I",
