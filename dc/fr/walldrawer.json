@@ -23,8 +23,8 @@
   "optimize": "Optimiser",
   "delete": "Supprimer",
   "delete-gate": "Supprimer portillon",
-  "free-end": "Extremité libre",
-  "fixed-end": "Extremité fixe",
+  "free-end": "Bouchon",
+  "fixed-end": "Fixation murale",
 
   "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "Terrasse non fermée ou type d'extremité non défini",
   "no-terrace-drawn": "Aucune terrasse dessinée",

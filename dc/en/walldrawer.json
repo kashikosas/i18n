@@ -21,8 +21,8 @@
   "optimize": "Optimise",
   "delete": "Delete",
   "delete-gate": "Delete gate",
-  "free-end": "Free end",
-  "fixed-end": "Fixed end",
+  "free-end": "End cap",
+  "fixed-end": "Fixed to wall",
 
   "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "A terrace is not closed or an endpoint type is not defined",
   "no-terrace-drawn": "No terrace drawn",
