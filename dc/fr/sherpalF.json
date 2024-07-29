@@ -48,12 +48,15 @@
   "machine-info": "Données machine",
   "basic-sherpal-info": "Informations de base",
   "zip-code": "Code postal",
+  "zip-code-france": "Code postal",
+  "zip-code-germany": "Code postal",
   "choose-terrain-type": "Catégorie terrain",
   "terrain0": "0 - Bord de mer, proche côte",
+  "terrainI": "I",
   "terrainII": "II - Campagne",
-  "terrainIIIa": "IIIa - Campagne avec haies, etc.",
   "terrainIIIb": "IIIb - Ville/zone industrielle",
   "terrainIV": "IV - Centre ville",
+  "terrainIIIa": "IIIa - Campagne avec haies, etc.",
   "number-of-machines": "Nombre de machines",
   "show-mesurements": "Afficher dimensions",
   "none": "Aucune",
@@ -67,6 +70,8 @@
   "generate": "Générer",
   "distance-to-litoral": "Distance à la côte",
   "terrain-type": "Catégorie de terrain",
+  "terrain-type-france": "Catégorie de terrain",
+  "terrain-type-germany": "Catégorie de terrain",
   "building-height": "Hauteur du bâtiment",
   "insulation-size": "Epaisseur complexe d'isolation",
   "gravel-height": "Epaisseur couche gravillons",
@@ -93,7 +98,7 @@
   "help": "Aide",
   "save-title": "Enregistrer la configuration",
   "address": "Adresse",
-  "reference": "Référence",
+  "reference": "Référence (cliente)",
   "designation": "Désignation",
   "material": "Matériau",
   "finition": "Finition",
@@ -261,5 +266,10 @@
 
   "country": "Pays",
   "france": "France",
-  "germany": "Allemagne"
+  "germany": "Allemagne",
+
+  "germanTerrainI": "I",
+  "germanTerrainII": "II",
+  "germanTerrainIII": "III",
+  "germanTerrainIV": "IV"
 }
