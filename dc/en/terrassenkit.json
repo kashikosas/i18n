@@ -137,5 +137,37 @@
   "descriptive-text-category-of-use-ch": "categories A2 and B (private) according to SIA 261",
   "descriptive-text-category-of-use-de": "categories A and B1 (private) according to DIN EN 1991-1-1 and DIN EN 1991-1-1/AN",
   "descriptive-text-category-of-use-fr": "category A (residential) according to NF EN 1991-1-1 and NF EN 1991-1-1/AN",
-  "descriptive-text-category-of-use-uk": "categories A and B (private) according to BS EN 1991-1-1, BS EN 1991-1-1/AN and BS 6180"
+  "descriptive-text-category-of-use-uk": "categories A and B (private) according to BS EN 1991-1-1, BS EN 1991-1-1/AN and BS 6180",
+
+  "descriptive-text-location-A": "Installed outside the fire evacuation zone, either a) at a maximum height above ground level of 20 m in wind zone 1 and in terrain category III, or b) at a maximum height above the ground level of 30 m in wind zone 1 and terrain category IV, or c) in a location/building where the qp(z) is 0.63 kN/ m² or less.",
+  "descriptive-text-location-B": "Installed outside the fire evacuation zone, either a) at a maximum height above ground level of 20 m in wind zone 1 or 2 and in terrain category III, or b) at a maximum height above above ground level of 30 m in wind zone 1 or 2 and in terrain category IV, or c) in a location/building where the qp(z) is 0.77 kN/ m² or less.",
+  "descriptive-text-location-C": "Installed either a) at a maximum height above ground level of 20 m in wind zone 1, 2 or 3 and in terrain category III, or b) at a maximum height above ground level 30 m in wind zone 1, 2 or 3 and in terrain category IV, or c) in a location/building where the qp(z) is 0.94 kN/ m² or less.",
+  "descriptive-text-location-D": "Installed either a) at a maximum height above ground level of 6 m in the zone qp(0) = 0.9 kN/m² and in terrain category III, or b) at a maximum height above the ground level of 20 m in the zone qp(0) = 0.9 kN/m² and in land category IV, or c) in a location/building where the qp(z) is 0.81 kN/ m² or less.",
+  "descriptive-text-location-E": "Installed on the side of the building, either a) at a maximum height above ground level of 16 m in the zone qp(0) = 0.9 kN/m² and in terrain category III, or b) at a maximum height above ground level of 35 m in zone qp(0) = 0.9 kN/m² and in land category IV, or c) at a maximum height above ground level of 6 m in the zone qp(0) = 1.1 kN/m²and in terrain category III, or d) at a maximum height above ground level of 20 m in the zone qp(0) = 1.1 kN /m²and in land category IV, or e) in a location/building where the qp(z) is 1 kN/m² or less.",
+  "descriptive-text-location-F": "Installed either a) at a maximum height above ground level of 15 m in terrain category IIIb, or b) at a maximum height above ground level of 30 m in terrain category IV, or c) in a location/building where the qp(z) is 0.94 kN/m² or less.",
+  "descriptive-text-location-G": "Installed either a) in wind zone 1, 2 or 3, in terrain category IIIb or IV, and at a maximum height above ground level of 21 m, or b) in a location/building where the qp(z) is 0.79 kN/m² or less.",
+  "descriptive-text-location-H": "Installed either a) at a maximum height above ground level of 10 m in an area where Vb,map ≤ 23 m/s, in the terrain category 'Urban', 30 km or more from the coast and at least 3 km within the urbain environment, or b) in a location/building where the qp(z) is 0.68 kN/ m²  or less.",
+  "descriptive-text-location-NA": "Any location.",
+
+  "descriptive-text-qualification-at":"The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
+  "descriptive-text-qualification-ch":"The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
+  "descriptive-text-qualification-de":"The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
+  "descriptive-text-qualification-fr":"The installation must be carried out by a company with qualifications 4411, 4412 or 4413 (metalwork), in accordance with the layout plans provided by dani alu.",
+  "descriptive-text-qualification-uk":"The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
+
+  "descriptive-text-infill-position-before" : "inside",
+  "descriptive-text-infill-position-front" : "outside",
+
+  "descriptive-text-infill-type-glass" : "glass",
+  "descriptive-text-infill-type-round-bars" : "round bars",
+  "descriptive-text-infill-type-square-bars" : "square bars",
+
+  "descriptive-text-infill-style-full-height" : "full height",
+  "descriptive-text-infill-style-partial-height" : "with 100mm void below handrail",
+
+  "descriptive-text-terrace-covering-dalles" : "concrete slabs",
+  "descriptive-text-terrace-covering-tiles" : "ceramic tiles",
+  "descriptive-text-terrace-covering-wood" : "wooden planks",
+  "descriptive-text-terrace-covering-composite" : "composite planks"
+
 }
