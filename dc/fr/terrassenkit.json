@@ -140,5 +140,36 @@
   "descriptive-text-category-of-use-ch": "aux catégories d'usage A2 et B (privée) d’après SIA 261",
   "descriptive-text-category-of-use-de": "aux catégories d'usage A et B1 (privée) d’après DIN EN 1991-1-1 et DIN EN 1991-1-1/AN",
   "descriptive-text-category-of-use-fr": "à la catégorie d'usage A (résidentiel) d’après NF EN 1991-1-1 et NF EN 1991-1-1/AN",
-  "descriptive-text-category-of-use-uk": "aux catégories d'usage A et B (privée) d’après BS EN 1991-1-1, BS EN 1991-1-1/AN et BS 6180"
+  "descriptive-text-category-of-use-uk": "aux catégories d'usage A et B (privée) d’après BS EN 1991-1-1, BS EN 1991-1-1/AN et BS 6180",
+
+  "descriptive-text-location-A": "Installé hors zone d'évacuatiuon incendie, soit a) à une hauteur maximale au-dessus du niveau du sol de 20 m dans la zone de vent 1 et dans la catégorie de terrain III, soit b) à une hauteur maximale au-dessus du niveau du sol de 30 m dans la zone de vent 1 et dans la catégorie de terrain IV, ou soit c) dans un emplacement/bâtiment où le qp(z) est de 0,63 kN/ m² ou moins.",
+  "descriptive-text-location-B": "Installé hors zone d'évacuatiuon incendie, soit a) à une hauteur maximale au-dessus du niveau du sol de 20 m dans la zone de vent 1 ou 2 et dans la catégorie de terrain III, soit b) à une hauteur maximale au-dessus du niveau du sol de 30 m dans la zone de vent 1 ou 2 et dans la catégorie de terrain IV, ou soit c) dans un emplacement/bâtiment où le qp(z) est de 0,77 kN/ m² ou moins.",
+  "descriptive-text-location-C": "Installé soit a) à une hauteur maximale au-dessus du niveau du sol de 20 m dans la zone de vent 1, 2 ou 3 et dans la catégorie de terrain III, soit b) à une hauteur maximale au-dessus du niveau du sol de 30 m dans la zone de vent 1, 2 ou 3 et dans la catégorie de terrain IV, ou soit c) dans un emplacement/bâtiment où le qp(z) est de 0,94 kN/ m² ou moins.",
+  "descriptive-text-location-D": "Installé soit a) à une hauteur maximale au-dessus du niveau du sol de 6 m dans la zone qp(0) = 0,9 kN/m²et dans la catégorie de terrain III, soit b) à une hauteur maximale au-dessus du niveau du sol de 20 m dans la zone qp(0) = 0,9 kN/m²et dans la catégorie de terrain IV,  ou soit c) dans un emplacement/bâtiment où le qp(z) est de 0,81 kN/ m² ou moins.",
+  "descriptive-text-location-E": "Installé sur le côté du bâtiment, soit a) à une hauteur maximale au-dessus du niveau du sol de 16 m dans la zone qp(0) = 0,9 kN/m²et dans la catégorie de terrain III, soit b) à une hauteur maximale au-dessus du niveau du sol de 35 m dans la zone qp(0) = 0,9 kN/m²et dans la catégorie de terrain IV,  soit c) à une hauteur maximale au-dessus du niveau du sol de 6 m dans la zone qp(0) = 1,1 kN/m²et dans la catégorie de terrain III, soit d) à une hauteur maximale au-dessus du niveau du sol de 20 m dans la zone qp(0) = 1,1 kN/m²et dans la catégorie de terrain IV, ou soit e) dans un emplacement/bâtiment où le qp(z) est de 1 kN/ m² ou moins.",
+  "descriptive-text-location-F": "Installé soit a) à une hauteur maximale au-dessus du niveau du sol de 15 m dans la catégorie de terrain IIIb, soit b) à une hauteur maximale au-dessus du niveau du sol de 30 m dans la catégorie de terrain IV, ou soit c) dans un emplacement/bâtiment où le qp(z) est de 0,94 kN/ m² ou moins.",
+  "descriptive-text-location-G": "Installé soit a) dans la zone de vent 1, 2 ou 3, dans la catégorie de terrain IIIb ou IV, et à une hauteur maximale au-dessus du niveau du sol de 21 m, ou soit b) dans un emplacement/bâtiment où le qp(z) est de 0,79 kN/ m² ou moins.",
+  "descriptive-text-location-H": "Installé soit a) à une hauteur maximale au-dessus du niveau du sol de 10 m dans une zone où Vb,map ≤ 23 m/s, dans la catégorie de terrain 'Urbain', à 30 km ou plus de la côte et à au moins 3km à l'intérieur de la ville, ou soit b) dans un emplacement/bâtiment où le qp(z) est de 0,68 kN/ m² ou moins.",
+  "descriptive-text-location-NA": "N'importe emplacement.",
+
+  "descriptive-text-qualification-at":"La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-ch":"La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-de":"La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-fr":"La mise en œuvre sera réalisée par une entreprise justifiant des qualifications 4411, 4412 ou 4413 (métallerie), conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-uk":"La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
+
+  "descriptive-text-infill-position-before" : "l’intérieur",
+  "descriptive-text-infill-position-front" : "l’extérieur",
+
+  "descriptive-text-infill-type-glass" : "verre",
+  "descriptive-text-infill-type-round-bars" : "barreaux ronds",
+  "descriptive-text-infill-type-square-bars" : "barreaux carrés",
+
+  "descriptive-text-infill-style-full-height" : "toute hauteur",
+  "descriptive-text-infill-style-partial-height" : "avec vide de 100 mm dessous la main courante",
+
+  "descriptive-text-terrace-covering-dalles" : "dalles en béton",
+  "descriptive-text-terrace-covering-tiles" : "carrelage en ceramique",
+  "descriptive-text-terrace-covering-wood" : "lames en bois",
+  "descriptive-text-terrace-covering-composite" : "lames en composite"
 }
