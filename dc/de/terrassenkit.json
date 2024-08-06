@@ -119,5 +119,23 @@
   "*-required-fields": "(*) Erforderliche Felder.",
   
   "accept-terrace-offset-title": "Hinweis zum Ausmessen der Terrasse",
-  "accept-terrace-offset-content": "Reduzieren Sie beim Zeichnen der Terrasse die Maße um <bold>{{offset}}</bold> mm gegenüber der Brüstung."
+  "accept-terrace-offset-content": "Reduzieren Sie beim Zeichnen der Terrasse die Maße um <bold>{{offset}}</bold> mm gegenüber der Brüstung.",
+
+  "descriptive-text-organization-contact-info-at": "+43 650 6500 000, danialu.at",
+  "descriptive-text-organization-contact-info-ch": "+43 1 9346049, danialu.ch",
+  "descriptive-text-organization-contact-info-de": "+49 6021 45302-0, danialu.de",
+  "descriptive-text-organization-contact-info-fr": "04 78 87 12 48, danialu.fr",
+  "descriptive-text-organization-contact-info-uk": "01865 595160, danialu.co.uk",
+
+  "descriptive-text-standard-use-at": "ÖNORM B 1991-1, ÖNORM B 1991-1/AN, ÖNORM B 1991-4, ÖNORM B 1991-4/AN und ÖNORM B 5371",
+  "descriptive-text-standard-use-ch": "SIA 261 und SIA 358",
+  "descriptive-text-standard-use-de": "DIN EN 1991-1-1, DIN EN 1991-1-1/AN, DIN EN 1991-1-4, DIN EN 1991-1-4/AN und DIN 18008-4",
+  "descriptive-text-standard-use-fr": "NF P 01-012, NF EN 1991-1-1, NF EN 1991-1-1/NA, NF EN 1991-1-4, NF EN 1991-1-4/NA, und getestet nach Norm NF P 01- 013",
+  "descriptive-text-standard-use-uk": "BS EN 1991-1-1, BS EN 1991-1-1/AN, BS 6180, BS EN 1991-1-4 und BS EN 1991-1-4/AN",
+  
+  "descriptive-text-category-of-use-at": "Nutzungskategorie A1 und B1 (Privat) nach ÖNORM B 1991-1 und ÖNORM B 1991-1/AN  geeignet sind",
+  "descriptive-text-category-of-use-ch": "Nutzungskategorie A2 und B (Privat) nach SIA 261 geeignet sind",
+  "descriptive-text-category-of-use-de": "Nutzungskategorie A und B1 (Privat) nach DIN EN 1991-1-1 und DIN EN 1991-1-1/AN  geeignet sind",
+  "descriptive-text-category-of-use-fr": "Nutzungskategorie A (Wohngebiet) nach NF EN 1991-1-1 und NF EN 1991-1-1/AN  geeignet sind",
+  "descriptive-text-category-of-use-uk": "Nutzungskategorie A et B (Privat) nach BS EN 1991-1-1, BS EN 1991-1-1/AN und BS 6180  geeignet sind"
 }

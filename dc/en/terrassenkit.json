@@ -119,6 +119,23 @@
   "*-required-fields": "(*) Required fields.",
   
   "accept-terrace-offset-title": "Note for measuring the terrace",
-  "accept-terrace-offset-content": "When drawing the terrace, reduce the dimensions by <bold>{{offset}}</bold> mm compared to the parapet."
+  "accept-terrace-offset-content": "When drawing the terrace, reduce the dimensions by <bold>{{offset}}</bold> mm compared to the parapet.",
 
+  "descriptive-text-organization-contact-info-at": "+43 650 6500 000, danialu.at",
+  "descriptive-text-organization-contact-info-ch": "+43 1 9346049, danialu.ch",
+  "descriptive-text-organization-contact-info-de": "+49 6021 45302-0, danialu.de",
+  "descriptive-text-organization-contact-info-fr": "04 78 87 12 48, danialu.fr",
+  "descriptive-text-organization-contact-info-uk": "01865 595160, danialu.co.uk",
+
+  "descriptive-text-standard-use-at": "ÖNORM B 1991-1,  ÖNORM B 1991-1/AN, ÖNORM B 1991-4,  ÖNORM B 1991-4/AN and ÖNORM B 5371",
+  "descriptive-text-standard-use-ch": "SIA 261 and SIA 358",
+  "descriptive-text-standard-use-de": "DIN EN 1991-1-1, DIN EN 1991-1-1/AN, DIN EN 1991-1-4, DIN EN 1991-1-4/AN and DIN 18008-4",
+  "descriptive-text-standard-use-fr": "NF P 01-012, NF EN 1991-1-1, NF EN 1991-1-1/NA, NF EN 1991-1-4, and NF EN 1991-1-4/NA, and tested to NF P 01- 013",
+  "descriptive-text-standard-use-uk": "BS EN 1991-1-1, BS EN 1991-1-1/AN, BS 6180, BS EN 1991-1-4 and BS EN 1991-1-4/AN",
+  
+  "descriptive-text-category-of-use-at": "categories A1 and B1 (private) according to ÖNORM B 1991-1 and ÖNORM B 1991-1/AN",
+  "descriptive-text-category-of-use-ch": "categories A2 and B (private) according to SIA 261",
+  "descriptive-text-category-of-use-de": "categories A and B1 (private) according to DIN EN 1991-1-1 and DIN EN 1991-1-1/AN",
+  "descriptive-text-category-of-use-fr": "category A (residential) according to NF EN 1991-1-1 and NF EN 1991-1-1/AN",
+  "descriptive-text-category-of-use-uk": "categories A and B (private) according to BS EN 1991-1-1, BS EN 1991-1-1/AN and BS 6180"
 }

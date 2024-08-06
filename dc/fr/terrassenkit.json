@@ -122,5 +122,23 @@
   "*-required-fields" : "(*) Champs obligatoires.",
   
   "accept-terrace-offset-title": "Note pour mesurer la terrasse",
-  "accept-terrace-offset-content": "Lors du dessin de la terrasse, réduire les dimensions de <bold>{{offset}}</bold> mm par rapport au parapet."
+  "accept-terrace-offset-content": "Lors du dessin de la terrasse, réduire les dimensions de <bold>{{offset}}</bold> mm par rapport au parapet.",
+
+  "descriptive-text-organization-contact-info-at": "+43 650 6500 000, danialu.at",
+  "descriptive-text-organization-contact-info-ch": "+43 1 9346049, danialu.ch",
+  "descriptive-text-organization-contact-info-de": "+49 6021 45302-0, danialu.de",
+  "descriptive-text-organization-contact-info-fr": "04 78 87 12 48, danialu.fr",
+  "descriptive-text-organization-contact-info-uk": "01865 595160, danialu.co.uk",
+
+  "descriptive-text-standard-use-at": "ÖNORM B 1991-1,  ÖNORM B 1991-1/AN, ÖNORM B 1991-4,  ÖNORM B 1991-4/AN et ÖNORM B 5371",
+  "descriptive-text-standard-use-ch": "SIA 261 et SIA 358",
+  "descriptive-text-standard-use-de": "DIN EN 1991-1-1, DIN EN 1991-1-1/AN, DIN EN 1991-1-4, DIN EN 1991-1-4/AN et DIN 18008-4",
+  "descriptive-text-standard-use-fr": "NF P 01-012, NF EN 1991-1-1, NF EN 1991-1-1/NA, NF EN 1991-1-4, NF EN 1991-1-4/NA, et testé selon la norme NF P 01- 013",
+  "descriptive-text-standard-use-uk": "BS EN 1991-1-1, BS EN 1991-1-1/AN, BS 6180, BS EN 1991-1-4 et BS EN 1991-1-4/AN",
+  
+  "descriptive-text-category-of-use-at": "aux catégories d'usage A1 et B1 (privée) d’après ÖNORM B 1991-1 et ÖNORM B 1991-1/AN",
+  "descriptive-text-category-of-use-ch": "aux catégories d'usage A2 et B (privée) d’après SIA 261",
+  "descriptive-text-category-of-use-de": "aux catégories d'usage A et B1 (privée) d’après DIN EN 1991-1-1 et DIN EN 1991-1-1/AN",
+  "descriptive-text-category-of-use-fr": "à la catégorie d'usage A (résidentiel) d’après NF EN 1991-1-1 et NF EN 1991-1-1/AN",
+  "descriptive-text-category-of-use-uk": "aux catégories d'usage A et B (privée) d’après BS EN 1991-1-1, BS EN 1991-1-1/AN et BS 6180"
 }
