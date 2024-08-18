@@ -271,5 +271,7 @@
   "germanTerrainI": "I",
   "germanTerrainII": "II",
   "germanTerrainIII": "III",
-  "germanTerrainIV": "IV"
+  "germanTerrainIV": "IV",
+
+  "number-of-rows-of-legs-across-width": "Nombre de rangées de potelets sur la largeur"
 }
