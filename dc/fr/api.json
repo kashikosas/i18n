@@ -34,5 +34,7 @@
   "form-saved-succesfully": "Sauvegarde formulaire réussie",
 
   "shf-invalid-space-between-posts": "Entraxe entre potelet inférieur à 500mm.",
-  "submit": "Soumettre"
+  "submit": "Soumettre",
+
+  "shf-outside-of-scope": "Cette configuration Sherpal sort du cadre du configurateur - merci de contacter dani alu qui pourra vous aider."
 }

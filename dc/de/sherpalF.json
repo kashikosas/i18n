@@ -40,7 +40,8 @@
   "weight": "Weight",
   "mesures": "Mesures",
   "machine": "Machine",
-  "add-machine": "Add machine",
+  "add-new-machine": "Add machine",
+  "add-machine": "Add machine to the same Sherpal",
   "request-quote": "Request a quote",
   "general-info": "Site info",
   "building-info": "Building info",
@@ -291,5 +292,7 @@
   "germanTerrainI": "I",
   "germanTerrainII": "II",
   "germanTerrainIII": "III",
-  "germanTerrainIV": "IV"
+  "germanTerrainIV": "IV",
+
+  "number-of-rows-of-legs-across-width": "Number of rows of legs across width"
 }
