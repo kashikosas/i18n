@@ -40,6 +40,7 @@
   "weight": "Poids",
   "mesures": "Dimensions",
   "machine": "Machine",
+  "add-new-machine": "Ajouter une machine",
   "add-machine": "Ajouter une machine sur la structure",
   "request-quote": "Demander un devis",
   "general-info": "Désignation du chantier",
@@ -271,5 +272,7 @@
   "germanTerrainI": "I",
   "germanTerrainII": "II",
   "germanTerrainIII": "III",
-  "germanTerrainIV": "IV"
+  "germanTerrainIV": "IV",
+
+  "number-of-rows-of-legs-across-width": "Nombre de rangées de potelets sur la largeur"
 }

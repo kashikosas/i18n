@@ -38,5 +38,7 @@
 
 
   "shf-invalid-space-between-posts": "Invalid space between posts.",
-  "submit": "Submit"
+  "submit": "Submit",
+
+  "shf-outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you."
 }
