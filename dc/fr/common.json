@@ -170,6 +170,12 @@
   "mise-en-oeuvre-text": "Notice de pose",
   "debit-flow": "Fiche de débit",
   "timesheet": "Fiche de temps",
+  "lacqueringsheet": "Fiche de laquage",
   "fabrication-sheet": "Fiche de fabrication",
-  "accessories-sheet": "Fiche accessoires"
+  "accessories-sheet": "Fiche accessoires",
+  "glass-export": "Cde vitrage",
+  "panel-export": "Cde tôles",
+  "opticoupe-csv-export": "Opticoupe export",
+  "opticoupe-csv-export-toles": "Opticoupe Tôles export",
+  "dxf-file": "Fichier DXF"
 }

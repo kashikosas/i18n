@@ -185,6 +185,12 @@
   "mise-en-oeuvre-text": "Implementation",
   "debit-flow": "Cutting list",
   "timesheet": "Timesheet",
+  "lacqueringsheet": "Lacqueringsheet",
   "fabrication-sheet": "Fabrication sheet",
-  "accessories-sheet": "Accessories sheet"
+  "accessories-sheet": "Accessories sheet",
+  "glass-export": "Glass export",
+  "panel-export": "Panel export",
+  "opticoupe-csv-export": "Opticoupe export",
+  "opticoupe-csv-export-toles": "Opticoupe Panel export",
+  "dxf-file": "DXF file"
 }
