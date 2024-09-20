@@ -129,7 +129,8 @@
   "cutting-paint-list": "Fiche de débit - Laquage",
   "bar-drilling-list": "Fiche de débit - Bar",
   "glass-list": "Nomenclature des vitrages",
-
+  "descriptive-text": "Texte descriptif",
+  
   "copyright-dessin-document": "Système breveté. Ce dessin est la propriété exclusive de la société dani alu. Reproduction ou utilisation sans le consentement de la société dani alu interdits.",
   "scale": "Echelle",
   "scale-abbr": "Ech.",
@@ -169,6 +170,12 @@
   "mise-en-oeuvre-text": "Notice de pose",
   "debit-flow": "Fiche de débit",
   "timesheet": "Fiche de temps",
+  "lacqueringsheet": "Fiche de laquage",
   "fabrication-sheet": "Fiche de fabrication",
-  "accessories-sheet": "Fiche accessoires"
+  "accessories-sheet": "Fiche accessoires",
+  "glass-export": "Cde vitrage",
+  "panel-export": "Cde tôles",
+  "opticoupe-csv-export": "Opticoupe export",
+  "opticoupe-csv-export-toles": "Opticoupe Tôles export",
+  "dxf-file": "Fichier DXF"
 }

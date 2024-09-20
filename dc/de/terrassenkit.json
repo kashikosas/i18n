@@ -119,5 +119,55 @@
   "*-required-fields": "(*) Erforderliche Felder.",
   
   "accept-terrace-offset-title": "Hinweis zum Ausmessen der Terrasse",
-  "accept-terrace-offset-content": "Reduzieren Sie beim Zeichnen der Terrasse die Maße um <bold>{{offset}}</bold> mm gegenüber der Brüstung."
+  "accept-terrace-offset-content": "Reduzieren Sie beim Zeichnen der Terrasse die Maße um <bold>{{offset}}</bold> mm gegenüber der Brüstung.",
+
+  "descriptive-text-organization-contact-info-at": "+43 650 6500 000, danialu.at",
+  "descriptive-text-organization-contact-info-ch": "+43 1 9346049, danialu.ch",
+  "descriptive-text-organization-contact-info-de": "+49 6021 45302-0, danialu.de",
+  "descriptive-text-organization-contact-info-fr": "04 78 87 12 48, danialu.fr",
+  "descriptive-text-organization-contact-info-uk": "01865 595160, danialu.co.uk",
+
+  "descriptive-text-standard-use-at": "ÖNORM B 1991-1, ÖNORM B 1991-1/AN, ÖNORM B 1991-4, ÖNORM B 1991-4/AN und ÖNORM B 5371",
+  "descriptive-text-standard-use-ch": "SIA 261 und SIA 358",
+  "descriptive-text-standard-use-de": "DIN EN 1991-1-1, DIN EN 1991-1-1/AN, DIN EN 1991-1-4, DIN EN 1991-1-4/AN und DIN 18008-4",
+  "descriptive-text-standard-use-fr": "NF P 01-012, NF EN 1991-1-1, NF EN 1991-1-1/NA, NF EN 1991-1-4, NF EN 1991-1-4/NA, und getestet nach Norm NF P 01- 013",
+  "descriptive-text-standard-use-uk": "BS EN 1991-1-1, BS EN 1991-1-1/AN, BS 6180, BS EN 1991-1-4 und BS EN 1991-1-4/AN",
+  
+  "descriptive-text-category-of-use-at": "Nutzungskategorie A1 und B1 (Privat) nach ÖNORM B 1991-1 und ÖNORM B 1991-1/AN  geeignet sind",
+  "descriptive-text-category-of-use-ch": "Nutzungskategorie A2 und B (Privat) nach SIA 261 geeignet sind",
+  "descriptive-text-category-of-use-de": "Nutzungskategorie A und B1 (Privat) nach DIN EN 1991-1-1 und DIN EN 1991-1-1/AN  geeignet sind",
+  "descriptive-text-category-of-use-fr": "Nutzungskategorie A (Wohngebiet) nach NF EN 1991-1-1 und NF EN 1991-1-1/AN  geeignet sind",
+  "descriptive-text-category-of-use-uk": "Nutzungskategorie A et B (Privat) nach BS EN 1991-1-1, BS EN 1991-1-1/AN und BS 6180  geeignet sind",
+
+  "descriptive-text-location-A": "Außerhalb der Brandschutzzone installiert, entweder a) in einer maximalen Höhe über dem Boden von 20 m in Windzone 1 und Geländekategorie III oder b) in einer maximalen Höhe über dem Boden von 30 m in Windzone 1 und Geländekategorie IV oder c) an einem Ort/Gebäude, an dem der qp(z) 0,63 kN/m² oder weniger beträgt.",
+  "descriptive-text-location-B": "Außerhalb der Brandschutzzone installiert, entweder a) in einer maximalen Höhe über dem Boden von 20 m in Windzone 1 oder 2 und Geländekategorie III oder b) in einer maximalen Höhe über dem Boden von 30 m in Windzone 1 oder 2 und Geländekategorie IV oder c) an einem Ort/Gebäude, an dem der qp(z) 0,77 kN/m² oder weniger beträgt.",
+  "descriptive-text-location-C": "Entweder a) in einer maximalen Höhe über dem Boden von 20 m in Windzone 1, 2 oder 3 und Geländekategorie III oder b) in einer maximalen Höhe über dem Boden von 30 m in Windzone 1, 2 oder 3 und Geländekategorie IV oder c) an einem Ort/Gebäude, an dem qp(z) 0,94 kN/ m² oder weniger beträgt.",
+  "descriptive-text-location-D": "Entweder a) in einer maximalen Höhe über dem Boden von 6 m im Bereich qp(0) = 0,9 kN/m²und in der Geländekategorie III oder b) in einer maximalen Höhe über dem Boden von 20 m im Bereich qp(0) = 0,9 kN/m²und in der Geländekategorie IV oder c) an einem Standort/Gebäude mit einem qp(z) von 0,81 kN/ m² oder weniger installiert.",
+  "descriptive-text-location-E": "An der Seite des Gebäudes angebracht, entweder a) in einer maximalen Höhe über dem Bodenniveau von 16 m im Gebiet qp(0) = 0,9 kN/m²und in der Geländekategorie III, oder b) in einer maximalen Höhe über dem Bodenniveau von 35 m im Gebiet qp(0) = 0,9 kN/m²und in der Geländekategorie IV,  oder c) in einer maximalen Höhe über dem Bodenniveau von 6 m im Bereich qp(0) = 1,1 kN/m²und in der Geländekategorie III oder d) in einer maximalen Höhe über dem Bodenniveau von 20 m im Bereich qp(0) = 1,1 kN/m²und in der Geländekategorie IV oder e) an einem Ort/Gebäude, an dem der qp(z) 1 kN/ m² oder weniger beträgt.",
+  "descriptive-text-location-F": "Entweder a) in einer maximalen Höhe über dem Boden von 15 m in der Geländekategorie IIIb oder b) in einer maximalen Höhe über dem Boden von 30 m in der Geländekategorie IV oder c) an einem Ort/Gebäude, an dem der qp(z) 0,94 kN/m² oder weniger beträgt, installiert.",
+  "descriptive-text-location-G": "Entweder a) in der Windzone 1, 2 oder 3, in der Geländekategorie IIIb oder IV und in einer maximalen Höhe über dem Bodenniveau von 21 m installiert oder b) an einem Ort/Gebäude, an dem qp(z) 0,79 kN/m² oder weniger beträgt.",
+  "descriptive-text-location-H": "Entweder a) in einer maximalen Höhe über dem Boden von 10 m in einem Gebiet mit Vb,map ≤ 23 m/s, in der Geländekategorie 'Urban', 30 km oder mehr von der Küste entfernt und mindestens 3 km innerhalb der Stadt, oder b) an einem Ort/Gebäude, an dem qp(z) 0,68 kN/ m² oder weniger beträgt, installiert.",
+  "descriptive-text-location-NA": "Beliebiger Standort.",
+
+  "descriptive-text-qualification-at":"Die Montage sollte von qualifiziertem Fachpersonal gemäß dem von dani alu gelieferten Verlegeplan und der Montageanleitung durchgeführt werden.",
+  "descriptive-text-qualification-ch":"Die Montage sollte von qualifiziertem Fachpersonal gemäß dem von dani alu gelieferten Verlegeplan und der Montageanleitung durchgeführt werden.",
+  "descriptive-text-qualification-de":"Die Montage sollte von qualifiziertem Fachpersonal gemäß dem von dani alu gelieferten Verlegeplan und der Montageanleitung durchgeführt werden.",
+  "descriptive-text-qualification-fr":"Die Montage wird von einem Unternehmen durchgeführt, das die Qualifikationen 4411, 4412 oder 4413 (Metallarbeiten) nachweisen kann, gemäß den von dani alu zur Verfügung gestellten Verlegeplänen.",
+  "descriptive-text-qualification-uk":"Die Montage sollte von qualifiziertem Fachpersonal gemäß dem von dani alu gelieferten Verlegeplan und der Montageanleitung durchgeführt werden.",
+
+  "descriptive-text-infill-position-before" : "hinter",
+  "descriptive-text-infill-position-front" : "vor",
+
+  "descriptive-text-infill-type-glass" : "Glas",
+  "descriptive-text-infill-type-round-bars" : "eckiger Stabfüllung",
+  "descriptive-text-infill-type-square-bars" : "runder Stabfüllung",
+
+  "descriptive-text-infill-style-full-height" : "vollflächig",
+  "descriptive-text-infill-style-partial-height" : "teilflächig mit 100 mm zwischen Handlauf und Füllung",
+
+  "descriptive-text-terrace-covering-dalles" : "Betonplatten",
+  "descriptive-text-terrace-covering-tiles" : "Keramikplatten oder Fliesen",
+  "descriptive-text-terrace-covering-wood" : "Holz-Terrassendielen",
+  "descriptive-text-terrace-covering-composite" : "WPC-Terrassendielen"
 }
+
