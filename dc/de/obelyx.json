@@ -42,11 +42,5 @@
   "less-than-min": "Unter dem zulässigen Mindestwert: {{0}}",
   "field-required": "Pflichtfeld",
   "search...": "Suche nach Name, RAL usw.",
-  "*-required-fields": "(*) Erforderliche Felder.",
-
-  "info-parapet-helper": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/> <center><img src='/assets/images/obx/de-obx-hauteur-ndsp.png' width='300px' /></center>",
-  "info-parapet-details-helper": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/> <center><img src='/assets/images/obx/de-obx-largeur-ndsp.png' width='300px' /></center>",
-  "info-parapet-circulation-helper": "Please refer to the image below to complete the following fields.  <br/> <center><img src='/assets/images/obx/de-obx-hauteur-dsp.png' width='300px' /></center>",
-  "info-parapet-circulation-details-helper": "Please refer to the image below to complete the following fields.  <br/> <center><img src='/assets/images/obx/de-obx-largeur-dsp.png' width='300px' /></center>"
-
+  "*-required-fields": "(*) Erforderliche Felder."
 }
