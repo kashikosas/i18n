@@ -36,11 +36,22 @@
   "post-foot": "Platte",
   "terrace-on-pedestals": "Terrasse auf den Grundstücken",
   "circulation-height": "Verkehrshöhe",
+  "offset-position": "",
+  "position-standard": "",
+  "position-custom": "",
+  "offset-position-value": "",
   "out-of-bounds": "Wert außerhalb der Grenzen: [{{0}}, {{1}}]",
   "valid-number-interval": "Der Wert muss zwischen {{0}} und {{1}} liegen.",
   "more-than-max": "Über dem zulässigen Höchstwert: {{0}}",
   "less-than-min": "Unter dem zulässigen Mindestwert: {{0}}",
   "field-required": "Pflichtfeld",
   "search...": "Suche nach Name, RAL usw.",
-  "*-required-fields": "(*) Erforderliche Felder."
+  "*-required-fields": "(*) Erforderliche Felder.",
+  "warning-fixings-helper-message": "",
+
+  "info-parapet-helper-message": "",
+
+  "position-balcony-img": "",
+  "position-parapet-img": "",
+  "position-parapet-dsp-img": ""
 }
