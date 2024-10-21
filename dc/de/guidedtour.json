@@ -47,7 +47,7 @@
   "drawer-action-select": "Wenn es aktiv ist, können Sie sich in der Zeichenseite bewegen (klicken und halten Sie die linke Maustaste) oder hinein-/herauszoomen (mit dem Mausrad).",
 
   "title-drawer-action-line": "Zeichnungsschritt",
-  "drawer-action-line": "Wenn diese Option ausgewählt ist, können Sie Ihre Linienabschnitte zeichnen.<br><br>Wenn Sie mit der rechten Maustaste auf eine Linie klicken, wird das Fenster mit den Bereichseigenschaften geöffnet. Hier können Sie die Länge und den Winkel der Fläche ändern, auswählen, entschaiden ob es sich bei dem Abschnitt um eine Mauer oder eine Wand  handelt (also ohne Geländer). Bestimmen si ob die Kante, im Falle von Latten, oder die linke Ecke der Kante (für Platten oder Fliesen) als Startpunkt der der Terrassenverlegung gewählt werden soll (der <italic>Ausgangspunkt für Belagsverlegung</italic>).<br><br>Wenn es sich bei dem Abschnitt, um den zuletzt gezeichneten Abschnitt handelt, können Sie auch auf <italic>Terrasse schließen</italic> klicken, um automatisch eine letzte Kante hinzuzufügen, die die Terrasse schließt.",
+  "drawer-action-line": "Wenn diese Option ausgewählt ist, können Sie Ihre Linienabschnitte zeichnen.<br><br>Wenn Sie mit der rechten Maustaste auf eine Linie klicken, wird das Fenster mit den Bereichseigenschaften geöffnet. Hier können Sie die Länge und den Winkel der Fläche ändern, auswählen.",
 
   "title-drawer-action-undo-redo-reset": "Weitere Werkzeuge",
   "drawer-action-line-undo-redo-reset": "Verwenden Sie diese Werkzeuge, um die Zeichenfläche rückgängig zu machen, wiederherzustellen oder um von vorne zu beginnen.",

@@ -47,7 +47,7 @@
   "drawer-action-select": "Once active, you can move around the drawer (clicking and holding the left button) or zoom in/out (with the wheel).",
 
   "title-drawer-action-line": "Drawing action",
-  "drawer-action-line": "If selected, you will be able to draw your line sections.<br><br>Right clicking on a line will open the section properties window. Here you can modify the length and the angle of the section, select whether the section is a wall (so it will not have guardrails) and choose if the section (for planks) or the left end of the section (for slabs or tiles) is the start point of the installation of the terrace surface (the <italic>datum</italic>).<br><br>If the section is the last one drawn, you can also click <italic>close terrace</italic> to automatically add another section closing the terrace.",
+  "drawer-action-line": "If selected, you will be able to draw your line sections.<br><br>Right clicking on a line will open the section properties window. Here you can modify the length and the angle of the section, select.",
 
   "title-drawer-action-undo-redo-reset": "More tools",
   "drawer-action-line-undo-redo-reset": "Use these tools to undo, redo or clear the drawer to start again.",
