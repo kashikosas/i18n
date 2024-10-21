@@ -64,14 +64,20 @@
   "terrace": "Terrasse",
   "terrace-on-pedestals": "Terrasse sur plots",
   "circulation-height": "Hauteur de circulation",
+  "offset-position": "Ecart position",
+  "position-standard": "Distance standard avec le bord de l'acrotère",
+  "position-custom": "Distance personnalisée avec le bord de l'acrotère",
+  "offset-position-value": "Valeur écart position",
   "field-required": "Champs requis",
   "more-than-max": "Supérieur au max autorisé {{0}}",
   "less-than-min": "Inférieur au min autorisé {{0}}",
   "out-of-bounds": "Valeur hors intervalle autorisé : [{{0}}, {{1}}]",
   "valid-number-interval": "Valeurs comprises entre {{0}} et {{1}}",
+  "warning-fixings-helper-message": "<strong>Dans cette position, la préconisation du CSTB de laisser 100 mm entre le bord de la dalle et la fixation n'est pas respectée. Il faut faire attention au choix de fixations compatibles.</strong>",
 
-  "info-parapet-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br/><strong>La largeur minimale de l'acrotère est de 162mm.</strong> <br/><br/> <center><img src='/assets/images/obx/fr-obx-hauteur-ndsp.png' width='300px' /></center>",
-  "info-parapet-details-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/> <center><img src='/assets/images/obx/fr-obx-largeur-ndsp.png' width='300px' /></center>",
-  "info-parapet-circulation-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br/><strong>La largeur minimale de l'acrotère est de 162mm.</strong> <br/><br/> <center><img src='/assets/images/obx/fr-obx-hauteur-dsp.png' width='300px' /></center>",
-  "info-parapet-circulation-details-helper": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/> <center><img src='/assets/images/obx/fr-obx-largeur-dsp.png' width='300px' /></center>"
+  "info-parapet-helper-message": "<strong>La largeur minimale de l'acrotère est de </strong>",
+
+  "position-balcony-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/fr-obx-distance-balcon.png' width='300px' /></center>",
+  "position-parapet-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/fr-obx-distance-para.png' width='380px' /></center>",
+  "position-parapet-dsp-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/fr-obx-distance-para-dsp.png' width='400px' /></center>"
 }

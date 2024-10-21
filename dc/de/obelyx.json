@@ -36,6 +36,10 @@
   "post-foot": "Platte",
   "terrace-on-pedestals": "Terrasse auf den Grundstücken",
   "circulation-height": "Verkehrshöhe",
+  "offset-position": "",
+  "position-standard": "",
+  "position-custom": "",
+  "offset-position-value": "",
   "out-of-bounds": "Wert außerhalb der Grenzen: [{{0}}, {{1}}]",
   "valid-number-interval": "Der Wert muss zwischen {{0}} und {{1}} liegen.",
   "more-than-max": "Über dem zulässigen Höchstwert: {{0}}",
@@ -43,10 +47,11 @@
   "field-required": "Pflichtfeld",
   "search...": "Suche nach Name, RAL usw.",
   "*-required-fields": "(*) Erforderliche Felder.",
+  "warning-fixings-helper-message": "",
 
-  "info-parapet-helper": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/> <center><img src='/assets/images/obx/de-obx-hauteur-ndsp.png' width='300px' /></center>",
-  "info-parapet-details-helper": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/> <center><img src='/assets/images/obx/de-obx-largeur-ndsp.png' width='300px' /></center>",
-  "info-parapet-circulation-helper": "Please refer to the image below to complete the following fields.  <br/> <center><img src='/assets/images/obx/de-obx-hauteur-dsp.png' width='300px' /></center>",
-  "info-parapet-circulation-details-helper": "Please refer to the image below to complete the following fields.  <br/> <center><img src='/assets/images/obx/de-obx-largeur-dsp.png' width='300px' /></center>"
+  "info-parapet-helper-message": "",
 
+  "position-balcony-img": "",
+  "position-parapet-img": "",
+  "position-parapet-dsp-img": ""
 }
