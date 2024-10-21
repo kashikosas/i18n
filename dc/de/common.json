@@ -157,7 +157,7 @@
   "quantity": "Menge",
 
   "valid-number-interval": "Der Wert muss zwischen {{0}} und {{1}} liegen.",
-  "valid-number-interval-with-exception": "",
+  "valid-number-interval-with-exception": "Der Wert muss zwischen {{0}} und {{1}} liegen, ausgenommen {{2}}.",
   "authorised-values-are": "Die zulässigen Werte sind: {{0}}.",
   "less-than-x-from-sea-lac": "Weniger als {{0}}m vom Meer oder einem See entfernt.",
   "not-multiple-of": "Kein Vielfaches von {{0}}.",
