@@ -73,7 +73,7 @@
   "less-than-min": "Inférieur au min autorisé {{0}}",
   "out-of-bounds": "Valeur hors intervalle autorisé : [{{0}}, {{1}}]",
   "valid-number-interval": "Valeurs comprises entre {{0}} et {{1}}",
-  "warning-fixings-helper-message": "<strong>Attention: l'espace des fixations est très faible.</strong>",
+  "warning-fixings-helper-message": "<strong>Dans cette position, la préconisation du CSTB de laisser 100 mm entre le bord de la dalle et la fixation n'est pas respectée. Il faut faire attention au choix de fixations compatibles.</strong>",
 
   "info-parapet-helper-message": "<strong>La largeur minimale de l'acrotère est de </strong>",
 

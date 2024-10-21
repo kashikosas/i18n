@@ -73,7 +73,7 @@
   "more-than-max": "More than the max authorised: {{0}}",
   "less-than-min": "Less than the min authorised: {{0}}",
   "out-of-bounds": "Value out of authorized interval : [{{0}}, {{1}}]",
-  "warning-fixings-helper-message": "Warning : fixing offset is very low",
+  "warning-fixings-helper-message": "In this position, the CSTB recommendation to allow 100 mm between the edge of the slab and the fixation is not met. Attention must be made to choosing compatible fixations.",
 
   "info-parapet-helper-message": "<strong>Minimum parapet width is </strong>",
 
