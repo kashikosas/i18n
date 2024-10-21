@@ -75,7 +75,8 @@
   "out-of-bounds": "Value out of authorized interval : [{{0}}, {{1}}]",
   "warning-fixings-helper-message": "In this position, the CSTB recommendation to allow 100 mm between the edge of the slab and the fixation is not met. Attention must be made to choosing compatible fixations.",
 
-  "info-parapet-helper-message": "<strong>Minimum parapet width is </strong>",
+  "info-parapet-custom-position-helper-message": "<strong>Minimum parapet width is </strong>",
+  "info-parapet-standard-position-helper-message": "<strong>Minimum parapet width is 162mm.</strong>",
 
   "position-balcony-img": "Please refer to the image below to complete the following fields. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-distance-balcon.png' width='300px' /></center>",
   "position-parapet-img": "Please refer to the image below to complete the following fields. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-distance-para.png' width='380px' /></center>",

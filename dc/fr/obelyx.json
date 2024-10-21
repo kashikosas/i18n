@@ -75,7 +75,8 @@
   "valid-number-interval": "Valeurs comprises entre {{0}} et {{1}}",
   "warning-fixings-helper-message": "<strong>Dans cette position, la préconisation du CSTB de laisser 100 mm entre le bord de la dalle et la fixation n'est pas respectée. Il faut faire attention au choix de fixations compatibles.</strong>",
 
-  "info-parapet-helper-message": "<strong>La largeur minimale de l'acrotère est de </strong>",
+  "info-parapet-custom-position-helper-message": "<strong>La largeur minimale de l'acrotère est de </strong>",
+  "info-parapet-standard-position-helper-message": "<strong>La largeur minimale de l'acrotère est de 162mm.</strong>",
 
   "position-balcony-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/fr-obx-distance-balcon.png' width='300px' /></center>",
   "position-parapet-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/fr-obx-distance-para.png' width='380px' /></center>",
