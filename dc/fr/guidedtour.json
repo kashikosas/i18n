@@ -23,7 +23,7 @@
   "formular-side-tour-guide-candraw": "Le formulaire est rempli. On peut passer au dessinateur.",
 
   "title-drawer-side-tour-guide": "Dessinateur",
-  "drawer-side-tour-guide": "Cette zone de dessin vous permettra de dessiner une ou plusieurs terrasses, lancer vos calculs de configuration, visualiser les résultats, etc.<br><br>La visite se poursuit par une explication des outils de dessin.",
+  "drawer-side-tour-guide": "Cette zone de dessin vous permettra de dessiner la terrasse, lancer vos calculs de configuration, visualiser les résultats, etc.<br><br>La visite se poursuit par une explication des outils de dessin.",
 
   "title-cannot-draw-panel": "Renseigner le formulaire pour pouvoir dessiner",
   "cannot-draw-panel": "Une fois tous les champs du formulaire renseignés, vous aurez accès au dessinateur de terrasses.",
@@ -32,10 +32,10 @@
   "configurator-compute": "Une fois votre terrasse dessinée, utilisez ce bouton pour lancer la configuration.",
 
   "title-configurator-drawer-2D-3D-switch": "Options d'affichage",
-  "configurator-drawer-2D-3D-switch": "Une fois la configuration réussie, utilisez ces options pour voir la vue en plan de l'installation 2D et (bientôt) une vue 3D.",
+  "configurator-drawer-2D-3D-switch": "Utilisez ces options pour basculer entre les vues possibles.",
 
   "title-configurator-exports": "Enregistrement et Documents",
-  "configurator-exports": "Vous pouvez ici enregistrer votre configuration dans votre espace utilisateur ou vous pouvez également télécharger le plan d'installation de la terrasse.",
+  "configurator-exports": "Vous pouvez ici enregistrer votre configuration dans votre espace utilisateur ou vous pouvez également télécharger documents associés.",
 
   "title-crisp-chatbox-tour-guide": "Aide",
   "crisp-chatbox-tour-guide": "Besoin d'aide? Nous sommes à votre écoute.",
@@ -44,7 +44,7 @@
   "drawer-action-select": "Lorsqu'il est actif, vous pouvez vous déplacer dans le dessin (avec le clic gauche enfoncé) ou zoomer (avec la mollette).",
 
   "title-drawer-action-line": "Action de dessin",
-  "drawer-action-line": "Si sélectionné, vous pourrez dessiner vos sections de ligne.<br><br>Un clic droit sur une ligne ouvrira la fenêtre des propriétés de la section. Ici, vous pouvez modifier la longueur et l'angle de la section, sélectionner.",
+  "drawer-action-line": "Si sélectionné, vous pourrez dessiner vos sections de ligne.<br><br>Un clic droit sur une ligne ouvrira la fenêtre des propriétés de la section. Vous pouvez y modifier la longueur et l'angle de la section, et définir les propriétés spécifiques de la ligne.​<br/>Un clic droit sur un point d'extrémité ou d'intersection vous permet de définir les propriétés de ce point",
 
   "title-drawer-action-undo-redo-reset": "Autres outils",
   "drawer-action-line-undo-redo-reset": "Utilisez ces outils pour annuler une action ou la refaire. Vous pouvez également supprimer le contenu du dessinateur pour recommencer.",

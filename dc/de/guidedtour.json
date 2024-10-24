@@ -31,11 +31,11 @@
   "title-configurator-compute": "Berechnen",
   "configurator-compute": "Sobald Ihre Terrasse fertig ist, klicken Sie auf diese Schaltfläche, um das Produkt zu berechnen.",
 
-  "title-configurator-drawer-2D-3D-switch": "Ansichtsauswahl",
-  "configurator-drawer-2D-3D-switch": "Mit diesen Optionen können Sie zwischen der Zeichnungsansicht, dem 2D-Grundriss und (bald) einer 3D-Ansicht wählen.",
+  "title-configurator-drawer-2D-3D-switch": "Ansichtsoptionen ",
+  "configurator-drawer-2D-3D-switch": "Verwenden Sie diese Optionen, um zwischen den möglichen Ansichten zu wechseln.",
 
-  "title-configurator-exports": "Speichern und Dokumente",
-  "configurator-exports": "Klicken Sie hier, um die Terrasse in Ihrem Benutzerbereich zu speichern oder den Aufbauplan der Terrasse herunterzuladen.",
+  "title-configurator-exports": "Speicherung und Dokumente",
+  "configurator-exports": "Hier können Sie Ihre Konfiguration in Ihrem Benutzerbereich speichern oder auch die dazugehörigen Dokumente herunterladen.",
 
   "title-crisp-chatbox-tour-guide": "Fragen Sie uns",
   "crisp-chatbox-tour-guide": "Wenn Sie etwas brauchen oder Fragen haben, chatten Sie mit uns!",
@@ -46,8 +46,8 @@
   "title-drawer-action-select": "Werkzeugsauswahl",
   "drawer-action-select": "Wenn es aktiv ist, können Sie sich in der Zeichenseite bewegen (klicken und halten Sie die linke Maustaste) oder hinein-/herauszoomen (mit dem Mausrad).",
 
-  "title-drawer-action-line": "Zeichnungsschritt",
-  "drawer-action-line": "Wenn diese Option ausgewählt ist, können Sie Ihre Linienabschnitte zeichnen.<br><br>Wenn Sie mit der rechten Maustaste auf eine Linie klicken, wird das Fenster mit den Bereichseigenschaften geöffnet. Hier können Sie die Länge und den Winkel der Fläche ändern, auswählen.",
+  "title-drawer-action-line": "Zeichenaktion",
+  "drawer-action-line": "Wenn Sie diese Option auswählen, können Sie Ihre Linienabschnitte zeichnen. <br/><br/>Wenn Sie mit der rechten Maustaste auf eine Linie klicken, wird das Fenster mit den Abschnittseigenschaften geöffnet. Hier können Sie die Länge und den Winkel des Abschnitts ändern und alle spezifischen Eigenschaften der Linie definieren. <br/>Wenn Sie mit der rechten Maustaste auf einen End- oder Schnittpunkt klicken, können Sie die Eigenschaften dieses Punkts definieren.",
 
   "title-drawer-action-undo-redo-reset": "Weitere Werkzeuge",
   "drawer-action-line-undo-redo-reset": "Verwenden Sie diese Werkzeuge, um die Zeichenfläche rückgängig zu machen, wiederherzustellen oder um von vorne zu beginnen.",
