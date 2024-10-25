@@ -53,5 +53,11 @@
   "drawer-action-line-undo-redo-reset": "Use these tools to undo, redo or clear the drawer to start again.",
 
   "title-drawer-settings": "NOT USED!!<br><br>Modification tools",
-  "drawer-settings": "NOT USED!!<br><br>Use this box to update the length and angle of the selected line. <br> When you have only one line left to draw, use the <italic>'Close'</italic> button to automatically draw this line.<br>To choose a line that does not have guardrails, right click on the line and select <italic>'Facade / Wall'</italic>.<br> To select the datum point for the terrace finish, right click on the line and select <italic>'Datum'</italic>."
+  "drawer-settings": "NOT USED!!<br><br>Use this box to update the length and angle of the selected line. <br> When you have only one line left to draw, use the <italic>'Close'</italic> button to automatically draw this line.<br>To choose a line that does not have guardrails, right click on the line and select <italic>'Facade / Wall'</italic>.<br> To select the datum point for the terrace finish, right click on the line and select <italic>'Datum'</italic>.",
+  
+  "title-configurator-contact": "Contact",
+  "configurator-contact": "Send a copy of your project to dani alu for assistance",
+  
+  "title-configurator-cart": "Add to cart",
+  "configurator-cart": "Add the product to the cart, and purchase it directly online using your normal payment method and terms."
 }
