@@ -52,7 +52,7 @@
   "info-parapet-custom-position-helper-message": "<strong>Minimum parapet width is </strong>",
   "info-parapet-standard-position-helper-message": "<strong>Minimum parapet width is 162mm.</strong>",
 
-  "position-balcony-img": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-position-balcon.png' width='300px' /></center>",
-  "position-parapet-img": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-position-para.png' width='380px' /></center>",
-  "position-parapet-dsp-img": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-position-para-dsp.png' width='400px' /></center>"
+  "position-balcony-img": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/de-obx-position-balcon.png' width='300px' /></center>",
+  "position-parapet-img": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/de-obx-position-para.png' width='380px' /></center>",
+  "position-parapet-dsp-img": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/de-obx-position-para-dsp.png' width='400px' /></center>"
 }
