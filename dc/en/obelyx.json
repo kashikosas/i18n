@@ -80,5 +80,11 @@
 
   "position-balcony-img": "Please refer to the image below to complete the following fields. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-position-balcon.png' width='300px' /></center>",
   "position-parapet-img": "Please refer to the image below to complete the following fields. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-position-para.png' width='380px' /></center>",
-  "position-parapet-dsp-img": "Please refer to the image below to complete the following fields. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-position-para-dsp.png' width='400px' /></center>"
+  "position-parapet-dsp-img": "Please refer to the image below to complete the following fields. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-position-para-dsp.png' width='400px' /></center>",
+
+  "obelyx-popup-title": "How to enter the geometry",
+  "obelyx-popup-content-slab": "Draw the extremities of the slab.",
+  "obelyx-popup-content-parapet": "Draw the extremities of the parapet.",
+  "obelyx-popup-content-other": "Only draw the lines where there will be guardrails. <br/> Choose the end types of the guardrails (fixed to wall or with end cap).",
+  "draw": "Draw"
 }
