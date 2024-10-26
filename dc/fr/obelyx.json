@@ -80,5 +80,11 @@
 
   "position-balcony-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/fr-obx-distance-balcon.png' width='300px' /></center>",
   "position-parapet-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/fr-obx-distance-para.png' width='380px' /></center>",
-  "position-parapet-dsp-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/fr-obx-distance-para-dsp.png' width='400px' /></center>"
+  "position-parapet-dsp-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/fr-obx-distance-para-dsp.png' width='400px' /></center>",
+
+  "obelyx-popup-title": "Comment saisir la géométrie",
+  "obelyx-popup-content-slab": "Tracez l’extrémité de la dalle.",
+  "obelyx-popup-content-parapet": "Tracez l’extrémité de la acrotère.",
+  "obelyx-popup-content-other": "Dessinez seulement les lignes où il y aura des garde-corps. <br/>Choisissez les types des extrémités (fixé au mur ou avec bouchon).",
+  "draw": "Tracez"
 }
