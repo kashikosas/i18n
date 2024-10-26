@@ -78,9 +78,9 @@
   "info-parapet-custom-position-helper-message": "<strong>Minimum parapet width is </strong>",
   "info-parapet-standard-position-helper-message": "<strong>Minimum parapet width is 162mm.</strong>",
 
-  "position-balcony-img": "Please refer to the image below to complete the following fields. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-distance-balcon.png' width='300px' /></center>",
-  "position-parapet-img": "Please refer to the image below to complete the following fields. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-distance-para.png' width='380px' /></center>",
-  "position-parapet-dsp-img": "Please refer to the image below to complete the following fields. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-distance-para-dsp.png' width='400px' /></center>",
+  "position-balcony-img": "Please refer to the image below to complete the following fields. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-position-balcon.png' width='300px' /></center>",
+  "position-parapet-img": "Please refer to the image below to complete the following fields. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-position-para.png' width='380px' /></center>",
+  "position-parapet-dsp-img": "Please refer to the image below to complete the following fields. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/en-obx-position-para-dsp.png' width='400px' /></center>",
 
   "obelyx-popup-title": "How to enter the geometry",
   "obelyx-popup-content-slab": "Draw the extremities of the slab.",
