@@ -85,6 +85,7 @@
   "obelyx-popup-title": "Comment saisir la géométrie",
   "obelyx-popup-content-slab": "Tracez l’extrémité de la dalle.",
   "obelyx-popup-content-parapet": "Tracez l’extrémité de la acrotère.",
-  "obelyx-popup-content-other": "Dessinez seulement les lignes où il y aura des garde-corps. <br/>Choisissez les types des extrémités (fixé au mur ou avec bouchon).",
+  "obelyx-popup-content-second": "Dessinez seulement les lignes où il y aura des garde-corps.",
+  "obelyx-popup-content-third": "Choisissez les types des extrémités (fixé au mur ou avec bouchon).",
   "draw": "Tracez"
 }

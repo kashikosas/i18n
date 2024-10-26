@@ -85,6 +85,7 @@
   "obelyx-popup-title": "How to enter the geometry",
   "obelyx-popup-content-slab": "Draw the extremities of the slab.",
   "obelyx-popup-content-parapet": "Draw the extremities of the parapet.",
-  "obelyx-popup-content-other": "Only draw the lines where there will be guardrails. <br/> Choose the end types of the guardrails (fixed to wall or with end cap).",
+  "obelyx-popup-content-second": "Only draw the lines where there will be guardrails.",
+  "obelyx-popup-content-third": "Choose the end types of the guardrails (fixed to wall or with end cap).",
   "draw": "Draw"
 }
