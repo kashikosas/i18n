@@ -36,12 +36,11 @@
   "logout": "Déconnexion",
   "remember-me": "Se souvenir de moi",
   "help": "Aide",
-  "state": "Statut",
   "saved": "Enregistrée",
   "cart": "Panier",
   "quote": "Devis",
   "etude": "Etude",
-  "affaire": "Affaire", 
+  "affaire": "Affaire",
   "renovation": "Rénovation",
   "new": "Neuf",
   "site-status": "Statut chantier",
@@ -82,6 +81,7 @@
   "question": "Question",
   "builder": "Constructeur",
   "drawer": "Dessinateur",
+  "state": "Statut",
   "updatedAt": "Date modification",
   "createdAt": "Date création",
 
@@ -130,7 +130,7 @@
   "bar-drilling-list": "Fiche de débit - Bar",
   "glass-list": "Nomenclature des vitrages",
   "descriptive-text": "Texte descriptif",
-  
+
   "copyright-dessin-document": "Système breveté. Ce dessin est la propriété exclusive de la société dani alu. Reproduction ou utilisation sans le consentement de la société dani alu interdits.",
   "scale": "Echelle",
   "scale-abbr": "Ech.",
