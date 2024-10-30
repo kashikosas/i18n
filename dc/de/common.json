@@ -105,7 +105,6 @@
   "technical-drawings": "Technische Zeichnungen",
   "builder": "Editor",
   "drawer": "Zeichner",
-  "state": "Status",
   "updatedAt": "Aktualisiert",
   "createdAt": "Erstellt",
   "open-formular": "Formular öffnen",
@@ -189,5 +188,5 @@
   "timesheet": "Stundenzettel",
   "accessories-sheet": "Zubehörblatt",
 
-  "attach-price": "Attach a price"
+  "attach-price": "Einen Preis hinzufügen"
 }
