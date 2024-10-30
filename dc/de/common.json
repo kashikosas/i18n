@@ -105,7 +105,6 @@
   "technical-drawings": "Technische Zeichnungen",
   "builder": "Editor",
   "drawer": "Zeichner",
-  "state": "Status",
   "updatedAt": "Aktualisiert",
   "createdAt": "Erstellt",
   "open-formular": "Formular öffnen",
@@ -187,5 +186,7 @@
   "debit-flow": "Schnittliste",
   "fabrication-sheet": "Produktionsblatt",
   "timesheet": "Stundenzettel",
-  "accessories-sheet": "Zubehörblatt"
+  "accessories-sheet": "Zubehörblatt",
+
+  "attach-price": "Einen Preis hinzufügen"
 }

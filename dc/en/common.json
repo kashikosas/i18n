@@ -194,5 +194,7 @@
   "panel-export": "Panel export",
   "opticoupe-csv-export": "Opticoupe export",
   "opticoupe-csv-export-toles": "Opticoupe Panel export",
-  "dxf-file": "DXF file"
+  "dxf-file": "DXF file",
+
+  "attach-price": "Attach a price"
 }
