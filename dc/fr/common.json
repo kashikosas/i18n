@@ -178,5 +178,7 @@
   "panel-export": "Cde tôles",
   "opticoupe-csv-export": "Opticoupe export",
   "opticoupe-csv-export-toles": "Opticoupe Tôles export",
-  "dxf-file": "Fichier DXF"
+  "dxf-file": "Fichier DXF",
+
+  "attach-price": "Joignez un prix"
 }

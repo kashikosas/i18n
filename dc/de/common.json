@@ -187,5 +187,7 @@
   "debit-flow": "Schnittliste",
   "fabrication-sheet": "Produktionsblatt",
   "timesheet": "Stundenzettel",
-  "accessories-sheet": "Zubehörblatt"
+  "accessories-sheet": "Zubehörblatt",
+
+  "attach-price": "Attach a price"
 }
