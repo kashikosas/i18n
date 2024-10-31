@@ -105,6 +105,7 @@
   "technical-drawings": "Technical drawings",
   "builder": "Builder",
   "drawer": "Drawer",
+  "state": "State",
   "updatedAt": "Updated",
   "createdAt": "Created",
   "open-formular": "Open form",
@@ -163,6 +164,7 @@
   "quantity": "Quantity",
 
   "valid-number-interval": "Value must be between {{0}} and {{1}}",
+  "valid-number-interval-with-exception": "Value must be between {{0}} and {{1}}, {{2}} excepted.",
   "authorised-values-are": "The authorised values are: {{0}}.",
   "less-than-x-from-sea-lac": "Less than {{0}}m away from the sea or a lac.",
   "not-multiple-of": "Not a multiple of {{0}}.",
@@ -192,5 +194,7 @@
   "panel-export": "Panel export",
   "opticoupe-csv-export": "Opticoupe export",
   "opticoupe-csv-export-toles": "Opticoupe Panel export",
-  "dxf-file": "DXF file"
+  "dxf-file": "DXF file",
+
+  "attach-price": "Attach a price"
 }

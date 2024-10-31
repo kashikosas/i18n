@@ -23,7 +23,7 @@
   "formular-side-tour-guide-candraw": "Your form seems to be filled without errors, let's proceed to the drawer.",
 
   "title-drawer-side-tour-guide": "Drawer",
-  "drawer-side-tour-guide": "This drawing area will allow you to draw one or more terraces, launch your configuration, view the results, etc.<br><br>The visit continues with an explanation of the drawing tools.",
+  "drawer-side-tour-guide": "This drawing area will allow you to draw the terrace, launch your configuration, view the results, etc.<br><br>The visit continues with an explanation of the drawing tools.",
 
   "title-cannot-draw-panel": "Please fill the form",
   "cannot-draw-panel": "Once all the sections of the form are complete you will be able to draw your terrace.",
@@ -32,10 +32,10 @@
   "configurator-compute": "Once your terrace is complete, click this button to configure the product.",
 
   "title-configurator-drawer-2D-3D-switch": "View options",
-  "configurator-drawer-2D-3D-switch": "Use these options to select between the drawing view, the 2D installation plan view and (soon) a 3D view.",
+  "configurator-drawer-2D-3D-switch": "Use these options to switch between the possible views.",
 
   "title-configurator-exports": "Save and Documents",
-  "configurator-exports": "Click here to save the terrace to your user space or to download installation plan of the terrace.",
+  "configurator-exports": "Here you can save your configuration in your user area or you can also download the related documents.",
 
   "title-crisp-chatbox-tour-guide": "Ask us",
   "crisp-chatbox-tour-guide": "If you need anything, don't be shy, chat with us!",
@@ -47,11 +47,17 @@
   "drawer-action-select": "Once active, you can move around the drawer (clicking and holding the left button) or zoom in/out (with the wheel).",
 
   "title-drawer-action-line": "Drawing action",
-  "drawer-action-line": "If selected, you will be able to draw your line sections.<br><br>Right clicking on a line will open the section properties window. Here you can modify the length and the angle of the section, select whether the section is a wall (so it will not have guardrails) and choose if the section (for planks) or the left end of the section (for slabs or tiles) is the start point of the installation of the terrace surface (the <italic>datum</italic>).<br><br>If the section is the last one drawn, you can also click <italic>close terrace</italic> to automatically add another section closing the terrace.",
+  "drawer-action-line": "If selected, you will be able to draw your line sections.<br><br>Right clicking on a line will open the section properties window. Here you can modify the length and the angle of the section, and define any specific properties of the line.<br/> Right clicking on an end or intersection point will allow you to define the properties of this point.",
 
   "title-drawer-action-undo-redo-reset": "More tools",
   "drawer-action-line-undo-redo-reset": "Use these tools to undo, redo or clear the drawer to start again.",
 
   "title-drawer-settings": "NOT USED!!<br><br>Modification tools",
-  "drawer-settings": "NOT USED!!<br><br>Use this box to update the length and angle of the selected line. <br> When you have only one line left to draw, use the <italic>'Close'</italic> button to automatically draw this line.<br>To choose a line that does not have guardrails, right click on the line and select <italic>'Facade / Wall'</italic>.<br> To select the datum point for the terrace finish, right click on the line and select <italic>'Datum'</italic>."
+  "drawer-settings": "NOT USED!!<br><br>Use this box to update the length and angle of the selected line. <br> When you have only one line left to draw, use the <italic>'Close'</italic> button to automatically draw this line.<br>To choose a line that does not have guardrails, right click on the line and select <italic>'Facade / Wall'</italic>.<br> To select the datum point for the terrace finish, right click on the line and select <italic>'Datum'</italic>.",
+  
+  "title-configurator-contact": "Contact",
+  "configurator-contact": "Send a copy of your project to dani alu for assistance",
+  
+  "title-configurator-cart": "Add to cart",
+  "configurator-cart": "Add the product to the cart, and purchase it directly online using your normal payment method and terms."
 }

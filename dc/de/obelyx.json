@@ -36,6 +36,10 @@
   "post-foot": "Platte",
   "terrace-on-pedestals": "Terrasse auf den Grundstücken",
   "circulation-height": "Verkehrshöhe",
+  "offset-position": "Versetzte Position",
+  "position-standard": "Auf die Kante ausgerichtet",
+  "position-custom": "Versatz vom Rand",
+  "offset-position-value": "Wert des Offsets",
   "out-of-bounds": "Wert außerhalb der Grenzen: [{{0}}, {{1}}]",
   "valid-number-interval": "Der Wert muss zwischen {{0}} und {{1}} liegen.",
   "more-than-max": "Über dem zulässigen Höchstwert: {{0}}",
@@ -43,10 +47,12 @@
   "field-required": "Pflichtfeld",
   "search...": "Suche nach Name, RAL usw.",
   "*-required-fields": "(*) Erforderliche Felder.",
+  "warning-fixings-helper-message": "In dieser Position wird die CSTB-Empfehlung, 100 mm zwischen der Plattenkante und der Befestigung zu lassen, nicht eingehalten. Es muss darauf geachtet werden, kompatible Befestigungen auszuwählen.",
 
-  "info-parapet-helper": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/> <center><img src='/assets/images/obx/de-obx-hauteur-ndsp.png' width='300px' /></center>",
-  "info-parapet-details-helper": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/> <center><img src='/assets/images/obx/de-obx-largeur-ndsp.png' width='300px' /></center>",
-  "info-parapet-circulation-helper": "Please refer to the image below to complete the following fields.  <br/> <center><img src='/assets/images/obx/de-obx-hauteur-dsp.png' width='300px' /></center>",
-  "info-parapet-circulation-details-helper": "Please refer to the image below to complete the following fields.  <br/> <center><img src='/assets/images/obx/de-obx-largeur-dsp.png' width='300px' /></center>"
+  "info-parapet-custom-position-helper-message": "<strong>Minimum parapet width is </strong>",
+  "info-parapet-standard-position-helper-message": "<strong>Minimum parapet width is 162mm.</strong>",
 
+  "position-balcony-img": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/de-obx-position-balcon.png' width='300px' /></center>",
+  "position-parapet-img": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/de-obx-position-para.png' width='380px' /></center>",
+  "position-parapet-dsp-img": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/><br/> <center><img src='https://daniconfigs-assets.kashiko.fr/images/obx/de-obx-position-para-dsp.png' width='400px' /></center>"
 }

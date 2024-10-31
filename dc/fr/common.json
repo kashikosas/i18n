@@ -36,12 +36,11 @@
   "logout": "Déconnexion",
   "remember-me": "Se souvenir de moi",
   "help": "Aide",
-  "state": "Statut",
   "saved": "Enregistrée",
   "cart": "Panier",
   "quote": "Devis",
   "etude": "Etude",
-  "affaire": "Affaire", 
+  "affaire": "Affaire",
   "renovation": "Rénovation",
   "new": "Neuf",
   "site-status": "Statut chantier",
@@ -82,6 +81,7 @@
   "question": "Question",
   "builder": "Constructeur",
   "drawer": "Dessinateur",
+  "state": "Statut",
   "updatedAt": "Date modification",
   "createdAt": "Date création",
 
@@ -130,7 +130,7 @@
   "bar-drilling-list": "Fiche de débit - Bar",
   "glass-list": "Nomenclature des vitrages",
   "descriptive-text": "Texte descriptif",
-  
+
   "copyright-dessin-document": "Système breveté. Ce dessin est la propriété exclusive de la société dani alu. Reproduction ou utilisation sans le consentement de la société dani alu interdits.",
   "scale": "Echelle",
   "scale-abbr": "Ech.",
@@ -148,6 +148,7 @@
   "quantity": "Quantité",
 
   "valid-number-interval": "Valeur comprise entre {{0}} et {{1}}.",
+  "valid-number-interval-with-exception": "Valeurs comprises entre {{0}} et {{1}}, excepté {{2}}.",
   "authorised-values-are": "Les valeurs autorisées sont : {{0}}.",
   "less-than-x-from-sea-lac": "Moins de {{0}}m de la mer ou d'un lac.",
   "not-multiple-of": "Pas un multiple de {{0}}.",
@@ -177,5 +178,7 @@
   "panel-export": "Cde tôles",
   "opticoupe-csv-export": "Opticoupe export",
   "opticoupe-csv-export-toles": "Opticoupe Tôles export",
-  "dxf-file": "Fichier DXF"
+  "dxf-file": "Fichier DXF",
+
+  "attach-price": "Joignez un prix"
 }
