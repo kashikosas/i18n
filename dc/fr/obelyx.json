@@ -1,7 +1,7 @@
 {
   "obelyx": "Obelyx",
   "obelyx-welcome-title": "Configurateur Obelyx®",
-  "make-sure-form-valid": "Merci de remplir le formulaire pour configurer votre produit.",
+  "make-sure-form-valid": "Remplissez le formulaire pour configurer votre produit.",
   "use-type": "Type d'usage",
   "private": "Usage privé",
   "installation-type": "Type d'installation",
@@ -27,7 +27,7 @@
   "loading...": "Chargement...",
   "search...": "Chercher par nom, RAL, etc...",
   "finition": "Finition",
-  "gloss": "Brilliant",
+  "gloss": "Brillant",
   "matt": "Mat",
   "textured": "Fine texture",
   "satin": "Satin",
