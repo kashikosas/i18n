@@ -64,7 +64,7 @@
   "terrace": "Terrasse",
   "terrace-on-pedestals": "Terrasse sur plots",
   "circulation-height": "Hauteur de circulation",
-  "offset-position": "Position",
+  "offset-fixings": "Décalage des fixations",
   "position-standard": "Aligné avec le bord",
   "position-custom": "Décalé du bord",
   "offset-position-value": "Valeur du décalage",
@@ -76,11 +76,10 @@
   "warning-fixings-helper-message": "<strong>Dans cette position, la préconisation du CSTB de laisser 100 mm entre le bord de la dalle et la fixation n'est pas respectée. Il faut faire attention au choix de fixations compatibles.</strong>",
 
   "info-parapet-custom-position-helper-message": "<strong>La largeur minimale de l'acrotère est de </strong>",
-  "info-parapet-standard-position-helper-message": "<strong>La largeur minimale de l'acrotère est de 162mm.</strong>",
 
-  "position-balcony-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='{{assetsUrl}}/images/obx/fr-obx-position-balcon.png' width='300px' /></center>",
-  "position-parapet-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='{{assetsUrl}}/images/obx/fr-obx-position-para.png' width='380px' /></center>",
-  "position-parapet-dsp-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='{{assetsUrl}}/images/obx/fr-obx-position-para-dsp.png' width='400px' /></center>",
+  "position-balcony-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='{{assetsUrl}}/images/obx/fr-obx-position-balcon.png' width='225px' /></center>",
+  "position-parapet-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='{{assetsUrl}}/images/obx/fr-obx-position-para.png' width='225px' /></center>",
+  "position-parapet-dsp-img": "Merci de vous référer à l'image ci-dessous pour remplir les champs suivants. <br/><br /> <center><img src='{{assetsUrl}}/images/obx/fr-obx-position-para-dsp.png' width='250px' /></center>",
 
   "obelyx-popup-title": "Comment saisir la géométrie",
   "obelyx-popup-content-slab": "Tracez l’extrémité de la dalle.",
