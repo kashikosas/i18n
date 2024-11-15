@@ -162,7 +162,8 @@
   "descriptive-text-infill-position-before" : "l’intérieur",
   "descriptive-text-infill-position-front" : "l’extérieur",
 
-  "descriptive-text-infill-type-glass" : "verre",
+  "descriptive-text-infill-type-glass" : "verre transparent clair",
+  "descriptive-text-infill-type-opal-glass" : "verre translucide opale blanc",
   "descriptive-text-infill-type-round-bars" : "barreaux ronds",
   "descriptive-text-infill-type-square-bars" : "barreaux carrés",
 

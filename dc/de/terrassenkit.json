@@ -159,7 +159,8 @@
   "descriptive-text-infill-position-before" : "hinter",
   "descriptive-text-infill-position-front" : "vor",
 
-  "descriptive-text-infill-type-glass" : "Glas",
+  "descriptive-text-infill-type-glass" : "transparentes Klarglas",
+  "descriptive-text-infill-type-opal-glass" : "transluzentes opalweißes Glas",
   "descriptive-text-infill-type-round-bars" : "eckiger Stabfüllung",
   "descriptive-text-infill-type-square-bars" : "runder Stabfüllung",
 
