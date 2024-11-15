@@ -82,7 +82,8 @@
   "fill-type-info": "",
   "rounded-bars": "Barreaux ronds",
   "squared-bars": "Barreaux rectangulaires",
-  "glass": "Vitrage",
+  "glass": "Transparent clair",
+  "opal-glass": "Translucide opale blanc",
 
   "fill-style": "Style de remplissage",
   "fill-style-info": "",

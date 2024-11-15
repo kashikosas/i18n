@@ -82,7 +82,8 @@
   "fill-type-info": "",
   "rounded-bars": "Round bars",
   "squared-bars": "Square bars",
-  "glass": "Glass",
+  "glass": "Transparent clear",
+  "opal-glass": "translucent opal white",
 
   "fill-style": "Infill style",
   "fill-style-info": "",
