@@ -82,7 +82,8 @@
   "fill-type-info": "",
   "rounded-bars": "Round bars",
   "squared-bars": "Square bars",
-  "glass": "Glass",
+  "glass": "Transparent clear",
+  "opal-glass": "Translucent opal white",
 
   "fill-style": "Infill style",
   "fill-style-info": "",
@@ -158,7 +159,8 @@
   "descriptive-text-infill-position-before" : "inside",
   "descriptive-text-infill-position-front" : "outside",
 
-  "descriptive-text-infill-type-glass" : "glass",
+  "descriptive-text-infill-type-glass" : "transparent clear glass",
+  "descriptive-text-infill-type-opal-glass" : "translucent opal white glass",
   "descriptive-text-infill-type-round-bars" : "round bars",
   "descriptive-text-infill-type-square-bars" : "square bars",
 
