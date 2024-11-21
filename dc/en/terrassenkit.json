@@ -84,6 +84,10 @@
   "squared-bars": "Square bars",
   "glass": "Transparent clear",
   "opal-glass": "Translucent opal white",
+  "loading...": "Loading...",
+  "non standard color" : "Non standard colour",
+  "enter color details": "Enter the colour details",
+  "other": "Other colour",
 
   "fill-style": "Infill style",
   "fill-style-info": "",
