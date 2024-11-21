@@ -84,6 +84,10 @@
   "squared-bars": "Eckige Stäbe",
   "glass": "Transparentes Klar",
   "opal-glass": "Transluzider Opalweiß",
+  "loading...": "Laden...",
+  "non standard color" : "Nicht standardmäßige Farbe",
+  "enter color details": "Geben Sie die Farbdetails ein",
+  "other": "Andere Farbe",
 
   "fill-style": "Füllungsstil",
   "fill-style-info": "Höhe der Füllung",
