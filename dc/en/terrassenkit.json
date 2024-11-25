@@ -85,9 +85,10 @@
   "glass": "Transparent clear",
   "opal-glass": "Translucent opal white",
   "loading...": "Loading...",
-  "non standard color" : "Non standard colour",
-  "enter color details": "Enter the colour details",
-  "other": "Other colour",
+  "non standard color" : "Non-standard paint",
+  "enter color details": "Enter your request of non-standard paint.",
+  "other-color info": "Enter the type/colour/finish here.",
+  "other": "Non-standard paint",
 
   "fill-style": "Infill style",
   "fill-style-info": "",
@@ -107,8 +108,8 @@
   "horizontal": "Horizontal",
   "vertical": "Vertical",
 
-  "color": "Colour",
-  "color-info": "Choose the colour of the guardrails (posts, handrail, infills).",
+  "color": "Paint",
+  "color-info": "Choose a colour of standard paint or request a specific paint / colour / finish by selecting ‘non-standard paint’.",
 
   "open-input-form": "Open input form",
 
@@ -122,6 +123,7 @@
   "field-required": "Required field",
   "search...": "Search by name, RAL, etc.",
   "*-required-fields": "(*) Required fields.",
+  "standard paint is gloss" : "The standard paint is powder coated semi-gloss ???",
   
   "accept-terrace-offset-title": "Note for measuring the terrace",
   "accept-terrace-offset-content": "When drawing the terrace, reduce the dimensions by <bold>{{offset}}</bold> mm compared to the parapet.",
