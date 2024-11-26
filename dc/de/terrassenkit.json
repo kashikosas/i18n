@@ -82,7 +82,13 @@
   "fill-type-info": "",
   "rounded-bars": "Runde Stäbe",
   "squared-bars": "Eckige Stäbe",
-  "glass": "Glas",
+  "glass": "Transparentes Klar",
+  "opal-glass": "Transluzider Opalweiß",
+  "loading...": "Laden...",
+  "non standard color" : "Nicht-standardisierte Farbe",
+  "enter color details": "Geben Sie die gewünschte Sonderfarbe an.",
+  "other-color info": "Geben Sie hier den Typ/die Farbe/das Finish ein.",
+  "other": "Nicht-standardisierte Farbe",
 
   "fill-style": "Füllungsstil",
   "fill-style-info": "Höhe der Füllung",
@@ -103,7 +109,7 @@
   "vertical": "Senkrecht",
 
   "color": "Farbe",
-  "color-info": "Wählen Sie die Farbe des Geländers (Pfosten, Handlauf, Füllelemente) aus.",
+  "color-info": "Wählen Sie eine Standardfarbe oder fragen Sie eine bestimmte Farbe / ein bestimmtes Finish an, indem Sie „Nicht-Standardfarbe“ auswählen.",
 
   "open-input-form": "Eingabeformular öffnen",
 
@@ -117,7 +123,8 @@
   "field-required": "Pflichtfeld",
   "search...": "Suche nach Name, RAL usw.",
   "*-required-fields": "(*) Erforderliche Felder.",
-  
+  "standard paint is gloss" : "Die Standardlackierung ist pulverbeschichtet, seidenglänzend.",
+
   "accept-terrace-offset-title": "Hinweis zum Ausmessen der Terrasse",
   "accept-terrace-offset-content": "Reduzieren Sie beim Zeichnen der Terrasse die Maße um <bold>{{offset}}</bold> mm gegenüber der Brüstung.",
 
@@ -158,7 +165,8 @@
   "descriptive-text-infill-position-before" : "hinter",
   "descriptive-text-infill-position-front" : "vor",
 
-  "descriptive-text-infill-type-glass" : "Glas",
+  "descriptive-text-infill-type-glass" : "transparentes Klarglas",
+  "descriptive-text-infill-type-opal-glass" : "transluzentes opalweißes Glas",
   "descriptive-text-infill-type-round-bars" : "eckiger Stabfüllung",
   "descriptive-text-infill-type-square-bars" : "runder Stabfüllung",
 

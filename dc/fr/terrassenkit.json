@@ -82,7 +82,13 @@
   "fill-type-info": "",
   "rounded-bars": "Barreaux ronds",
   "squared-bars": "Barreaux rectangulaires",
-  "glass": "Vitrage",
+  "glass": "Transparent clair",
+  "opal-glass": "Translucide opale blanc",
+  "loading...": "Chargement...",
+  "non standard color" : "Peinture non standard",
+  "enter color details": "Saisissez votre demande de peinture non standard.",
+  "other-color info": "Entrez le type/couleur/finition ici.",
+  "other": "Peinture non standard",
 
   "fill-style": "Style de remplissage",
   "fill-style-info": "",
@@ -102,8 +108,8 @@
   "horizontal": "Horizontale",
   "vertical": "Verticale",
 
-  "color": "Couleur",
-  "color-info": "Choisissez la couleur des garde-corps (montants, main courante, remplissages).",
+  "color": "Peinture",
+  "color-info": "Choisissez une couleur de peinture standard ou demandez une peinture/couleur/finition spécifique en sélectionnant « peinture non standard ».",
 
   "open-input-form": "Ouvrir le formulaire",
 
@@ -120,7 +126,8 @@
   "walldrawer-changed-recompute": "Le tracé a changé. Regénérer le calcul.",
   "search...": "Chercher par nom, RAL, etc...",
   "*-required-fields" : "(*) Champs obligatoires.",
-  
+  "standard paint is gloss" : "La peinture standard est une peinture en poudre semi-brillante ???",
+
   "accept-terrace-offset-title": "Note pour mesurer la terrasse",
   "accept-terrace-offset-content": "Lors du dessin de la terrasse, réduire les dimensions de <bold>{{offset}}</bold> mm par rapport au parapet.",
 
@@ -161,7 +168,8 @@
   "descriptive-text-infill-position-before" : "l’intérieur",
   "descriptive-text-infill-position-front" : "l’extérieur",
 
-  "descriptive-text-infill-type-glass" : "verre",
+  "descriptive-text-infill-type-glass" : "verre transparent clair",
+  "descriptive-text-infill-type-opal-glass" : "verre translucide opale blanc",
   "descriptive-text-infill-type-round-bars" : "barreaux ronds",
   "descriptive-text-infill-type-square-bars" : "barreaux carrés",
 
