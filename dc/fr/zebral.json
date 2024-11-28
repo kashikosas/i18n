@@ -56,6 +56,9 @@
   "a10": "A10",
   "a40": "A40",
   "deporte": "Déporté",
+  "warning-fixings-helper-message": "<strong>Dans cette position, la préconisation du CSTB de laisser 100 mm entre le bord de la dalle et la fixation n'est pas respectée. Il faut faire attention au choix de fixations compatibles.</strong>",
+
+  "info-parapet-custom-position-helper-message": "<strong>La largeur minimale de l'acrotère est de </strong>",
 
   "popular": "Populaire",
   "db": "DB",
