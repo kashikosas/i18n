@@ -126,7 +126,7 @@
   "walldrawer-changed-recompute": "Le tracé a changé. Regénérer le calcul.",
   "search...": "Chercher par nom, RAL, etc...",
   "*-required-fields" : "(*) Champs obligatoires.",
-  "standard paint is gloss" : "La peinture standard est une peinture en poudre semi-brillante ???",
+  "standard paint is gloss" : "La peinture standard est une peinture en poudre semi-brillante.",
 
   "accept-terrace-offset-title": "Note pour mesurer la terrasse",
   "accept-terrace-offset-content": "Lors du dessin de la terrasse, réduire les dimensions de <bold>{{offset}}</bold> mm par rapport au parapet.",
