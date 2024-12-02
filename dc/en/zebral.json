@@ -56,7 +56,7 @@
   "a10": "A10",
   "a40": "A40",
   "deporte": "Offset",
-  "warning-fixings-helper-message": "In this position, the CSTB recommendation to allow 100 mm between the edge of the slab and the fixation is not met. Attention must be made to choosing compatible fixations.",
+  "warning-fixings-helper-message": "In this position, the CSTB recommendation to allow 80 mm between the edge of the slab and the fixation is not met. Attention must be made to choosing compatible fixations.",
 
   "info-parapet-custom-position-helper-message": "<strong>Minimum parapet width is </strong>",
 
