@@ -16,6 +16,7 @@
   "edit": "Éditer",
   "properties": "Caractéristiques",
   "invert-inside-outside": "Inverser l'intérieur et l'extérieur",
+  "draw-rectangle": "Rectangle",
 
   "plinth-is-required": "Plinthe requise",
 
@@ -29,5 +30,8 @@
   "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "Terrasse non fermée ou type d'extremité non défini",
   "no-terrace-drawn": "Aucune terrasse dessinée",
   "an-angle-is-out-of-bound": "Un angle est hors de l'intervalle autorisé",
-  "a-length-is-out-of-bound": "Une longueur est hors limites."
+  "a-length-is-out-of-bound": "Une longueur est hors limites.",
+
+  "wall-types": "Types de murs",
+  "terrace": "Terrasse"
 }

@@ -16,6 +16,7 @@
   "edit": "Edit",
   "properties": "Properties",
   "invert-inside-outside": "Invert inside and outside",
+  "draw-rectangle": "Rectangle",
 
   "add-gate": "Add gate",
   "optimize": "Optimise",
@@ -27,5 +28,8 @@
   "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "A terrace is not closed or an endpoint type is not defined",
   "no-terrace-drawn": "No terrace drawn",
   "an-angle-is-out-of-bound": "An angle is out of bounds",
-  "a-length-is-out-of-bound": "A length is out of bounds."
+  "a-length-is-out-of-bound": "A length is out of bounds.",
+
+  "wall-types": "Wall types",
+  "terrace": "Terrace"
 }

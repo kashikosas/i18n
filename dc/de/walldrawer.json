@@ -18,6 +18,7 @@
   "edit": "Bearbeiten",
   "properties": "Eigenschaften",
   "invert-inside-outside": "Innen und außen umkehren",
+  "draw-rectangle": "Rechteck",
 
   "add-gate": "Tür hinzufügen",
   "optimize": "Optimieren",
@@ -29,5 +30,8 @@
   "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "Eine Terrasse ist nicht geschlossen oder ein Endpunkttyp ist nicht definiert.",
   "no-terrace-drawn": "Keine Terrasse angelegt!",
   "an-angle-is-out-of-bound": "Ein Winkelmaß ist unzulässig.",
-  "a-length-is-out-of-bound": "Eine Länge ist außerhalb der Grenzen."
+  "a-length-is-out-of-bound": "Eine Länge ist außerhalb der Grenzen.",
+
+  "wall-types": "Wandarten",
+  "terrace": "Terrasse"
 }
