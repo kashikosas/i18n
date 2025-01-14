@@ -73,7 +73,7 @@
   "terrace-thickness-info": "",
 
   "free-height": "Hauteur niveau de circulation",
-  "free-height-info": "Saisir la hauteur totale de la terrasse, de la surface sur laquelle les plots reposeront jusqu'au dessus de la finition de la terrasse.",
+  "free-height-info": "Saisir la hauteur totale de la terrasse, de la surface sur laquelle les plots reposeront, au point le plus haut du toit-terrasse, jusqu'au dessus de la finition de la terrasse.",
 
   "handrail-height": "Hauteur main courante",
   "handrail-height-info": "Hauteur de la main courante par rapport au niveau de circulation",
