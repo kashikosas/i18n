@@ -109,16 +109,26 @@
   "builder": "Builder",
   "drawer": "Drawer",
   "state": "State",
-  "updatedAt": "Updated",
-  "createdAt": "Created",
+
+  "createdAt": "Created At",
+  "createdBy": "Created By",
+  "updatedAt": "Updated At",
+  "updatedBy": "Updated By",
   "open-formular": "Open form",
-  "etude": "Study",
-  "affaire": "Project",
+
+  "project-type": "Project type",
   "renovation": "Renovation",
   "new": "New",
+  "project-status": "Project status",
+  "etude": "Study",
+  "affaire": "Project",
+  "study": "Study",
+  "project": "Project",
   "site-status": "Site status",
   "site-type": "Site type",
   "duedate": "Delivery date",
+  "configuration-status": "Configuration status",
+  "contact-form-client": "Client",
   "from": "from",
 
   "write-your-message": "Write your message",
@@ -199,5 +209,11 @@
   "opticoupe-csv-export-toles": "Opticoupe Panel export",
   "dxf-file": "DXF file",
 
-  "attach-price": "Attach a price"
+  "attach-price": "Attach a price",
+
+  "work-in-progress": "Work in progress",
+  "in-quote": "In quote",
+  "validated": "Validated",
+  "in-cart": "In cart",
+  "ordered": "Ordered"
 }
