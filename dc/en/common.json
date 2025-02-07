@@ -228,5 +228,10 @@
   "confirm-delete-multiple-configurations": "Are you sure you want to delete these configurations?",
 
   "yes": "Yes",
-  "no": "No"
+  "no": "No",
+
+  "feature-coming-soon": "Feature is coming soon!",
+
+  "configuration-saved-successfully": "Configuration is saved successfully",
+  "invalid-request-data": "Invalid request data"
 }
