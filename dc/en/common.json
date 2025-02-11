@@ -233,5 +233,7 @@
   "feature-coming-soon": "Feature is coming soon!",
 
   "configuration-saved-successfully": "Configuration is saved successfully",
-  "invalid-request-data": "Invalid request data"
+  "invalid-request-data": "Invalid request data",
+
+  "group": "Group"
 }
