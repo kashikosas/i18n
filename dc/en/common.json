@@ -262,5 +262,7 @@
   "indicative-project-price-input": "Enter the total linear meters of the project",
   "indicative-project-price-calculate": "Show the indicative price",
   "indicative-project-price-result": "Total excluding VAT and delivery for the project",
-  "indicative-project-price-contact": "Contact dani alu"
+  "indicative-project-price-contact": "Contact dani alu",
+
+  "delivery-date": "Delivery date"
 }
