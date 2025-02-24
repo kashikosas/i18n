@@ -114,7 +114,17 @@
   "created-by": "User created",
   "updated-at": "Date modification",
   "updated-by": "Modifying user",
+
+  "created-at": "Date creation",
+  "created-by": "User created",
+  "updated-at": "Date modification",
+  "updated-by": "Modifying user",
   "open-formular": "Open form",
+
+  "project-type": "Project type",
+  "renovation": "Renovation",
+  "new": "New",
+  "project-status": "Project status",
 
   "project-type": "Project type",
   "renovation": "Renovation",
@@ -124,9 +134,13 @@
   "affaire": "Project",
   "study": "Study",
   "project": "Project",
+  "study": "Study",
+  "project": "Project",
   "site-status": "Site status",
   "site-type": "Site type",
   "duedate": "Delivery date",
+  "configuration-status": "Configuration status",
+  "contact-form-client": "Client",
   "configuration-status": "Configuration status",
   "contact-form-client": "Client",
   "from": "from",
@@ -235,5 +249,11 @@
   "configuration-saved-successfully": "Configuration is saved successfully",
   "invalid-request-data": "Invalid request data",
 
-  "group": "Group"
+  "group": "Group",
+
+  "indicative-project-price": "Indicative project price",
+  "indicative-project-price-input": "Enter the total linear meters of the project",
+  "indicative-project-price-calculate": "Show the indicative price",
+  "indicative-project-price-result": "Total excluding VAT and delivery for the project",
+  "indicative-project-price-contact": "Contact dani alu"
 }
