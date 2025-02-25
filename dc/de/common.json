@@ -30,7 +30,7 @@
   "search": "Suche",
   "search...": "Suche...",
   "loading...": "Laden...",
-  "non standard color" : "Nicht standardmäßige Farbe",
+  "non standard color": "Nicht standardmäßige Farbe",
   "enter color details": "Geben Sie die Farbdetails ein",
   "other": "Andere Farbe",
   "password": "Passwort",
@@ -108,8 +108,6 @@
   "technical-drawings": "Technische Zeichnungen",
   "builder": "Editor",
   "drawer": "Zeichner",
-  "updatedAt": "Aktualisiert",
-  "createdAt": "Erstellt",
   "open-formular": "Formular öffnen",
   "etude": "Studie",
   "affaire": "Projekt",
@@ -117,7 +115,6 @@
   "new": "Neun",
   "site-status": "Baustellenstatus",
   "site-type": "Art der Baustelle",
-  "duedate": "Liefertermin",
   "from": "aus",
 
   "write-your-message": "Ihre Nachricht",
@@ -191,5 +188,8 @@
   "timesheet": "Stundenzettel",
   "accessories-sheet": "Zubehörblatt",
 
-  "attach-price": "Einen Preis hinzufügen"
+  "attach-price": "Einen Preis hinzufügen",
+
+  "updated-at": "Aktualisiert",
+  "created-at": "Erstellt"
 }
