@@ -110,26 +110,7 @@
   "drawer": "Drawer",
   "state": "State",
 
-  "created-at": "Date creation",
-  "created-by": "User created",
-  "updated-at": "Date modification",
-  "updated-by": "Modifying user",
   "open-formular": "Open form",
-
-  "project-type": "Project type",
-  "renovation": "Renovation",
-  "new": "New",
-  "project-status": "Project status",
-  "etude": "Study",
-  "affaire": "Project",
-  "study": "Study",
-  "project": "Project",
-  "site-status": "Site status",
-  "site-type": "Site type",
-  "duedate": "Delivery date",
-  "configuration-status": "Configuration status",
-  "contact-form-client": "Client",
-  "from": "from",
 
   "write-your-message": "Write your message",
   "attach-current-config": "Attach current configuration",
@@ -210,15 +191,37 @@
   "dxf-file": "DXF file",
 
   "status": "Status",
+  "created-at": "Date creation",
+  "created-by": "User created",
+  "updated-at": "Date modification",
+  "updated-by": "Modifying user",
   "version": "Version",
   "actions": "Actions",
+
   "config-edit": "Edit",
   "config-share": "Share",
   "config-duplicate": "Duplicate",
   "config-delete": "Delete",
+
   "next": "Next",
   "close": "Close",
+  "yes": "Yes",
+  "no": "No",
+  
   "metadata": "Metadata",
+  "project-type": "Project type",
+  "renovation": "Renovation",
+  "new": "New",
+  "project-status": "Project status",
+  "etude": "Study",
+  "affaire": "Project",
+  "study": "Study",
+  "project": "Project",
+  "site-status": "Site status",
+  "site-type": "Site type",
+  "configuration-status": "Configuration status",
+  "contact-form-client": "Client",
+  "delivery-date": "Delivery date",
   "contact-info": "Contact info",
   "attach-price": "Attach a price",
 
@@ -232,22 +235,17 @@
   "confirm-delete-single-configuration": "Are you sure you want to delete this configuration?",
   "delete-multiple-configurations": "Delete multiple configurations",
   "confirm-delete-multiple-configurations": "Are you sure you want to delete these configurations?",
-
-  "yes": "Yes",
-  "no": "No",
+  "configuration-saved-successfully": "Configuration is saved successfully",
 
   "feature-coming-soon": "Feature is coming soon!",
-
-  "configuration-saved-successfully": "Configuration is saved successfully",
   "invalid-request-data": "Invalid request data",
 
+  "from": "from",
   "group": "Group",
 
   "indicative-project-price": "Indicative project price",
   "indicative-project-price-input": "Enter the total linear meters of the project",
   "indicative-project-price-calculate": "Show the indicative price",
   "indicative-project-price-result": "Total excluding VAT and delivery for the project",
-  "indicative-project-price-contact": "Contact dani alu",
-
-  "delivery-date": "Delivery date"
+  "indicative-project-price-contact": "Contact dani alu"
 }
