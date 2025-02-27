@@ -73,7 +73,7 @@
   "terrace-grid-info": "For concrete slabs or ceramic tiles, choose the dimension of the slab/tile. For wooden or composite planks, choose the joist centres specified by the manufacturer.",
 
   "free-height": "Circulation height",
-  "free-height-info": "Enter the overall height of the terrace, from the surface the pedestals will sit on to the top of the terrace finish.",
+  "free-height-info": "Enter the overall height of the terrace, from the surface the pedestals will sit on at the highest point of the roof to the top of the terrace finish.",
 
   "handrail-height": "Handrail height",
   "handrail-height-info": "",
@@ -123,7 +123,7 @@
   "field-required": "Required field",
   "search...": "Search by name, RAL, etc.",
   "*-required-fields": "(*) Required fields.",
-  "standard paint is gloss" : "The standard paint is powder coated semi-gloss ???",
+  "standard paint is gloss" : "The standard paint is powder coated semi-gloss.",
   
   "accept-terrace-offset-title": "Note for measuring the terrace",
   "accept-terrace-offset-content": "When drawing the terrace, reduce the dimensions by <bold>{{offset}}</bold> mm compared to the parapet.",

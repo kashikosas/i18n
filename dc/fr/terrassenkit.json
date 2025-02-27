@@ -73,7 +73,7 @@
   "terrace-thickness-info": "",
 
   "free-height": "Hauteur niveau de circulation",
-  "free-height-info": "Saisir la hauteur totale de la terrasse, de la surface sur laquelle les plots reposeront jusqu'au dessus de la finition de la terrasse.",
+  "free-height-info": "Saisir la hauteur totale de la terrasse, de la surface sur laquelle les plots reposeront, au point le plus haut du toit-terrasse, jusqu'au dessus de la finition de la terrasse.",
 
   "handrail-height": "Hauteur main courante",
   "handrail-height-info": "Hauteur de la main courante par rapport au niveau de circulation",
@@ -126,7 +126,7 @@
   "walldrawer-changed-recompute": "Le tracé a changé. Regénérer le calcul.",
   "search...": "Chercher par nom, RAL, etc...",
   "*-required-fields" : "(*) Champs obligatoires.",
-  "standard paint is gloss" : "La peinture standard est une peinture en poudre semi-brillante ???",
+  "standard paint is gloss" : "La peinture standard est une peinture en poudre semi-brillante.",
 
   "accept-terrace-offset-title": "Note pour mesurer la terrasse",
   "accept-terrace-offset-content": "Lors du dessin de la terrasse, réduire les dimensions de <bold>{{offset}}</bold> mm par rapport au parapet.",

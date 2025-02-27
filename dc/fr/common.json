@@ -109,8 +109,6 @@
   "builder": "Constructeur",
   "drawer": "Dessinateur",
   "state": "Statut",
-  "updatedAt": "Date modification",
-  "createdAt": "Date création",
   "open-formular": "Ouvrir formulaire",
   "etude": "Etude",
   "affaire": "Affaire",
@@ -199,5 +197,62 @@
   "opticoupe-csv-export-toles": "Opticoupe Tôles export",
   "dxf-file": "Fichier DXF",
 
-  "attach-price": "Fixez un prix"
+  "status": "Statut",
+  "created-at": "Date création",
+  "created-by": "Créateur",
+  "updated-at": "Date modification",
+  "updated-by": "Modificateur",
+  "version": "Version",
+  "actions": "Actions",
+
+  "config-edit": "Editer",
+  "config-share": "Partager",
+  "config-duplicate": "Dupliquer",
+  "config-delete": "Supprimer",
+
+  "next": "Suivant",
+  "close": "Fermer",
+  "yes": "Oui",
+  "no": "Non",
+
+  "metadata": "Métadonnées",
+  "project-type": "Type de projet",
+  "renovation": "Rénovation",
+  "new": "Neuf",
+  "project-status": "Statut du projet",
+  "etude": "Etude",
+  "affaire": "Affaire",
+  "study": "Etude",
+  "project": "Projet",
+  "site-status": "Statut chantier",
+  "site-type": "Type chantier",
+  "configuration-status": "Statut de la configuration",
+  "contact-form-client": "Client",
+  "delivery-date": "Date de livraison",
+  "contact-info": "Informations de contact",
+  "attach-price": "Fixez un prix",
+
+  "work-in-progress": "En cours",
+  "in-quote": "En attente",
+  "validated": "Validé",
+  "in-cart": "Dans le panier",
+  "ordered": "Commandé",
+
+  "delete-configuration": "Supprimer la configuration",
+  "confirm-delete-single-configuration": "Êtes-vous sûr de vouloir supprimer cette configuration ?",
+  "delete-multiple-configurations": "Supprimer plusieurs configurations",
+  "confirm-delete-multiple-configurations": "Êtes-vous sûr de vouloir supprimer ces configurations ?",
+  "configuration-saved-successfully": "Configuration enregistrée",
+
+  "feature-coming-soon": "Fonctionnalité bientôt disponible!",
+  "invalid-request-data": "Données de demande invalides",
+
+  "from": "à partir de",
+  "group": "Groupe",
+
+  "indicative-project-price": "Prix indicatif du projet",
+  "indicative-project-price-input": "Saisissez le nombre total de mètres linéaires du projet",
+  "indicative-project-price-calculate": "Afficher le prix indicatif",
+  "indicative-project-price-result": "Total HT et livraison pour le projet",
+  "indicative-project-price-contact": "Contactez dani alu"
 }
