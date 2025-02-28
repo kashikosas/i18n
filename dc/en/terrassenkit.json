@@ -190,5 +190,11 @@
 
   "pa-tk-popup-title-3": "How to add gates and wall features",
   "pa-tk-popup-content-seventh": "Gates can be added to guardrail lines from the <i>line property popup</i>. Right clicking on the gate allows it to be adjusted.",
-  "pa-tk-popup-content-eighth": "Doors or windows can be added to wall lines from the <i>line property popup</i>. Right clicking on the door or window allows it to be adjusted."
+  "pa-tk-popup-content-eighth": "Doors or windows can be added to wall lines from the <i>line property popup</i>. Right clicking on the door or window allows it to be adjusted.",
+
+  "draw": "Draw",
+  "next": "Next",
+  "previous": "Previous",
+  "finish": "Finish",
+  "skip": "Skip"
 }

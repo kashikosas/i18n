@@ -190,5 +190,11 @@
 
   "pa-tk-popup-title-3": "So fügen Sie Tür und Fenster hinzu",
   "pa-tk-popup-content-seventh": "Tür können zu Geländerlinien über das <i>Linieneigenschaftenfenster</i> hinzugefügt werden. Durch einen Rechtsklick auf das Tür können Sie es anpassen.",
-  "pa-tk-popup-content-eighth": "Tür oder Fenster können zu Wandlinien über das <i>Linieneigenschaftenfenster</i> hinzugefügt werden. Durch einen Rechtsklick auf die Tür oder das Fenster können Sie diese anpassen."
+  "pa-tk-popup-content-eighth": "Tür oder Fenster können zu Wandlinien über das <i>Linieneigenschaftenfenster</i> hinzugefügt werden. Durch einen Rechtsklick auf die Tür oder das Fenster können Sie diese anpassen.",
+
+  "draw": "Ziehen",
+  "next": "Nächste",
+  "previous": "Vorherige",
+  "finish": "Beenden",
+  "skip": "Überspringen"
 }

@@ -193,5 +193,11 @@
 
   "pa-tk-popup-title-3": "Comment ajouter des portillons et portes / fenêtres",
   "pa-tk-popup-content-seventh": "Des portillons peuvent être ajoutées aux lignes de garde-corps à partir de la <i>fenêtre des propriétés de la ligne</i>. Un clic droit sur le portillon permet de l'ajuster.",
-  "pa-tk-popup-content-eighth": "Des portes ou des fenêtres peuvent être ajoutées aux lignes murales à partir de la <i>fenêtre des propriétés de la ligne</i>. Un clic droit sur la porte ou la fenêtre permet de l'ajuster."
+  "pa-tk-popup-content-eighth": "Des portes ou des fenêtres peuvent être ajoutées aux lignes murales à partir de la <i>fenêtre des propriétés de la ligne</i>. Un clic droit sur la porte ou la fenêtre permet de l'ajuster.",
+
+  "draw": "Dessiner",
+  "next": "Suivant",
+  "previous": "Précédent",
+  "finish": "Finition",
+  "skip": "Sauter"
 }
