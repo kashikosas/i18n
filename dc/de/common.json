@@ -247,5 +247,7 @@
   "indicative-project-price-input": "Geben Sie die gesamten Laufmeter des Projekts ein",
   "indicative-project-price-calculate": "Indikativer preis anzeigen",
   "indicative-project-price-result": "Gesamtbetrag ohne Mehrwertsteuer und Lieferung für das Projekt",
-  "indicative-project-price-contact": "Kontaktieren Sie dani alu"
+  "indicative-project-price-contact": "Kontaktieren Sie dani alu",
+
+  "configuration-add-to-cart-successfully": "Konfiguration erfolgreich zum Warenkorb hinzugefügt"
 }
