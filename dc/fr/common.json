@@ -110,15 +110,8 @@
   "drawer": "Dessinateur",
   "state": "Statut",
   "open-formular": "Ouvrir formulaire",
-  "etude": "Etude",
-  "affaire": "Affaire",
-  "renovation": "Rénovation",
-  "new": "Neuf",
-  "site-status": "Statut chantier",
-  "site-type": "Type chantier",
   "duedate": "Date de livraison",
-  "from": "à partir de",
-
+  
   "write-your-message": "Votre message",
   "attach-current-config": "Joindre la configuration en cours",
   "field-required": "Champs requis",
