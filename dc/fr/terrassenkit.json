@@ -85,7 +85,7 @@
   "glass": "Transparent clair",
   "opal-glass": "Translucide opale blanc",
   "loading...": "Chargement...",
-  "non standard color" : "Peinture non standard",
+  "non standard color": "Peinture non standard",
   "enter color details": "Saisissez votre demande de peinture non standard.",
   "other-color info": "Entrez le type/couleur/finition ici.",
   "other": "Peinture non standard",
@@ -125,8 +125,8 @@
 
   "walldrawer-changed-recompute": "Le tracé a changé. Regénérer le calcul.",
   "search...": "Chercher par nom, RAL, etc...",
-  "*-required-fields" : "(*) Champs obligatoires.",
-  "standard paint is gloss" : "La peinture standard est une peinture en poudre semi-brillante.",
+  "*-required-fields": "(*) Champs obligatoires.",
+  "standard paint is gloss": "La peinture standard est une peinture en poudre semi-brillante.",
 
   "accept-terrace-offset-title": "Note pour mesurer la terrasse",
   "accept-terrace-offset-content": "Lors du dessin de la terrasse, réduire les dimensions de <bold>{{offset}}</bold> mm par rapport au parapet.",
@@ -142,7 +142,7 @@
   "descriptive-text-standard-use-de": "DIN EN 1991-1-1, DIN EN 1991-1-1/AN, DIN EN 1991-1-4, DIN EN 1991-1-4/AN et DIN 18008-4",
   "descriptive-text-standard-use-fr": "NF P 01-012, NF EN 1991-1-1, NF EN 1991-1-1/NA, NF EN 1991-1-4, NF EN 1991-1-4/NA, et testé selon la norme NF P 01- 013",
   "descriptive-text-standard-use-uk": "BS EN 1991-1-1, BS EN 1991-1-1/AN, BS 6180, BS EN 1991-1-4 et BS EN 1991-1-4/AN",
-  
+
   "descriptive-text-category-of-use-at": "aux catégories d'usage A1 et B1 (privée) d’après ÖNORM B 1991-1 et ÖNORM B 1991-1/AN",
   "descriptive-text-category-of-use-ch": "aux catégories d'usage A2 et B (privée) d’après SIA 261",
   "descriptive-text-category-of-use-de": "aux catégories d'usage A et B1 (privée) d’après DIN EN 1991-1-1 et DIN EN 1991-1-1/AN",
@@ -159,25 +159,39 @@
   "descriptive-text-location-H": "Installé soit a) à une hauteur maximale au-dessus du niveau du sol de 10 m dans une zone où Vb,map ≤ 23 m/s, dans la catégorie de terrain 'Urbain', à 30 km ou plus de la côte et à au moins 3km à l'intérieur de la ville, ou soit b) dans un emplacement/bâtiment où le qp(z) est de 0,68 kN/ m² ou moins.",
   "descriptive-text-location-NA": "N'importe emplacement.",
 
-  "descriptive-text-qualification-at":"La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
-  "descriptive-text-qualification-ch":"La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
-  "descriptive-text-qualification-de":"La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
-  "descriptive-text-qualification-fr":"La mise en œuvre sera réalisée par une entreprise justifiant des qualifications 4411, 4412 ou 4413 (métallerie), conformément aux plans de calepinage fournis par dani alu.",
-  "descriptive-text-qualification-uk":"La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-at": "La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-ch": "La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-de": "La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-fr": "La mise en œuvre sera réalisée par une entreprise justifiant des qualifications 4411, 4412 ou 4413 (métallerie), conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-uk": "La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
 
-  "descriptive-text-infill-position-before" : "l’intérieur",
-  "descriptive-text-infill-position-front" : "l’extérieur",
+  "descriptive-text-infill-position-before": "l’intérieur",
+  "descriptive-text-infill-position-front": "l’extérieur",
 
-  "descriptive-text-infill-type-glass" : "verre transparent clair",
-  "descriptive-text-infill-type-opal-glass" : "verre translucide opale blanc",
-  "descriptive-text-infill-type-round-bars" : "barreaux ronds",
-  "descriptive-text-infill-type-square-bars" : "barreaux carrés",
+  "descriptive-text-infill-type-glass": "verre transparent clair",
+  "descriptive-text-infill-type-opal-glass": "verre translucide opale blanc",
+  "descriptive-text-infill-type-round-bars": "barreaux ronds",
+  "descriptive-text-infill-type-square-bars": "barreaux carrés",
 
-  "descriptive-text-infill-style-full-height" : "toute hauteur",
-  "descriptive-text-infill-style-partial-height" : "avec vide de 100 mm dessous la main courante",
+  "descriptive-text-infill-style-full-height": "toute hauteur",
+  "descriptive-text-infill-style-partial-height": "avec vide de 100 mm dessous la main courante",
 
-  "descriptive-text-terrace-covering-dalles" : "dalles en béton",
-  "descriptive-text-terrace-covering-tiles" : "carrelage en ceramique",
-  "descriptive-text-terrace-covering-wood" : "lames en bois",
-  "descriptive-text-terrace-covering-composite" : "lames en composite"
+  "descriptive-text-terrace-covering-dalles": "dalles en béton",
+  "descriptive-text-terrace-covering-tiles": "carrelage en ceramique",
+  "descriptive-text-terrace-covering-wood": "lames en bois",
+  "descriptive-text-terrace-covering-composite": "lames en composite",
+
+  "pa-tk-popup-title": "Comment saisir votre terrasse ou balcon",
+  "pa-tk-popup-content-first": "Dessinez la limite la plus extérieure de l'espace qui sera rempli avec Panorama Terrassenkit en utilisant les outils <i>Tracer librement</i> ou <i>Tracer un Rectangle</i>, créant ainsi une boucle fermée.",
+  "pa-tk-popup-content-second": "Choisissez le type de ligne pour chaque ligne en cliquant avec le bouton droit sur la ligne pour ouvrir la <i>fenêtre des propriétés de la ligne</i>.",
+  "pa-tk-popup-content-third": "Certaines lignes peuvent être trop courtes pour servir de garde-corps, la <i>fenêtre des propriétés de la ligne</i> vous indiquera la longueur nécessaire de la ligne.",
+  "pa-tk-popup-content-fourth": "Choisissez une ligne qui sera le point de départ du revêtement de circulation dans la <i>fenêtre des propriétés de ligne</i>.",
+
+  "pa-tk-popup-title-2": "Comment saisir la surface du toit-terrasse",
+  "pa-tk-popup-content-fifth": "Ajoutez des <i>points de hauteur</i> en cliquant sur un point de coin, ou en cliquant avec le bouton droit sur une ligne ou dans l'espace clos.",
+  "pa-tk-popup-content-sixth": "Connectez les <i>points de hauteur</i> ensemble à l'aide de l'outil <i>Connecteur de points</i> pour créer des noues sur la surface du toit-terrasse.",
+
+  "pa-tk-popup-title-3": "Comment ajouter des portillons et portes / fenêtres",
+  "pa-tk-popup-content-seventh": "Des portillons peuvent être ajoutées aux lignes de garde-corps à partir de la <i>fenêtre des propriétés de la ligne</i>. Un clic droit sur le portillon permet de l'ajuster.",
+  "pa-tk-popup-content-eighth": "Des portes ou des fenêtres peuvent être ajoutées aux lignes murales à partir de la <i>fenêtre des propriétés de la ligne</i>. Un clic droit sur la porte ou la fenêtre permet de l'ajuster."
 }

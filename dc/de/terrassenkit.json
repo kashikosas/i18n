@@ -31,7 +31,7 @@
   "FR-UK-A-helper": "",
   "FR-CH-UK-B-helper": "",
   "CH-A-helper": "",
-  
+
   "position": "Lage",
   "position-info": "Lage",
   "top-building": "Dach des Gebäudes",
@@ -85,7 +85,7 @@
   "glass": "Transparentes Klar",
   "opal-glass": "Transluzider Opalweiß",
   "loading...": "Laden...",
-  "non standard color" : "Nicht-standardisierte Farbe",
+  "non standard color": "Nicht-standardisierte Farbe",
   "enter color details": "Geben Sie die gewünschte Sonderfarbe an.",
   "other-color info": "Geben Sie hier den Typ/die Farbe/das Finish ein.",
   "other": "Nicht-standardisierte Farbe",
@@ -123,7 +123,7 @@
   "field-required": "Pflichtfeld",
   "search...": "Suche nach Name, RAL usw.",
   "*-required-fields": "(*) Erforderliche Felder.",
-  "standard paint is gloss" : "Die Standardlackierung ist pulverbeschichtet, seidenglänzend.",
+  "standard paint is gloss": "Die Standardlackierung ist pulverbeschichtet, seidenglänzend.",
 
   "accept-terrace-offset-title": "Hinweis zum Ausmessen der Terrasse",
   "accept-terrace-offset-content": "Reduzieren Sie beim Zeichnen der Terrasse die Maße um <bold>{{offset}}</bold> mm gegenüber der Brüstung.",
@@ -139,7 +139,7 @@
   "descriptive-text-standard-use-de": "DIN EN 1991-1-1, DIN EN 1991-1-1/AN, DIN EN 1991-1-4, DIN EN 1991-1-4/AN und DIN 18008-4",
   "descriptive-text-standard-use-fr": "NF P 01-012, NF EN 1991-1-1, NF EN 1991-1-1/NA, NF EN 1991-1-4, NF EN 1991-1-4/NA, und getestet nach Norm NF P 01- 013",
   "descriptive-text-standard-use-uk": "BS EN 1991-1-1, BS EN 1991-1-1/AN, BS 6180, BS EN 1991-1-4 und BS EN 1991-1-4/AN",
-  
+
   "descriptive-text-category-of-use-at": "Nutzungskategorie A1 und B1 (Privat) nach ÖNORM B 1991-1 und ÖNORM B 1991-1/AN  geeignet sind",
   "descriptive-text-category-of-use-ch": "Nutzungskategorie A2 und B (Privat) nach SIA 261 geeignet sind",
   "descriptive-text-category-of-use-de": "Nutzungskategorie A und B1 (Privat) nach DIN EN 1991-1-1 und DIN EN 1991-1-1/AN  geeignet sind",
@@ -156,26 +156,39 @@
   "descriptive-text-location-H": "In einer maximalen Höhe über dem Boden von 10 m in einem Gebiet mit Vb,map ≤ 23 m/s, in der Geländekategorie Urban, 30 km oder mehr von der Küste entfernt und mindestens 3 km innerhalb der Stadt.\nAn einem Ort/Gebäude, an dem qp(z) 0,68 kN/ m² oder weniger beträgt, installiert.",
   "descriptive-text-location-NA": "Beliebiger Standort.",
 
-  "descriptive-text-qualification-at":"Die Montage sollte von qualifiziertem Fachpersonal gemäß dem von dani alu gelieferten Verlegeplan und der Montageanleitung durchgeführt werden.",
-  "descriptive-text-qualification-ch":"Die Montage sollte von qualifiziertem Fachpersonal gemäß dem von dani alu gelieferten Verlegeplan und der Montageanleitung durchgeführt werden.",
-  "descriptive-text-qualification-de":"Die Montage sollte von qualifiziertem Fachpersonal gemäß dem von dani alu gelieferten Verlegeplan und der Montageanleitung durchgeführt werden.",
-  "descriptive-text-qualification-fr":"Die Montage wird von einem Unternehmen durchgeführt, das die Qualifikationen 4411, 4412 oder 4413 (Metallarbeiten) nachweisen kann, gemäß den von dani alu zur Verfügung gestellten Verlegeplänen.",
-  "descriptive-text-qualification-uk":"Die Montage sollte von qualifiziertem Fachpersonal gemäß dem von dani alu gelieferten Verlegeplan und der Montageanleitung durchgeführt werden.",
+  "descriptive-text-qualification-at": "Die Montage sollte von qualifiziertem Fachpersonal gemäß dem von dani alu gelieferten Verlegeplan und der Montageanleitung durchgeführt werden.",
+  "descriptive-text-qualification-ch": "Die Montage sollte von qualifiziertem Fachpersonal gemäß dem von dani alu gelieferten Verlegeplan und der Montageanleitung durchgeführt werden.",
+  "descriptive-text-qualification-de": "Die Montage sollte von qualifiziertem Fachpersonal gemäß dem von dani alu gelieferten Verlegeplan und der Montageanleitung durchgeführt werden.",
+  "descriptive-text-qualification-fr": "Die Montage wird von einem Unternehmen durchgeführt, das die Qualifikationen 4411, 4412 oder 4413 (Metallarbeiten) nachweisen kann, gemäß den von dani alu zur Verfügung gestellten Verlegeplänen.",
+  "descriptive-text-qualification-uk": "Die Montage sollte von qualifiziertem Fachpersonal gemäß dem von dani alu gelieferten Verlegeplan und der Montageanleitung durchgeführt werden.",
 
-  "descriptive-text-infill-position-before" : "hinter",
-  "descriptive-text-infill-position-front" : "vor",
+  "descriptive-text-infill-position-before": "hinter",
+  "descriptive-text-infill-position-front": "vor",
 
-  "descriptive-text-infill-type-glass" : "transparentes Klarglas",
-  "descriptive-text-infill-type-opal-glass" : "transluzentes opalweißes Glas",
-  "descriptive-text-infill-type-round-bars" : "eckiger Stabfüllung",
-  "descriptive-text-infill-type-square-bars" : "runder Stabfüllung",
+  "descriptive-text-infill-type-glass": "transparentes Klarglas",
+  "descriptive-text-infill-type-opal-glass": "transluzentes opalweißes Glas",
+  "descriptive-text-infill-type-round-bars": "eckiger Stabfüllung",
+  "descriptive-text-infill-type-square-bars": "runder Stabfüllung",
 
-  "descriptive-text-infill-style-full-height" : "vollflächig",
-  "descriptive-text-infill-style-partial-height" : "teilflächig mit 100 mm zwischen Handlauf und Füllung",
+  "descriptive-text-infill-style-full-height": "vollflächig",
+  "descriptive-text-infill-style-partial-height": "teilflächig mit 100 mm zwischen Handlauf und Füllung",
 
-  "descriptive-text-terrace-covering-dalles" : "Betonplatten",
-  "descriptive-text-terrace-covering-tiles" : "Keramikplatten oder Fliesen",
-  "descriptive-text-terrace-covering-wood" : "Holz-Terrassendielen",
-  "descriptive-text-terrace-covering-composite" : "WPC-Terrassendielen"
+  "descriptive-text-terrace-covering-dalles": "Betonplatten",
+  "descriptive-text-terrace-covering-tiles": "Keramikplatten oder Fliesen",
+  "descriptive-text-terrace-covering-wood": "Holz-Terrassendielen",
+  "descriptive-text-terrace-covering-composite": "WPC-Terrassendielen",
+
+  "pa-tk-popup-title": "So zeichnen Sie Ihre Terrasse oder Ihren Balkon",
+  "pa-tk-popup-content-first": "Zeichnen Sie mit den Werkzeugen <i>Freies Zeichnen</i> oder <i>Rechteck zeichnen</i> die äußerste Begrenzung des Raumes, der mit Panorama Terrassenkit ausgefüllt werden soll, so dass eine geschlossene Schleife entsteht.",
+  "pa-tk-popup-content-second": "Wählen Sie den Linientyp für jede Linie, indem Sie mit der rechten Maustaste auf die Linie klicken, um das <i>Linieneigenschaftenfenster</i> zu öffnen.",
+  "pa-tk-popup-content-third": "Einige Linien können zu kurz sein, um als Geländers zu dienen. Das <i>Linieneigenschaftenfenster</i> zeigt Ihnen die erforderliche Länge der Linie an.",
+  "pa-tk-popup-content-fourth": "Wählen Sie im Fenster <i>Linieneigenschaftenfenster</i> eine Linie aus, die als Ausgangspunkt für Belagsverlegung.",
+
+  "pa-tk-popup-title-2": "So erfassen Sie die Dachterrassenfläche",
+  "pa-tk-popup-content-fifth": "Fügen Sie <i>Höhenpunkte</i> hinzu, indem Sie auf einen Eckpunkt klicken oder mit der rechten Maustaste auf eine Linie oder in den umschlossenen Raum klicken.",
+  "pa-tk-popup-content-sixth": "Verbinden Sie die <i>Höhenpunkte</i> mithilfe des Werkzeugs <i>Punkte verbinden</i> miteinander, um Grate und Schluchten auf der Oberfläche der Dachterrasse zu erstellen.",
+
+  "pa-tk-popup-title-3": "So fügen Sie Tür und Fenster hinzu",
+  "pa-tk-popup-content-seventh": "Tür können zu Geländerlinien über das <i>Linieneigenschaftenfenster</i> hinzugefügt werden. Durch einen Rechtsklick auf das Tür können Sie es anpassen.",
+  "pa-tk-popup-content-eighth": "Tür oder Fenster können zu Wandlinien über das <i>Linieneigenschaftenfenster</i> hinzugefügt werden. Durch einen Rechtsklick auf die Tür oder das Fenster können Sie diese anpassen."
 }
-
