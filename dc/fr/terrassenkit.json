@@ -182,17 +182,17 @@
   "descriptive-text-terrace-covering-composite": "lames en composite",
 
   "pa-tk-popup-title": "Comment saisir votre terrasse ou balcon",
-  "pa-tk-popup-content-first": "Dessinez la limite la plus extérieure de l'espace qui sera rempli avec Panorama Terrassenkit en utilisant les outils <i>Tracer librement</i> ou <i>Tracer un Rectangle</i>, créant ainsi une boucle fermée.",
-  "pa-tk-popup-content-second": "Choisissez le type de ligne pour chaque ligne en cliquant avec le bouton droit sur la ligne pour ouvrir la <i>fenêtre des propriétés de la ligne</i>.",
-  "pa-tk-popup-content-third": "Certaines lignes peuvent être trop courtes pour servir de garde-corps, la <i>fenêtre des propriétés de la ligne</i> vous indiquera la longueur nécessaire de la ligne.",
+  "pa-tk-popup-content-first": "Dessinez la limite la plus extérieure de l'espace qui sera rempli avec Panorama Terrassenkit en utilisant les outils <i>Tracer librement</i> ou <i>Tracer un Rectangle</i>, créant ainsi une boucle fermée.<br/>",
+  "pa-tk-popup-content-second": "Choisissez le type de ligne pour chaque ligne en cliquant avec le bouton droit sur la ligne pour ouvrir la <i>fenêtre des propriétés de la ligne</i>.<br/>",
+  "pa-tk-popup-content-third": "Certaines lignes peuvent être trop courtes pour servir de garde-corps, la <i>fenêtre des propriétés de la ligne</i> vous indiquera la longueur nécessaire de la ligne.<br/>",
   "pa-tk-popup-content-fourth": "Choisissez une ligne qui sera le point de départ du revêtement de circulation dans la <i>fenêtre des propriétés de ligne</i>.",
 
   "pa-tk-popup-title-2": "Comment saisir la surface du toit-terrasse",
-  "pa-tk-popup-content-fifth": "Ajoutez des <i>points de hauteur</i> en cliquant sur un point de coin, ou en cliquant avec le bouton droit sur une ligne ou dans l'espace clos.",
+  "pa-tk-popup-content-fifth": "Ajoutez des <i>points de hauteur</i> en cliquant sur un point de coin, ou en cliquant avec le bouton droit sur une ligne ou dans l'espace clos.<br/>",
   "pa-tk-popup-content-sixth": "Connectez les <i>points de hauteur</i> ensemble à l'aide de l'outil <i>Connecteur de points</i> pour créer des noues sur la surface du toit-terrasse.",
 
   "pa-tk-popup-title-3": "Comment ajouter des portillons et portes / fenêtres",
-  "pa-tk-popup-content-seventh": "Des portillons peuvent être ajoutées aux lignes de garde-corps à partir de la <i>fenêtre des propriétés de la ligne</i>. Un clic droit sur le portillon permet de l'ajuster.",
+  "pa-tk-popup-content-seventh": "Des portillons peuvent être ajoutées aux lignes de garde-corps à partir de la <i>fenêtre des propriétés de la ligne</i>. Un clic droit sur le portillon permet de l'ajuster.<br/>",
   "pa-tk-popup-content-eighth": "Des portes ou des fenêtres peuvent être ajoutées aux lignes murales à partir de la <i>fenêtre des propriétés de la ligne</i>. Un clic droit sur la porte ou la fenêtre permet de l'ajuster.",
 
   "draw": "Dessiner",
