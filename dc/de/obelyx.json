@@ -80,13 +80,13 @@
 
   "position-balcony-img": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/><br/> <center><img src='{{assetsUrl}}/images/obx/de-obx-position-balcon.png' width='225px' /></center>",
   "position-parapet-img": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/><br/> <center><img src='{{assetsUrl}}/images/obx/de-obx-position-para.png' width='225px' /></center>",
-  "position-parapet-dsp-img": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/><br/> <center><img src='{{assetsUrl}}/images/obx/de-obx-position-para-dsp.png' width='250px' /></center>"
+  "position-parapet-dsp-img": "Bitte beachten Sie das Bild unten, um die folgenden Felder auszufüllen. <br/><br/> <center><img src='{{assetsUrl}}/images/obx/de-obx-position-para-dsp.png' width='250px' /></center>",
 
   "obelyx-popup-title": "So zeichnen Sie Ihre Terrasse oder Ihren Balkon",
-  "obelyx-popup-content-slab": "Zeichnen Sie die Enden der Platte mit den <i>Freies Zeichnen</i> oder <i>Rechteck zeichnen</i>.",
-  "obelyx-popup-content-parapet": "Zeichnen Sie die Enden der Brüstung mit den <i>Freies Zeichnen</i> oder <i>Rechteck zeichnen</i>.",
-  "obelyx-popup-content-second": "Zeichnen Sie die Linien nur dort, wo Leitplanken sein werden.",
-  "obelyx-popup-content-third": "Wählen Sie die Endarten des Geländers (wandmontiert oder mit Endkappe) durch einen Rechtsklick auf jedes Ende.",
+  "obelyx-popup-content-slab": "Zeichnen Sie die Enden der Platte mit den <i>Freies Zeichnen</i> oder <i>Rechteck zeichnen</i>.<br/>",
+  "obelyx-popup-content-parapet": "Zeichnen Sie die Enden der Brüstung mit den <i>Freies Zeichnen</i> oder <i>Rechteck zeichnen</i>.<br/>",
+  "obelyx-popup-content-second": "Zeichnen Sie die Linien nur dort, wo Leitplanken sein werden.<br/>",
+  "obelyx-popup-content-third": "Wählen Sie die Endarten des Geländers (wandmontiert oder mit Endkappe) durch einen Rechtsklick auf jedes Ende.<br/>",
   "obelyx-popup-content-fourth": "Wählen Sie die Innenseite der Terrasse aus, indem Sie mit der rechten Maustaste auf eine beliebige Zeile klicken und auf <i>Innen und außen umkehren</i> klicken.",
   "draw": "Ziehen"
 }
