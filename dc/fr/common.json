@@ -246,5 +246,7 @@
   "indicative-project-price-input": "Saisissez le nombre total de mètres linéaires du projet",
   "indicative-project-price-calculate": "Afficher le prix indicatif",
   "indicative-project-price-result": "Total HT et livraison pour le projet",
-  "indicative-project-price-contact": "Contactez dani alu"
+  "indicative-project-price-contact": "Contactez dani alu",
+
+  "configuration-add-to-cart-successfully": "Configuration ajoutée au panier avec succès"
 }
