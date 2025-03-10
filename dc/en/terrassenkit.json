@@ -179,18 +179,18 @@
   "descriptive-text-terrace-covering-composite": "composite planks",
 
   "pa-tk-popup-title": "How to draw your terrace or balcony",
-  "pa-tk-popup-content-first": "Draw the outermost boundary of the space which will be filled with Panorama Terrassenkit using the <i>Freedraw</i> or <i>Rectangle</i> tools, creating an enclosed loop.<br/>",
-  "pa-tk-popup-content-second": "Choose the line type for each line by right clicking on the line to open the <i>line property pop-up</i>.<br/>",
-  "pa-tk-popup-content-third": "Certain lines may be too short to be a guardrail, the <i>line property pop-up</i> will tell you how much longer the line will need to be.<br/>",
-  "pa-tk-popup-content-fourth": "Choose a line to be the starting point of the terrace covering within the <i>line property pop-up</i>.",
+  "pa-tk-popup-content-first": "Draw the outermost boundary of the space which will be filled with Panorama Terrassenkit using the <italic>Freedraw</italic> or <italic>Rectangle</italic> tools, creating an enclosed loop.<br/>",
+  "pa-tk-popup-content-second": "Choose the line type for each line by right clicking on the line to open the <italic>line property pop-up</italic>.<br/>",
+  "pa-tk-popup-content-third": "Certain lines may be too short to be a guardrail, the <italic>line property pop-up</italic> will tell you how much longer the line will need to be.<br/>",
+  "pa-tk-popup-content-fourth": "Choose a line to be the starting point of the terrace covering within the <italic>line property pop-up</italic>.",
 
   "pa-tk-popup-title-2": "How to enter the surface of the roof",
-  "pa-tk-popup-content-fifth": "Add <i>height points</i> by clicking on a corner point, or right clicking on a line or within the enclosed space.<br/>",
-  "pa-tk-popup-content-sixth": "Connect <i>height points</i> together using the <i>Point connector</i> tool to create ridges and gullies on the roof surface.",
+  "pa-tk-popup-content-fifth": "Add <italic>height points</italic> by clicking on a corner point, or right clicking on a line or within the enclosed space.<br/>",
+  "pa-tk-popup-content-sixth": "Connect <italic>height points</italic> together using the <i>Point connector</i> tool to create ridges and gullies on the roof surface.",
 
   "pa-tk-popup-title-3": "How to add gates and wall features",
-  "pa-tk-popup-content-seventh": "Gates can be added to guardrail lines from the <i>line property popup</i>. Right clicking on the gate allows it to be adjusted.<br/>",
-  "pa-tk-popup-content-eighth": "Doors or windows can be added to wall lines from the <i>line property popup</i>. Right clicking on the door or window allows it to be adjusted.",
+  "pa-tk-popup-content-seventh": "Gates can be added to guardrail lines from the <italic>line property popup</italic>. Right clicking on the gate allows it to be adjusted.<br/>",
+  "pa-tk-popup-content-eighth": "Doors or windows can be added to wall lines from the <italic>line property popup</italic>. Right clicking on the door or window allows it to be adjusted.",
 
   "draw": "Draw",
   "next": "Next",
