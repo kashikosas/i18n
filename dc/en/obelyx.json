@@ -79,10 +79,10 @@
   "position-parapet-dsp-img": "Please refer to the image below to complete the following fields. <br/><br/> <center><img src='{{assetsUrl}}/images/obx/en-obx-position-para-dsp.png' width='250px' /></center>",
 
   "obelyx-popup-title": "How to enter your terrace or balcony",
-  "obelyx-popup-content-slab": "Draw the extremities of the slab using the <i>Freedraw</i> or <i>Rectangle tools</i>.<br/>",
-  "obelyx-popup-content-parapet": "Draw the extremities of the parapet using the <i>Freedraw</i> or <i>Rectangle tools</i>.<br/>",
+  "obelyx-popup-content-slab": "Draw the extremities of the slab using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>.<br/>",
+  "obelyx-popup-content-parapet": "Draw the extremities of the parapet using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>.<br/>",
   "obelyx-popup-content-second": "Only draw the lines where there will be guardrails.<br/>",
   "obelyx-popup-content-third": "Choose the end types of the guardrails (fixed to wall or with end cap) by right clicking on each end point.<br/>",
-  "obelyx-popup-content-fourth": "Choose the inside of the terrace by right clicking any line a clicking <i>Reverse inside and outside</i>.",
+  "obelyx-popup-content-fourth": "Choose the inside of the terrace by right clicking any line a clicking <italic>Reverse inside and outside</italic>.",
   "draw": "Draw"
 }
