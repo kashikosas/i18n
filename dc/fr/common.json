@@ -121,6 +121,8 @@
   "prices": "Tarifs",
   "edit-copy": "Editer-Copier",
   "not-includes-vat": "TVA non incluse",
+  "not-includes-packaging-shipping-vat": "Frais de port et d'emballage et TVA non compris",
+  "linear-meter-unit": "le mètre linéaire",
 
   "reference": "Référence",
   "client": "Client",
@@ -245,7 +247,7 @@
   "indicative-project-price": "Prix indicatif du projet",
   "indicative-project-price-input": "Saisissez le nombre total de mètres linéaires du projet",
   "indicative-project-price-calculate": "Afficher le prix indicatif",
-  "indicative-project-price-result": "Total HT et livraison pour le projet",
+  "indicative-project-price-result": "Total sans la TVA, les frais de port et d'emballage pour le projet",
   "indicative-project-price-contact": "Contactez dani alu",
 
   "configuration-add-to-cart-successfully": "Configuration ajoutée au panier avec succès"
