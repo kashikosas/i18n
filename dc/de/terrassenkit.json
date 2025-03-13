@@ -196,5 +196,7 @@
   "next": "Nächste",
   "previous": "Vorherige",
   "finish": "Beenden",
-  "skip": "Überspringen"
+  "skip": "Überspringen",
+
+  "need-mm-longer-to-be-guardrail": "Um als Geländer zu dienen, muss die Linie {{mm}} mm länger sein"
 }
