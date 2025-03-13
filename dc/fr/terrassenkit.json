@@ -199,5 +199,7 @@
   "next": "Suivant",
   "previous": "Précédent",
   "finish": "Finition",
-  "skip": "Sauter"
+  "skip": "Sauter",
+
+  "need-mm-longer-to-be-guardrail": "Pour être un garde-corps, la ligne doit être {{mm}} mm plus longue"
 }
