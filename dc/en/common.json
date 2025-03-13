@@ -122,6 +122,8 @@
   "prices": "Prices",
   "edit-copy": "Edit copy",
   "not-includes-vat": "VAT not included",
+  "not-includes-packaging-shipping-vat": "Shipping and packaging costs and VAT not included",
+  "linear-meter-unit": "per linear meter",
 
   "reference": "Reference",
   "client": "Customer",
@@ -246,7 +248,7 @@
   "indicative-project-price": "Indicative project price",
   "indicative-project-price-input": "Enter the total linear meters of the project",
   "indicative-project-price-calculate": "Show the indicative price",
-  "indicative-project-price-result": "Total excluding VAT and delivery for the project",
+  "indicative-project-price-result": "Total excluding VAT, shipping and packaging for the project",
   "indicative-project-price-contact": "Contact dani alu",
 
   "configuration-add-to-cart-successfully": "Configuration added to cart successfully"
