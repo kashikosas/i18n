@@ -238,6 +238,7 @@
   "delete-multiple-configurations": "Delete multiple configurations",
   "confirm-delete-multiple-configurations": "Are you sure you want to delete these configurations?",
   "configuration-saved-successfully": "Configuration is saved successfully",
+  "deletion-configuration-successful": "Configuration is deleted successfully",
 
   "feature-coming-soon": "Feature is coming soon!",
   "invalid-request-data": "Invalid request data",

@@ -237,6 +237,7 @@
   "delete-multiple-configurations": "Supprimer plusieurs configurations",
   "confirm-delete-multiple-configurations": "Êtes-vous sûr de vouloir supprimer ces configurations ?",
   "configuration-saved-successfully": "Configuration enregistrée",
+  "deletion-configuration-successful": "Configuration supprimée avec succès",
 
   "feature-coming-soon": "Fonctionnalité bientôt disponible!",
   "invalid-request-data": "Données de demande invalides",
