@@ -174,6 +174,8 @@
   "download-instead": "Laden Sie das Dokument herunter",
 
   "not-includes-vat": "Nicht inklusive MwSt.",
+  "not-includes-packaging-shipping-vat": "Versand- und Verpackungskosten sowie Mehrwertsteuer nicht inbegriffen",
+  "linear-meter-unit": "pro Laufmeter",
   "lacqueringsheet": "Lackierungsblatt",
   "glass-export": "Glas Export",
   "panel-export": "Panel Export",
@@ -236,6 +238,8 @@
   "delete-multiple-configurations": "Mehrere Konfigurationen löschen",
   "confirm-delete-multiple-configurations": "Sollen die Konfigurationen wirklich gelöscht werden?",
   "configuration-saved-successfully": "Konfiguration erfolgreich gespeichert",
+  "deletion-configuration-successful": "Konfiguration erfolgreich gelöscht",
+  "configuration-add-to-cart-successfully": "Konfiguration erfolgreich zum Warenkorb hinzugefügt",
 
   "feature-coming-soon": "Feature bald verfügbar!",
   "invalid-request-data": "Ungültige Anfrage",
@@ -246,6 +250,10 @@
   "indicative-project-price": "Indikativer Projektpreis",
   "indicative-project-price-input": "Geben Sie die gesamten Laufmeter des Projekts ein",
   "indicative-project-price-calculate": "Indikativer preis anzeigen",
-  "indicative-project-price-result": "Gesamtbetrag ohne Mehrwertsteuer und Lieferung für das Projekt",
-  "indicative-project-price-contact": "Kontaktieren Sie dani alu"
+  "indicative-project-price-result": "Gesamtbetrag ohne Mehrwertsteuer und Versand- und Verpackungskosten für das Projekt",
+  "indicative-project-price-contact": "Kontaktieren Sie dani alu",
+
+  "invalid-form": "Bitte geben Sie alle erforderlichen Felder ein, die mit einem Stern (*) markiert sind.",
+
+  "shop-data-required": "Bitte wählen Sie den Preis und die Menge aus."
 }

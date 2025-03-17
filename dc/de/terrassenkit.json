@@ -179,22 +179,24 @@
   "descriptive-text-terrace-covering-composite": "WPC-Terrassendielen",
 
   "pa-tk-popup-title": "So zeichnen Sie Ihre Terrasse oder Ihren Balkon",
-  "pa-tk-popup-content-first": "Zeichnen Sie mit den Werkzeugen <i>Freies Zeichnen</i> oder <i>Rechteck zeichnen</i> die äußerste Begrenzung des Raumes, der mit Panorama Terrassenkit ausgefüllt werden soll, so dass eine geschlossene Schleife entsteht.",
-  "pa-tk-popup-content-second": "Wählen Sie den Linientyp für jede Linie, indem Sie mit der rechten Maustaste auf die Linie klicken, um das <i>Linieneigenschaftenfenster</i> zu öffnen.",
-  "pa-tk-popup-content-third": "Einige Linien können zu kurz sein, um als Geländers zu dienen. Das <i>Linieneigenschaftenfenster</i> zeigt Ihnen die erforderliche Länge der Linie an.",
-  "pa-tk-popup-content-fourth": "Wählen Sie im Fenster <i>Linieneigenschaftenfenster</i> eine Linie aus, die als Ausgangspunkt für Belagsverlegung.",
+  "pa-tk-popup-content-first": "Zeichnen Sie mit den Werkzeugen <italic>Freies Zeichnen</italic> oder <italic>Rechteck zeichnen</italic> die äußerste Begrenzung des Raumes, der mit Panorama Terrassenkit ausgefüllt werden soll, so dass eine geschlossene Schleife entsteht.<br/>",
+  "pa-tk-popup-content-second": "Wählen Sie den Linientyp für jede Linie, indem Sie mit der rechten Maustaste auf die Linie klicken, um das <italic>Linieneigenschaftenfenster</italic> zu öffnen.<br/>",
+  "pa-tk-popup-content-third": "Einige Linien können zu kurz sein, um als Geländers zu dienen. Das <italic>Linieneigenschaftenfenster</italic> zeigt Ihnen die erforderliche Länge der Linie an.<br/>",
+  "pa-tk-popup-content-fourth": "Wählen Sie im Fenster <italic>Linieneigenschaftenfenster</italic> eine Linie aus, die als Ausgangspunkt für Belagsverlegung.",
 
   "pa-tk-popup-title-2": "So erfassen Sie die Dachterrassenfläche",
-  "pa-tk-popup-content-fifth": "Fügen Sie <i>Höhenpunkte</i> hinzu, indem Sie auf einen Eckpunkt klicken oder mit der rechten Maustaste auf eine Linie oder in den umschlossenen Raum klicken.",
-  "pa-tk-popup-content-sixth": "Verbinden Sie die <i>Höhenpunkte</i> mithilfe des Werkzeugs <i>Punkte verbinden</i> miteinander, um Grate und Schluchten auf der Oberfläche der Dachterrasse zu erstellen.",
+  "pa-tk-popup-content-fifth": "Fügen Sie <italic>Höhenpunkte</italic> hinzu, indem Sie auf einen Eckpunkt klicken oder mit der rechten Maustaste auf eine Linie oder in den umschlossenen Raum klicken.<br/>",
+  "pa-tk-popup-content-sixth": "Verbinden Sie die <italic>Höhenpunkte</italic> mithilfe des Werkzeugs <italic>Punkte verbinden</italic> miteinander, um Grate und Schluchten auf der Oberfläche der Dachterrasse zu erstellen.",
 
   "pa-tk-popup-title-3": "So fügen Sie Tür und Fenster hinzu",
-  "pa-tk-popup-content-seventh": "Tür können zu Geländerlinien über das <i>Linieneigenschaftenfenster</i> hinzugefügt werden. Durch einen Rechtsklick auf das Tür können Sie es anpassen.",
-  "pa-tk-popup-content-eighth": "Tür oder Fenster können zu Wandlinien über das <i>Linieneigenschaftenfenster</i> hinzugefügt werden. Durch einen Rechtsklick auf die Tür oder das Fenster können Sie diese anpassen.",
+  "pa-tk-popup-content-seventh": "Tür können zu Geländerlinien über das <italic>Linieneigenschaftenfenster</italic> hinzugefügt werden. Durch einen Rechtsklick auf das Tür können Sie es anpassen.<br/>",
+  "pa-tk-popup-content-eighth": "Tür oder Fenster können zu Wandlinien über das <italic>Linieneigenschaftenfenster</italic> hinzugefügt werden. Durch einen Rechtsklick auf die Tür oder das Fenster können Sie diese anpassen.",
 
   "draw": "Ziehen",
   "next": "Nächste",
   "previous": "Vorherige",
   "finish": "Beenden",
-  "skip": "Überspringen"
+  "skip": "Überspringen",
+
+  "need-mm-longer-to-be-guardrail": "Um als Geländer zu dienen, muss die Linie {{mm}} mm länger sein"
 }

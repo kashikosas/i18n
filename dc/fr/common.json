@@ -121,6 +121,8 @@
   "prices": "Tarifs",
   "edit-copy": "Editer-Copier",
   "not-includes-vat": "TVA non incluse",
+  "not-includes-packaging-shipping-vat": "Frais de port et d'emballage et TVA non compris",
+  "linear-meter-unit": "le mètre linéaire",
 
   "reference": "Référence",
   "client": "Client",
@@ -235,6 +237,8 @@
   "delete-multiple-configurations": "Supprimer plusieurs configurations",
   "confirm-delete-multiple-configurations": "Êtes-vous sûr de vouloir supprimer ces configurations ?",
   "configuration-saved-successfully": "Configuration enregistrée",
+  "deletion-configuration-successful": "Configuration supprimée avec succès",
+  "configuration-add-to-cart-successfully": "Configuration ajoutée au panier avec succès",
 
   "feature-coming-soon": "Fonctionnalité bientôt disponible!",
   "invalid-request-data": "Données de demande invalides",
@@ -245,6 +249,10 @@
   "indicative-project-price": "Prix indicatif du projet",
   "indicative-project-price-input": "Saisissez le nombre total de mètres linéaires du projet",
   "indicative-project-price-calculate": "Afficher le prix indicatif",
-  "indicative-project-price-result": "Total HT et livraison pour le projet",
-  "indicative-project-price-contact": "Contactez dani alu"
+  "indicative-project-price-result": "Total sans la TVA, les frais de port et d'emballage pour le projet",
+  "indicative-project-price-contact": "Contactez dani alu",
+
+  "invalid-form": "Veuillez saisir tous les champs nécessaires marqués d'un astérisque (*).",
+
+  "shop-data-required": "Veuillez sélectionner le prix et la quantité."
 }
