@@ -239,6 +239,7 @@
   "confirm-delete-multiple-configurations": "Sollen die Konfigurationen wirklich gelöscht werden?",
   "configuration-saved-successfully": "Konfiguration erfolgreich gespeichert",
   "deletion-configuration-successful": "Konfiguration erfolgreich gelöscht",
+  "configuration-add-to-cart-successfully": "Konfiguration erfolgreich zum Warenkorb hinzugefügt",
 
   "feature-coming-soon": "Feature bald verfügbar!",
   "invalid-request-data": "Ungültige Anfrage",
@@ -252,5 +253,5 @@
   "indicative-project-price-result": "Gesamtbetrag ohne Mehrwertsteuer und Versand- und Verpackungskosten für das Projekt",
   "indicative-project-price-contact": "Kontaktieren Sie dani alu",
 
-  "configuration-add-to-cart-successfully": "Konfiguration erfolgreich zum Warenkorb hinzugefügt"
+  "invalid-form": "Bitte geben Sie alle erforderlichen Felder ein, die mit einem Stern (*) markiert sind."
 }

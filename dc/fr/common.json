@@ -110,7 +110,7 @@
   "drawer": "Dessinateur",
   "state": "Statut",
   "open-formular": "Ouvrir formulaire",
-  
+
   "write-your-message": "Votre message",
   "attach-current-config": "Joindre la configuration en cours",
   "field-required": "Champs requis",
@@ -238,6 +238,7 @@
   "confirm-delete-multiple-configurations": "Êtes-vous sûr de vouloir supprimer ces configurations ?",
   "configuration-saved-successfully": "Configuration enregistrée",
   "deletion-configuration-successful": "Configuration supprimée avec succès",
+  "configuration-add-to-cart-successfully": "Configuration ajoutée au panier avec succès",
 
   "feature-coming-soon": "Fonctionnalité bientôt disponible!",
   "invalid-request-data": "Données de demande invalides",
@@ -251,5 +252,5 @@
   "indicative-project-price-result": "Total sans la TVA, les frais de port et d'emballage pour le projet",
   "indicative-project-price-contact": "Contactez dani alu",
 
-  "configuration-add-to-cart-successfully": "Configuration ajoutée au panier avec succès"
+  "invalid-form": "Veuillez saisir tous les champs nécessaires marqués d'un astérisque (*)."
 }
