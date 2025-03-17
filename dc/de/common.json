@@ -253,5 +253,7 @@
   "indicative-project-price-result": "Gesamtbetrag ohne Mehrwertsteuer und Versand- und Verpackungskosten für das Projekt",
   "indicative-project-price-contact": "Kontaktieren Sie dani alu",
 
-  "invalid-form": "Bitte geben Sie alle erforderlichen Felder ein, die mit einem Stern (*) markiert sind."
+  "invalid-form": "Bitte geben Sie alle erforderlichen Felder ein, die mit einem Stern (*) markiert sind.",
+
+  "shop-data-required": "Bitte wählen Sie den Preis und die Menge aus."
 }

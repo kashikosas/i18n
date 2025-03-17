@@ -253,5 +253,7 @@
   "indicative-project-price-result": "Total excluding VAT, shipping and packaging for the project",
   "indicative-project-price-contact": "Contact dani alu",
 
-  "invalid-form": "Please input all necessary fields marked with an asterisk (*)."
+  "invalid-form": "Please input all necessary fields marked with an asterisk (*).",
+
+  "shop-data-required": "Please select the price and quantity."
 }

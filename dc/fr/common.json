@@ -252,5 +252,7 @@
   "indicative-project-price-result": "Total sans la TVA, les frais de port et d'emballage pour le projet",
   "indicative-project-price-contact": "Contactez dani alu",
 
-  "invalid-form": "Veuillez saisir tous les champs nécessaires marqués d'un astérisque (*)."
+  "invalid-form": "Veuillez saisir tous les champs nécessaires marqués d'un astérisque (*).",
+
+  "shop-data-required": "Veuillez sélectionner le prix et la quantité."
 }
