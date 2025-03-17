@@ -60,11 +60,11 @@
   "case-H-helper": "Die Terrasse befindet sich weniger als 10 m über dem Boden in einem Gebiet mit Vb,map≤23 m/s, Geländekategorie \"Stadt\", 30 km von der Küste entfernt und >3 km innerhalb der Stadt ODER der Spitzenwinddruck, qp(z), an der Position der Terrasse ist kleiner als 0,68 kN/m².",
 
   "terrace-material": "Terrassenbelag",
-  "terrace-material-info": "",
-  "concrete-slabs": "Betonplatten",
-  "ceramic-tiles": "Keramikfliesen",
-  "wooden-planks": "Holzdielen",
-  "composite-planks": "Verbundwerkstoff-Dielen",
+  "terrace-material-info": "Die Mindestdichte des Belagsmaterials muss eingehalten werden.",
+  "concrete-slabs": "Betonplatten (Mindestdichte >23,54 kN/m&sup3)",
+  "ceramic-tiles": "Keramikfliesen (Mindestdichte >20,59 kN/m&sup3)",
+  "wooden-planks": "Holzdielen (Mindestdichte >7,36 kN/m&sup3)",
+  "composite-planks": "Verbundwerkstoff-Dielen (Mindestdichte >,83 kN/m&sup3)",
 
   "terrace-thickness": "Dicke des Terrassenbelages",
   "terrace-thickness-info": "",
