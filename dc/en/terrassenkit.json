@@ -199,5 +199,5 @@
   "skip": "Skip",
 
   "need-mm-longer-to-be-guardrail": "To be a guardrail, the line must be {{mm}} mm longer",
-  "not-show-again": "Don'\t show me again."
+  "not-show-again": "Don't show me again."
 }

@@ -198,5 +198,6 @@
   "finish": "Beenden",
   "skip": "Überspringen",
 
-  "need-mm-longer-to-be-guardrail": "Um als Geländer zu dienen, muss die Linie {{mm}} mm länger sein"
+  "need-mm-longer-to-be-guardrail": "Um als Geländer zu dienen, muss die Linie {{mm}} mm länger sein",
+  "not-show-again": "Nicht mehr anzeigen"
 }
