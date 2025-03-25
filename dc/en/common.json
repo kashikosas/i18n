@@ -255,5 +255,7 @@
 
   "invalid-form": "Please input all necessary fields marked with an asterisk (*).",
 
-  "shop-data-required": "Please select the price and quantity."
+  "shop-data-required": "Please select the price and quantity.",
+
+  "zebral": "Zebral"
 }
