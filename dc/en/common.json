@@ -209,7 +209,7 @@
   "close": "Close",
   "yes": "Yes",
   "no": "No",
-  
+
   "metadata": "Metadata",
   "project-type": "Project type",
   "renovation": "Renovation",
@@ -238,6 +238,8 @@
   "delete-multiple-configurations": "Delete multiple configurations",
   "confirm-delete-multiple-configurations": "Are you sure you want to delete these configurations?",
   "configuration-saved-successfully": "Configuration is saved successfully",
+  "deletion-configuration-successful": "Configuration is deleted successfully",
+  "configuration-add-to-cart-successfully": "Configuration is added to cart successfully",
 
   "feature-coming-soon": "Feature is coming soon!",
   "invalid-request-data": "Invalid request data",
@@ -251,5 +253,7 @@
   "indicative-project-price-result": "Total excluding VAT, shipping and packaging for the project",
   "indicative-project-price-contact": "Contact dani alu",
 
-  "configuration-add-to-cart-successfully": "Configuration added to cart successfully"
+  "invalid-form": "Please input all necessary fields marked with an asterisk (*).",
+
+  "shop-data-required": "Please select the price and quantity."
 }

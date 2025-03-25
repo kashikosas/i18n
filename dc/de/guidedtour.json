@@ -7,7 +7,7 @@
   "open": "Öffnen",
 
   "walk-through-intro-title": "Willkommen",
-  "walk-through-intro-content": "Willkommen auf unserer Produktkonfigurationsplattform! Möchten Sie eine geführte Tour durch unseren Konfigurator erhalten? Entdecken Sie alle Funktionen und Optionen in dieser interaktiven Tour.",
+  "walk-through-intro-content": "Willkommen bei unserem Produktkonfigurator! Möchten sie eine geführte Tour durch unseren Konfigurator erhalten? Hier können sie alle Funktionen und Optionen kennenlernen.",
   "dont-show-again": "Nicht mehr anzeigen",
   "no-thanks": "Ignorieren und mit der Anpassung beginnen",
   "show-me-around": "Die Tour starten",
@@ -15,15 +15,15 @@
   "guided-tour": "Geführter Rundgang",
   "guided-tour-hint": "Hallo, <br/> <bold>sind Sie neu hier?</bold> <br/> wir stellen Ihnen die Hauptfunktionen kurz vor",
 
-  "title-tour-start": "Willkommen zum Handbuch",
-  "tour-start": "Hier können Sie sich mit den verschiedenen Funktionalitäten der Anwendung vertraut machen.<br><br>Sie können auf <italic>Überspringen</italic> klicken, um diese Einführung zu verlassen. Klicken Sie auf die Flagge, um dort weiterzumachen, wo Sie aufgehört haben.",
+  "title-tour-start": "Geführten Tour",
+  "tour-start": "Hier können sie sich mit den verschiedenen Funktionen des Konfigurators vertraut machen.<br><br>Sie können auf <italic>Überspringen</italic> klicken, um diese Einführung zu verlassen. Klicken Sie auf die Flagge, um dort weiterzumachen, wo Sie aufgehört haben.",
 
   "title-formular-side-tour-guide": "Formular",
-  "formular-side-tour-guide": "Das Formular ist der erste Konfigurationsschritt. Es speichert die Informationen über Einbauumgebung des Systems und Ihre Anforderungen.<br><br>Im Zweifelsfall wenden Sie sich an eine Fachperson (Ingenieur, Planungsbeauftragter usw.).<br><br>Felder mit * sind Pflichtfelder.",
-  "formular-side-tour-guide-candraw": "Ihr Formular scheint fehlerfrei ausgefüllt zu sein, fahren wir mit der Entwurfsseite fort.",
+  "formular-side-tour-guide": "Das Formular ist der erste Schritt der Konfiguration. Hier werden die Informationen zum Standort und der gewünschten Ausführung des Systems gesammelt. Der Konfigurator kann damit die Anforderungen an das System festlegen.<br><br>Im Zweifelsfall wenden Sie sich an eine Fachperson (Ingenieur, Planungsbeauftragter usw.).<br><br>Felder mit * sind Pflichtfelder.",
+  "formular-side-tour-guide-candraw": "Ihr Formular scheint fehlerfrei ausgefüllt zu sein.<br><br>Klicken sie auf <italic>Weiter</italic> um zum nächsten Schritt zu gelangen.",
 
   "title-drawer-side-tour-guide": "Zeichnung",
-  "drawer-side-tour-guide": "Dies ist der Bereich zum Zeichnen. <br>Hier zeichnen Sie Ihre Terrasse. Die Tour geht weiter mit einer Erläuterung der Zeichenwerkzeuge.",
+  "drawer-side-tour-guide": "Dies ist der Zeichenbereich.<br><br>Hier können sie ihre Terrasse einzeichnen.",
 
   "title-cannot-draw-panel": "Bitte füllen Sie das Formular aus",
   "cannot-draw-panel": "Sobald alle Abschnitte des Formulars ausgefüllt sind, können Sie Ihre Terrasse zeichnen.",
@@ -35,7 +35,7 @@
   "configurator-drawer-2D-3D-switch": "Verwenden Sie diese Optionen, um zwischen den möglichen Ansichten zu wechseln.",
 
   "title-configurator-exports": "Speicherung und Dokumente",
-  "configurator-exports": "Hier können Sie Ihre Konfiguration in Ihrem Benutzerbereich speichern oder auch die dazugehörigen Dokumente herunterladen.",
+  "configurator-exports": "Hier können Sie Ihren Entwurf speichern oder die dazugehörigen Dokumente herunterladen.",
 
   "title-crisp-chatbox-tour-guide": "Fragen Sie uns",
   "crisp-chatbox-tour-guide": "Wenn Sie etwas brauchen oder Fragen haben, chatten Sie mit uns!",

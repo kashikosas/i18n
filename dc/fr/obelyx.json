@@ -87,5 +87,6 @@
   "obelyx-popup-content-second": "Dessinez seulement les lignes où il y aura des garde-corps.<br/>",
   "obelyx-popup-content-third": "Choisissez les types des extrémités (fixé au mur ou avec bouchon) en cliquant avec le bouton droit sur chaque extrémité.<br/>",
   "obelyx-popup-content-fourth": "Choisissez l'intérieur de la terrasse en cliquant avec le bouton droit sur n'importe quelle ligne en cliquant sur <italic>Inverser l’intérieur et l’extérieur</italic>.",
-  "draw": "Tracez"
+  "draw": "Tracez",
+  "not-show-again": "Ne plus afficher"
 }

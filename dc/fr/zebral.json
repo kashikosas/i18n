@@ -10,8 +10,8 @@
   "terrace-sur-plot-slab": "Terrasse dalles sur plots",
   "d-fix-slab": "Décalage des fixations",
   "height-of-terrace-slab": "Hauteur de la terrasse",
-  "height-of-terrace-slab-info":  "Merci de vous référer à l'image ci-dessous pour remplir le champ suivant. <br/><br/> <center><img src='{{assetsUrl}}/images/zeb/FORM-DSP-H_FR.png' width='300px' /></center>",
-  "fixings-slab-info-top":  "Merci de vous référer à l'image ci-dessous pour remplir le champ suivant. <br/><br/> <center><img src='{{assetsUrl}}/images/zeb/FORM-D_fix-SLAB_FR.png' width='150px' /></center>",
+  "height-of-terrace-slab-info": "Merci de vous référer à l'image ci-dessous pour remplir le champ suivant. <br/><br/> <center><img src='{{assetsUrl}}/images/zeb/FORM-DSP-H_FR.png' width='300px' /></center>",
+  "fixings-slab-info-top": "Merci de vous référer à l'image ci-dessous pour remplir le champ suivant. <br/><br/> <center><img src='{{assetsUrl}}/images/zeb/FORM-D_fix-SLAB_FR.png' width='150px' /></center>",
   "type-of-sabot-slab": "Type de sabot",
   "offset-sabot-deporte-slab": "Décalage (terrasse)",
   "coverage-of-slab-edge-slab": "Couverture de la dalle",
@@ -90,10 +90,11 @@
   "popular": "Populaire",
   "db": "DB",
   "all": "Tout",
- 
+
   "field-required": "Champs requis",
   "valid-number-interval": "Valeurs comprises entre {{0}} et {{1}}",
   "more-than-max": "Supérieur au max autorisé {{0}}",
   "less-than-min": "Inférieur au min autorisé {{0}}",
-  "out-of-bounds": "Valeur hors intervalle autorisé : [{{0}}, {{1}}]"
+  "out-of-bounds": "Valeur hors intervalle autorisé : [{{0}}, {{1}}]",
+  "not-show-again": "Ne plus afficher"
 }
