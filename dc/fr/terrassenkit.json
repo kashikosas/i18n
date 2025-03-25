@@ -61,10 +61,10 @@
 
   "terrace-material": "Revêtement de la terrasse",
   "terrace-material-info": "La densité minimale du matériau de revêtement doit être respectée.",
-  "concrete-slabs": "Dallettes béton (densité min. >23,54 kN/m&sup3)",
-  "ceramic-tiles": "Carreaux céramique (densité min. >20,59 kN/m&sup3)",
-  "wooden-planks": "Lames de plancher bois (densité min. >7,36 kN/m&sup3)",
-  "composite-planks": "Lames de plancher en composite (densité min. >8,83 kN/m&sup3)",
+  "concrete-slabs": "Dallettes béton (densité min. >23,54 kN/m<sup>3</sup>)",
+  "ceramic-tiles": "Carreaux céramique (densité min. >20,59 kN/m<sup>3</sup>)",
+  "wooden-planks": "Lames de plancher bois (densité min. >7,36 kN/m<sup>3</sup>)",
+  "composite-planks": "Lames de plancher en composite (densité min. >8,83 kN/m<sup>3</sup>)",
 
   "terrace-grid": "Dimension des dalles / Entraxes des poutres",
   "terrace-grid-info": "Pour les dalles de béton ou les carreaux de céramique, ce champs correspond à la dimension de la dalle/carreau. <br> Pour les planches en bois ou composite, ce champs correspond à l'entraxe des poutres spécifié par le fabricant.",
