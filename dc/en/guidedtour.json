@@ -5,13 +5,13 @@
   "close": "Close",
   "last": "Last",
   "open": "Open",
-  
+
   "walk-through-intro-title": "Welcome",
   "walk-through-intro-content": "Welcome to our product configuration platform! Would you like a guided tour of our configurator? Discover all the features and options through this interactive tour",
   "dont-show-again": "Do not show again",
   "no-thanks": "Ignore and start customising",
   "show-me-around": "Start the guided tour",
-  
+
   "guided-tour": "Guided tour",
   "guided-tour-hint": "Hi there, <br/> <bold>new to this? </bold> <br/> let me show you around",
 
@@ -23,7 +23,7 @@
   "formular-side-tour-guide-candraw": "Your form seems to be filled without errors, let's proceed to the drawer.",
 
   "title-drawer-side-tour-guide": "Drawer",
-  "drawer-side-tour-guide": "This drawing area will allow you to draw the terrace, launch your configuration, view the results, etc.<br><br>The visit continues with an explanation of the drawing tools.",
+  "drawer-side-tour-guide": "This drawing area will allow you to draw the terrace, launch your configuration, view the results, etc.",
 
   "title-cannot-draw-panel": "Please fill the form",
   "cannot-draw-panel": "Once all the sections of the form are complete you will be able to draw your terrace.",
@@ -54,10 +54,10 @@
 
   "title-drawer-settings": "NOT USED!!<br><br>Modification tools",
   "drawer-settings": "NOT USED!!<br><br>Use this box to update the length and angle of the selected line. <br> When you have only one line left to draw, use the <italic>'Close'</italic> button to automatically draw this line.<br>To choose a line that does not have guardrails, right click on the line and select <italic>'Facade / Wall'</italic>.<br> To select the datum point for the terrace finish, right click on the line and select <italic>'Datum'</italic>.",
-  
+
   "title-configurator-contact": "Contact",
   "configurator-contact": "Send a copy of your project to dani alu for assistance",
-  
+
   "title-configurator-cart": "Add to cart",
   "configurator-cart": "Add the product to the cart, and purchase it directly online using your normal payment method and terms."
 }
