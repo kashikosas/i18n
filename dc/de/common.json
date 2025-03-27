@@ -255,5 +255,14 @@
 
   "invalid-form": "Bitte geben Sie alle erforderlichen Felder ein, die mit einem Stern (*) markiert sind.",
 
-  "shop-data-required": "Bitte wählen Sie den Preis und die Menge aus."
+  "shop-data-required": "Bitte wählen Sie den Preis und die Menge aus.",
+
+  "zebral": "Zebral",
+
+  "metadata-not-saved": "Metadaten nicht gespeichert",
+
+  "configuration-contacted-successfully": "Konfiguration erfolgreich kontaktiert",
+
+  "if-checked-configuration-saved-with-given-ref-and-query-send": "Wenn angekreuzt, wird die Konfiguration mit der angegebenen Referenz gespeichert und die Nachricht gesendet",
+  "attach-configuration-to-request": "Konfiguration an Anfrage anhängen"
 }
