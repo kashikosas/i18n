@@ -264,5 +264,7 @@
   "configuration-contacted-successfully": "Configuration contacted successfully",
 
   "if-checked-configuration-saved-with-given-ref-and-query-send": "If checked, the configuration is saved with the given reference and a message is sent",
-  "attach-configuration-to-request": "Attach configuration to request"
+  "attach-configuration-to-request": "Attach configuration to request",
+
+  "regenerate-configurator": "We updated the configurator, so please reconfigurate!"
 }
