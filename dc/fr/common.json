@@ -256,5 +256,12 @@
 
   "shop-data-required": "Veuillez sélectionner le prix et la quantité.",
 
-  "zebral": "Zebral"
+  "zebral": "Zebral",
+
+  "metadata-not-saved": "Métadonnées non enregistrées",
+
+  "configuration-contacted-successfully": "Configuration contactée avec succès",
+
+  "if-checked-configuration-saved-with-given-ref-and-query-send": "Si activé, la configuration sera enregistrée avec sa référence avant l'envoi de votre message",
+  "attach-configuration-to-request": "Joindre la configuration à la demande"
 }
