@@ -263,7 +263,7 @@
   "configuration-contacted-successfully": "Configuration contactée avec succès",
 
   "if-checked-configuration-saved-with-given-ref-and-query-send": "Si activé, la configuration sera enregistrée avec sa référence avant l'envoi de votre message",
-  "attach-configuration-to-request": "Joindre la configuration à la demande",
+  "attach-configuration": "Joindre la configuration à la demande",
 
   "regenerate-configuration": "Afin de mettre à jour le configurateur, veuillez le reconfigurer!"
 }

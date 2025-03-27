@@ -264,7 +264,7 @@
   "configuration-contacted-successfully": "Konfiguration erfolgreich kontaktiert",
 
   "if-checked-configuration-saved-with-given-ref-and-query-send": "Wenn angekreuzt, wird die Konfiguration mit der angegebenen Referenz gespeichert und die Nachricht gesendet",
-  "attach-configuration-to-request": "Konfiguration an Anfrage anhängen",
+  "attach-configuration": "Konfiguration an Anfrage anhängen",
 
   "regenerate-configuration": "Aufgrund der vorgenommenen Änderungen, bitte konfigurieren Sie erneut!"
 }
