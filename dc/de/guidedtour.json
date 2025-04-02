@@ -11,7 +11,7 @@
   "dont-show-again": "Nicht mehr anzeigen",
   "no-thanks": "Ignorieren und mit der Anpassung beginnen",
   "show-me-around": "Die Tour starten",
-  
+
   "guided-tour": "Geführter Rundgang",
   "guided-tour-hint": "Hallo, <br/> <bold>sind Sie neu hier?</bold> <br/> wir stellen Ihnen die Hauptfunktionen kurz vor",
 
@@ -23,7 +23,7 @@
   "formular-side-tour-guide-candraw": "Ihr Formular scheint fehlerfrei ausgefüllt zu sein.<br><br>Klicken sie auf <italic>Weiter</italic> um zum nächsten Schritt zu gelangen.",
 
   "title-drawer-side-tour-guide": "Zeichnung",
-  "drawer-side-tour-guide": "Dies ist der Zeichenbereich.<br><br>Hier können sie ihre Terrasse einzeichnen.",
+  "drawer-side-tour-guide": "Dies ist der Zeichenbereich.",
 
   "title-cannot-draw-panel": "Bitte füllen Sie das Formular aus",
   "cannot-draw-panel": "Sobald alle Abschnitte des Formulars ausgefüllt sind, können Sie Ihre Terrasse zeichnen.",
@@ -54,10 +54,10 @@
 
   "title-drawer-settings": "NOT USED!<br><br>Modifikationsfeld",
   "drawer-settings": "NOT USED!<br><br>Verwenden Sie dieses Feld, um die Länge und den Winkel der ausgewählten Linie zu aktualisieren. <br><br> Wenn Sie nur noch eine Linie zum Zeichnen übrig haben, verwenden Sie die Schaltfläche <italic>'Schließen'</italic>, um die Zeichnung automatisch abzuschließen. <br><br> Um eine Linie ohne Geländer auszuwählen, klicken Sie mit der rechten Maustaste auf die Linie und wählen Sie <italic>'Fassade/Wand'</italic>. <br><br>Um den Bezugspunkt für den Terrassenabschluss auszuwählen, klicken Sie rechts auf die Zeile und wählen Sie <italic>‘Ausgangspunkt für Belagsgverlegung‘</italic> aus.",
-  
+
   "title-configurator-contact": "Kontakt ",
   "configurator-contact": "Senden Sie eine Kopie Ihres Projekts an Dani Alu, um Hilfe zu erhalten.",
-  
+
   "title-configurator-cart": "Zum Warenkorb hinzufügen",
   "configurator-cart": "Legen Sie das Produkt zum Warenkorb hinzu und kaufen Sie es direkt online mit Ihrer normalen Zahlungsmethode und zu Ihren normalen Bedingungen."
 }
