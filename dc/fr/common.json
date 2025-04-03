@@ -265,5 +265,8 @@
   "if-checked-configuration-saved-with-given-ref-and-query-send": "Si activé, la configuration sera enregistrée avec sa référence avant l'envoi de votre message",
   "attach-configuration": "Joindre la configuration à la demande",
 
-  "regenerate-configuration": "Afin de mettre à jour le configurateur, veuillez le reconfigurer!"
+  "regenerate-configuration": "Afin de mettre à jour le configurateur, veuillez le reconfigurer!",
+
+  "order-id": "Numéro de commande",
+  "of-id": "Numéro OF"
 }

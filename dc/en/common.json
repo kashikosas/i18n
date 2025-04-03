@@ -266,5 +266,8 @@
   "if-checked-configuration-saved-with-given-ref-and-query-send": "If checked, the configuration is saved with the given reference and a message is sent",
   "attach-configuration": "Attach configuration to request",
 
-  "regenerate-configuration": "Due to the updates we've made, please regenerate the configuration!"
+  "regenerate-configuration": "Due to the updates we've made, please regenerate the configuration!",
+
+  "order-id": "Order ID",
+  "of-id": "OF ID"
 }
