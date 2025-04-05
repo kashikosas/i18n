@@ -31,7 +31,7 @@
   "FR-UK-A-helper": "",
   "FR-CH-UK-B-helper": "",
   "CH-A-helper": "",
-  
+
   "position": "Position",
   "position-info": "",
   "top-building": "Top of the building",
@@ -60,11 +60,11 @@
   "case-H-helper": "The terrace is positioned less than 10 m above ground level in an area where Vb,map≤23 m/s, terrain category 'Town', 30 km from the coast and >3 km inside the town OR the peak wind pressure, qp(z), at the position of the terrace is less than 0,68 kN/m².",
 
   "terrace-material": "Terrace material",
-  "terrace-material-info": "",
-  "concrete-slabs": "Concrete slabs",
-  "ceramic-tiles": "Ceramic tiles",
-  "wooden-planks": "Wooden planks",
-  "composite-planks": "Composite planks",
+  "terrace-material-info": "The minimum density of the material must be respected.",
+  "concrete-slabs": "Concrete slabs (min. density >23.54 kN/m<sup>3</sup>)",
+  "ceramic-tiles": "Ceramic tiles (min. density >20.59 kN/m<sup>3</sup>)",
+  "wooden-planks": "Wooden planks (min. density >7.36 kN/m<sup>3</sup>)",
+  "composite-planks": "Composite planks (min. density >8.83 kN/m<sup>3</sup>)",
 
   "terrace-thickness": "Terrace thickness",
   "terrace-thickness-info": "",
@@ -73,7 +73,7 @@
   "terrace-grid-info": "For concrete slabs or ceramic tiles, choose the dimension of the slab/tile. For wooden or composite planks, choose the joist centres specified by the manufacturer.",
 
   "free-height": "Circulation height",
-  "free-height-info": "Enter the overall height of the terrace, from the surface the pedestals will sit on to the top of the terrace finish.",
+  "free-height-info": "Enter the overall height of the terrace, from the surface the pedestals will sit on at the highest point of the roof to the top of the terrace finish.",
 
   "handrail-height": "Handrail height",
   "handrail-height-info": "",
@@ -82,7 +82,13 @@
   "fill-type-info": "",
   "rounded-bars": "Round bars",
   "squared-bars": "Square bars",
-  "glass": "Glass",
+  "glass": "Transparent clear",
+  "opal-glass": "Translucent opal white",
+  "loading...": "Loading...",
+  "non standard color": "Non-standard paint",
+  "enter color details": "Enter your request of non-standard paint.",
+  "other-color info": "Enter the type/colour/finish here.",
+  "other": "Non-standard paint",
 
   "fill-style": "Infill style",
   "fill-style-info": "",
@@ -102,8 +108,8 @@
   "horizontal": "Horizontal",
   "vertical": "Vertical",
 
-  "color": "Colour",
-  "color-info": "Choose the colour of the guardrails (posts, handrail, infills).",
+  "color": "Paint",
+  "color-info": "Choose a colour of standard paint or request a specific paint / colour / finish by selecting ‘non-standard paint’.",
 
   "open-input-form": "Open input form",
 
@@ -117,7 +123,8 @@
   "field-required": "Required field",
   "search...": "Search by name, RAL, etc.",
   "*-required-fields": "(*) Required fields.",
-  
+  "standard paint is gloss": "The standard paint is powder coated semi-gloss.",
+
   "accept-terrace-offset-title": "Note for measuring the terrace",
   "accept-terrace-offset-content": "When drawing the terrace, reduce the dimensions by <bold>{{offset}}</bold> mm compared to the parapet.",
 
@@ -132,7 +139,7 @@
   "descriptive-text-standard-use-de": "DIN EN 1991-1-1, DIN EN 1991-1-1/AN, DIN EN 1991-1-4, DIN EN 1991-1-4/AN and DIN 18008-4",
   "descriptive-text-standard-use-fr": "NF P 01-012, NF EN 1991-1-1, NF EN 1991-1-1/NA, NF EN 1991-1-4, and NF EN 1991-1-4/NA, and tested to NF P 01- 013",
   "descriptive-text-standard-use-uk": "BS EN 1991-1-1, BS EN 1991-1-1/AN, BS 6180, BS EN 1991-1-4 and BS EN 1991-1-4/AN",
-  
+
   "descriptive-text-category-of-use-at": "categories A1 and B1 (private) according to ÖNORM B 1991-1 and ÖNORM B 1991-1/AN",
   "descriptive-text-category-of-use-ch": "categories A2 and B (private) according to SIA 261",
   "descriptive-text-category-of-use-de": "categories A and B1 (private) according to DIN EN 1991-1-1 and DIN EN 1991-1-1/AN",
@@ -149,25 +156,48 @@
   "descriptive-text-location-H": "Installed either a) at a maximum height above ground level of 10 m in an area where Vb,map ≤ 23 m/s, in the terrain category 'Urban', 30 km or more from the coast and at least 3 km within the urbain environment, or b) in a location/building where the qp(z) is 0.68 kN/ m²  or less.",
   "descriptive-text-location-NA": "Any location.",
 
-  "descriptive-text-qualification-at":"The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
-  "descriptive-text-qualification-ch":"The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
-  "descriptive-text-qualification-de":"The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
-  "descriptive-text-qualification-fr":"The installation must be carried out by a company with qualifications 4411, 4412 or 4413 (metalwork), in accordance with the layout plans provided by dani alu.",
-  "descriptive-text-qualification-uk":"The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
+  "descriptive-text-qualification-at": "The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
+  "descriptive-text-qualification-ch": "The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
+  "descriptive-text-qualification-de": "The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
+  "descriptive-text-qualification-fr": "The installation must be carried out by a company with qualifications 4411, 4412 or 4413 (metalwork), in accordance with the layout plans provided by dani alu.",
+  "descriptive-text-qualification-uk": "The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
 
-  "descriptive-text-infill-position-before" : "inside",
-  "descriptive-text-infill-position-front" : "outside",
+  "descriptive-text-infill-position-before": "inside",
+  "descriptive-text-infill-position-front": "outside",
 
-  "descriptive-text-infill-type-glass" : "glass",
-  "descriptive-text-infill-type-round-bars" : "round bars",
-  "descriptive-text-infill-type-square-bars" : "square bars",
+  "descriptive-text-infill-type-glass": "transparent clear glass",
+  "descriptive-text-infill-type-opal-glass": "translucent opal white glass",
+  "descriptive-text-infill-type-round-bars": "round bars",
+  "descriptive-text-infill-type-square-bars": "square bars",
 
-  "descriptive-text-infill-style-full-height" : "full height",
-  "descriptive-text-infill-style-partial-height" : "with 100mm void below handrail",
+  "descriptive-text-infill-style-full-height": "full height",
+  "descriptive-text-infill-style-partial-height": "with 100mm void below handrail",
 
-  "descriptive-text-terrace-covering-dalles" : "concrete slabs",
-  "descriptive-text-terrace-covering-tiles" : "ceramic tiles",
-  "descriptive-text-terrace-covering-wood" : "wooden planks",
-  "descriptive-text-terrace-covering-composite" : "composite planks"
+  "descriptive-text-terrace-covering-dalles": "concrete slabs",
+  "descriptive-text-terrace-covering-tiles": "ceramic tiles",
+  "descriptive-text-terrace-covering-wood": "wooden planks",
+  "descriptive-text-terrace-covering-composite": "composite planks",
 
+  "pa-tk-popup-title": "How to draw your terrace or balcony",
+  "pa-tk-popup-content-first": "Draw the outermost boundary of the space which will be filled with Panorama Terrassenkit using the <italic>Freedraw</italic> or <italic>Rectangle</italic> tools, creating an enclosed loop.<br/>",
+  "pa-tk-popup-content-second": "Choose the line type for each line by right clicking on the line to open the <italic>line property pop-up</italic>.<br/>",
+  "pa-tk-popup-content-third": "Certain lines may be too short to be a guardrail, the <italic>line property pop-up</italic> will tell you how much longer the line will need to be.<br/>",
+  "pa-tk-popup-content-fourth": "Choose a line to be the starting point of the terrace covering within the <italic>line property pop-up</italic>.",
+
+  "pa-tk-popup-title-2": "How to enter the surface of the roof",
+  "pa-tk-popup-content-fifth": "Add <italic>height points</italic> by clicking on a corner point, or right clicking on a line or within the enclosed space.<br/>",
+  "pa-tk-popup-content-sixth": "Connect <italic>height points</italic> together using the <italic>Point connector</italic> tool to create ridges and gullies on the roof surface.",
+
+  "pa-tk-popup-title-3": "How to add gates and wall features",
+  "pa-tk-popup-content-seventh": "Gates can be added to guardrail lines from the <italic>line property popup</italic>. Right clicking on the gate allows it to be adjusted.<br/>",
+  "pa-tk-popup-content-eighth": "Doors or windows can be added to wall lines from the <italic>line property popup</italic>. Right clicking on the door or window allows it to be adjusted.",
+
+  "draw": "Draw",
+  "next": "Next",
+  "previous": "Previous",
+  "finish": "Finish",
+  "skip": "Skip",
+
+  "need-mm-longer-to-be-guardrail": "To be a guardrail, the line must be {{mm}} mm longer",
+  "not-show-again": "Don't show me again."
 }

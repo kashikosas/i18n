@@ -30,6 +30,9 @@
   "search": "Suche",
   "search...": "Suche...",
   "loading...": "Laden...",
+  "non standard color": "Nicht standardmäßige Farbe",
+  "enter color details": "Geben Sie die Farbdetails ein",
+  "other": "Andere Farbe",
   "password": "Passwort",
   "username": "Benutzername",
   "signin": "Anmeldung",
@@ -105,17 +108,8 @@
   "technical-drawings": "Technische Zeichnungen",
   "builder": "Editor",
   "drawer": "Zeichner",
-  "updatedAt": "Aktualisiert",
-  "createdAt": "Erstellt",
+  "state": "Zustand",
   "open-formular": "Formular öffnen",
-  "etude": "Studie",
-  "affaire": "Projekt",
-  "renovation": "Renovierung",
-  "new": "Neun",
-  "site-status": "Baustellenstatus",
-  "site-type": "Art der Baustelle",
-  "duedate": "Liefertermin",
-  "from": "aus",
 
   "write-your-message": "Ihre Nachricht",
   "attach-current-config": "Aktuelle Konfiguration anhängen",
@@ -157,6 +151,7 @@
   "quantity": "Menge",
 
   "valid-number-interval": "Der Wert muss zwischen {{0}} und {{1}} liegen.",
+  "valid-number-interval-with-exception": "Der Wert muss zwischen {{0}} und {{1}} liegen, ausgenommen {{2}}.",
   "authorised-values-are": "Die zulässigen Werte sind: {{0}}.",
   "less-than-x-from-sea-lac": "Weniger als {{0}}m vom Meer oder einem See entfernt.",
   "not-multiple-of": "Kein Vielfaches von {{0}}.",
@@ -178,6 +173,15 @@
   "cant-display-pdf": "Hoppla! Ihr Browser erlaubt die Anzeige des PDFs nicht!",
   "download-instead": "Laden Sie das Dokument herunter",
 
+  "not-includes-vat": "Nicht inklusive MwSt.",
+  "not-includes-packaging-shipping-vat": "Versand- und Verpackungskosten sowie Mehrwertsteuer nicht inbegriffen",
+  "linear-meter-unit": "pro Laufmeter",
+  "lacqueringsheet": "Lackierungsblatt",
+  "glass-export": "Glas Export",
+  "panel-export": "Panel Export",
+  "opticoupe-csv-export": "Opticoupe CSV Export",
+  "opticoupe-csv-export-toles": "Opticoupe CSV Export Toles",
+
   "note-de-calcul": "Bemaßungszertifikat",
   "dimensioning-certificate": "Bemaßungszertifikat",
   "descriptif-text": "Spezifikationstext",
@@ -185,5 +189,85 @@
   "debit-flow": "Schnittliste",
   "fabrication-sheet": "Produktionsblatt",
   "timesheet": "Stundenzettel",
-  "accessories-sheet": "Zubehörblatt"
+  "accessories-sheet": "Zubehörblatt",
+  "dxf-file": "DXF Datei",
+
+  "status": "Status",
+  "created-at": "Erstellt",
+  "created-by": "Erstellt von",
+  "updated-at": "Aktualisiert",
+  "updated-by": "Aktualisiert von",
+  "version": "Version",
+  "actions": "Aktionen",
+
+  "config-edit": "Konfiguration bearbeiten",
+  "config-share": "Teilen",
+  "config-duplicate": "Duplizieren",
+  "config-delete": "Löschen",
+
+  "next": "Weiter",
+  "close": "Schließen",
+  "yes": "Ja",
+  "no": "Nein",
+
+  "metadata": "Metadaten",
+  "project-type": "Projekttyp",
+  "renovation": "Renovierung",
+  "new": "Neun",
+  "project-status": "Projektstatus",
+  "etude": "Studie",
+  "affaire": "Projekt",
+  "study": "Studie",
+  "project": "Projekt",
+  "site-status": "Baustellenstatus",
+  "site-type": "Art der Baustelle",
+  "configuration-status": "Konfigurationsstatus",
+  "contact-form-client": "Kunde",
+  "delivery-date": "Gewünschter Liefertermin",
+  "contact-info": "Kontaktinformationen",
+  "attach-price": "Einen Preis hinzufügen",
+
+  "work-in-progress": "In Arbeit",
+  "in-quote": "Im Angebot",
+  "validated": "Validiert",
+  "in-cart": "Im Warenkorb",
+  "ordered": "Bestellt",
+
+  "delete-configuration": "Konfiguration löschen",
+  "confirm-delete-single-configuration": "Soll die Konfiguration wirklich gelöscht werden?",
+  "delete-multiple-configurations": "Mehrere Konfigurationen löschen",
+  "confirm-delete-multiple-configurations": "Sollen die Konfigurationen wirklich gelöscht werden?",
+  "configuration-saved-successfully": "Konfiguration erfolgreich gespeichert",
+  "deletion-configuration-successful": "Konfiguration erfolgreich gelöscht",
+  "configuration-add-to-cart-successfully": "Konfiguration erfolgreich zum Warenkorb hinzugefügt",
+
+  "feature-coming-soon": "Feature bald verfügbar!",
+  "invalid-request-data": "Ungültige Anfrage",
+
+  "from": "aus",
+  "group": "Gruppe",
+
+  "indicative-project-price": "Indikativer Projektpreis",
+  "indicative-project-price-input": "Geben Sie die gesamten Laufmeter des Projekts ein",
+  "indicative-project-price-calculate": "Indikativer preis anzeigen",
+  "indicative-project-price-result": "Gesamtbetrag ohne Mehrwertsteuer und Versand- und Verpackungskosten für das Projekt",
+  "indicative-project-price-contact": "Kontaktieren Sie dani alu",
+
+  "invalid-form": "Bitte geben Sie alle erforderlichen Felder ein, die mit einem Stern (*) markiert sind.",
+
+  "shop-data-required": "Bitte wählen Sie den Preis und die Menge aus.",
+
+  "zebral": "Zebral",
+
+  "metadata-not-saved": "Metadaten nicht gespeichert",
+
+  "configuration-contacted-successfully": "Konfiguration erfolgreich kontaktiert",
+
+  "if-checked-configuration-saved-with-given-ref-and-query-send": "Wenn angekreuzt, wird die Konfiguration mit der angegebenen Referenz gespeichert und die Nachricht gesendet",
+  "attach-configuration": "Konfiguration an Anfrage anhängen",
+
+  "regenerate-configuration": "Aufgrund der vorgenommenen Änderungen, bitte konfigurieren Sie erneut!",
+
+  "order-id": "Bestellnummer",
+  "of-id": "OF Nummer"
 }

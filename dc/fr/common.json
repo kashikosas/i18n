@@ -109,8 +109,6 @@
   "builder": "Constructeur",
   "drawer": "Dessinateur",
   "state": "Statut",
-  "updatedAt": "Date modification",
-  "createdAt": "Date création",
   "open-formular": "Ouvrir formulaire",
   "etude": "Etude",
   "affaire": "Affaire",
@@ -131,6 +129,8 @@
   "prices": "Tarifs",
   "edit-copy": "Editer-Copier",
   "not-includes-vat": "TVA non incluse",
+  "not-includes-packaging-shipping-vat": "Frais de port et d'emballage et TVA non compris",
+  "linear-meter-unit": "le mètre linéaire",
 
   "reference": "Référence",
   "client": "Client",
@@ -167,6 +167,7 @@
   "quantity": "Quantité",
 
   "valid-number-interval": "Valeur comprise entre {{0}} et {{1}}.",
+  "valid-number-interval-with-exception": "Valeurs comprises entre {{0}} et {{1}}, excepté {{2}}.",
   "authorised-values-are": "Les valeurs autorisées sont : {{0}}.",
   "less-than-x-from-sea-lac": "Moins de {{0}} m de la mer ou d'un lac.",
   "not-multiple-of": "Pas un multiple de {{0}}.",
@@ -198,5 +199,82 @@
   "opticoupe-csv-export-toles": "Opticoupe Tôles export",
   "dxf-file": "Fichier DXF",
 
-  "attach-price": "Fixez un prix"
+  "status": "Statut",
+  "created-at": "Date création",
+  "created-by": "Créateur",
+  "updated-at": "Date modification",
+  "updated-by": "Modificateur",
+  "version": "Version",
+  "actions": "Actions",
+
+  "config-edit": "Editer",
+  "config-share": "Partager",
+  "config-duplicate": "Dupliquer",
+  "config-delete": "Supprimer",
+
+  "next": "Suivant",
+  "close": "Fermer",
+  "yes": "Oui",
+  "no": "Non",
+
+  "metadata": "Métadonnées",
+  "project-type": "Type de projet",
+  "renovation": "Rénovation",
+  "new": "Neuf",
+  "project-status": "Statut du projet",
+  "etude": "Etude",
+  "affaire": "Affaire",
+  "study": "Etude",
+  "project": "Projet",
+  "site-status": "Statut chantier",
+  "site-type": "Type chantier",
+  "configuration-status": "Statut de la configuration",
+  "contact-form-client": "Client",
+  "delivery-date": "Date de livraison",
+  "contact-info": "Informations de contact",
+  "attach-price": "Fixez un prix",
+
+  "work-in-progress": "En cours",
+  "in-quote": "En attente",
+  "validated": "Validé",
+  "in-cart": "Dans le panier",
+  "ordered": "Commandé",
+
+  "delete-configuration": "Supprimer la configuration",
+  "confirm-delete-single-configuration": "Êtes-vous sûr de vouloir supprimer cette configuration ?",
+  "delete-multiple-configurations": "Supprimer plusieurs configurations",
+  "confirm-delete-multiple-configurations": "Êtes-vous sûr de vouloir supprimer ces configurations ?",
+  "configuration-saved-successfully": "Configuration enregistrée",
+  "deletion-configuration-successful": "Configuration supprimée avec succès",
+  "configuration-add-to-cart-successfully": "Configuration ajoutée au panier avec succès",
+
+  "feature-coming-soon": "Fonctionnalité bientôt disponible!",
+  "invalid-request-data": "Données de demande invalides",
+
+  "from": "à partir de",
+  "group": "Groupe",
+
+  "indicative-project-price": "Prix indicatif du projet",
+  "indicative-project-price-input": "Saisissez le nombre total de mètres linéaires du projet",
+  "indicative-project-price-calculate": "Afficher le prix indicatif",
+  "indicative-project-price-result": "Total sans la TVA, les frais de port et d'emballage pour le projet",
+  "indicative-project-price-contact": "Contactez dani alu",
+
+  "invalid-form": "Veuillez saisir tous les champs nécessaires marqués d'un astérisque (*).",
+
+  "shop-data-required": "Veuillez sélectionner le prix et la quantité.",
+
+  "zebral": "Zebral",
+
+  "metadata-not-saved": "Métadonnées non enregistrées",
+
+  "configuration-contacted-successfully": "Configuration contactée avec succès",
+
+  "if-checked-configuration-saved-with-given-ref-and-query-send": "Si activé, la configuration sera enregistrée avec sa référence avant l'envoi de votre message",
+  "attach-configuration": "Joindre la configuration à la demande",
+
+  "regenerate-configuration": "Afin de mettre à jour le configurateur, veuillez le reconfigurer!",
+
+  "order-id": "Numéro de commande",
+  "of-id": "Numéro OF"
 }

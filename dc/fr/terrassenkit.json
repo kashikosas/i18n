@@ -60,11 +60,11 @@
   "case-H-helper": "La terrasse se situe à moins de 10 m de hauteur dans une zone ou Vb,map≤23 m/s, catégorie de terrain 'Urbain', à 30 km de la côte et >3 km à l'intérieur de la ville  <bold>OU</bold>  la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,68 kN/m².",
 
   "terrace-material": "Revêtement de la terrasse",
-  "terrace-material-info": "Choisissez le matériau",
-  "concrete-slabs": "Dallettes béton",
-  "ceramic-tiles": "Dalles céramique, carrelage",
-  "wooden-planks": "Lames de plancher bois",
-  "composite-planks": "Lames de plancher en composite",
+  "terrace-material-info": "La densité minimale du matériau de revêtement doit être respectée.",
+  "concrete-slabs": "Dallettes béton (densité min. >23,54 kN/m<sup>3</sup>)",
+  "ceramic-tiles": "Carreaux céramique (densité min. >20,59 kN/m<sup>3</sup>)",
+  "wooden-planks": "Lames de plancher bois (densité min. >7,36 kN/m<sup>3</sup>)",
+  "composite-planks": "Lames de plancher en composite (densité min. >8,83 kN/m<sup>3</sup>)",
 
   "terrace-grid": "Dimension des dalles / Entraxes des poutres",
   "terrace-grid-info": "Pour les dalles de béton ou les carreaux de céramique, ce champs correspond à la dimension de la dalle/carreau. <br> Pour les planches en bois ou composite, ce champs correspond à l'entraxe des poutres spécifié par le fabricant.",
@@ -73,7 +73,7 @@
   "terrace-thickness-info": "",
 
   "free-height": "Hauteur niveau de circulation",
-  "free-height-info": "Saisir la hauteur totale de la terrasse, de la surface sur laquelle les plots reposeront jusqu'au dessus de la finition de la terrasse.",
+  "free-height-info": "Saisir la hauteur totale de la terrasse, de la surface sur laquelle les plots reposeront, au point le plus haut du toit-terrasse, jusqu'au dessus de la finition de la terrasse.",
 
   "handrail-height": "Hauteur main courante",
   "handrail-height-info": "Hauteur de la main courante par rapport au niveau de circulation",
@@ -82,7 +82,13 @@
   "fill-type-info": "",
   "rounded-bars": "Barreaux ronds",
   "squared-bars": "Barreaux rectangulaires",
-  "glass": "Vitrage",
+  "glass": "Transparent clair",
+  "opal-glass": "Translucide opale blanc",
+  "loading...": "Chargement...",
+  "non standard color": "Peinture non standard",
+  "enter color details": "Saisissez votre demande de peinture non standard.",
+  "other-color info": "Entrez le type/couleur/finition ici.",
+  "other": "Peinture non standard",
 
   "fill-style": "Style de remplissage",
   "fill-style-info": "",
@@ -102,8 +108,8 @@
   "horizontal": "Horizontale",
   "vertical": "Verticale",
 
-  "color": "Couleur",
-  "color-info": "Choisissez la couleur des garde-corps (montants, main courante, remplissages).",
+  "color": "Peinture",
+  "color-info": "Choisissez une couleur de peinture standard ou demandez une peinture/couleur/finition spécifique en sélectionnant « peinture non standard ».",
 
   "open-input-form": "Ouvrir le formulaire",
 
@@ -119,8 +125,9 @@
 
   "walldrawer-changed-recompute": "Le tracé a changé. Regénérer le calcul.",
   "search...": "Chercher par nom, RAL, etc...",
-  "*-required-fields" : "(*) Champs obligatoires.",
-  
+  "*-required-fields": "(*) Champs obligatoires.",
+  "standard paint is gloss": "La peinture standard est une peinture en poudre semi-brillante.",
+
   "accept-terrace-offset-title": "Note pour mesurer la terrasse",
   "accept-terrace-offset-content": "Lors du dessin de la terrasse, réduire les dimensions de <bold>{{offset}}</bold> mm par rapport au parapet.",
 
@@ -135,7 +142,7 @@
   "descriptive-text-standard-use-de": "DIN EN 1991-1-1, DIN EN 1991-1-1/AN, DIN EN 1991-1-4, DIN EN 1991-1-4/AN et DIN 18008-4",
   "descriptive-text-standard-use-fr": "NF P 01-012, NF EN 1991-1-1, NF EN 1991-1-1/NA, NF EN 1991-1-4, NF EN 1991-1-4/NA, et testé selon la norme NF P 01- 013",
   "descriptive-text-standard-use-uk": "BS EN 1991-1-1, BS EN 1991-1-1/AN, BS 6180, BS EN 1991-1-4 et BS EN 1991-1-4/AN",
-  
+
   "descriptive-text-category-of-use-at": "aux catégories d'usage A1 et B1 (privée) d’après ÖNORM B 1991-1 et ÖNORM B 1991-1/AN",
   "descriptive-text-category-of-use-ch": "aux catégories d'usage A2 et B (privée) d’après SIA 261",
   "descriptive-text-category-of-use-de": "aux catégories d'usage A et B1 (privée) d’après DIN EN 1991-1-1 et DIN EN 1991-1-1/AN",
@@ -152,24 +159,48 @@
   "descriptive-text-location-H": "Installé soit a) à une hauteur maximale au-dessus du niveau du sol de 10 m dans une zone où Vb,map ≤ 23 m/s, dans la catégorie de terrain 'Urbain', à 30 km ou plus de la côte et à au moins 3km à l'intérieur de la ville, ou soit b) dans un emplacement/bâtiment où le qp(z) est de 0,68 kN/ m² ou moins.",
   "descriptive-text-location-NA": "N'importe emplacement.",
 
-  "descriptive-text-qualification-at":"La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
-  "descriptive-text-qualification-ch":"La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
-  "descriptive-text-qualification-de":"La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
-  "descriptive-text-qualification-fr":"La mise en œuvre sera réalisée par une entreprise justifiant des qualifications 4411, 4412 ou 4413 (métallerie), conformément aux plans de calepinage fournis par dani alu.",
-  "descriptive-text-qualification-uk":"La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-at": "La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-ch": "La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-de": "La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-fr": "La mise en œuvre sera réalisée par une entreprise justifiant des qualifications 4411, 4412 ou 4413 (métallerie), conformément aux plans de calepinage fournis par dani alu.",
+  "descriptive-text-qualification-uk": "La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
 
-  "descriptive-text-infill-position-before" : "l’intérieur",
-  "descriptive-text-infill-position-front" : "l’extérieur",
+  "descriptive-text-infill-position-before": "l’intérieur",
+  "descriptive-text-infill-position-front": "l’extérieur",
 
-  "descriptive-text-infill-type-glass" : "verre",
-  "descriptive-text-infill-type-round-bars" : "barreaux ronds",
-  "descriptive-text-infill-type-square-bars" : "barreaux carrés",
+  "descriptive-text-infill-type-glass": "verre transparent clair",
+  "descriptive-text-infill-type-opal-glass": "verre translucide opale blanc",
+  "descriptive-text-infill-type-round-bars": "barreaux ronds",
+  "descriptive-text-infill-type-square-bars": "barreaux carrés",
 
-  "descriptive-text-infill-style-full-height" : "toute hauteur",
-  "descriptive-text-infill-style-partial-height" : "avec vide de 100 mm dessous la main courante",
+  "descriptive-text-infill-style-full-height": "toute hauteur",
+  "descriptive-text-infill-style-partial-height": "avec vide de 100 mm dessous la main courante",
 
-  "descriptive-text-terrace-covering-dalles" : "dalles en béton",
-  "descriptive-text-terrace-covering-tiles" : "carrelage en ceramique",
-  "descriptive-text-terrace-covering-wood" : "lames en bois",
-  "descriptive-text-terrace-covering-composite" : "lames en composite"
+  "descriptive-text-terrace-covering-dalles": "dalles en béton",
+  "descriptive-text-terrace-covering-tiles": "carrelage en ceramique",
+  "descriptive-text-terrace-covering-wood": "lames en bois",
+  "descriptive-text-terrace-covering-composite": "lames en composite",
+
+  "pa-tk-popup-title": "Comment saisir votre terrasse ou balcon",
+  "pa-tk-popup-content-first": "Dessinez la limite la plus extérieure de l'espace qui sera rempli avec Panorama Terrassenkit en utilisant les outils <italic>Tracer librement</italic> ou <italic>Tracer un Rectangle</italic>, créant ainsi une boucle fermée.<br/>",
+  "pa-tk-popup-content-second": "Choisissez le type de ligne pour chaque ligne en cliquant avec le bouton droit sur la ligne pour ouvrir la <italic>fenêtre des propriétés de la ligne</italic>.<br/>",
+  "pa-tk-popup-content-third": "Certaines lignes peuvent être trop courtes pour servir de garde-corps, la <italic>fenêtre des propriétés de la ligne</italic> vous indiquera la longueur nécessaire de la ligne.<br/>",
+  "pa-tk-popup-content-fourth": "Choisissez une ligne qui sera le point de départ du revêtement de circulation dans la <italic>fenêtre des propriétés de ligne</italic>.",
+
+  "pa-tk-popup-title-2": "Comment saisir la surface du toit-terrasse",
+  "pa-tk-popup-content-fifth": "Ajoutez des <italic>points de hauteur</italic> en cliquant sur un point de coin, ou en cliquant avec le bouton droit sur une ligne ou dans l'espace clos.<br/>",
+  "pa-tk-popup-content-sixth": "Connectez les <italic>points de hauteur</italic> ensemble à l'aide de l'outil <italic>Connecteur de points</italic> pour créer des noues sur la surface du toit-terrasse.",
+
+  "pa-tk-popup-title-3": "Comment ajouter des portillons et portes / fenêtres",
+  "pa-tk-popup-content-seventh": "Des portillons peuvent être ajoutées aux lignes de garde-corps à partir de la <italic>fenêtre des propriétés de la ligne</italic>. Un clic droit sur le portillon permet de l'ajuster.<br/>",
+  "pa-tk-popup-content-eighth": "Des portes ou des fenêtres peuvent être ajoutées aux lignes murales à partir de la <italic>fenêtre des propriétés de la ligne</italic>. Un clic droit sur la porte ou la fenêtre permet de l'ajuster.",
+
+  "draw": "Dessiner",
+  "next": "Suivant",
+  "previous": "Précédent",
+  "finish": "Finition",
+  "skip": "Sauter",
+
+  "need-mm-longer-to-be-guardrail": "Pour être un garde-corps, la ligne doit être {{mm}} mm plus longue",
+  "not-show-again": "Ne plus afficher"
 }
