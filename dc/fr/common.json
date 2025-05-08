@@ -226,11 +226,11 @@
   "contact-info": "Informations de contact",
   "attach-price": "Fixez un prix",
 
-  "work-in-progress": "En cours",
-  "in-quote": "En attente",
-  "validated": "Validé",
-  "in-cart": "Dans le panier",
-  "ordered": "Commandé",
+  "work-in-progress": "Configuration en cours",
+  "in-quote": "Configuration dans un devis",
+  "validated": "Configuration validé",
+  "in-cart": "Configuration dans le panier",
+  "ordered": "Configuration commandé",
 
   "delete-configuration": "Supprimer la configuration",
   "confirm-delete-single-configuration": "Êtes-vous sûr de vouloir supprimer cette configuration ?",
