@@ -202,5 +202,9 @@
   "skip": "Sauter",
 
   "need-mm-longer-to-be-guardrail": "Pour être un garde-corps, la ligne doit être {{mm}} mm plus longue",
-  "not-show-again": "Ne plus afficher"
+  "not-show-again": "Ne plus afficher",
+
+  "gate-not-possible-not-moving": "Une portillon de cette largeur n'est pas possible dans cette section.",
+  "gate-not-possible-moving": "Une portillon de cette largeur n'est pas possible dans cette partie de cette section.",
+  "door-not-possible": "Une porte ou fenêtre de cette largeur n'est pas possible dans cette section."
 }
