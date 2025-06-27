@@ -271,5 +271,8 @@
   "regenerate-configuration": "Afin de mettre à jour le configurateur, veuillez le reconfigurer!",
 
   "order-id": "Numéro de commande",
-  "of-id": "Numéro OF"
+  "of-id": "Numéro OF",
+
+  "footer-powered": "Propulsé par Jikannai®, un logiciel développé par Kashiko SAS. -- <a href=\"https://www.kashiko.fr\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline;\">www.kashiko.fr</a>",
+  "footer-copyright": "Copyright Kashiko SAS {{year}} -- Mentions légales"
 }
