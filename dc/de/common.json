@@ -202,6 +202,7 @@
   "updated-by": "Aktualisiert von",
   "version": "Version",
   "actions": "Aktionen",
+  "search-field": "Suchfeld",
 
   "config-edit": "Konfiguration bearbeiten",
   "config-share": "Teilen",
@@ -248,6 +249,7 @@
   "invalid-request-data": "Ungültige Anfrage",
 
   "from": "aus",
+  "to": "Zu",
   "group": "Gruppe",
 
   "indicative-project-price": "Indikativer Projektpreis",

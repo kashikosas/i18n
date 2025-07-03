@@ -201,6 +201,7 @@
   "updated-by": "Modificateur",
   "version": "Version",
   "actions": "Actions",
+  "search-field": "Champ de recherche",
 
   "config-edit": "Editer",
   "config-share": "Partager",
@@ -247,6 +248,7 @@
   "invalid-request-data": "Données de demande invalides",
 
   "from": "à partir de",
+  "to": "À",
   "group": "Groupe",
 
   "indicative-project-price": "Prix indicatif du projet",
