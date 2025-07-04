@@ -203,6 +203,9 @@
   "version": "Version",
   "actions": "Aktionen",
   "search-field": "Suchfeld",
+  "all": "Alle",
+  "total": "Gesamt",
+  "clear-all": "Alle löschen",
 
   "config-edit": "Konfiguration bearbeiten",
   "config-share": "Teilen",
