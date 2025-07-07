@@ -203,5 +203,9 @@
 
   "gate-not-possible-not-moving": "Ein Tür dieser Breite ist in diesem Abschnitt nicht möglich.",
   "gate-not-possible-moving": "Ein Tür dieser Breite ist in diesem Teil dieses Abschnitts nicht möglich.",
-  "door-not-possible": "Eine Tür oder ein Fenster dieser Breite ist in diesem Abschnitt nicht möglich."
+  "door-not-possible": "Eine Tür oder ein Fenster dieser Breite ist in diesem Abschnitt nicht möglich.",
+
+  "terrace-info": "Terrassendetails",
+  "handrail-info": "Geländerdetails",
+  "geo-info": "Geografische Daten"
 }
