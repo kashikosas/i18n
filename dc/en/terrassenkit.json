@@ -206,5 +206,9 @@
   "not-show-again": "Don't show me again.",
   "gate-not-possible-not-moving": "A gate of this width is not possible in this section",
   "gate-not-possible-moving": "A gate of this width is not possible in this part of the section",
-  "door-not-possible": "A door or window of this width is not possible in this section."
+  "door-not-possible": "A door or window of this width is not possible in this section.",
+
+  "terrace-info": "Terrace details",
+  "handrail-info": "Guardrail details",
+  "geo-info": "Geographic information"
 }
