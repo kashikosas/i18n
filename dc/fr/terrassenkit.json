@@ -40,7 +40,7 @@
   "no-escape-route": "Hors zone d'évacuation incendie",
 
   "std-use": "Cas d'utilisation standard",
-  "std-use-info": "Chaque cas fourni un détail sur l'environnement dans lequel sera installé la terrasse. Si aucun des cas d'utilisation ne correspond à votre situation, merci de choisir <italic>'Aucun applicable'</italic>.",
+  "std-use-info": "Chaque cas fourni un détail sur l'environnement dans lequel sera installé la terrasse. Si aucun des cas d'utilisation ne correspond à votre situation, merci de choisir <italic>'Aucun applicable'</italic>.<br/>Si aucun cas d'utilisation standard ne s'applique, veuillez choisir un remplissage barreaux.",
   "non-applicable": "Aucun applicable",
   "case-A": "Cas A",
   "case-B": "Cas B",
