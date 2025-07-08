@@ -203,6 +203,9 @@
   "version": "Version",
   "actions": "Aktionen",
   "search-field": "Suchfeld",
+  "all": "Alle",
+  "total": "Gesamt",
+  "clear-all": "Alle löschen",
 
   "config-edit": "Konfiguration bearbeiten",
   "config-share": "Teilen",
@@ -248,7 +251,7 @@
   "feature-coming-soon": "Feature bald verfügbar!",
   "invalid-request-data": "Ungültige Anfrage",
 
-  "from": "aus",
+  "from": "Aus",
   "to": "Zu",
   "group": "Gruppe",
 
