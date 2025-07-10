@@ -40,7 +40,7 @@
   "no-escape-route": "Not on escape route",
 
   "std-use": "Standard Use Case",
-  "std-use-info": "Select the applicable <italic>Standard Use Case</italic>, or <italic>'None Applicable'</italic> if this use does not comply with any <italic>Standard Use Case</italic>.",
+  "std-use-info": "Select the applicable <italic>Standard Use Case</italic>.<br/>If no standard use case applies, please choose a bar infill.",
   "non-applicable": "None applicable",
   "case-A": "Case A",
   "case-B": "Case B",

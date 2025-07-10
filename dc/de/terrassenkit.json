@@ -40,7 +40,7 @@
   "no-escape-route": "Kein Fluchtweg",
 
   "std-use": "Standardanwendungsfall",
-  "std-use-info": "Wählen Sie den anwendbaren <italic>Standardanwendungsfall</italic> oder <italic>'Nicht zutreffend'</italic> aus, wenn diese Verwendung keiner <italic>Standardanwendungsfall</italic> entspricht.",
+  "std-use-info": "Wählen Sie den anwendbaren <italic>Standardanwendungsfall</italic>.<br/>Wenn kein Standardanwendungsfall zutrifft, wählen Sie bitte eine Stabfüllung.",
   "non-applicable": "Nicht zutreffend",
   "case-A": "Fall A",
   "case-B": "Fall B",
