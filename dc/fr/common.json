@@ -279,6 +279,6 @@
   "order-id": "Numéro de commande",
   "of-id": "Numéro OF",
 
-  "footer-powered": "Propulsé par Jikannai®, un logiciel développé par Kashiko SAS. -- <a href=\"https://www.kashiko.fr\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline;\">www.kashiko.fr</a>",
-  "footer-copyright": "Copyright Kashiko SAS {{year}} -- Mentions légales"
+  "footer-powered": "Propulsé par Jikannai<sup>&reg</sup>, un logiciel développé par Kashiko SAS. -- <a href=\"https://www.kashiko.fr\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline;\">www.kashiko.fr</a>",
+  "footer-copyright": "&copy;Kashiko SAS {{year}} -- Mentions légales"
 }
