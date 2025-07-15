@@ -71,6 +71,10 @@
 
   "terrace-grid": "Abmessungen der Platten oder Terrassendielen",
   "terrace-grid-info": "Wählen Sie für Betonplatten oder Keramikfliesen die Abmessung der Platte oder Fliese. Für Holz- oder WPC-Terrassendielen wählen sie die vom Hersteller angegebenen Abstände der Unterkonstruktion an.",
+  "terrace-grid-label-slabs": "Abmessungen der Platten",
+  "terrace-grid-label-planks": "Abmessungen der Terrassendielen",
+  "terrace-grid-info-slabs": "Wählen Sie für Betonplatten oder Keramikfliesen die Abmessung der Platte oder Fliese.",
+  "terrace-grid-info-planks": "Für Holz- oder WPC-Terrassendielen wählen sie die vom Hersteller angegebenen Abstände der Unterkonstruktion an.",
 
   "free-height": "Höhe der Terrassenaufbaus",
   "free-height-info": "Geben Sie die Gesamthöhe des Terrassenaufbaus ein, von der Oberfläche, auf der die Stelzlager stehen am höchsten Punkt der Dachterrasse, bis zur Oberseite des Terrassenbelages.",
