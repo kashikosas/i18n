@@ -40,7 +40,7 @@
   "no-escape-route": "Kein Fluchtweg",
 
   "std-use": "Standardanwendungsfall",
-  "std-use-info": "Wählen Sie den anwendbaren <italic>Standardanwendungsfall</italic> oder <italic>'Nicht zutreffend'</italic> aus, wenn diese Verwendung keiner <italic>Standardanwendungsfall</italic> entspricht.",
+  "std-use-info": "Wählen Sie den anwendbaren <italic>Standardanwendungsfall</italic>.<br/>Wenn kein Standardanwendungsfall zutrifft, wählen Sie bitte eine Stabfüllung.",
   "non-applicable": "Nicht zutreffend",
   "case-A": "Fall A",
   "case-B": "Fall B",
@@ -71,6 +71,10 @@
 
   "terrace-grid": "Abmessungen der Platten oder Terrassendielen",
   "terrace-grid-info": "Wählen Sie für Betonplatten oder Keramikfliesen die Abmessung der Platte oder Fliese. Für Holz- oder WPC-Terrassendielen wählen sie die vom Hersteller angegebenen Abstände der Unterkonstruktion an.",
+  "terrace-grid-label-slabs": "Abmessungen der Platten",
+  "terrace-grid-label-planks": "Abmessungen der Terrassendielen",
+  "terrace-grid-info-slabs": "Wählen Sie für Betonplatten oder Keramikfliesen die Abmessung der Platte oder Fliese.",
+  "terrace-grid-info-planks": "Für Holz- oder WPC-Terrassendielen wählen sie die vom Hersteller angegebenen Abstände der Unterkonstruktion an.",
 
   "free-height": "Höhe der Terrassenaufbaus",
   "free-height-info": "Geben Sie die Gesamthöhe des Terrassenaufbaus ein, von der Oberfläche, auf der die Stelzlager stehen am höchsten Punkt der Dachterrasse, bis zur Oberseite des Terrassenbelages.",
@@ -199,5 +203,13 @@
   "skip": "Überspringen",
 
   "need-mm-longer-to-be-guardrail": "Um als Geländer ausgeführt werden zu können, muss die Linie {{mm}} mm länger sein",
-  "not-show-again": "Nicht mehr anzeigen"
+  "not-show-again": "Nicht mehr anzeigen",
+
+  "gate-not-possible-not-moving": "Ein Tür dieser Breite ist in diesem Abschnitt nicht möglich.",
+  "gate-not-possible-moving": "Ein Tür dieser Breite ist in diesem Teil dieses Abschnitts nicht möglich.",
+  "door-not-possible": "Eine Tür oder ein Fenster dieser Breite ist in diesem Abschnitt nicht möglich.",
+
+  "terrace-info": "Terrassendetails",
+  "handrail-info": "Geländerdetails",
+  "geo-info": "Geografische Daten"
 }

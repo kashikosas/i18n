@@ -40,7 +40,7 @@
   "no-escape-route": "Not on escape route",
 
   "std-use": "Standard Use Case",
-  "std-use-info": "Select the applicable <italic>Standard Use Case</italic>, or <italic>'None Applicable'</italic> if this use does not comply with any <italic>Standard Use Case</italic>.",
+  "std-use-info": "Select the applicable <italic>Standard Use Case</italic>.<br/>If no standard use case applies, please choose a bar infill.",
   "non-applicable": "None applicable",
   "case-A": "Case A",
   "case-B": "Case B",
@@ -70,7 +70,11 @@
   "terrace-thickness-info": "",
 
   "terrace-grid": "Dimensions of the slabs/joist centres",
+  "terrace-grid-label-slabs": "Dimensions of the slabs",
+  "terrace-grid-label-planks": "Joist centres",
   "terrace-grid-info": "For concrete slabs or ceramic tiles, choose the dimension of the slab/tile. For wooden or composite planks, choose the joist centres specified by the manufacturer.",
+  "terrace-grid-info-slabs": "For concrete slabs or ceramic tiles, choose the dimension of the slab/tile.",
+  "terrace-grid-info-planks": "For wooden or composite planks, choose the joist centres specified by the manufacturer.",
 
   "free-height": "Circulation height",
   "free-height-info": "Enter the overall height of the terrace, from the surface the pedestals will sit on at the highest point of the roof to the top of the terrace finish.",
@@ -199,5 +203,12 @@
   "skip": "Skip",
 
   "need-mm-longer-to-be-guardrail": "To be a guardrail, the line must be {{mm}} mm longer",
-  "not-show-again": "Don't show me again."
+  "not-show-again": "Don't show me again.",
+  "gate-not-possible-not-moving": "A gate of this width is not possible in this section",
+  "gate-not-possible-moving": "A gate of this width is not possible in this part of the section",
+  "door-not-possible": "A door or window of this width is not possible in this section.",
+
+  "terrace-info": "Terrace details",
+  "handrail-info": "Guardrail details",
+  "geo-info": "Geographic information"
 }
