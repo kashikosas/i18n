@@ -8,6 +8,9 @@
   "hello-user": "Bonjour {{username}}",
   "my-saved-configurations": "Configurations enregistrées",
   "account-info": "Mon compte",
+  "configurations": "Configurations",
+  "configurators": "Configurateurs",
+  "product": "Produit",
   "organization": "Organisation",
   "france": "France",
   "unitedKingdom": "Royaume Uni",
@@ -36,6 +39,7 @@
   "password": "Mot de passe",
   "username": "Nom d'utilisateur",
   "signin": "Connexion",
+  "signin-to": "Connectez-vous à",
   "logout": "Déconnexion",
   "remember-me": "Se souvenir de moi",
   "return-to-da": "Retourner sur le site de dani alu",
@@ -105,6 +109,7 @@
   "compute": "Calculer",
   "contact": "Contact",
   "documents": "Documents",
+  "production-documents": "Documents de production",
   "technical-drawings": "Plans",
   "builder": "Constructeur",
   "drawer": "Dessinateur",
@@ -198,6 +203,10 @@
   "updated-by": "Modificateur",
   "version": "Version",
   "actions": "Actions",
+  "search-field": "Champ de recherche",
+  "all": "Tous",
+  "total": "Total",
+  "clear-all": "Effacer tout",
 
   "config-edit": "Editer",
   "config-share": "Partager",
@@ -243,7 +252,8 @@
   "feature-coming-soon": "Fonctionnalité bientôt disponible!",
   "invalid-request-data": "Données de demande invalides",
 
-  "from": "à partir de",
+  "from": "Depuis",
+  "to": "À",
   "group": "Groupe",
 
   "indicative-project-price": "Prix indicatif du projet",
@@ -268,5 +278,9 @@
   "regenerate-configuration": "Afin de mettre à jour le configurateur, veuillez le reconfigurer!",
 
   "order-id": "Numéro de commande",
-  "of-id": "Numéro OF"
+  "of-id": "Numéro OF",
+
+  "footer-powered": "Propulsé par Jikannai<sup>&reg</sup>, un logiciel développé par Kashiko SAS.",
+  "footer-copyright": "&copy;Kashiko SAS {{year}}",
+  "legal-notice": "Mentions légales"
 }
