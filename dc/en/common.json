@@ -8,6 +8,9 @@
   "hello-user": "Hello {{username}}",
   "my-saved-configurations": "My saved configurations",
   "account-info": "Account info",
+  "configurations": "Configurations",
+  "configurators": "Configurators",
+  "product": "Product",
   "organization": "Organisation",
   "france": "France",
   "unitedKingdom": "United Kingdom",
@@ -36,6 +39,7 @@
   "password": "Password",
   "username": "Username",
   "signin": "Sign in",
+  "signin-to": "Sign in to",
   "logout": "Logout",
   "remember-me": "Remember me",
   "return-to-da": "Continue on dani alu website",
@@ -105,6 +109,7 @@
   "compute": "Compute",
   "contact": "Contact",
   "documents": "Documents",
+  "production-documents": "Production documents",
   "technical-drawings": "Technical drawings",
   "builder": "Builder",
   "drawer": "Drawer",
@@ -199,6 +204,10 @@
   "updated-by": "Modifying user",
   "version": "Version",
   "actions": "Actions",
+  "search-field": "Search field",
+  "all": "All",
+  "total": "Total",
+  "clear-all": "Clear All",
 
   "config-edit": "Edit",
   "config-share": "Share",
@@ -244,7 +253,8 @@
   "feature-coming-soon": "Feature is coming soon!",
   "invalid-request-data": "Invalid request data",
 
-  "from": "from",
+  "from": "From",
+  "to": "To",
   "group": "Group",
 
   "indicative-project-price": "Indicative project price",
@@ -269,5 +279,9 @@
   "regenerate-configuration": "Due to the updates we've made, please regenerate the configuration!",
 
   "order-id": "Order ID",
-  "of-id": "OF ID"
+  "of-id": "OF ID",
+
+  "footer-powered": "Powered by Jikannai<sup>&reg</sup>, a software developed by Kashiko SAS.",
+  "footer-copyright": "&copy;Kashiko SAS {{year}}",
+  "legal-notice": "Legal notice"
 }
