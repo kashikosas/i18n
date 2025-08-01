@@ -60,11 +60,11 @@
   "case-H-helper": "The terrace is positioned less than 10 m above ground level in an area where Vb,map≤23 m/s, terrain category 'Town', 30 km from the coast and >3 km inside the town OR the peak wind pressure, qp(z), at the position of the terrace is less than 0,68 kN/m².",
 
   "terrace-material": "Terrace material",
-  "terrace-material-info": "The minimum density of the material must be respected.",
-  "concrete-slabs": "Concrete slabs (min. density >23.54 kN/m<sup>3</sup>)",
-  "ceramic-tiles": "Ceramic tiles (min. density >20.59 kN/m<sup>3</sup>)",
-  "wooden-planks": "Wooden planks (min. density >7.36 kN/m<sup>3</sup>)",
-  "composite-planks": "Composite planks (min. density >8.83 kN/m<sup>3</sup>)",
+  "terrace-material-info": "The minimum weight of the material must be respected.",
+  "concrete-slabs": "Concrete slabs (min. weight >96 kg/m<sup>2</sup>)",
+  "ceramic-tiles": "Ceramic tiles (min. weight >42 kg/m<sup>2</sup>)",
+  "wooden-planks": "Wooden planks (min. weight >18.7 kg/m<sup>2</sup>)",
+  "composite-planks": "Composite planks (min. weight >22.5 kg/m<sup>2</sup>)",
 
   "terrace-thickness": "Terrace thickness",
   "terrace-thickness-info": "",
