@@ -61,10 +61,10 @@
 
   "terrace-material": "Terrace material",
   "terrace-material-info": "The minimum density of the material must be respected.",
-  "concrete-slabs": "Concrete slabs (min. density >23.54 kN/m<sup>3</sup>)",
-  "ceramic-tiles": "Ceramic tiles (min. density >20.59 kN/m<sup>3</sup>)",
-  "wooden-planks": "Wooden planks (min. density >7.36 kN/m<sup>3</sup>)",
-  "composite-planks": "Composite planks (min. density >8.83 kN/m<sup>3</sup>)",
+  "concrete-slabs": "Concrete slabs (min. weight >96 kg/m<sup>2</sup>)",
+  "ceramic-tiles": "Ceramic tiles (min. weight >42 kg/m<sup>2</sup>)",
+  "wooden-planks": "Wooden planks (min. weight >18.7 kg/m<sup>2</sup>)",
+  "composite-planks": "Composite planks (min. weight >22.5 kg/m<sup>2</sup>)",
 
   "terrace-thickness": "Terrace thickness",
   "terrace-thickness-info": "",
