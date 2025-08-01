@@ -60,11 +60,11 @@
   "case-H-helper": "La terrasse se situe à moins de 10 m de hauteur dans une zone ou Vb,map≤23 m/s, catégorie de terrain 'Urbain', à 30 km de la côte et >3 km à l'intérieur de la ville  <bold>OU</bold>  la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,68 kN/m².",
 
   "terrace-material": "Revêtement de la terrasse",
-  "terrace-material-info": "La densité minimale du matériau de revêtement doit être respectée.",
-  "concrete-slabs": "Dallettes béton (densité min. >23,54 kN/m<sup>3</sup>)",
-  "ceramic-tiles": "Carreaux céramique (densité min. >20,59 kN/m<sup>3</sup>)",
-  "wooden-planks": "Lames de plancher bois (densité min. >7,36 kN/m<sup>3</sup>)",
-  "composite-planks": "Lames de plancher en composite (densité min. >8,83 kN/m<sup>3</sup>)",
+  "terrace-material-info": "La poids minimal du matériau de revêtement doit être respectée.",
+  "concrete-slabs": "Dallettes béton (poids min. >96 kg/m<sup>2</sup>)",
+  "ceramic-tiles": "Carreaux céramique (poids min. >42 kg/m<sup>2</sup>)",
+  "wooden-planks": "Lames de plancher bois (poids min. >18,7 kg/m<sup>2</sup>)",
+  "composite-planks": "Lames de plancher en composite (poids min. >22,5 kg/m<sup>2</sup>)",
 
   "terrace-grid": "Dimension des dalles / Entraxes des poutres",
   "terrace-grid-label-slabs": "Dimension des dalles",
