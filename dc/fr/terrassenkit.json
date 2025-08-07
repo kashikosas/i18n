@@ -40,7 +40,7 @@
   "no-escape-route": "Hors zone d'évacuation incendie",
 
   "std-use": "Cas d'utilisation standard",
-  "std-use-info": "Chaque cas fourni un détail sur l'environnement dans lequel sera installé la terrasse. Si aucun des cas d'utilisation ne correspond à votre situation, merci de choisir <italic>'Aucun applicable'</italic>.",
+  "std-use-info": "Chaque cas fourni un détail sur l'environnement dans lequel sera installé la terrasse.<br/>Si aucun cas d'utilisation standard ne s'applique, veuillez choisir un remplissage barreaux.",
   "non-applicable": "Aucun applicable",
   "case-A": "Cas A",
   "case-B": "Cas B",
@@ -60,14 +60,18 @@
   "case-H-helper": "La terrasse se situe à moins de 10 m de hauteur dans une zone ou Vb,map≤23 m/s, catégorie de terrain 'Urbain', à 30 km de la côte et >3 km à l'intérieur de la ville  <bold>OU</bold>  la pression de vent max, qp(z), au niveau de la terrasse est inférieure à 0,68 kN/m².",
 
   "terrace-material": "Revêtement de la terrasse",
-  "terrace-material-info": "La densité minimale du matériau de revêtement doit être respectée.",
-  "concrete-slabs": "Dallettes béton (densité min. >23,54 kN/m<sup>3</sup>)",
-  "ceramic-tiles": "Carreaux céramique (densité min. >20,59 kN/m<sup>3</sup>)",
-  "wooden-planks": "Lames de plancher bois (densité min. >7,36 kN/m<sup>3</sup>)",
-  "composite-planks": "Lames de plancher en composite (densité min. >8,83 kN/m<sup>3</sup>)",
+  "terrace-material-info": "La poids minimal du matériau de revêtement doit être respectée.",
+  "concrete-slabs": "Dallettes béton (poids min. >96 kg/m<sup>2</sup>)",
+  "ceramic-tiles": "Carreaux céramique (poids min. >42 kg/m<sup>2</sup>)",
+  "wooden-planks": "Lames de plancher bois (poids min. >18,7 kg/m<sup>2</sup>)",
+  "composite-planks": "Lames de plancher en composite (poids min. >22,5 kg/m<sup>2</sup>)",
 
   "terrace-grid": "Dimension des dalles / Entraxes des poutres",
+  "terrace-grid-label-slabs": "Dimension des dalles",
+  "terrace-grid-label-planks": "Entraxes des poutres",
   "terrace-grid-info": "Pour les dalles de béton ou les carreaux de céramique, ce champs correspond à la dimension de la dalle/carreau. <br> Pour les planches en bois ou composite, ce champs correspond à l'entraxe des poutres spécifié par le fabricant.",
+  "terrace-grid-info-slabs": "Pour les dalles de béton ou les carreaux de céramique, ce champs correspond à la dimension de la dalle/carreau.",
+  "terrace-grid-info-planks": "Pour les planches en bois ou composite, ce champs correspond à l'entraxe des poutres spécifié par le fabricant.",
 
   "terrace-thickness": "Epaisseur du revêtement de la terrasse",
   "terrace-thickness-info": "",
@@ -202,5 +206,13 @@
   "skip": "Sauter",
 
   "need-mm-longer-to-be-guardrail": "Pour être un garde-corps, la ligne doit être {{mm}} mm plus longue",
-  "not-show-again": "Ne plus afficher"
+  "not-show-again": "Ne plus afficher",
+
+  "gate-not-possible-not-moving": "Une portillon de cette largeur n'est pas possible dans cette section.",
+  "gate-not-possible-moving": "Une portillon de cette largeur n'est pas possible dans cette partie de cette section.",
+  "door-not-possible": "Une porte ou fenêtre de cette largeur n'est pas possible dans cette section.",
+
+  "terrace-info": "Détails de la terrasse",
+  "handrail-info": "Détails du garde-corps",
+  "geo-info": "Informations géographiques"
 }

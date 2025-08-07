@@ -40,7 +40,7 @@
   "no-escape-route": "Not on escape route",
 
   "std-use": "Standard Use Case",
-  "std-use-info": "Select the applicable <italic>Standard Use Case</italic>, or <italic>'None Applicable'</italic> if this use does not comply with any <italic>Standard Use Case</italic>.",
+  "std-use-info": "Select the applicable <italic>Standard Use Case</italic>.<br/>If no standard use case applies, please choose a bar infill.",
   "non-applicable": "None applicable",
   "case-A": "Case A",
   "case-B": "Case B",
@@ -60,17 +60,21 @@
   "case-H-helper": "The terrace is positioned less than 10 m above ground level in an area where Vb,map≤23 m/s, terrain category 'Town', 30 km from the coast and >3 km inside the town OR the peak wind pressure, qp(z), at the position of the terrace is less than 0,68 kN/m².",
 
   "terrace-material": "Terrace material",
-  "terrace-material-info": "The minimum density of the material must be respected.",
-  "concrete-slabs": "Concrete slabs (min. density >23.54 kN/m<sup>3</sup>)",
-  "ceramic-tiles": "Ceramic tiles (min. density >20.59 kN/m<sup>3</sup>)",
-  "wooden-planks": "Wooden planks (min. density >7.36 kN/m<sup>3</sup>)",
-  "composite-planks": "Composite planks (min. density >8.83 kN/m<sup>3</sup>)",
+  "terrace-material-info": "The minimum weight of the material must be respected.",
+  "concrete-slabs": "Concrete slabs (min. weight >96 kg/m<sup>2</sup>)",
+  "ceramic-tiles": "Ceramic tiles (min. weight >42 kg/m<sup>2</sup>)",
+  "wooden-planks": "Wooden planks (min. weight >18.7 kg/m<sup>2</sup>)",
+  "composite-planks": "Composite planks (min. weight >22.5 kg/m<sup>2</sup>)",
 
   "terrace-thickness": "Terrace thickness",
   "terrace-thickness-info": "",
 
   "terrace-grid": "Dimensions of the slabs/joist centres",
+  "terrace-grid-label-slabs": "Dimensions of the slabs",
+  "terrace-grid-label-planks": "Joist centres",
   "terrace-grid-info": "For concrete slabs or ceramic tiles, choose the dimension of the slab/tile. For wooden or composite planks, choose the joist centres specified by the manufacturer.",
+  "terrace-grid-info-slabs": "For concrete slabs or ceramic tiles, choose the dimension of the slab/tile.",
+  "terrace-grid-info-planks": "For wooden or composite planks, choose the joist centres specified by the manufacturer.",
 
   "free-height": "Circulation height",
   "free-height-info": "Enter the overall height of the terrace, from the surface the pedestals will sit on at the highest point of the roof to the top of the terrace finish.",
@@ -199,5 +203,12 @@
   "skip": "Skip",
 
   "need-mm-longer-to-be-guardrail": "To be a guardrail, the line must be {{mm}} mm longer",
-  "not-show-again": "Don't show me again."
+  "not-show-again": "Don't show me again.",
+  "gate-not-possible-not-moving": "A gate of this width is not possible in this section",
+  "gate-not-possible-moving": "A gate of this width is not possible in this part of the section",
+  "door-not-possible": "A door or window of this width is not possible in this section.",
+
+  "terrace-info": "Terrace details",
+  "handrail-info": "Guardrail details",
+  "geo-info": "Geographic information"
 }
