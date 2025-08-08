@@ -283,5 +283,7 @@
 
   "footer-powered": "Unterstützt durch Jikannai<sup>&reg</sup>, eine von Kashiko SAS entwickelte Software.",
   "footer-copyright": "&copy;Kashiko SAS {{year}}",
-  "legal-notice": "Impressum"
+  "legal-notice": "Impressum",
+
+  "navision": "Navision Daten"
 }
