@@ -241,7 +241,7 @@
   "descriptif-text-part-8": "Finish: the finish will be mill finish aluminium",
   "descriptif-text-part-9": "Installation and qualifications <br> The installation will be carried out by a company with qualifications 3211, 3212, 3213, 3214 (waterproofing).",
   "descriptif-text-part-10": "Note: The connection between the equipment and the support must be handled by the equipment supplier in such a way as not to transmit vibrations to the structure.",
- 
+
   "max-machine-weight": "Max equipment weight",
   "max-machine-height": "Max equipment height",
   "max-leg-height": "Max leg height (LE)",
@@ -294,5 +294,7 @@
   "germanTerrainIII": "III",
   "germanTerrainIV": "IV",
 
-  "number-of-rows-of-legs-across-width": "Number of rows of legs across width"
+  "number-of-rows-of-legs-across-width": "Number of rows of legs across width",
+
+  "navision": "Navision Daten"
 }
