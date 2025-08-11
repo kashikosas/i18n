@@ -232,6 +232,7 @@
   "site-type": "Art der Baustelle",
   "configuration-status": "Konfigurationsstatus",
   "contact-form-client": "Kunde",
+  "contact-form-client-code": "Kundenkode",
   "delivery-date": "Gewünschter Liefertermin",
   "contact-info": "Kontaktinformationen",
   "attach-price": "Einen Preis hinzufügen",

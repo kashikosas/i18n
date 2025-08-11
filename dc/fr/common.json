@@ -231,6 +231,7 @@
   "site-type": "Type chantier",
   "configuration-status": "Statut de la configuration",
   "contact-form-client": "Client",
+  "contact-form-client-code": "Code client",
   "delivery-date": "Date de livraison",
   "contact-info": "Informations de contact",
   "attach-price": "Fixez un prix",
