@@ -214,5 +214,31 @@
 
   "terrace-info": "Détails de la terrasse",
   "handrail-info": "Détails du garde-corps",
-  "geo-info": "Informations géographiques"
+  "geo-info": "Informations géographiques",
+
+  "building-height": "Hauteur du bâtiment",
+  "building-height-info": "Saisissez la hauteur du bâtiment où le garde-corps sera installé.",
+  "alt": "Altitude du bâtiment",
+  "terrace-position": "Emplacement du garde-corps",
+  "terrain-category": "Catégorie de terrain",
+  "terrain-category-info-uk": "Consultez la norme BS EN 1991-1-4 et son Annexe Nationale.",
+  "terrain-category-info-at": "Consultez la norme ÖNORM B 1991-1-4.",
+  "terrain-category-info-ch": "Consultez la norme SIA 261.",
+  "terrain-category-info-de": "Consultez la norme DIN EN 1991-1-4 et son Annexe Nationale.",
+  "terrain-category-info-fr": "Consultez la norme NF EN 1991-1-4 et son Annexe Nationale.",
+  "wind-zone": "Pression du vent",
+  "wind-zone-info": "Consultez la norme SIA 261.",
+  "region": "Région",
+  "city": "Ville",
+  "zip-code": "Code postal",
+  "distance-from-shore": "Distance from shore",
+  "distance-from-shore-info": "Saisissez la distance par rapport au terrain de catégorie Bord d'eau le plus proche.",
+  "distance-in-town": "Distance à l'intérieur de la catégorie de terrain Ville",
+  "distance-in-town-info": "Saisissez la distance à partir du bord le plus proche de la zone de catégorie de terrain de la Ville dans laquelle le bâtiment est situé",
+  "wind-speed": "Vitesse du vent",
+  "wind-speed-info": "Consultez la norme BS EN 1991-1-4 et son Annexe Nationale.",
+  "exposure-factor": "Facteur d'exposition (Ce(z))",
+  "exposure-factor-info": "Consultez la norme BS EN 1991-1-4 et son Annexe Nationale.",
+  "exposure-correction-factor": "Facteur de correction d'exposition pour les zones Ville (Ce,T)",
+  "exposure-correction-factor-info": "Consultez la norme BS EN 1991-1-4 et son Annexe Nationale."
 }

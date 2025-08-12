@@ -211,5 +211,31 @@
 
   "terrace-info": "Terrassendetails",
   "handrail-info": "Geländerdetails",
-  "geo-info": "Geografische Daten"
+  "geo-info": "Geografische Daten",
+
+  "building-height": "Gebäudehöhe",
+  "building-height-info": "Geben Sie die Höhe des Gebäudes ein, an dem das Geländer angebracht werden soll.",
+  "alt": "Höhenlage des Gebäudes",
+  "terrace-position": "Lage",
+  "terrain-category": "Geländekategorie",
+  "terrain-category-info-uk": "Als Orientierungshilfe siehe BS EN 1991-1-4 und deren Nationalen Anhang.",
+  "terrain-category-info-at": "Als Orientierungshilfe siehe ÖNORM B 1991-1-4.",
+  "terrain-category-info-ch": "Als Orientierungshilfe siehe SIA 261.",
+  "terrain-category-info-de": "Als Orientierungshilfe siehe DIN EN 1991-1-4 und deren Nationalen Anhang.",
+  "terrain-category-info-fr": "Als Orientierungshilfe siehe NF EN 1991-1-4 und deren Nationalen Anhang.",
+  "wind-zone": "Winddruck",
+  "wind-zone-info": "Als Orientierungshilfe siehe SIA 261.",
+  "region": "Region",
+  "city": "Stadt",
+  "zip-code": "Postleitzahl",
+  "distance-from-shore": "Entfernung von der Küste",
+  "distance-from-shore-info": "Geben Sie die Entfernung zur nächstgelegenen geländekategorie  „Küste“ ein.",
+  "distance-in-town": "Entfernung innerhalb der Geländekategorie „Stadt“",
+  "distance-in-town-info": "Geben Sie die Entfernung vom nächstgelegenen Rand des Gebiets der Geländekategorie „Stadt“ ein, in dem sich das Gebäude befindet.",
+  "wind-speed": "Windgeschwindigkeit",
+  "wind-speed-info": "Als Orientierungshilfe siehe BS EN 1991-1-4 und deren Nationalen Anhang.",
+  "exposure-factor": "Expositionsfaktor (Ce(z))",
+  "exposure-factor-info": "Als Orientierungshilfe siehe BS EN 1991-1-4 und deren Nationalen Anhang.",
+  "exposure-correction-factor": "Expositionskorrekturfaktor für Stadtlagen (Ce,T)",
+  "exposure-correction-factor-info": "Als Orientierungshilfe siehe BS EN 1991-1-4 und deren Nationalen Anhang."
 }

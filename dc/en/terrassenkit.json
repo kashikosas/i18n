@@ -210,5 +210,31 @@
 
   "terrace-info": "Terrace details",
   "handrail-info": "Guardrail details",
-  "geo-info": "Geographic information"
+  "geo-info": "Geographic information",
+
+  "building-height": "Height of building",
+  "building-height-info": "Enter the height of the building where the guardrail is to be installed.",
+  "alt": "Altitude of building",
+  "terrace-position": "Position of the guardrail",
+  "terrain-category": "Category of terrain",
+  "terrain-category-info-uk": "Refer to BS EN 1991-1-4 and its National Annex for guidance.",
+  "terrain-category-info-at": "Refer to ÖNORM B 1991-1-4 for guidance.",
+  "terrain-category-info-ch": "Refer to SIA 261 for guidance.",
+  "terrain-category-info-de": "Refer to DIN EN 1991-1-4 and its National Annex for guidance.",
+  "terrain-category-info-fr": "Refer to NF EN 1991-1-4 and its National Annex for guidance.",
+  "wind-zone": "Wind zone",
+  "wind-zone-info": "Refer to SIA 261 for guidance.",
+  "region": "Region",
+  "city": "City",
+  "zip-code": "Postcode",
+  "distance-from-shore": "Distance from shore",
+  "distance-from-shore-info": "Enter the distance from the nearest Coast category terrain.",
+  "distance-in-town": "Distance inside Town terrain",
+  "distance-in-town-info": "Enter the distance from the nearest edge of the Town terrain category area the building is located in.",
+  "wind-speed": "Wind speed",
+  "wind-speed-info": "Refer to BS EN 1991-1-4 and its National Annex for guidance.",
+  "exposure-factor": "Exposure factor (Ce(z))",
+  "exposure-factor-info": "Refer to BS EN 1991-1-4 and its National Annex for guidance.",
+  "exposure-correction-factor": "Exposure correction factor for town locations (Ce,T)",
+  "exposure-correction-factor-info": "Refer to BS EN 1991-1-4 and its National Annex for guidance."
 }
