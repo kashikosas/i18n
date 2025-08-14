@@ -240,5 +240,7 @@
   "exposure-factor": "Facteur d'exposition (Ce(z))",
   "exposure-factor-info": "Consultez la norme BS EN 1991-1-4 et son Annexe Nationale.",
   "exposure-correction-factor": "Facteur de correction d'exposition pour les zones Ville (Ce,T)",
-  "exposure-correction-factor-info": "Consultez la norme BS EN 1991-1-4 et son Annexe Nationale."
+  "exposure-correction-factor-info": "Consultez la norme BS EN 1991-1-4 et son Annexe Nationale.",
+  "coast": "Bord d'eau",
+  "town": "Ville"
 }

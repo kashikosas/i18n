@@ -236,5 +236,7 @@
   "exposure-factor": "Exposure factor (Ce(z))",
   "exposure-factor-info": "Refer to BS EN 1991-1-4 and its National Annex for guidance.",
   "exposure-correction-factor": "Exposure correction factor for town locations (Ce,T)",
-  "exposure-correction-factor-info": "Refer to BS EN 1991-1-4 and its National Annex for guidance."
+  "exposure-correction-factor-info": "Refer to BS EN 1991-1-4 and its National Annex for guidance.",
+  "coast": "Coast",
+  "town": "Town"
 }
