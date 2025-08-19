@@ -42,7 +42,8 @@
   "signin-to": "Sign in to",
   "logout": "Logout",
   "remember-me": "Remember me",
-  "return-to-da": "Continue on dani alu website",
+  "return-to": "Continue on",
+  "website": "website",
   "help": "Help",
 
   "configuration-builders": "Configuration builders",
