@@ -136,7 +136,7 @@
   "list-colisage": "Packliste",
   "fabrication-order": "Fertigungsauftrag",
 
-  "about-to-leave-daniconfigs": "DaniConfigs verlassen",
+  "about-to-leave-jikannai": "Würden Sie Jikannai verlassen?",
   "about-to-delete-builder": "Editor löschen",
   "about-to-reset-configuration": "Aktuelle Konfiguration zurücksetzen",
   "about-to-delete-configuration": "Konfiguration löschen: {{ids}}.",
