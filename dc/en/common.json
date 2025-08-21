@@ -237,10 +237,10 @@
   "contact-info": "Contact info",
   "attach-price": "Attach a price",
 
-  "work-in-progress": "Work in progress",
-  "in-quote": "In quote",
+  "work_in_progress": "Work in progress",
+  "in_quote": "In quote",
   "validated": "Validated",
-  "in-cart": "In cart",
+  "in_cart": "In cart",
   "ordered": "Ordered",
 
   "delete-configuration": "Delete configuration",
