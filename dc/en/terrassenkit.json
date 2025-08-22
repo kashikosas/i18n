@@ -233,10 +233,16 @@
   "distance-in-town-info": "Enter the distance from the nearest edge of the Town terrain category area the building is located in.",
   "wind-speed": "Wind speed",
   "wind-speed-info": "Refer to BS EN 1991-1-4 and its National Annex for guidance.",
-  "exposure-factor": "Exposure factor (Ce(z))",
+  "exposure-factor": "Exposure factor (C<sub>e(z)</sub>)",
   "exposure-factor-info": "Refer to BS EN 1991-1-4 and its National Annex for guidance.",
-  "exposure-correction-factor": "Exposure correction factor for town locations (Ce,T)",
+  "exposure-correction-factor": "Exposure correction factor for town locations (C<sub>e,T</sub>)",
   "exposure-correction-factor-info": "Refer to BS EN 1991-1-4 and its National Annex for guidance.",
   "coast": "Coast",
-  "town": "Town"
+  "town": "Town",
+  "0.9kN/m²": "0.9 kN/m²",
+  "1.1kN/m²": "1.1 kN/m²",
+  "1.3kN/m²": "1.3 kN/m²",
+  "1.4kN/m²": "1.4 kN/m²",
+  "2.4kN/m²": "2.4 kN/m²",
+  "3.3kN/m²": "3.3 kN/m²"
 }
