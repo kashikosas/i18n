@@ -162,6 +162,13 @@
   "descriptive-text-location-G": "Installé soit a) dans la zone de vent 1, 2 ou 3, dans la catégorie de terrain IIIb ou IV, et à une hauteur maximale au-dessus du niveau du sol de 21 m, ou soit b) dans un emplacement/bâtiment où le qp(z) est de 0,79 kN/ m² ou moins.",
   "descriptive-text-location-H": "Installé soit a) à une hauteur maximale au-dessus du niveau du sol de 10 m dans une zone où Vb,map ≤ 23 m/s, dans la catégorie de terrain 'Urbain', à 30 km ou plus de la côte et à au moins 3km à l'intérieur de la ville, ou soit b) dans un emplacement/bâtiment où le qp(z) est de 0,68 kN/ m² ou moins.",
   "descriptive-text-location-NA": "N'importe emplacement.",
+  "descriptive-text-location-custom-AT": "Installé à une hauteur maximale au-dessus du niveau du sol de {{height}} m, dans la zone de vent qb = {{qb}} kN/m² et dans la catégorie de terrain {{terrainCategory}}.",
+  "descriptive-text-location-custom-DE": "Installé à une hauteur maximale au-dessus du niveau du sol de {{height}} m, dans la zone de vent {{qb}} et dans la catégorie de terrain {{terrainCategory}}.",
+  "descriptive-text-location-custom-FR": "Installé à une hauteur maximale au-dessus du niveau du sol de {{height}} m, dans la zone de vent {{qb}} et dans la catégorie de terrain {{terrainCategory}}.",
+  "descriptive-text-location-custom-CH": "Installé sur le {{position}}, à une hauteur maximale au-dessus du niveau du sol de {{height}} m, dans la zone de vent qp(0) = {{qb}} kN/m²et dans la catégorie de terrain {{terrainCategory}}.",
+  "descriptive-text-location-custom-UK-Town": "Installé à une hauteur maximale au-dessus du niveau du sol de {{height}} m, dans une zone  Vb,map = {{qb}} m/s, à une altitude de {{alt}} m, dans la catégorie de terrain {{terrainCategory}} à {{distanceFromCoast}} km du littoral et à {{distanceWithinTown}} km à l'intérieur de la ville.",
+  "descriptive-text-location-custom-UK-Country": "Installé à une hauteur maximale au-dessus du niveau du sol de {{height}} m, dans une zone  Vb,map = {{qb}} m/s,  à une altitude de {{alt}} m, dans la catégorie de terrain {{terrainCategory}} et à {{distanceFromCoast}} km du littoral.",
+  "descriptive-text-location-custom-UK-Coast": "Installé à une hauteur maximale au-dessus du niveau du sol de {{height}} m, dans une zone  Vb,map = {{qb}} m/s,  à une altitude de {{alt}} m et dans la catégorie de terrain {{terrainCategory}}.",
 
   "descriptive-text-qualification-at": "La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
   "descriptive-text-qualification-ch": "La mise en œuvre sera réalisée par une entreprise agréée, conformément aux plans de calepinage fournis par dani alu.",
@@ -248,5 +255,6 @@
   "1.3kN/m²": "1,3 kN/m²",
   "1.4kN/m²": "1,4 kN/m²",
   "2.4kN/m²": "2,4 kN/m²",
-  "3.3kN/m²": "3,3 kN/m²"
+  "3.3kN/m²": "3,3 kN/m²",
+  "category-country": "Campagne"
 }
