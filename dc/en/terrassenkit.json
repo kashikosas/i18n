@@ -159,6 +159,13 @@
   "descriptive-text-location-G": "Installed either a) in wind zone 1, 2 or 3, in terrain category IIIb or IV, and at a maximum height above ground level of 21 m, or b) in a location/building where the qp(z) is 0.79 kN/m² or less.",
   "descriptive-text-location-H": "Installed either a) at a maximum height above ground level of 10 m in an area where Vb,map ≤ 23 m/s, in the terrain category 'Urban', 30 km or more from the coast and at least 3 km within the urbain environment, or b) in a location/building where the qp(z) is 0.68 kN/ m²  or less.",
   "descriptive-text-location-NA": "Any location.",
+  "descriptive-text-location-custom-AT": "Installed either at a maximum height above ground level of {{height}} m, in wind zone qb = {{qb}} kN/m² and in terrain category {{terrainCategory}}.",
+  "descriptive-text-location-custom-DE": "Installed at a maximum height above ground level of {{height}} m, in wind zone {qb} and in terrain category {{terrainCategory}}.",
+  "descriptive-text-location-custom-FR": "Installed at a maximum height above ground level of {{height}} m, in wind zone {{qb}} and in terrain category {terrainCategory}.",
+  "descriptive-text-location-custom-CH": "Installed on the {{position}}, at a maximum height above ground level of {{height}} m, in the wind zone qp(0) = {{qb}} kN/m² and in terrain category {{terrainCategory}}.",
+  "descriptive-text-location-custom-UK-Town": "Installed at a maximum height above ground level of {{height}} m, in an area Vb,map = {{qb}} m/s, at {{alt}} m of altitude, in the terrain category {{terrainCategory}}, {{distanceFromCoast}} km from the coast and {{distanceWithinTown}} km within the town environment.",
+  "descriptive-text-location-custom-UK-Country": "Installed at a maximum height above ground level of {{height}} m, in an area Vb,map = {{qb}} m/s, at {{alt}} m of altitude, in the terrain category {{terrainCategory}} and {{distanceFromCoast}} km from the coast.",
+  "descriptive-text-location-custom-UK-Coast": "Installed at a maximum height above ground level of {{height}} m, in an area Vb,map = {{qb}} m/s, at {{alt}} m of altitudea and in the terrain category {{terrainCategory}}.",
 
   "descriptive-text-qualification-at": "The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
   "descriptive-text-qualification-ch": "The installation must be carried out by an approved company, in accordance with the layout plans provided by dani alu.",
@@ -244,5 +251,6 @@
   "1.3kN/m²": "1.3 kN/m²",
   "1.4kN/m²": "1.4 kN/m²",
   "2.4kN/m²": "2.4 kN/m²",
-  "3.3kN/m²": "3.3 kN/m²"
+  "3.3kN/m²": "3.3 kN/m²",
+  "category-country": "Country"
 }
