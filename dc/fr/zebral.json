@@ -101,5 +101,12 @@
   "more-than-max": "Supérieur au max autorisé {{0}}",
   "less-than-min": "Inférieur au min autorisé {{0}}",
   "out-of-bounds": "Valeur hors intervalle autorisé : [{{0}}, {{1}}]",
+  "zebral-popup-title": "Comment saisir votre terrasse ou balcon",
+  "zebral-popup-content-slab": "Tracez l'extrémité de la dalle en utilisant les outils <italic>Tracer librement</italic> ou <italic>Tracer un Rectangle</italic>.<br/>",
+  "zebral-popup-content-parapet": "Tracez l'extrémité de la acrotère en utilisant les outils <italic>Tracer librement</italic> ou <italic>Tracer un Rectangle</italic>.<br/>",
+  "zebral-popup-content-second": "Dessinez seulement les lignes où il y aura des garde-corps.<br/>",
+  "zebral-popup-content-third": "Choisissez les types des extrémités (fixé au mur ou avec bouchon) en cliquant avec le bouton droit sur chaque extrémité.<br/>",
+  "zebral-popup-content-fourth": "Choisissez l'intérieur de la terrasse en cliquant avec le bouton droit sur n'importe quelle ligne en cliquant sur <italic>Inverser l'intérieur et l'extérieur</italic>.",
+  "draw": "Tracez",
   "not-show-again": "Ne plus afficher"
 }
