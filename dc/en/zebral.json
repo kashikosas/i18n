@@ -100,5 +100,12 @@
   "more-than-max": "More than the max authorised: {{0}}",
   "less-than-min": "Less than the min authorised: {{0}}",
   "out-of-bounds": "Value out of authorized interval : [{{0}}, {{1}}]",
+  "zebral-popup-title": "How to enter your terrace or balcony",
+  "zebral-popup-content-slab": "Draw the extremities of the slab using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>.<br/>",
+  "zebral-popup-content-parapet": "Draw the extremities of the parapet using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>.<br/>",
+  "zebral-popup-content-second": "Only draw the lines where there will be guardrails.<br/>",
+  "zebral-popup-content-third": "Choose the end types of the guardrails (fixed to wall or with end cap) by right clicking on each end point.<br/>",
+  "zebral-popup-content-fourth": "Choose the inside of the terrace by right clicking any line a clicking <italic>Reverse inside and outside</italic>.",
+  "draw": "Draw",
   "not-show-again": "Don't show me again."
 }
