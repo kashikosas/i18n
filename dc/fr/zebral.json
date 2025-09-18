@@ -102,7 +102,7 @@
   "less-than-min": "Inférieur au min autorisé {{0}}",
   "out-of-bounds": "Valeur hors intervalle autorisé : [{{0}}, {{1}}]",
   "zebral-popup-title": "Comment saisir votre terrasse ou balcon",
-  "zebral-popup-content-slab": "Tracez l'extrémité de la dalle en utilisant les outils <italic>Tracer librement</italic> ou <italic>Tracer un Rectangle</italic>.<br/>",
+  "zebral-popup-content-slab": "Tracez le bord extérieur de la dalle en utilisant les outils <italic>Tracer librement</italic> ou <italic>Tracer un Rectangle</italic>.<br/>",
   "zebral-popup-content-slab-dsp": "Tracez le bord extérieur des garde-corps en utilisant les outils <italic>Tracer librement</italic> ou <italic>Tracer un Rectangle</italic>. Le bord du garde-corps doit être à au moins 80 mm du bord de la dalle.<br/>",
   "zebral-popup-content-slab-dsp-complexe": "Tracez le bord extérieur des garde-corps en utilisant les outils <italic>Tracer librement</italic> ou <italic>Tracer un Rectangle</italic>. Le bord du garde-corps doit être à au moins 200 mm du bord de la dalle.<br/>",
   "zebral-popup-content-parapet-ext": "Tracez le bord extérieur de l'acrotère en utilisant les outils <italic>Tracer librement</italic> ou <italic>Tracer un Rectangle</italic>.<br/>",
