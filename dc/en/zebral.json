@@ -101,7 +101,7 @@
   "less-than-min": "Less than the min authorised: {{0}}",
   "out-of-bounds": "Value out of authorized interval : [{{0}}, {{1}}]",
   "zebral-popup-title": "How to enter your terrace or balcony",
-  "zebral-popup-content-slab": "Draw the extremities of the slab using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>.<br/>",
+  "zebral-popup-content-slab": "Draw the outside edge of the slab using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>.<br/>",
   "zebral-popup-content-slab-dsp": "Draw the outside edge of the guardail using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>. The edge of the guardrail must be at least 80 mm from the edge of the slab.<br/>",
   "zebral-popup-content-slab-dsp-complexe": "Draw the outside edge of the guardail using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>. The edge of the guardrail must be at least 200 mm from the edge of the slab.<br/>",
   "zebral-popup-content-parapet-ext": "Draw the outside edge of the parapet using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>.<br/>",
