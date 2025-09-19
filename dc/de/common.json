@@ -290,5 +290,8 @@
   "footer-copyright": "&copy;Kashiko SAS {{year}}",
   "legal-notice": "Impressum",
 
-  "navision": "Navision Daten"
+  "navision": "Navision Daten",
+
+  "versions": "Versions",
+  "event": "Event"
 }
