@@ -253,6 +253,7 @@
   "configuration-saved-successfully": "Konfiguration erfolgreich gespeichert",
   "deletion-configuration-successful": "Konfiguration erfolgreich gelöscht",
   "configuration-add-to-cart-successfully": "Konfiguration erfolgreich zum Warenkorb hinzugefügt",
+  "duplication-configuration-successful": "Konfiguration erfolgreich dupliziert",
 
   "feature-coming-soon": "Feature bald verfügbar!",
   "invalid-request-data": "Ungültige Anfrage",
