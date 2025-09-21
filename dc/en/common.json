@@ -300,5 +300,7 @@
   "configuration-event-contacted": "Contacted",
   "configuration-event-added_to_cart": "Added into Cart",
   "configuration-event-ordered": "Ordered",
-  "configuration-event-shared": "Shared"
+  "configuration-event-shared": "Shared",
+
+  "configuration-client": "Client"
 }

@@ -299,5 +299,7 @@
   "configuration-event-contacted": "Contacté",
   "configuration-event-added_to_cart": "Ajouté au panier",
   "configuration-event-ordered": "Commandé",
-  "configuration-event-shared": "Partagé"
+  "configuration-event-shared": "Partagé",
+
+  "configuration-client": "Client"
 }
