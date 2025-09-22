@@ -302,5 +302,7 @@
   "configuration-event-ordered": "Ordered",
   "configuration-event-shared": "Shared",
 
-  "configuration-client": "Client"
+  "configuration-client": "Client",
+  "configuration-user": "User",
+  "configuration-date-and-time": "Date and time"
 }

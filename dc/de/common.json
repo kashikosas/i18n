@@ -302,5 +302,7 @@
   "configuration-event-ordered": "Bestellt",
   "configuration-event-shared": "Geteilt",
 
-  "configuration-client": "Kunde"
+  "configuration-client": "Kunde",
+  "configuration-user": "Benutzer",
+  "configuration-date-and-time": "Datum und Uhrzeit"
 }

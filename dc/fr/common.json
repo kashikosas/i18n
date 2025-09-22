@@ -301,5 +301,7 @@
   "configuration-event-ordered": "Commandé",
   "configuration-event-shared": "Partagé",
 
-  "configuration-client": "Client"
+  "configuration-client": "Client",
+  "configuration-user": "Utilisateur",
+  "configuration-date-and-time": "Date et heure"
 }
