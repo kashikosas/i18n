@@ -203,7 +203,7 @@
   "created-at": "Date creation",
   "created-by": "User created",
   "updated-at": "Date modification",
-  "updated-by": "Modifying user",
+  "updated-by": "User modified",
   "version": "Version",
   "actions": "Actions",
   "search-field": "Search field",
