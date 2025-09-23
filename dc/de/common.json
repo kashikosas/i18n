@@ -304,5 +304,10 @@
 
   "configuration-client": "Kunde",
   "configuration-user": "Benutzer",
-  "configuration-date-and-time": "Datum und Uhrzeit"
+  "configuration-date-and-time": "Datum und Uhrzeit",
+
+  "share": "Teilen",
+  "share-permission": "Berechtigung",
+  "share-permission-read-only": "Nur lesen",
+  "share-permission-edit": "Bearbeiten"
 }
