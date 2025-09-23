@@ -303,5 +303,10 @@
 
   "configuration-client": "Client",
   "configuration-user": "Utilisateur",
-  "configuration-date-and-time": "Date et heure"
+  "configuration-date-and-time": "Date et heure",
+
+  "share": "Partager",
+  "share-permission": "Permission",
+  "share-permission-read-only": "Lecture seule",
+  "share-permission-edit": "Modifier"
 }
