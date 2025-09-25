@@ -254,6 +254,7 @@
   "deletion-configuration-successful": "Configuration is deleted successfully",
   "configuration-add-to-cart-successfully": "Configuration is added to cart successfully",
   "duplication-configuration-successful": "Configuration is duplicated successfully",
+  "configuration-shared-successfully": "Configuration is shared successfully",
 
   "feature-coming-soon": "Feature is coming soon!",
   "invalid-request-data": "Invalid request data",

@@ -254,6 +254,7 @@
   "deletion-configuration-successful": "Konfiguration erfolgreich gelöscht",
   "configuration-add-to-cart-successfully": "Konfiguration erfolgreich zum Warenkorb hinzugefügt",
   "duplication-configuration-successful": "Konfiguration erfolgreich dupliziert",
+  "configuration-shared-successfully": "Konfiguration erfolgreich geteilt",
 
   "feature-coming-soon": "Feature bald verfügbar!",
   "invalid-request-data": "Ungültige Anfrage",
