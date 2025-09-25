@@ -253,6 +253,7 @@
   "deletion-configuration-successful": "Configuration supprimée avec succès",
   "configuration-add-to-cart-successfully": "Configuration ajoutée au panier avec succès",
   "duplication-configuration-successful": "Configuration dupliquée avec succès",
+  "configuration-shared-successfully": "Configuration partagée avec succès",
 
   "feature-coming-soon": "Fonctionnalité bientôt disponible!",
   "invalid-request-data": "Données de demande invalides",
