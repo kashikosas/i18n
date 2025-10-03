@@ -197,6 +197,8 @@
   "opticoupe-csv-export": "Opticoupe export",
   "opticoupe-csv-export-toles": "Opticoupe Tôles export",
   "dxf-file": "Fichier DXF",
+  "gstm-list": "Fiche articles GSTM",
+  "bar-drilling-list": "Fiche perçage lisses",
 
   "status": "Statut",
   "created-at": "Date création",
