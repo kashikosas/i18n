@@ -196,6 +196,8 @@
   "opticoupe-csv-export": "Opticoupe export",
   "opticoupe-csv-export-toles": "Opticoupe Panel export",
   "dxf-file": "DXF file",
+  "gstm-list": "GSTM component list",
+  "bar-drilling-list": "Infill module profile drilling list",
 
   "status": "Status",
   "created-at": "Date creation",

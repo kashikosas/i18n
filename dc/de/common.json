@@ -196,6 +196,8 @@
   "timesheet": "Stundenzettel",
   "accessories-sheet": "Zubehörblatt",
   "dxf-file": "DXF Datei",
+  "gstm-list": "GSTM-Komponentenliste",
+  "bar-drilling-list": "FüllmodulProfile Bohrliste",
 
   "status": "Status",
   "created-at": "Erstellt",
