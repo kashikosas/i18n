@@ -30,8 +30,8 @@
   "depth": "Profondeur de fabrication",
   "length": "Longueur de fabrication",
   "accessories": "Accessoires en option",
+  "waterDrop": "Goutte d'eau",
   "corniereFinition": "Cornière de finition",
-  "corniereFinition-helper": "Renseigner le nombre d'unités (1 barre = 1500mm)",
   "pvcAutocollant": "Profilé PVC autocollant",
   "pvcAutocollant-helper": "Renseigner le nombre d'unités (1 barre = 2400mm)",
 
