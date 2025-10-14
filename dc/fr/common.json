@@ -42,7 +42,8 @@
   "signin-to": "Connectez-vous à",
   "logout": "Déconnexion",
   "remember-me": "Se souvenir de moi",
-  "return-to-da": "Retourner sur le site de dani alu",
+  "return-to": "Continuer sur",
+  "website": "site web",
   "help": "Aide",
 
   "configuration-builders": "Constructeurs de configurateurs",
@@ -103,6 +104,7 @@
   "save": "Enregistrer",
   "send": "Envoyer",
   "open": "Ouvrir",
+  "select": "Sélectionner",
   "selected": "Sélectionné",
   "submit": "Soumettre",
   "update": "Mettre à jour",
@@ -117,7 +119,7 @@
   "open-formular": "Ouvrir formulaire",
 
   "write-your-message": "Votre message",
-  "attach-current-config": "Joindre la configuration en cours",
+  "attach-current-configuration": "Joindre la configuration en cours",
   "field-required": "Champs requis",
   "nothing-found": "Pas de résultat",
   "add-to-cart": "Ajouter au panier",
@@ -142,7 +144,7 @@
   "cutting-paint-list": "Fiche de débit - Laquage",
   "descriptive-text": "Texte descriptif",
 
-  "about-to-leave-daniconfigs": "Vous êtes sur le point de quitter DaniConfigs",
+  "about-to-leave-jikannai": "Voulez-vous quitter Jikannai ?",
   "about-to-delete-builder": "Suppression constructeur",
   "about-to-reset-configuration": "Réinitialisation configuration",
   "about-to-delete-configuration": "Supprimer configuration: {{ids}}.",
@@ -195,6 +197,8 @@
   "opticoupe-csv-export": "Opticoupe export",
   "opticoupe-csv-export-toles": "Opticoupe Tôles export",
   "dxf-file": "Fichier DXF",
+  "gstm-list": "Fiche articles GSTM",
+  "bar-drilling-list": "Fiche perçage lisses",
 
   "status": "Statut",
   "created-at": "Date création",
@@ -208,6 +212,7 @@
   "total": "Total",
   "clear-all": "Effacer tout",
 
+  "config-view": "Voir",
   "config-edit": "Editer",
   "config-share": "Partager",
   "config-duplicate": "Dupliquer",
@@ -236,11 +241,11 @@
   "contact-info": "Informations de contact",
   "attach-price": "Fixez un prix",
 
-  "work-in-progress": "En cours",
-  "in-quote": "En attente",
-  "validated": "Validé",
-  "in-cart": "Dans le panier",
-  "ordered": "Commandé",
+  "work_in_progress": "Configuration en cours",
+  "in_quote": "Configuration dans un devis",
+  "validated": "Configuration validé",
+  "in_cart": "Configuration dans le panier",
+  "ordered": "Configuration commandé",
 
   "delete-configuration": "Supprimer la configuration",
   "confirm-delete-single-configuration": "Êtes-vous sûr de vouloir supprimer cette configuration ?",
@@ -249,6 +254,8 @@
   "configuration-saved-successfully": "Configuration enregistrée",
   "deletion-configuration-successful": "Configuration supprimée avec succès",
   "configuration-add-to-cart-successfully": "Configuration ajoutée au panier avec succès",
+  "duplication-configuration-successful": "Configuration dupliquée avec succès",
+  "configuration-shared-successfully": "Configuration partagée avec succès",
 
   "feature-coming-soon": "Fonctionnalité bientôt disponible!",
   "invalid-request-data": "Données de demande invalides",
@@ -264,6 +271,7 @@
   "indicative-project-price-contact": "Contactez dani alu",
 
   "invalid-form": "Veuillez saisir tous les champs nécessaires marqués d'un astérisque (*).",
+  "invalid-email": "Veuillez saisir une adresse email valide.",
 
   "shop-data-required": "Veuillez sélectionner le prix et la quantité.",
 
@@ -283,5 +291,26 @@
 
   "footer-powered": "Propulsé par Jikannai<sup>&reg</sup>, un logiciel développé par Kashiko SAS.",
   "footer-copyright": "&copy;Kashiko SAS {{year}}",
-  "legal-notice": "Mentions légales"
+  "legal-notice": "Mentions légales",
+
+  "navision": "Saisie Navision",
+
+  "versions": "Versions",
+  "event": "Event",
+
+  "configuration-event-created": "Créé",
+  "configuration-event-updated": "Mis à jour",
+  "configuration-event-contacted": "Contacté",
+  "configuration-event-added_to_cart": "Ajouté au panier",
+  "configuration-event-ordered": "Commandé",
+  "configuration-event-shared": "Partagé",
+
+  "configuration-client": "Client",
+  "configuration-user": "Utilisateur",
+  "configuration-date-and-time": "Date et heure",
+
+  "share": "Partager",
+  "share-permission": "Permission",
+  "share-permission-read-only": "Lecture seule",
+  "share-permission-edit": "Modifier"
 }

@@ -42,7 +42,8 @@
   "signin-to": "Melden Sie sich bei",
   "logout": "Abmeldung",
   "remember-me": "Daten speichern",
-  "return-to-da": "Weiter zur dani alu Seite",
+  "return-to": "Weiter auf",
+  "website": "website",
   "help": "Helfen",
 
   "configuration-builders": "Konfigurationseditor",
@@ -103,6 +104,7 @@
   "save": "Speichern",
   "send": "Senden",
   "open": "Öffnen",
+  "select": "Auswählen",
   "selected": "Ausgewählt",
   "submit": "Einreichen",
   "update": "Aktualisieren",
@@ -117,7 +119,7 @@
   "open-formular": "Formular öffnen",
 
   "write-your-message": "Ihre Nachricht",
-  "attach-current-config": "Aktuelle Konfiguration anhängen",
+  "attach-current-configuration": "Aktuelle Konfiguration anhängen",
   "field-required": "Pflichtfeld",
   "nothing-found": "Kein Ergebnis",
   "add-to-cart": "Zum Warenkorb hinzufügen",
@@ -134,7 +136,7 @@
   "list-colisage": "Packliste",
   "fabrication-order": "Fertigungsauftrag",
 
-  "about-to-leave-daniconfigs": "DaniConfigs verlassen",
+  "about-to-leave-jikannai": "Würden Sie Jikannai verlassen?",
   "about-to-delete-builder": "Editor löschen",
   "about-to-reset-configuration": "Aktuelle Konfiguration zurücksetzen",
   "about-to-delete-configuration": "Konfiguration löschen: {{ids}}.",
@@ -196,6 +198,8 @@
   "timesheet": "Stundenzettel",
   "accessories-sheet": "Zubehörblatt",
   "dxf-file": "DXF Datei",
+  "gstm-list": "GSTM-Komponentenliste",
+  "bar-drilling-list": "FüllmodulProfile Bohrliste",
 
   "status": "Status",
   "created-at": "Erstellt",
@@ -209,7 +213,8 @@
   "total": "Gesamt",
   "clear-all": "Alle löschen",
 
-  "config-edit": "Konfiguration bearbeiten",
+  "config-view": "Ansehen",
+  "config-edit": "Bearbeiten",
   "config-share": "Teilen",
   "config-duplicate": "Duplizieren",
   "config-delete": "Löschen",
@@ -237,10 +242,10 @@
   "contact-info": "Kontaktinformationen",
   "attach-price": "Einen Preis hinzufügen",
 
-  "work-in-progress": "In Arbeit",
-  "in-quote": "Im Angebot",
+  "work_in_progress": "In Arbeit",
+  "in_quote": "Im Angebot",
   "validated": "Validiert",
-  "in-cart": "Im Warenkorb",
+  "in_cart": "Im Warenkorb",
   "ordered": "Bestellt",
 
   "delete-configuration": "Konfiguration löschen",
@@ -250,6 +255,8 @@
   "configuration-saved-successfully": "Konfiguration erfolgreich gespeichert",
   "deletion-configuration-successful": "Konfiguration erfolgreich gelöscht",
   "configuration-add-to-cart-successfully": "Konfiguration erfolgreich zum Warenkorb hinzugefügt",
+  "duplication-configuration-successful": "Konfiguration erfolgreich dupliziert",
+  "configuration-shared-successfully": "Konfiguration erfolgreich geteilt",
 
   "feature-coming-soon": "Feature bald verfügbar!",
   "invalid-request-data": "Ungültige Anfrage",
@@ -265,6 +272,7 @@
   "indicative-project-price-contact": "Kontaktieren Sie dani alu",
 
   "invalid-form": "Bitte geben Sie alle erforderlichen Felder ein, die mit einem Stern (*) markiert sind.",
+  "invalid-email": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
 
   "shop-data-required": "Bitte wählen Sie den Preis und die Menge aus.",
 
@@ -284,5 +292,26 @@
 
   "footer-powered": "Unterstützt durch Jikannai<sup>&reg</sup>, eine von Kashiko SAS entwickelte Software.",
   "footer-copyright": "&copy;Kashiko SAS {{year}}",
-  "legal-notice": "Impressum"
+  "legal-notice": "Impressum",
+
+  "navision": "Navision Daten",
+
+  "versions": "Versions",
+  "event": "Event",
+
+  "configuration-event-created": "Erstellt",
+  "configuration-event-updated": "Aktualisiert",
+  "configuration-event-contacted": "Kontaktiert",
+  "configuration-event-added_to_cart": "In den Warenkorb gelegt",
+  "configuration-event-ordered": "Bestellt",
+  "configuration-event-shared": "Geteilt",
+
+  "configuration-client": "Kunde",
+  "configuration-user": "Benutzer",
+  "configuration-date-and-time": "Datum und Uhrzeit",
+
+  "share": "Teilen",
+  "share-permission": "Berechtigung",
+  "share-permission-read-only": "Nur lesen",
+  "share-permission-edit": "Bearbeiten"
 }

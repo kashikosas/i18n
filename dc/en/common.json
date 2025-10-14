@@ -42,7 +42,8 @@
   "signin-to": "Sign in to",
   "logout": "Logout",
   "remember-me": "Remember me",
-  "return-to-da": "Continue on dani alu website",
+  "return-to": "Continue on",
+  "website": "website",
   "help": "Help",
 
   "configuration-builders": "Configuration builders",
@@ -103,6 +104,7 @@
   "save": "Save",
   "send": "Send",
   "open": "Open",
+  "select": "Select",
   "selected": "Selected",
   "submit": "Submit",
   "update": "Update",
@@ -118,7 +120,7 @@
   "open-formular": "Open form",
 
   "write-your-message": "Write your message",
-  "attach-current-config": "Attach current configuration",
+  "attach-current-configuration": "Attach current configuration",
   "field-required": "Required field",
   "nothing-found": "Nothing found",
   "add-to-cart": "Add to cart",
@@ -143,7 +145,7 @@
   "cutting-paint-list": "Cutting list - Painted",
   "descriptive-text": "Descriptive Text",
 
-  "about-to-leave-daniconfigs": "Leave DaniConfigs",
+  "about-to-leave-jikannai": "Would you like to leave Jikannai?",
   "about-to-delete-builder": "Delete configurator",
   "about-to-reset-configuration": "Reset configuration",
   "about-to-delete-configuration": "Delete configuration: {{ids}}.",
@@ -196,12 +198,14 @@
   "opticoupe-csv-export": "Opticoupe export",
   "opticoupe-csv-export-toles": "Opticoupe Panel export",
   "dxf-file": "DXF file",
+  "gstm-list": "GSTM component list",
+  "bar-drilling-list": "Infill module profile drilling list",
 
   "status": "Status",
   "created-at": "Date creation",
   "created-by": "User created",
   "updated-at": "Date modification",
-  "updated-by": "Modifying user",
+  "updated-by": "User modified",
   "version": "Version",
   "actions": "Actions",
   "search-field": "Search field",
@@ -209,6 +213,7 @@
   "total": "Total",
   "clear-all": "Clear All",
 
+  "config-view": "View",
   "config-edit": "Edit",
   "config-share": "Share",
   "config-duplicate": "Duplicate",
@@ -237,10 +242,10 @@
   "contact-info": "Contact info",
   "attach-price": "Attach a price",
 
-  "work-in-progress": "Work in progress",
-  "in-quote": "In quote",
+  "work_in_progress": "Work in progress",
+  "in_quote": "In quote",
   "validated": "Validated",
-  "in-cart": "In cart",
+  "in_cart": "In cart",
   "ordered": "Ordered",
 
   "delete-configuration": "Delete configuration",
@@ -250,6 +255,8 @@
   "configuration-saved-successfully": "Configuration is saved successfully",
   "deletion-configuration-successful": "Configuration is deleted successfully",
   "configuration-add-to-cart-successfully": "Configuration is added to cart successfully",
+  "duplication-configuration-successful": "Configuration is duplicated successfully",
+  "configuration-shared-successfully": "Configuration is shared successfully",
 
   "feature-coming-soon": "Feature is coming soon!",
   "invalid-request-data": "Invalid request data",
@@ -265,6 +272,7 @@
   "indicative-project-price-contact": "Contact dani alu",
 
   "invalid-form": "Please input all necessary fields marked with an asterisk (*).",
+  "invalid-email": "Please input a valid email address.",
 
   "shop-data-required": "Please select the price and quantity.",
 
@@ -284,5 +292,26 @@
 
   "footer-powered": "Powered by Jikannai<sup>&reg</sup>, a software developed by Kashiko SAS.",
   "footer-copyright": "&copy;Kashiko SAS {{year}}",
-  "legal-notice": "Legal notice"
+  "legal-notice": "Legal notice",
+
+  "navision": "Navision input",
+
+  "versions": "Versions",
+  "event": "Event",
+
+  "configuration-event-created": "Created",
+  "configuration-event-updated": "Updated",
+  "configuration-event-contacted": "Contacted",
+  "configuration-event-added_to_cart": "Added into Cart",
+  "configuration-event-ordered": "Ordered",
+  "configuration-event-shared": "Shared",
+
+  "configuration-client": "Client",
+  "configuration-user": "User",
+  "configuration-date-and-time": "Date and time",
+
+  "share": "Share",
+  "share-permission": "Permission",
+  "share-permission-read-only": "Read only",
+  "share-permission-edit": "Edit"
 }
