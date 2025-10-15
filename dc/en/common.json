@@ -241,6 +241,7 @@
   "delivery-date": "Delivery date",
   "contact-info": "Contact info",
   "attach-price": "Attach a price",
+  "configuration-infomration": "Configuration information",
 
   "work_in_progress": "Work in progress",
   "in_quote": "In quote",
@@ -249,9 +250,9 @@
   "ordered": "Ordered",
 
   "delete-configuration": "Delete configuration",
-  "confirm-delete-single-configuration": "Are you sure you want to delete this configuration?",
+  "confirm-delete-single-configuration": "This will delete the configuration for all users and cannot be undone.",
   "delete-multiple-configurations": "Delete multiple configurations",
-  "confirm-delete-multiple-configurations": "Are you sure you want to delete these configurations?",
+  "confirm-delete-multiple-configurations": "This will delete the configurations for all users and cannot be undone.",
   "configuration-saved-successfully": "Configuration is saved successfully",
   "deletion-configuration-successful": "Configuration is deleted successfully",
   "configuration-add-to-cart-successfully": "Configuration is added to cart successfully",

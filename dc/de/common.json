@@ -241,6 +241,7 @@
   "delivery-date": "Gewünschter Liefertermin",
   "contact-info": "Kontaktinformationen",
   "attach-price": "Einen Preis hinzufügen",
+  "configuration-infomration": "Konfigurationsinformationen",
 
   "work_in_progress": "In Arbeit",
   "in_quote": "Im Angebot",
@@ -249,9 +250,9 @@
   "ordered": "Bestellt",
 
   "delete-configuration": "Konfiguration löschen",
-  "confirm-delete-single-configuration": "Soll die Konfiguration wirklich gelöscht werden?",
+  "confirm-delete-single-configuration": "Die Konfiguration wird für alle Benutzer gelöscht und kann nicht rückgängig gemacht werden.",
   "delete-multiple-configurations": "Mehrere Konfigurationen löschen",
-  "confirm-delete-multiple-configurations": "Sollen die Konfigurationen wirklich gelöscht werden?",
+  "confirm-delete-multiple-configurations": "Die Konfigurationen werden für alle Benutzer gelöscht und können nicht rückgängig gemacht werden.",
   "configuration-saved-successfully": "Konfiguration erfolgreich gespeichert",
   "deletion-configuration-successful": "Konfiguration erfolgreich gelöscht",
   "configuration-add-to-cart-successfully": "Konfiguration erfolgreich zum Warenkorb hinzugefügt",
