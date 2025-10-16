@@ -45,6 +45,7 @@
   "return-to": "Continue on",
   "website": "website",
   "help": "Help",
+  "forgot-password": "Forgotten password ? Click here.",
 
   "configuration-builders": "Configuration builders",
   "form-validation-failed": "Form validation failed",

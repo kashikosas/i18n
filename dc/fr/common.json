@@ -45,6 +45,7 @@
   "return-to": "Continuer sur",
   "website": "site web",
   "help": "Aide",
+  "forgot-password": "Mot de passe oublié ? Cliquez ici.",
 
   "configuration-builders": "Constructeurs de configurateurs",
   "form-validation-failed": "Echec de validation du formulaire",

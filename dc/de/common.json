@@ -45,6 +45,7 @@
   "return-to": "Weiter auf",
   "website": "website",
   "help": "Helfen",
+  "forgot-password": "Passwort vergessen? Klicke hier.",
 
   "configuration-builders": "Konfigurationseditor",
   "form-validation-failed": "Formular Validierung fehlgeschlagen",
