@@ -6,7 +6,7 @@
   "loading-failed": "Ladevorgang fehlgeschlagen",
   "configuration-saving-failed": "Speicherung der Konfiguration fehlgeschlagen",
   "configuration-saved-successfully": "Konfiguration erfolgreich gespeichert",
-  "invalid-username-or-password": "Ungültiger Benutzername oder Passwort",
+  "invalid-username-or-password": "Der eingegebene Benutzername oder das Passwort ist falsch. Bitte versuchen Sie es erneut.",
   "builder-not-found": "Baumeister nicht gefunden",
   "builder-loading-failed": "Laden des Zeichnungs-Editor fehlgeschlagen",
   "builder-saving-failed": "Speicherung des Zeichnungs-Editor fehlgeschlagen",

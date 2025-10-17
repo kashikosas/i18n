@@ -6,7 +6,7 @@
   "loading-failed": "Le chargement a échoué",
   "configuration-saving-failed": "Echec enregistrement configuration",
   "configuration-saved-successfully": "Configuration enregistrée",
-  "invalid-username-or-password": "Nom d'utilisateur et/ou mot de passe incorrect(s).",
+  "invalid-username-or-password": "Le nom d'utilisateur ou le mot de passe est incorrect. Veuillez réessayer.",
   "builder-not-found": "Constructeur non trouvé",
   "builder-loading-failed": "Echec chargement constructeur",
   "deletion-failed": "Echec suppression",
@@ -30,7 +30,7 @@
   "invalid-outputs-format": "Format de résultat non valide",
   "invalid-inputs-format": "Format de saisie non valide",
   "invalid-bom-format": "Format de nomenclature non valide",
-  "cannot-update-a-cart-product":"Impossible de mettre à jour le produit dans le panier",
+  "cannot-update-a-cart-product": "Impossible de mettre à jour le produit dans le panier",
   "form-saved-succesfully": "Sauvegarde formulaire réussie",
 
   "shf-invalid-space-between-posts": "Entraxe entre potelet inférieur à 500mm.",
