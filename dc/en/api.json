@@ -6,7 +6,7 @@
   "loading-failed": "Loading failed",
   "configuration-saving-failed": "Configuration saving failed",
   "configuration-saved-successfully": "Configuration saved successfully",
-  "invalid-username-or-password": "Invalid username or password",
+  "invalid-username-or-password": "The username or password you entered is incorrect. Please try again.",
   "builder-not-found": "Builder not found",
   "builder-loading-failed": "Builder loading failed",
   "builder-saving-failed": "Builder saving failed",
@@ -35,7 +35,6 @@
   "form-saved-succesfully": "Form saved succesfully",
   "id-exists-already": "ID already exists",
   "invalid-params-for-complex-builder": "Invalid parameters for complex builder",
-
 
   "shf-invalid-space-between-posts": "Invalid space between posts.",
   "submit": "Submit",
