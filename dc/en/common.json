@@ -286,5 +286,27 @@
 
   "footer-powered": "Powered by Jikannai<sup>&reg</sup>, a software developed by Kashiko SAS.",
   "footer-copyright": "&copy;Kashiko SAS {{year}}",
-  "legal-notice": "Legal notice"
+  "legal-notice": "Legal notice",
+
+  "navision": "Navision input",
+
+  "versions": "Versions",
+  "event": "Event",
+
+  "configuration-event-created": "Created",
+  "configuration-event-updated": "Updated",
+  "configuration-event-contacted": "Contacted",
+  "configuration-event-added_to_cart": "Added into Cart",
+  "configuration-event-ordered": "Ordered",
+  "configuration-event-shared": "Shared",
+
+  "configuration-client": "Client",
+  "configuration-user": "User",
+  "configuration-date-and-time": "Date and time",
+
+  "share": "Share",
+  "share-permission": "Permission",
+  "share-permission-read-only": "Read only",
+  "share-permission-edit": "Edit",
+  "add-order-number": "Add order number"
 }
