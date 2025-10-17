@@ -314,5 +314,6 @@
   "share": "Partager",
   "share-permission": "Permission",
   "share-permission-read-only": "Lecture seule",
-  "share-permission-edit": "Modifier"
+  "share-permission-edit": "Modifier",
+  "add-order-number": "Ajouter le numéro de commande"
 }

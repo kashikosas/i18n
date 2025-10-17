@@ -315,5 +315,6 @@
   "share": "Teilen",
   "share-permission": "Berechtigung",
   "share-permission-read-only": "Nur lesen",
-  "share-permission-edit": "Bearbeiten"
+  "share-permission-edit": "Bearbeiten",
+  "add-order-number": "Bestellnummer hinzufügen"
 }

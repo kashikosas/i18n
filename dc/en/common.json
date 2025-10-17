@@ -315,5 +315,6 @@
   "share": "Share",
   "share-permission": "Permission",
   "share-permission-read-only": "Read only",
-  "share-permission-edit": "Edit"
+  "share-permission-edit": "Edit",
+  "add-order-number": "Add order number"
 }
