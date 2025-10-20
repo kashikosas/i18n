@@ -38,5 +38,6 @@
   "quantite-emb": "Quantité de paires d'embouts (1G + 1D)",
   "not-multiple-of": "Pas un multiple de {{0}}.",
   "search...": "Recherche d'une couleur par RAL, nom, etc.",
-  "field-required": "Champs requis."
+  "field-required": "Champs requis.",
+  "warning-painting-anodised": "La finition anodisée est déconseillée (blanchissement de la tôle au niveau des bords pliés)."
 }

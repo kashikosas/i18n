@@ -36,5 +36,6 @@
   "pvcAutocollant-helper": "Renseigner le nombre d'unités (1 barre = 2400mm)",
 
   "not-multiple-of": "Pas un multiple de {{0}}.",
-  "field-required": "Champs requis."
+  "field-required": "Champs requis.",
+  "warning-painting-anodised": "La finition anodisée est déconseillée (blanchissement de la tôle au niveau des bords pliés)."
 }
