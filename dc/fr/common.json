@@ -250,9 +250,9 @@
   "ordered": "Configuration commandé",
 
   "delete-configuration": "Supprimer la configuration",
-  "confirm-delete-single-configuration": "Cela supprimera la configuration pour tous les utilisateurs et ne pourra pas être annulé.",
+  "confirm-delete-single-configuration": "Êtes-vous sûr de vouloir supprimer cette configuration?<br/>Cela supprimera la configuration pour tous les utilisateurs et ne pourra pas être annulé.",
   "delete-multiple-configurations": "Supprimer plusieurs configurations",
-  "confirm-delete-multiple-configurations": "Cela supprimera les configurations pour tous les utilisateurs et ne pourra pas être annulé.",
+  "confirm-delete-multiple-configurations": "Êtes-vous sûr de vouloir supprimer ces configurations?<br/>Cela supprimera les configurations pour tous les utilisateurs et ne pourra pas être annulé.",
   "configuration-saved-successfully": "Configuration enregistrée",
   "deletion-configuration-successful": "Configuration supprimée avec succès",
   "configuration-add-to-cart-successfully": "Configuration ajoutée au panier avec succès",
