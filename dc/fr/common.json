@@ -45,6 +45,7 @@
   "return-to": "Continuer sur",
   "website": "site web",
   "help": "Aide",
+  "forgot-password": "Mot de passe oublié? Cliquez ici.",
 
   "configuration-builders": "Constructeurs de configurateurs",
   "form-validation-failed": "Echec de validation du formulaire",
@@ -240,6 +241,7 @@
   "delivery-date": "Date de livraison",
   "contact-info": "Informations de contact",
   "attach-price": "Fixez un prix",
+  "configuration-information": "Informations de configuration",
 
   "work_in_progress": "Configuration en cours",
   "in_quote": "Configuration dans un devis",
@@ -248,9 +250,9 @@
   "ordered": "Configuration commandé",
 
   "delete-configuration": "Supprimer la configuration",
-  "confirm-delete-single-configuration": "Êtes-vous sûr de vouloir supprimer cette configuration ?",
+  "confirm-delete-single-configuration": "Êtes-vous sûr de vouloir supprimer cette configuration?<br>Cela supprimera la configuration pour tous les utilisateurs et ne pourra pas être annulé.",
   "delete-multiple-configurations": "Supprimer plusieurs configurations",
-  "confirm-delete-multiple-configurations": "Êtes-vous sûr de vouloir supprimer ces configurations ?",
+  "confirm-delete-multiple-configurations": "Êtes-vous sûr de vouloir supprimer ces configurations?<br>Cela supprimera les configurations pour tous les utilisateurs et ne pourra pas être annulé.",
   "configuration-saved-successfully": "Configuration enregistrée",
   "deletion-configuration-successful": "Configuration supprimée avec succès",
   "configuration-add-to-cart-successfully": "Configuration ajoutée au panier avec succès",
@@ -312,5 +314,6 @@
   "share": "Partager",
   "share-permission": "Permission",
   "share-permission-read-only": "Lecture seule",
-  "share-permission-edit": "Modifier"
+  "share-permission-edit": "Modifier",
+  "add-order-number": "Ajouter le numéro de commande"
 }

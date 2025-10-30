@@ -37,5 +37,6 @@
   "pvcAutocollant-helper": "Renseigner le nombre d'unités (1 barre = 2400mm)",
 
   "not-multiple-of": "Not a multiple of {{0}}.",
-  "field-required": "Required field."
+  "field-required": "Required field.",
+  "warning-painting-anodised": "Anodized finish is not recommended (whitening of the sheet metal at the folded edges)."
 }
