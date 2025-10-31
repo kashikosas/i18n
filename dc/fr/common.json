@@ -315,5 +315,8 @@
   "share-permission": "Permission",
   "share-permission-read-only": "Lecture seule",
   "share-permission-edit": "Modifier",
-  "add-order-number": "Ajouter le numéro de commande"
+  "add-order-number": "Ajouter le numéro de commande",
+
+  "handrail": "Main courante",
+  "glass": "Vitres"
 }

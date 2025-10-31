@@ -316,5 +316,8 @@
   "share-permission": "Berechtigung",
   "share-permission-read-only": "Nur lesen",
   "share-permission-edit": "Bearbeiten",
-  "add-order-number": "Bestellnummer hinzufügen"
+  "add-order-number": "Bestellnummer hinzufügen",
+
+  "handrail": "Handlauf",
+  "glass": "VSG"
 }
