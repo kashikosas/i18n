@@ -316,5 +316,10 @@
   "share-permission": "Permission",
   "share-permission-read-only": "Read only",
   "share-permission-edit": "Edit",
-  "add-order-number": "Add order number"
+  "add-order-number": "Add order number",
+
+  "handrail": "Handrail",
+  "glass": "Glass",
+
+  "screenshot": "Screenshot"
 }
