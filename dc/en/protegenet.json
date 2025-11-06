@@ -6,8 +6,8 @@
 
   "product-description-extra": "<strong>CAUTION:</strong> <br>Manufacturing depth: Allow concrete dimension + 30 mm. <br/> Manufacturing length: Allow - 10 mm for the passage of the tips.",
 
-  "type": "Protègenet type",
-  "embout": "End cap type",
+  "type": "Type",
+  "embout": "End caps",
   "embout2": "V2",
   "embout3": "V3",
   "n2": "N2",
