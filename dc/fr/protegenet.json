@@ -2,7 +2,7 @@
   "protegenet": "Protegenet",
   "product-description-title": "Description du produit",
   "product-description-content": "Protègenet est un système d'appui de fenêtre en aluminium. Il protège les appuis de fenêtres et les façades. Il peut être utilisé en construction neuve comme en rénovation. Le système se compose d'un appui de fenêtre à bord arrondi et d'embouts de finition.",
-  "product-description-image": "<img width='100%' src='https://www.danialu.fr/images/com_hikashop%2Fupload%2FProtegenet%2Fdanialu-facade-protegenet-appui-fenetre-bavette-aluminium-formulaire.jpg'>",
+  "product-description-image": "<img width='100%' src='{{assetsUrl}}/images/prt/protegenet-description.png'>",
 
   "product-description-extra": "<strong>ATTENTION :</strong> <br>Profondeur de fabrication : Prévoir cote béton + 30 mm. <br/> Longueur de fabrication : Prévoir - 10 mm pour le passage des embouts.",
 
