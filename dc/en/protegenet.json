@@ -2,7 +2,7 @@
   "protegenet": "Protègenet",
   "product-description-title": "Product description",
   "product-description-content": "Protègenet is an aluminum window sill system. It protects window sills and facades. It can be used in new construction as well as renovation. The system consists of a window sill with rounded edge and finishing tips.",
-  "product-description-image": "<img width='100%' src='https://www.danialu.fr/images/com_hikashop%2Fupload%2FProtegenet%2Fdanialu-facade-protegenet-appui-fenetre-bavette-aluminium-formulaire.jpg'>",
+  "product-description-image": "<img width='100%' src='{{assetsUrl}}/images/prt/protegenet-description.png'>",
 
   "product-description-extra": "<strong>CAUTION:</strong> <br>Manufacturing depth: Allow concrete dimension + 30 mm. <br/> Manufacturing length: Allow - 10 mm for the passage of the tips.",
 
