@@ -38,5 +38,7 @@
 
   "not-multiple-of": "Not a multiple of {{0}}.",
   "field-required": "Required field.",
-  "warning-painting-anodised": "Anodized finish is not recommended (whitening of the sheet metal at the folded edges)."
+  "warning-painting-anodised": "Anodized finish is not recommended (whitening of the sheet metal at the folded edges).",
+
+  "nothing-found": "Nothing found"
 }

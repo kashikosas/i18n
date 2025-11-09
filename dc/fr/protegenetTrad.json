@@ -37,5 +37,7 @@
 
   "not-multiple-of": "Pas un multiple de {{0}}.",
   "field-required": "Champs requis.",
-  "warning-painting-anodised": "La finition anodisée est déconseillée (blanchissement de la tôle au niveau des bords pliés)."
+  "warning-painting-anodised": "La finition anodisée est déconseillée (blanchissement de la tôle au niveau des bords pliés).",
+
+  "nothing-found": "Pas de résultat"
 }

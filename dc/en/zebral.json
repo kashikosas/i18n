@@ -111,5 +111,7 @@
   "zebral-popup-content-third": "Choose the end types of the guardrails (fixed to wall or with end cap) by right clicking on each end point.<br/>",
   "zebral-popup-content-fourth": "Choose the inside of the terrace by right clicking any line a clicking <italic>Reverse inside and outside</italic>.",
   "draw": "Draw",
-  "not-show-again": "Don't show me again."
+  "not-show-again": "Don't show me again.",
+
+  "nothing-found": "Nothing found"
 }
