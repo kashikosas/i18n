@@ -321,5 +321,8 @@
   "handrail": "Handrail",
   "glass": "Glass",
 
-  "screenshot": "Screenshot"
+  "screenshot": "Screenshot",
+
+  "configuration-not-found": "Configuration not found",
+  "forbidden-access": "Forbidden access"
 }

@@ -321,5 +321,8 @@
   "handrail": "Handlauf",
   "glass": "VSG",
 
-  "screenshot": "Bildschirmfoto"
+  "screenshot": "Bildschirmfoto",
+
+  "configuration-not-found": "Konfiguration nicht gefunden",
+  "forbidden-access": "Zugriff verboten"
 }

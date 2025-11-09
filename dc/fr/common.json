@@ -320,5 +320,8 @@
   "handrail": "Main courante",
   "glass": "Vitres",
 
-  "screenshot": "Capture d'écran"
+  "screenshot": "Capture d'écran",
+
+  "configuration-not-found": "Configuration non trouvée",
+  "forbidden-access": "Accès interdit"
 }
