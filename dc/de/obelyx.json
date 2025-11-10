@@ -89,5 +89,7 @@
   "obelyx-popup-content-third": "Wählen Sie den gewünschten Abschluss der Geländer (an der Wand befestigt oder mit Endkappe), indem Sie mit der rechten Maustaste auf den jeweiligen Endpunkt klicken.<br/>",
   "obelyx-popup-content-fourth": "Wählen Sie das Innere der Terrasse aus, indem Sie mit der rechten Maustaste auf eine beliebige Linie und dann auf <italic>Innen und außen umkehren</italic> klicken.",
   "draw": "Ziehen",
-  "not-show-again": "Nicht mehr anzeigen"
+  "not-show-again": "Nicht mehr anzeigen",
+
+  "nothing-found": "Nichts gefunden"
 }

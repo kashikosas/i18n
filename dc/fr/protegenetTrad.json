@@ -7,7 +7,7 @@
   "product-description-extra": "<strong>ATTENTION :</strong> <br>Profondeur de fabrication : compter 60 mm de plus que la profondeur totale à recouvrir (comprenant l’appui béton et l’épaisseur de l’isolant), pour le débord avant. <br/> Longueur de fabrication : longueur entre tableaux finis (isolant et enduit compris) + 140 mm.",
 
   "finition": "Finition",
-  "colour": "Teinte",
+  "colour": "Couleur",
   "appui": "Appui",
   "add-appui": "Ajouter un appui",
   "brut": "Brut",
@@ -27,8 +27,8 @@
   "none": "/",
   "reference": "Repère chantier",
   "quantite": "Quantité",
-  "depth": "Profondeur de fabrication",
-  "length": "Longueur de fabrication",
+  "depth": "Profondeur",
+  "length": "Longueur",
   "accessories": "Accessoires en option",
   "waterDrop": "Goutte d'eau",
   "corniereFinition": "Cornière de finition",
@@ -37,5 +37,7 @@
 
   "not-multiple-of": "Pas un multiple de {{0}}.",
   "field-required": "Champs requis.",
-  "warning-painting-anodised": "La finition anodisée est déconseillée (blanchissement de la tôle au niveau des bords pliés)."
+  "warning-painting-anodised": "La finition anodisée est déconseillée (blanchissement de la tôle au niveau des bords pliés).",
+
+  "nothing-found": "Pas de résultat"
 }
