@@ -59,5 +59,11 @@
   "configurator-contact": "Senden Sie eine Kopie Ihres Projekts an Dani Alu, um Hilfe zu erhalten.",
 
   "title-configurator-cart": "Zum Warenkorb hinzufügen",
-  "configurator-cart": "Legen Sie das Produkt zum Warenkorb hinzu und kaufen Sie es direkt online mit Ihrer normalen Zahlungsmethode und zu Ihren normalen Bedingungen."
+  "configurator-cart": "Legen Sie das Produkt zum Warenkorb hinzu und kaufen Sie es direkt online mit Ihrer normalen Zahlungsmethode und zu Ihren normalen Bedingungen.",
+
+  "title-indicative-price": "Indikativer Projektpreis",
+  "indicative-price": "Erhalten Sie einen Indikativ Projektpreis, indem Sie grundlegende Projektinformationen eingeben.",
+
+  "title-share": "Teilen",
+  "share": "Teilen Sie die Konfiguration mit anderen, unabhängig davon, ob diese ein Konto besitzen oder nicht. Sie können zwischen Nur lesen und Bearbeiten wählen."
 }
