@@ -56,5 +56,11 @@
   "configurator-contact": "Envoyez une copie de votre projet à dani alu pour obtenir de l'aide.",
 
   "title-configurator-cart": "Ajouter au panier",
-  "configurator-cart": "Ajoutez le produit au panier et achetez-le directement en ligne en utilisant votre mode de paiement et vos conditions habituels."
+  "configurator-cart": "Ajoutez le produit au panier et achetez-le directement en ligne en utilisant votre mode de paiement et vos conditions habituels.",
+
+  "title-indicative-price": "Prix indicatif",
+  "indicative-price": "Obtenez un prix indicatif pour votre projet en saisissant les informations de base.",
+
+  "title-share": "Partager",
+  "share": "Partagez la configuration avec d'autres personnes, qu'elles aient un compte ou non. Vous pouvez choisir un accès en lecture seule ou en lecture-écriture."
 }
