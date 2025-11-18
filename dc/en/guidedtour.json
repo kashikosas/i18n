@@ -17,8 +17,8 @@
 
   "title-tour-start": "Welcome to this user guide",
   "tour-start": "It will allow you to familiarise yourself with the different functionalities of the application.<br><br>You can click <italic>Skip</italic> to exit the tour. Click on the flag to pick up where you left off.",
-  "tour-modal-welcome-message": "Welcome to the <span style='text-transform: capitalize;'>{{configuratorId}}</span>! This tour will show you how to configure your <span style='text-transform: capitalize;'>{{configuratorId}}</span> system.",
-  "tour-completion-message": "Fantastic! You've completed the <span style='text-transform: capitalize;'>{{configuratorId}}</span> tour. You can now configure your <span style='text-transform: capitalize;'>{{configuratorId}}</span> system effectively.",
+  "tour-modal-welcome-message": "Welcome to the <span style='text-transform: capitalize;'>{{configuratorLabel}}</span>! This tour will show you how to configure your <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> system.",
+  "tour-completion-message": "Fantastic! You've completed the <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> tour. You can now configure your <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> system effectively.",
 
   "title-formular-side-tour-guide": "Form",
   "formular-side-tour-guide": "The form is the first configuration step. It collects information about the system's home environment and your needs.<br><br>If in doubt consult an appropriate person (engineer, planning officer etc.).<br><br>Fields marked * are mandatory.",
