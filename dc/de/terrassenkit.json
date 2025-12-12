@@ -3,6 +3,7 @@
   "terrassenkit-welcome-title": "Panorama Terrassenkit Konfigurator",
   "country": "Land",
   "country-info": "",
+  "country-helper": "Wählen Sie das Land aus, in dem das Produkt installiert werden soll.",
   "france": "Frankreich",
   "austria": "Österreich",
   "germany": "Deutschland",
@@ -11,6 +12,7 @@
 
   "use": "Anwendungsbereich",
   "use-info": "",
+  "use-helper": "Wählen Sie den passenden Anwendungsfall aus EN 1991-1-1 aus.",
   "residential": "Wohnflächen",
   "private-areas-within-offices-existing-buildings": "Privatbereiche in bestehenden Bürogebäuden",
   "private-areas-within-schools-hospitals-carehomes": "Privatbereiche in Schulen, Krankenhäusern/Pflegeheimen",
