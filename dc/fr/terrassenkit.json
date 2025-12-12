@@ -8,9 +8,11 @@
   "switzerland": "Suisse",
   "unitedKingdom": "Royaume-Uni",
   "country-info": "Pays d'installation",
+  "country-helper": "Choisissez le pays où le produit sera installé.",
 
   "use": "Domaine d'application",
   "use-info": "",
+  "use-helper": "Sélectionnez le cas d'utilisation approprié de la norme EN 1991-1-1.",  
   "residential": "Résidentiel",
   "private-areas-within-offices-existing-buildings": "Zones privatives dans des bureaux de bâtiments existants",
   "private-areas-within-schools-hospitals-carehomes": "Zones privatives dans des écoles, hôpitaux ou autres établissements de santé",
