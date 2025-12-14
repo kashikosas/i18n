@@ -68,5 +68,7 @@
    "wind-zone": "Windzone",
    "category": "Category",
    "distance-from-shore": "Distance from shore",
-   "exposure-factor": "Exposure factor"
+   "exposure-factor": "Exposure factor",
+   "contact-to-dani-alu": "Please contact dani alu.",
+   "town-correction-factor": "Town correction factor"
 }
