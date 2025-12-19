@@ -234,6 +234,7 @@
   "affaire": "Projekt",
   "study": "Studie",
   "project": "Projekt",
+  "project-and-position": "Projekt und Position",
   "site-status": "Baustellenstatus",
   "site-type": "Art der Baustelle",
   "configuration-status": "Konfigurationsstatus",
@@ -324,5 +325,7 @@
   "screenshot": "Bildschirmfoto",
 
   "configuration-not-found": "Konfiguration nicht gefunden",
-  "forbidden-access": "Zugriff verboten"
+  "forbidden-access": "Zugriff verboten",
+  "project-configurator-limit-exceeded": "Projekt-Konfigurator-Limit überschritten",
+  "project-configurator-group-mismatch": "Projekt-Konfigurator-Gruppe stimmt nicht überein"
 }

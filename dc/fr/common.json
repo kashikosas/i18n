@@ -233,6 +233,7 @@
   "affaire": "Affaire",
   "study": "Etude",
   "project": "Projet",
+  "project-and-position": "Projet et position",
   "site-status": "Statut chantier",
   "site-type": "Type chantier",
   "configuration-status": "Statut de la configuration",
@@ -323,5 +324,7 @@
   "screenshot": "Capture d'écran",
 
   "configuration-not-found": "Configuration non trouvée",
-  "forbidden-access": "Accès interdit"
+  "forbidden-access": "Accès interdit",
+  "project-configurator-limit-exceeded": "Limite de configurateur de projet dépassée",
+  "project-configurator-group-mismatch": "Incompatibilité de groupe de configurateur de projet"
 }
