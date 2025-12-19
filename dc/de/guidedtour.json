@@ -17,6 +17,8 @@
 
   "title-tour-start": "Geführten Tour",
   "tour-start": "Hier können sie sich mit den verschiedenen Funktionen des Konfigurators vertraut machen.<br><br>Sie können auf <italic>Überspringen</italic> klicken, um diese Einführung zu verlassen. Klicken Sie auf die Flagge, um dort weiterzumachen, wo Sie aufgehört haben.",
+  "tour-modal-welcome-message": "Willkommen beim <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> Konfigurator! Diese Tour zeigt Ihnen, wie Sie Ihr <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> System konfigurieren können.",
+  "tour-completion-message": "Fantastisch! Sie haben die <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> Tour abgeschlossen. Sie können jetzt Ihr <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> System effektiv konfigurieren.",
 
   "title-formular-side-tour-guide": "Formular",
   "formular-side-tour-guide": "Das Formular ist der erste Schritt der Konfiguration. Hier werden die Informationen zum Standort und der gewünschten Ausführung des Systems gesammelt. Der Konfigurator kann damit die Anforderungen an das System festlegen.<br><br>Im Zweifelsfall wenden Sie sich an eine Fachperson (Ingenieur, Planungsbeauftragter usw.).<br><br>Felder mit * sind Pflichtfelder.",
@@ -59,5 +61,11 @@
   "configurator-contact": "Senden Sie eine Kopie Ihres Projekts an Dani Alu, um Hilfe zu erhalten.",
 
   "title-configurator-cart": "Zum Warenkorb hinzufügen",
-  "configurator-cart": "Legen Sie das Produkt zum Warenkorb hinzu und kaufen Sie es direkt online mit Ihrer normalen Zahlungsmethode und zu Ihren normalen Bedingungen."
+  "configurator-cart": "Legen Sie das Produkt zum Warenkorb hinzu und kaufen Sie es direkt online mit Ihrer normalen Zahlungsmethode und zu Ihren normalen Bedingungen.",
+
+  "title-indicative-price": "Indikativer Projektpreis",
+  "indicative-price": "Erhalten Sie einen Indikativ Projektpreis, indem Sie grundlegende Projektinformationen eingeben.",
+
+  "title-share": "Teilen",
+  "share": "Teilen Sie die Konfiguration mit anderen, unabhängig davon, ob diese ein Konto besitzen oder nicht. Sie können zwischen Nur lesen und Bearbeiten wählen."
 }
