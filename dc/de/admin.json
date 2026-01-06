@@ -1,0 +1,43 @@
+{
+  "auth-admin-portal-title": "{{organization}} Admin-Portal",
+  "auth-admin-portal-description": "Melden Sie sich an, um auf das {{organization}} Admin-Dashboard zuzugreifen",
+
+  "auth-sign-in-email": "E-Mail-Adresse",
+  "auth-sign-in-email-placeholder": "Geben Sie Ihre E-Mail-Adresse ein",
+  "auth-sign-in-password": "Passwort",
+  "auth-sign-in-password-placeholder": "Geben Sie Ihr Passwort ein",
+  "auth-sign-in-remember-me": "Angemeldet bleiben",
+  "auth-sign-in-forgot-password": "Passwort vergessen?",
+  "auth-sign-in-button": "Anmelden",
+
+  "auth-forgot-password-title": "Passwort zurücksetzen",
+  "auth-forgot-password-description": "Geben Sie Ihre E-Mail-Adresse ein, um Anweisungen zum Zurücksetzen zu erhalten",
+  "auth-forgot-password-email": "E-Mail-Adresse",
+  "auth-forgot-password-email-placeholder": "Geben Sie Ihre E-Mail-Adresse ein",
+  "auth-forgot-password-send-reset-instructions-button": "Anweisungen zum Zurücksetzen senden",
+  "auth-forgot-password-back-to-login-button": "Zurück zur Anmeldung",
+
+  "auth-forgot-password-success-title": "Passwort zurücksetzen",
+  "auth-forgot-password-success-description": "Ihr Passwort wurde erfolgreich zurückgesetzt",
+  "auth-forgot-password-success-sub-title": "Passwort erfolgreich zurückgesetzt",
+  "auth-forgot-password-success-sub-description": "Eine E-Mail mit Ihrem neuen Passwort wurde an Ihre E-Mail-Adresse gesendet. Bitte überprüfen Sie Ihren Posteingang und verwenden Sie das neue Passwort, um sich anzumelden.",
+  "auth-forgot-password-success-back-to-login-button": "Zurück zur Anmeldung",
+
+  "auth-otp-verification-title": "OTP-Verifizierung",
+  "auth-otp-verification-description": "Geben Sie den an Ihre E-Mail gesendeten Code ein",
+  "auth-otp-verification-reset-password-description": "Geben Sie den an Ihre E-Mail gesendeten Code ein, um Ihr Passwort zurückzusetzen",
+  "auth-otp-verification-sub-title": "OTP-Code eingeben",
+  "auth-otp-verification-sub-description": "Wir haben einen 6-stelligen Code an Ihre E-Mail gesendet. Bitte geben Sie ihn unten ein.",
+  "auth-otp-verification-OTP-Code": "OTP-Code",
+  "auth-otp-verification-OTP-Code-placeholder": "6-stelligen Code eingeben",
+  "auth-otp-verification-back-to-login-button": "Zurück zur Anmeldung",
+  "auth-otp-verification-back-to-forgot-password-button": "Zurück zu Passwort vergessen",
+  "auth-otp-verification-resend-otp-button": "OTP erneut senden",
+  "auth-otp-verification-resending": "Wird gesendet...",
+  "auth-otp-verification-resend-time": "Erneut senden in: {{time}}",
+  "auth-otp-verification-verify-otp-button": "OTP verifizieren",
+
+  "footer-powered": "Betrieben von Jikannai<sup>&reg</sup>, einer von Kashiko SAS entwickelten Software.",
+  "footer-copyright": "&copy;Kashiko SAS {{year}}",
+  "legal-notice": "Impressum"
+}
