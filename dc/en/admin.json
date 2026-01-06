@@ -1,0 +1,15 @@
+{
+  "admin-portal": "{{organization}} Admin Portal",
+  "sign-in-description": "Sign in to access the {{organization}} admin dashboard",
+  "sign-in-email": "Email address",
+  "sign-in-email-placeholder": "Enter your email address",
+  "sign-in-password": "Password",
+  "sign-in-password-placeholder": "Enter your password",
+  "sign-in-remember-me": "Remember me",
+  "sign-in": "Log in",
+  "sign-in-forgot-password": "Forgot password?",
+
+  "footer-powered": "Powered by Jikannai<sup>&reg</sup>, a software developed by Kashiko SAS.",
+  "footer-copyright": "&copy;Kashiko SAS {{year}}",
+  "legal-notice": "Legal notice"
+}
