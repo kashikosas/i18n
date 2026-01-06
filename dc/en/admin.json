@@ -14,8 +14,14 @@
   "auth-forgot-password-description": "Enter your email to receive reset instructions",
   "auth-forgot-password-email": "Email address",
   "auth-forgot-password-email-placeholder": "Enter your email address",
-  "auth-forgot-password-button": "Send Reset Instructions",
+  "auth-forgot-password-send-reset-instructions-button": "Send Reset Instructions",
   "auth-forgot-password-back-to-login-button": "Back to Login",
+
+  "auth-forgot-password-success-title": "Reset Password",
+  "auth-forgot-password-success-description": "Your password has been reset successfully",
+  "auth-forgot-password-success-sub-title": "Password Reset Successful",
+  "auth-forgot-password-success-sub-description": "An email with your new password has been sent to your email address. Please check your inbox and use the new password to log in.",
+  "auth-forgot-password-success-back-to-login-button": "Back to Login",
 
   "auth-otp-verification-title": "OTP Verification",
   "auth-otp-verification-description": "Enter the code sent to your email",
@@ -27,6 +33,7 @@
   "auth-otp-verification-back-to-login-button": "Back to Login",
   "auth-otp-verification-back-to-forgot-password-button": "Back to Forgot Password",
   "auth-otp-verification-resend-otp-button": "Resend OTP",
+  "auth-otp-verification-resending": "Resending...",
   "auth-otp-verification-resend-time": "Resend in: {{time}}",
   "auth-otp-verification-verify-otp-button": "Verify OTP",
 
