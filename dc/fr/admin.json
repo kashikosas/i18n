@@ -249,5 +249,10 @@
   "kapi-key-max-length": "La clé KAPI doit contenir moins de 255 caractères",
   "jikannai-api-key-min-length": "La clé API Jikannai doit contenir au moins 10 caractères",
   "jikannai-api-key-max-length": "La clé API Jikannai doit contenir moins de 255 caractères",
-  "domain-prefix-is-required": "Le préfixe du domaine est requis"
+  "domain-prefix-is-required": "Le préfixe du domaine est requis",
+  "pagination-of": "sur",
+  "pagination-show": "Afficher",
+  "pagination-entries": "entrées",
+  "pagination-page-of": "Page&nbsp;<span className=\"text-xm font-bold\">{{currentPage}}</span>&nbsp;sur&nbsp;<span className=\"text-xm font-bold\">{{totalPages}}</span>",
+  "pagination-showing-entries": "Affichage de <span className=\"font-bold\">{{startIndex}}</span> à <span className=\"font-bold\">{{endIndex}}</span> sur <span className=\"font-bold\">{{totalItems}}</span> entrées"
 }

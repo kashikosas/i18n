@@ -249,5 +249,10 @@
   "kapi-key-max-length": "KAPI Key must be less than 255 characters",
   "jikannai-api-key-min-length": "Jikannai API Key must be at least 10 characters",
   "jikannai-api-key-max-length": "Jikannai API Key must be less than 255 characters",
-  "domain-prefix-is-required": "Domain prefix is required"
+  "domain-prefix-is-required": "Domain prefix is required",
+  "pagination-of": "of",
+  "pagination-show": "show",
+  "pagination-entries": "entries",
+  "pagination-page-of": "Page&nbsp;<span className=\"text-xm font-bold\">{{currentPage}}</span>&nbsp;of&nbsp;<span className=\"text-xm font-bold\">{{totalPages}}</span>",
+  "pagination-showing-entries": "Showing <span className=\"font-bold\">{{startIndex}}</span> to <span className=\"font-bold\">{{endIndex}}</span> of <span className=\"font-bold\">{{totalItems}}</span> entries"
 }
