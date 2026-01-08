@@ -268,5 +268,20 @@
   "please-confirm-your-password": "Bitte bestätigen Sie Ihr Passwort",
   "passwords-do-not-match": "Die Passwörter stimmen nicht überein",
   "password-changed-success": "Passwort erfolgreich geändert",
-  "invalid-previous-password": "Das alte Passwort ist falsch"
+  "invalid-previous-password": "Das alte Passwort ist falsch",
+  "api-error-invalid-request-data": "Die Anforderungsdaten sind ungültig",
+  "api-error-duplicate-request-data": "Existiert bereits!",
+  "api-error-not-found": "Die angeforderte Ressource wurde nicht gefunden",
+  "api-error-invalid-previous-password": "Ungültiges vorheriges Passwort",
+  "api-error-service-unavailable": "Der Server kann die Anfrage derzeit aufgrund einer temporären Überlastung oder Wartung nicht bearbeiten. Bitte versuchen Sie es später erneut.",
+  "api-error-unknown-error": "Interner Serverfehler",
+  "api-auth-invalid-credentials": "Ungültige Anmeldedaten",
+  "api-auth-invalid-token": "Sie sind nicht autorisiert! Bitte melden Sie sich erneut an!",
+  "api-auth-unauthorized": "Sie sind nicht autorisiert! Bitte melden Sie sich an!",
+  "api-auth-invalid-otp": "Ungültiger OTP-Code",
+  "api-auth-otp-expired": "OTP-Code ist abgelaufen",
+  "api-success-data-created": "Daten erfolgreich erstellt",
+  "api-success-data-fetched": "Daten erfolgreich abgerufen",
+  "api-success-data-updated": "Daten erfolgreich aktualisiert",
+  "api-success-data-deleted": "Daten erfolgreich gelöscht"
 }
