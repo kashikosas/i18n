@@ -254,5 +254,19 @@
   "pagination-show": "show",
   "pagination-entries": "entries",
   "pagination-page-of": "Page&nbsp;<span className=\"text-xm font-bold\">{{currentPage}}</span>&nbsp;of&nbsp;<span className=\"text-xm font-bold\">{{totalPages}}</span>",
-  "pagination-showing-entries": "Showing <span className=\"font-bold\">{{startIndex}}</span> to <span className=\"font-bold\">{{endIndex}}</span> of <span className=\"font-bold\">{{totalItems}}</span> entries"
+  "pagination-showing-entries": "Showing <span className=\"font-bold\">{{startIndex}}</span> to <span className=\"font-bold\">{{endIndex}}</span> of <span className=\"font-bold\">{{totalItems}}</span> entries",
+  "change-password": "Change Password",
+  "previous-password": "Previous Password",
+  "enter-previous-password": "Enter your previous password",
+  "previous-password-is-required": "Previous password is required",
+  "new-password": "New Password",
+  "enter-new-password": "Enter your new password",
+  "new-password-is-required": "New password is required",
+  "new-password-confirm": "Confirm New Password",
+  "enter-new-password-confirm": "Confirm your new password",
+  "password-min-length": "Password must be at least {{count}} characters",
+  "please-confirm-your-password": "Please confirm your password",
+  "passwords-do-not-match": "Passwords do not match",
+  "password-changed-success": "Password changed successfully",
+  "invalid-previous-password": "Previous password is incorrect"
 }
