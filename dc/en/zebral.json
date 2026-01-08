@@ -33,6 +33,7 @@
   "type-of-sabot-parapet": "Type of shoe",
   "offset-sabot-deporte-parapet": "Offset (parapet)",
   "height-of-parapet-inside-outside": "Height of parapet",
+  "height-of-shoe": "Position of shoes",
   "terrace-sur-plot-parapet-inside-outside": "Terrace on pedestals",
   "height-of-terrace-parapet-inside-outside": "Height of terrace",
   "coverage-of-slab-edge-parapet": "Coverage of slab edge",
@@ -99,5 +100,15 @@
   "more-than-max": "More than the max authorised: {{0}}",
   "less-than-min": "Less than the min authorised: {{0}}",
   "out-of-bounds": "Value out of authorized interval : [{{0}}, {{1}}]",
+  "zebral-popup-title": "How to enter your terrace or balcony",
+  "zebral-popup-content-slab": "Draw the outside edge of the slab using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>.<br/>",
+  "zebral-popup-content-slab-dsp": "Draw the outside edge of the guardail using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>. The edge of the guardrail must be at least 80 mm from the edge of the slab.<br/>",
+  "zebral-popup-content-slab-dsp-complexe": "Draw the outside edge of the guardail using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>. The edge of the guardrail must be at least 200 mm from the edge of the slab.<br/>",
+  "zebral-popup-content-parapet-ext": "Draw the outside edge of the parapet using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>.<br/>",
+  "zebral-popup-content-parapet-int": "Draw the inside edge of the parapet using the <italic>Freedraw</italic> or <italic>Rectangle tools</italic>.<br/>",
+  "zebral-popup-content-second": "Only draw the lines where there will be guardrails.<br/>",
+  "zebral-popup-content-third": "Choose the end types of the guardrails (fixed to wall or with end cap) by right clicking on each end point.<br/>",
+  "zebral-popup-content-fourth": "Choose the inside of the terrace by right clicking any line a clicking <italic>Reverse inside and outside</italic>.",
+  "draw": "Draw",
   "not-show-again": "Don't show me again."
 }

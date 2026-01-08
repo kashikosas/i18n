@@ -203,6 +203,8 @@
   "opticoupe-csv-export": "Opticoupe export",
   "opticoupe-csv-export-toles": "Opticoupe Tôles export",
   "dxf-file": "Fichier DXF",
+  "gstm-list": "Fiche articles GSTM",
+  "bar-drilling-list": "Fiche perçage lisses",
 
   "status": "Statut",
   "created-at": "Date création",
@@ -239,6 +241,7 @@
   "site-type": "Type chantier",
   "configuration-status": "Statut de la configuration",
   "contact-form-client": "Client",
+  "contact-form-client-code": "Code client",
   "delivery-date": "Date de livraison",
   "contact-info": "Informations de contact",
   "attach-price": "Fixez un prix",
@@ -290,5 +293,27 @@
 
   "footer-powered": "Propulsé par Jikannai<sup>&reg</sup>, un logiciel développé par Kashiko SAS.",
   "footer-copyright": "&copy;Kashiko SAS {{year}}",
-  "legal-notice": "Mentions légales"
+  "legal-notice": "Mentions légales",
+
+  "navision": "Saisie Navision",
+
+  "versions": "Versions",
+  "event": "Event",
+
+  "configuration-event-created": "Créé",
+  "configuration-event-updated": "Mis à jour",
+  "configuration-event-contacted": "Contacté",
+  "configuration-event-added_to_cart": "Ajouté au panier",
+  "configuration-event-ordered": "Commandé",
+  "configuration-event-shared": "Partagé",
+
+  "configuration-client": "Client",
+  "configuration-user": "Utilisateur",
+  "configuration-date-and-time": "Date et heure",
+
+  "share": "Partager",
+  "share-permission": "Permission",
+  "share-permission-read-only": "Lecture seule",
+  "share-permission-edit": "Modifier",
+  "add-order-number": "Ajouter le numéro de commande"
 }
