@@ -249,5 +249,10 @@
   "kapi-key-max-length": "KAPI-Schlüssel muss weniger als 255 Zeichen lang sein",
   "jikannai-api-key-min-length": "Jikannai-API-Schlüssel muss mindestens 10 Zeichen lang sein",
   "jikannai-api-key-max-length": "Jikannai-API-Schlüssel muss weniger als 255 Zeichen lang sein",
-  "domain-prefix-is-required": "Domain-Präfix ist erforderlich"
+  "domain-prefix-is-required": "Domain-Präfix ist erforderlich",
+  "pagination-of": "von",
+  "pagination-show": "Zeige",
+  "pagination-entries": "Einträge",
+  "pagination-page-of": "Seite&nbsp;<span className=\"text-xm font-bold\">{{currentPage}}</span>&nbsp;von&nbsp;<span className=\"text-xm font-bold\">{{totalPages}}</span>",
+  "pagination-showing-entries": "Zeige <span className=\"font-bold\">{{startIndex}}</span> bis <span className=\"font-bold\">{{endIndex}}</span> von <span className=\"font-bold\">{{totalItems}}</span> Einträgen"
 }
