@@ -254,5 +254,19 @@
   "pagination-show": "Zeige",
   "pagination-entries": "Einträge",
   "pagination-page-of": "Seite&nbsp;<span className=\"text-xm font-bold\">{{currentPage}}</span>&nbsp;von&nbsp;<span className=\"text-xm font-bold\">{{totalPages}}</span>",
-  "pagination-showing-entries": "Zeige <span className=\"font-bold\">{{startIndex}}</span> bis <span className=\"font-bold\">{{endIndex}}</span> von <span className=\"font-bold\">{{totalItems}}</span> Einträgen"
+  "pagination-showing-entries": "Zeige <span className=\"font-bold\">{{startIndex}}</span> bis <span className=\"font-bold\">{{endIndex}}</span> von <span className=\"font-bold\">{{totalItems}}</span> Einträgen",
+  "change-password": "Passwort ändern",
+  "previous-password": "Altes Passwort",
+  "enter-previous-password": "Geben Sie Ihr altes Passwort ein",
+  "previous-password-is-required": "Altes Passwort ist erforderlich",
+  "new-password": "Neues Passwort",
+  "enter-new-password": "Geben Sie Ihr neues Passwort ein",
+  "new-password-is-required": "Neues Passwort ist erforderlich",
+  "new-password-confirm": "Neues Passwort bestätigen",
+  "enter-new-password-confirm": "Bestätigen Sie Ihr neues Passwort",
+  "password-min-length": "Das Passwort muss mindestens {{count}} Zeichen lang sein",
+  "please-confirm-your-password": "Bitte bestätigen Sie Ihr Passwort",
+  "passwords-do-not-match": "Die Passwörter stimmen nicht überein",
+  "password-changed-success": "Passwort erfolgreich geändert",
+  "invalid-previous-password": "Das alte Passwort ist falsch"
 }
