@@ -268,5 +268,20 @@
   "please-confirm-your-password": "Veuillez confirmer votre mot de passe",
   "passwords-do-not-match": "Les mots de passe ne correspondent pas",
   "password-changed-success": "Mot de passe modifié avec succès",
-  "invalid-previous-password": "L'ancien mot de passe est incorrect"
+  "invalid-previous-password": "L'ancien mot de passe est incorrect",
+  "api-error-invalid-request-data": "Les données de la requête sont invalides",
+  "api-error-duplicate-request-data": "Existe déjà !",
+  "api-error-not-found": "La ressource demandée n'a pas été trouvée",
+  "api-error-invalid-previous-password": "Ancien mot de passe invalide",
+  "api-error-service-unavailable": "Actuellement, le serveur est incapable de traiter la requête en raison d'une surcharge temporaire ou d'une maintenance. Veuillez réessayer plus tard.",
+  "api-error-unknown-error": "Erreur interne du serveur",
+  "api-auth-invalid-credentials": "Identifiants invalides",
+  "api-auth-invalid-token": "Vous n'êtes pas autorisé ! Veuillez vous reconnecter !",
+  "api-auth-unauthorized": "Vous n'êtes pas autorisé ! Veuillez vous connecter !",
+  "api-auth-invalid-otp": "Code OTP invalide",
+  "api-auth-otp-expired": "Le code OTP a expiré",
+  "api-success-data-created": "Données créées avec succès",
+  "api-success-data-fetched": "Données récupérées avec succès",
+  "api-success-data-updated": "Données mises à jour avec succès",
+  "api-success-data-deleted": "Données supprimées avec succès"
 }
