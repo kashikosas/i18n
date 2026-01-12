@@ -20,9 +20,9 @@
   "tour-modal-welcome-message": "Welcome to the <span style='text-transform: capitalize;'>{{configuratorLabel}}</span>! This tour will show you how to configure your <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> system.",
   "tour-completion-message": "Fantastic! You've completed the <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> tour. You can now configure your <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> system effectively.",
 
-  "title-formular-side-tour-guide": "Form",
-  "formular-side-tour-guide": "The form is the first configuration step. It collects information about the system's home environment and your needs.<br><br>If in doubt consult an appropriate person (engineer, planning officer etc.).<br><br>Fields marked * are mandatory.",
-  "formular-side-tour-guide-candraw": "Your form seems to be filled without errors, let's proceed to the drawer.",
+  "title-formulo-side-tour-guide": "Form",
+  "formulo-side-tour-guide": "The form is the first configuration step. It collects information about the system's home environment and your needs.<br><br>If in doubt consult an appropriate person (engineer, planning officer etc.).<br><br>Fields marked * are mandatory.",
+  "formulo-side-tour-guide-candraw": "Your form seems to be filled without errors, let's proceed to the drawer.",
 
   "title-drawer-side-tour-guide": "Drawer",
   "drawer-side-tour-guide": "This drawing area will allow you to draw the terrace, launch your configuration, view the results, etc.",
