@@ -283,5 +283,7 @@
   "api-success-data-created": "Data created successfully",
   "api-success-data-fetched": "Data fetched successfully",
   "api-success-data-updated": "Data updated successfully",
-  "api-success-data-deleted": "Data deleted successfully"
+  "api-success-data-deleted": "Data deleted successfully",
+  "project-duplicated-successfully": "Project duplicated successfully",
+  "failed-to-duplicate-project": "Failed to duplicate project"
 }
