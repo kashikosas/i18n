@@ -43,6 +43,8 @@
   "project-deleted-successfully": "Projet supprimé avec succès",
   "failed-to-delete-project": "Échec de la suppression du projet",
   "project-created-successfully": "Projet créé avec succès",
+  "project-duplicated-successfully": "Projet dupliqué avec succès",
+  "failed-to-duplicate-project": "Échec de la duplication du projet",
   "confirm-delete-project": "Êtes-vous sûr de vouloir supprimer ce projet ? Cette action ne peut pas être annulée.",
   "node-renamed-successfully": "Nœud renommé avec succès",
   "failed-to-rename-node": "Échec du renommage du nœud",

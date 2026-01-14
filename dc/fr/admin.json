@@ -283,7 +283,5 @@
   "api-success-data-created": "Données créées avec succès",
   "api-success-data-fetched": "Données récupérées avec succès",
   "api-success-data-updated": "Données mises à jour avec succès",
-  "api-success-data-deleted": "Données supprimées avec succès",
-  "project-duplicated-successfully": "Projet dupliqué avec succès",
-  "failed-to-duplicate-project": "Échec de la duplication du projet"
+  "api-success-data-deleted": "Données supprimées avec succès"
 }

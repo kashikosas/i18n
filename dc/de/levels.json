@@ -43,6 +43,8 @@
   "project-deleted-successfully": "Projekt erfolgreich gelöscht",
   "failed-to-delete-project": "Fehler beim Löschen des Projekts",
   "project-created-successfully": "Projekt erfolgreich erstellt",
+  "project-duplicated-successfully": "Projekt erfolgreich dupliziert",
+  "failed-to-duplicate-project": "Fehler beim Duplizieren des Projekts",
   "confirm-delete-project": "Sind Sie sicher, dass Sie dieses Projekt löschen möchten? Dies kann nicht rückgängig gemacht werden.",
   "node-renamed-successfully": "Knoten erfolgreich umbenannt",
   "failed-to-rename-node": "Fehler beim Umbenennen des Knotens",

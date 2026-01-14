@@ -43,6 +43,8 @@
   "project-deleted-successfully": "Project deleted successfully",
   "failed-to-delete-project": "Failed to delete project",
   "project-created-successfully": "Project created successfully",
+  "project-duplicated-successfully": "Project duplicated successfully",
+  "failed-to-duplicate-project": "Failed to duplicate project",
   "confirm-delete-project": "Are you sure you want to delete this project? This cannot be undone.",
   "node-renamed-successfully": "Node renamed successfully",
   "failed-to-rename-node": "Failed to rename node",
