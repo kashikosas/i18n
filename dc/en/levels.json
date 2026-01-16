@@ -106,5 +106,6 @@
   "level": "Level {{i}}",
   "limit": "Limit",
   "project-not-found": "Project not found",
-  "new": "New"
+  "new": "New",
+  "open-configuration": "Open configuration"
 }
