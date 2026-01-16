@@ -33,6 +33,11 @@
   "add-an-existing-configuration": "Vorhandene Konfiguration hinzufügen",
   "reference": "Referenz",
   "client": "Kunde",
+  "status": "Status",
+  "created-at": "Erstellt am",
+  "created-by": "Erstellt von",
+  "updated-at": "Aktualisiert am",
+  "updated-by": "Aktualisiert von",
   "add-project-to-cart": "Projekt zum Warenkorb hinzufügen",
   "update": "Aktualisieren",
   "edit-project": "Projekt bearbeiten",
@@ -100,6 +105,7 @@
   "project-configurator-group-mismatch": "Projekt-Konfigurator-Gruppe stimmt nicht überein",
   "level": "Ebene {{i}}",
   "limit": "Limit",
-  "project-not-found": "Projekt nicht gefunden"
+  "project-not-found": "Projekt nicht gefunden",
+  "new": "Neu"
 }
 

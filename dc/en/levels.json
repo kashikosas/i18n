@@ -33,6 +33,11 @@
   "add-an-existing-configuration": "Add an existing configuration",
   "reference": "Reference",
   "client": "Client",
+  "status": "Status",
+  "created-at": "Created at",
+  "created-by": "Created by",
+  "updated-at": "Updated at",
+  "updated-by": "Updated by",
   "add-project-to-cart": "Add project to cart",
   "update": "Update",
   "edit-project": "Edit project",
@@ -100,5 +105,6 @@
   "project-configurator-group-mismatch": "Project configurator group mismatch",
   "level": "Level {{i}}",
   "limit": "Limit",
-  "project-not-found": "Project not found"
+  "project-not-found": "Project not found",
+  "new": "New"
 }
