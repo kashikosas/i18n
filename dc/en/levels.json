@@ -107,5 +107,22 @@
   "limit": "Limit",
   "project-not-found": "Project not found",
   "new": "New",
-  "open-configuration": "Open configuration"
+  "open-configuration": "Open configuration",
+  "configuration-is-shared": "Configuration is shared",
+  "stop-sharing-the-configuration": "Stop sharing the configuration",
+  "stop-sharing-configuration-description": "Other users will no longer have access to the configuration",
+  "add-and-stop-sharing": "Add and stop sharing",
+  "continue-to-share-the-configuration": "Continue to share the configuration",
+  "add-and-continue-sharing": "Add and continue sharing",
+  "continue-sharing-configuration-description": "Other users will still have access, but will not be able to change project controlled information",
+  "share-project-description": "You will define the permissions for sharing the project",
+  "add-and-share-project": "Add and share project",
+  "configuration-is-in-project": "Configuration is in a project.",
+  "share-only-configuration": "Share only the configuration.",
+  "share-only-configuration-description": "You will define the permissions for sharing the configuration.",
+  "share-configuration": "Share configuration",
+  "share-configuration-and-project": "Share configuration and project.",
+  "share-configuration-and-project-description": "You will define the permissions for sharing the configuration and the project separately.",
+  "shared-with-you": "Shared with you",
+  "shared-by-you": "Shared by you"
 }
