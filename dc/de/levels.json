@@ -124,6 +124,7 @@
   "share-configuration-and-project": "Konfiguration und Projekt teilen.",
   "share-configuration-and-project-description": "Sie definieren die Berechtigungen für die Freigabe der Konfiguration und des Projekts separat.",
   "shared-with-you": "Mit Ihnen geteilt",
-  "shared-by-you": "Von Ihnen geteilt"
+  "shared-by-you": "Von Ihnen geteilt",
+  "project-shared-successfully": "Projekt erfolgreich geteilt"
 }
 

@@ -124,5 +124,6 @@
   "share-configuration-and-project": "Share configuration and project.",
   "share-configuration-and-project-description": "You will define the permissions for sharing the configuration and the project separately.",
   "shared-with-you": "Shared with you",
-  "shared-by-you": "Shared by you"
+  "shared-by-you": "Shared by you",
+  "project-shared-successfully": "Project shared successfully"
 }
