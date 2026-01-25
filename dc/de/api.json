@@ -36,8 +36,7 @@
   "id-exists-already": "ID existiert schon",
   "invalid-params-for-complex-builder": "Ungültige Parameter für Zeichnungskonfigurator",
 
-  "shf-invalid-space-between-posts": "Ungültiger Abstand zwischen Beiträgen.",
   "submit": "Einreichen",
 
-  "shf-outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you."
+  "document-generation-failed": "Dokumentexport fehlgeschlagen"
 }
