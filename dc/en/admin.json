@@ -275,6 +275,7 @@
   "api-error-invalid-previous-password": "Invalid previous password",
   "api-error-service-unavailable": "Currently, the server is unable to handle the request due to a temporary overload or maintenance. Please try again later.",
   "api-error-unknown-error": "Internal server error",
+  "api-error-insufficient-permissions": "Insufficient permissions",
   "api-auth-invalid-credentials": "Invalid credentials",
   "api-auth-invalid-token": "You are unauthorized! Please login again!",
   "api-auth-unauthorized": "You are unauthorized! Please login!",

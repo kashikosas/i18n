@@ -275,6 +275,7 @@
   "api-error-invalid-previous-password": "Ancien mot de passe invalide",
   "api-error-service-unavailable": "Actuellement, le serveur est incapable de traiter la requête en raison d'une surcharge temporaire ou d'une maintenance. Veuillez réessayer plus tard.",
   "api-error-unknown-error": "Erreur interne du serveur",
+  "api-error-insufficient-permissions": "Permissions insuffisantes",
   "api-auth-invalid-credentials": "Identifiants invalides",
   "api-auth-invalid-token": "Vous n'êtes pas autorisé ! Veuillez vous reconnecter !",
   "api-auth-unauthorized": "Vous n'êtes pas autorisé ! Veuillez vous connecter !",
