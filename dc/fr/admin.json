@@ -219,6 +219,7 @@
   "add-new-group": "Ajouter un nouveau groupe",
   "select-configurators": "Sélectionner des configurateurs",
   "add-level": "Ajouter un niveau",
+  "no-levels-configured": "Aucun niveau configuré",
   "edit-level": "Modifier le niveau",
   "level-name": "Nom du niveau",
   "save-changes": "Enregistrer les modifications",

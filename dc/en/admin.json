@@ -219,6 +219,7 @@
   "add-new-group": "Add New Group",
   "select-configurators": "Select Configurators",
   "add-level": "Add Level",
+  "no-levels-configured": "No levels configured",
   "edit-level": "Edit Level",
   "level-name": "Level Name",
   "save-changes": "Save Changes",
