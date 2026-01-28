@@ -134,6 +134,7 @@
   "linear-meter-unit": "per linear meter",
 
   "reference": "Reference",
+  "configuration-reference": "Configuration reference",
   "client": "Customer",
 
   "formular": "Form",
