@@ -28,8 +28,8 @@
   "add-a-new-node-child": "Ajouter un nouveau nœud enfant",
   "add-a-new-configuration": "Ajouter une nouvelle configuration",
   "add-a-new-configuration-with-the-copied-product-variant": "Ajouter une nouvelle configuration avec la variante de produit copiée",
-  "add-a-new-configuration-with-the-copied-layout": "Ajouter une nouvelle configuration avec la mise en page copiée",
-  "add-a-new-configuration-with-the-copied-product-variant-and-layout": "Ajouter une nouvelle configuration avec la variante de produit et la mise en page copiées",
+  "add-a-new-configuration-with-the-copied-layout": "Ajouter une nouvelle configuration avec le plan d’implantation copié",
+  "add-a-new-configuration-with-the-copied-product-variant-and-layout": "Ajouter une nouvelle configuration avec la variante de produit et le plan d’implantation copiés",
   "add-an-existing-configuration": "Ajouter une configuration existante",
   "reference": "Référence",
   "client": "Client",
@@ -100,6 +100,7 @@
   "no-nodes-in-project": "Aucun nœud dans le projet",
   "no-projects-found": "Aucun projet trouvé",
   "no-projects": "Aucun projet",
+  "no-options": "Aucune option",
   "save": "Enregistrer",
   "project-configurator-limit-exceeded": "Limite de configurateur de projet dépassée",
   "project-configurator-group-mismatch": "Incompatibilité de groupe de configurateur de projet",
@@ -127,4 +128,3 @@
   "shared-by-you": "Partagé par vous",
   "project-shared-successfully": "Projet partagé avec succès"
 }
-
