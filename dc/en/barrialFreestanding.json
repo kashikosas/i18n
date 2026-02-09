@@ -73,5 +73,13 @@
   "town-correction-factor": "Town correction factor",
   "EN13374-slope-helper": "Maximum permitted slopes (towards the edge of the roof) are 10° / 17,6% with a parapet and 3° / 5% without a parapet.",
   "ISO14122-3-slope-helper": "Maximum permitted slopes (towards the edge of the roof) is 3° / 5%",
-  "BS13700-slope-helper": "Maximum permitted slopes (towards the edge of the roof) are 5° / 8,5% with a parapet and 3° / 5% without a parapet."
+  "BS13700-slope-helper": "Maximum permitted slopes (towards the edge of the roof) are 5° / 8,5% with a parapet and 3° / 5% without a parapet.",
+  "gate-not-possible": "A gate of this width is not possible in this section.",
+  "ladder-not-possible": "A ladder of this width is not possible in this section.",
+  "bra-popup-title": "How to draw your inaccessible terrace",
+  "bra-popup-content-first": "Draw the line where the guardrail will go using the <i>Freedraw</i> or <i>Rectangle</i> tools.",
+  "bra-popup-content-second": "Choose the line type for each section by right clicking on the line to open the <i>line property pop-up</i>. The default type is <i>guardrail</i>.",
+  "bra-popup-content-third": "Choose the end types of the guardrails (fixed to wall or with end cap) by right clicking on each end point.",
+  "bra-popup-content-fourth": " Add <i>height points</i> by clicking on a corner point, or right clicking on a line.",
+  "bra-popup-content-fifth": "Gates or ladders can be added to guardrail lines from the <i>line property popup</i>. Right clicking on the gate or ladder allows it to be adjusted."
 }
