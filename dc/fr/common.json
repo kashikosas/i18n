@@ -117,7 +117,7 @@
   "builder": "Constructeur",
   "drawer": "Dessinateur",
   "state": "Statut",
-  "open-formular": "Ouvrir formulaire",
+  "open-formulo": "Ouvrir formulaire",
 
   "write-your-message": "Votre message",
   "attach-current-configuration": "Joindre la configuration en cours",
@@ -133,6 +133,7 @@
   "linear-meter-unit": "le mètre linéaire",
 
   "reference": "Référence",
+  "configuration-reference": "Référence de configuration",
   "client": "Client",
 
   "formular": "Formulaire",
@@ -233,6 +234,7 @@
   "affaire": "Affaire",
   "study": "Etude",
   "project": "Projet",
+  "projects": "Projets",
   "project-and-position": "Projet et position",
   "site-status": "Statut chantier",
   "site-type": "Type chantier",
@@ -246,9 +248,9 @@
 
   "work_in_progress": "Configuration en cours",
   "in_quote": "Configuration dans un devis",
-  "validated": "Configuration validé",
+  "validated": "Configuration validée",
   "in_cart": "Configuration dans le panier",
-  "ordered": "Configuration commandé",
+  "ordered": "Configuration commandée",
 
   "delete-configuration": "Supprimer la configuration",
   "confirm-delete-single-configuration": "Êtes-vous sûr de vouloir supprimer cette configuration?<br>Cela supprimera la configuration pour tous les utilisateurs et ne pourra pas être annulé.",

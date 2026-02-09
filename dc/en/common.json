@@ -118,7 +118,7 @@
   "drawer": "Drawer",
   "state": "State",
 
-  "open-formular": "Open form",
+  "open-formulo": "Open form",
 
   "write-your-message": "Write your message",
   "attach-current-configuration": "Attach current configuration",
@@ -134,6 +134,7 @@
   "linear-meter-unit": "per linear meter",
 
   "reference": "Reference",
+  "configuration-reference": "Configuration reference",
   "client": "Customer",
 
   "formular": "Form",
@@ -234,6 +235,7 @@
   "affaire": "Project",
   "study": "Study",
   "project": "Project",
+  "projects": "Projects",
   "project-and-position": "Project and Position",
   "site-status": "Site status",
   "site-type": "Site type",

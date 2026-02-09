@@ -20,9 +20,9 @@
   "tour-modal-welcome-message": "Bienvenue dans le configurateur <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> ! Cette visite vous montrera comment configurer votre système <span style='text-transform: capitalize;'>{{configuratorLabel}}</span>.",
   "tour-completion-message": "Fantastique ! Vous avez terminé la visite du configurateur <span style='text-transform: capitalize;'>{{configuratorLabel}}</span>. Vous pouvez maintenant configurer efficacement votre système <span style='text-transform: capitalize;'>{{configuratorLabel}}</span>.",
 
-  "title-formular-side-tour-guide": "Formulaire",
-  "formular-side-tour-guide": "Le formulaire est la première étape de configuration. Il permet de collecter des informations sur l'environnement d'accueil du système et vos besoins.<br><br>En cas de doute, consultez une personne appropriée (ingénieur, urbaniste etc.)<br><br>Les champs en * sont obligatoires.",
-  "formular-side-tour-guide-candraw": "Le formulaire est rempli. On peut passer au dessinateur.",
+  "title-formulo-side-tour-guide": "Formulaire",
+  "formulo-side-tour-guide": "Le formulaire est la première étape de configuration. Il permet de collecter des informations sur l'environnement d'accueil du système et vos besoins.<br><br>En cas de doute, consultez une personne appropriée (ingénieur, urbaniste etc.)<br><br>Les champs en * sont obligatoires.",
+  "formulo-side-tour-guide-candraw": "Le formulaire est rempli. On peut passer au dessinateur.",
 
   "title-drawer-side-tour-guide": "Dessinateur",
   "drawer-side-tour-guide": "Cette zone de dessin vous permettra de dessiner la terrasse, lancer vos calculs de configuration, visualiser les résultats, etc..",
