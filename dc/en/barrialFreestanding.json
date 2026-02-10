@@ -86,5 +86,6 @@
   "bra-popup-content-second": "Choose the line type for each section by right clicking on the line to open the <i>line property pop-up</i>. The default type is <i>guardrail</i>.",
   "bra-popup-content-third": "Choose the end types of the guardrails (fixed to wall or with end cap) by right clicking on each end point.",
   "bra-popup-content-fourth": " Add <i>height points</i> by clicking on a corner point, or right clicking on a line.",
-  "bra-popup-content-fifth": "Gates or ladders can be added to guardrail lines from the <i>line property popup</i>. Right clicking on the gate or ladder allows it to be adjusted."
+  "bra-popup-content-fifth": "Gates or ladders can be added to guardrail lines from the <i>line property popup</i>. Right clicking on the gate or ladder allows it to be adjusted.",
+  "not-show-again": "Don't show me again."
 }

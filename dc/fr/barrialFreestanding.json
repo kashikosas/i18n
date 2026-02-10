@@ -87,5 +87,6 @@
   "BS13700-slope-helper": "Les pentes maximales autorisées (vers le bord du toit) sont 5° / 8,5 % avec un parapet et 3° / 5 % sans parapet.",
 
   "gate-not-possible": "Un portillon n'est pas possible dans cette section.",
-  "ladder-not-possible": "Une échelle n'est pas possible dans cette section."
+  "ladder-not-possible": "Une échelle n'est pas possible dans cette section.",
+  "not-show-again": "Ne plus afficher"
 }
