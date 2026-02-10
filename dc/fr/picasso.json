@@ -33,6 +33,7 @@
   "edit-door-content": "Saisir la largeur de la porte ou de la fenêtre, en cliquant sur la coche pour confirmer, supprimer-la ou ajuster sa position en cliquant et en maintenant le bouton gauche de la souris tout en la faisant glisser ou en utilisant les flèches du clavier.",
   "edit-door-title": "Modifier la porte ou la fenêtre",
   "edit-gate-content": "Saisir la largeur de la portillon en cliquant sur la coche pour confirmer, supprimer-la ou ajuster sa position en cliquant et en maintenant le bouton gauche de la souris tout en la faisant glisser ou en utilisant les flèches du clavier.",
+  "edit-fixed-gate-content": "Supprimer-la ou ajuster sa position en cliquant et en maintenant le bouton gauche de la souris tout en la faisant glisser ou en utilisant les flèches du clavier.",
   "edit-gate-title": "Modifier la portillon",
   "edit-point-content": "Modifier la hauteur du point en cliquant sur la coche pour confirmer. Pour déplacer le point, utilisez l'outil de sélection. Ce point ne peut pas être supprimé.",
   "fixed-end": "Fixation murale",
@@ -83,5 +84,10 @@
   "export-dxf": "Exporter DXF",
   "export-dxf-content": "Exporter le dessin actuel en tant que fichier DXF",
   "divide-line": "Diviser la ligne en ajoutant un point",
-  "edit-point-end-type": "Choisissez le type d'extrémité."
+  "edit-point-end-type": "Choisissez le type d'extrémité.",
+  "ladder-type": "Type d'échelle",
+  "within-limit": "",
+  "over-limit": "",
+  "edit-ladder-title": "Modifier echelle",
+  "edit-ladder-content": "Modifiez le type de l'échelle, supprimez-la ou ajustez sa position (en cliquant et en maintenant le bouton gauche de la souris enfoncé tout en faisant glisser, ou en utilisant les touches fléchées)."
 }

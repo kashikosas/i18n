@@ -35,6 +35,7 @@
   "edit-door-content": "Geben Sie die Breite der Tür oder des Fensters ein, klicken Sie zur Bestätigung auf das Häkchen, löschen Sie es oder passen Sie seine Position an, indem Sie darauf klicken und die linke Maustaste gedrückt halten, während Sie es ziehen oder die Pfeiltasten verwenden.",
   "edit-gate-title": "Tür bearbeiten",
   "edit-gate-content": "Ändern Sie die Breite des Tür, löschen Sie es oder passen Sie seine Position an, indem Sie darauf klicken und die linke Maustaste gedrückt halten, während Sie es ziehen oder die Pfeiltasten verwenden.",
+  "edit-fixed-gate-content": "Löschen Sie es oder passen Sie seine Position an, indem Sie darauf klicken und die linke Maustaste gedrückt halten, während Sie es ziehen oder die Pfeiltasten verwenden.",
   "edit-point-content": "Bearbeiten Sie die Höhe des Punkts, indem Sie zur Bestätigung auf das Häkchen klicken. Um den Punkt zu verschieben, verwenden Sie das Auswahlwerkzeug. Dieser Punkt kann nicht geändert werden. gelöscht.",
   "fixed-end": "Fixes Ende",
   "free-end": "Freistehendes Ende",
@@ -84,5 +85,10 @@
   "export-dxf": "DXF exportieren",
   "export-dxf-content": "Exportieren Sie die aktuelle Zeichnung als DXF-Datei",
   "divide-line": "Linie durch Hinzufügen eines Punktes teilen",
-  "edit-point-end-type": "Wählen Sie den Endtyp."
+  "edit-point-end-type": "Wählen Sie den Endtyp.",
+  "ladder-type": "Leitertyp",
+  "within-limit": "",
+  "over-limit": "",
+  "edit-ladder-title": "Leiterdetails bearbeiten",
+  "edit-ladder-content": "Ändern Sie den Leitertyp, löschen Sie die Leiter oder passen Sie ihre Position an (durch Klicken und Halten der linken Maustaste beim Ziehen oder durch Verwenden der Pfeiltasten)."
 }
