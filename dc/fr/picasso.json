@@ -5,6 +5,8 @@
   "add-door-content": "Ajoutez une porte ou une fenêtre à la ligne, sa position et sa largeur peuvent être ajustées après sa création.",
   "add-gate-content": "Ajoutez une portillon à la ligne, sa position et sa largeur peuvent être ajustées après sa création.",
   "add-gate": "Ajouter un portillon",
+  "add-ladder": "Ajouter une échelle",
+  "add-ladder-content": "Ajouter une échelle à la ligne ; sa position et son type peuvent être ajustés après sa création.",
   "additions": "Ajouts",
   "an-angle-is-out-of-bound": "Un angle est hors de l'intervalle autorisé",
   "angle": "Angle",

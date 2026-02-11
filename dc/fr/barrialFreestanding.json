@@ -88,5 +88,10 @@
 
   "gate-not-possible": "Un portillon n'est pas possible dans cette section.",
   "ladder-not-possible": "Une échelle n'est pas possible dans cette section.",
-  "not-show-again": "Ne plus afficher"
+  "not-show-again": "Ne plus afficher",
+  "draw": "Dessiner",
+  "next": "Suivant",
+  "previous": "Précédent",
+  "finish": "Finition",
+  "skip": "Sauter"
 }
