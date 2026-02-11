@@ -87,5 +87,10 @@
   "bra-popup-content-third": "Choose the end types of the guardrails (fixed to wall or with end cap) by right clicking on each end point.",
   "bra-popup-content-fourth": " Add <i>height points</i> by clicking on a corner point, or right clicking on a line.",
   "bra-popup-content-fifth": "Gates or ladders can be added to guardrail lines from the <i>line property popup</i>. Right clicking on the gate or ladder allows it to be adjusted.",
-  "not-show-again": "Don't show me again."
+  "not-show-again": "Don't show me again.",
+  "draw": "Draw",
+  "next": "Next",
+  "previous": "Previous",
+  "finish": "Finish",
+  "skip": "Skip"
 }

@@ -6,6 +6,8 @@
   "add-door-content": "Fügen Sie der Linie eine Tür oder ein Fenster hinzu. Position und Breite können nach der Erstellung angepasst werden.",
   "add-gate": "Tür hinzufügen",
   "add-gate-content": "Fügen Sie der Linie ein Tor hinzu. Position und Breite können nach der Erstellung angepasst werden.",
+  "add-ladder": "Leiter hinzufügen",
+  "add-ladder-content": "Fügt man der Linie eine Leiter hinzu, können deren Position und Typ nach ihrer Erstellung angepasst werden.",
   "additions": "Ergänzungen",
   "angle": "Winkel",
   "close": "Schließen",

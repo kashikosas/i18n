@@ -91,5 +91,11 @@
   "EN13374-slope-helper": "Die maximal zulässigen Dachneigungen (zum Dachrand hin) betragen 10° / 17,6 % mit Brüstung und 3° / 5 % ohne Brüstung.",
   "ISO14122-3-slope-helper": "Die maximal zulässigen Dachneigungen (zum Dachrand hin) betragen 3° / 5%",
   "BS13700-slope-helper": "Die maximal zulässigen Dachneigungen (zum Dachrand hin) betragen 5° / 8,5 % mit Brüstung und 3° / 5 % ohne Brüstung.",
-  "not-show-again": "Nicht mehr anzeigen"
+  "not-show-again": "Nicht mehr anzeigen",
+  
+  "draw": "Ziehen",
+  "next": "Nächste",
+  "previous": "Vorherige",
+  "finish": "Beenden",
+  "skip": "Überspringen"
 }
