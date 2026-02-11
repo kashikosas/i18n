@@ -90,5 +90,6 @@
   "within-limit": "",
   "over-limit": "",
   "edit-ladder-title": "Leiterdetails bearbeiten",
-  "edit-ladder-content": "Ändern Sie den Leitertyp, löschen Sie die Leiter oder passen Sie ihre Position an (durch Klicken und Halten der linken Maustaste beim Ziehen oder durch Verwenden der Pfeiltasten)."
+  "edit-ladder-content": "Ändern Sie den Leitertyp, löschen Sie die Leiter oder passen Sie ihre Position an (durch Klicken und Halten der linken Maustaste beim Ziehen oder durch Verwenden der Pfeiltasten).",
+  "edit-fixed-ladder-content": "Ändern Sie den Leitertyp, löschen Sie die Leiter oder passen Sie ihre Position an (durch Klicken und Halten der linken Maustaste beim Ziehen oder durch Verwenden der Pfeiltasten)."
 }
