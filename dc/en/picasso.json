@@ -43,6 +43,8 @@
   "edit-ladder-content": "Change the type of the ladder, delete it or adjust its position by the clicking and holding the left mouse button whilst dragging it or using the arrow keys.",
   "edit-fixed-ladder-content": "Change the type of the ladder, delete it or adjust its position by the clicking and holding the left mouse button whilst dragging it or using the arrow keys.",
   "ladder-type": "Ladder type",
+  "within-limit": "",
+  "over-limit": "",
   "fixed-end": "Fixed to wall",
   "free-end": "End cap",
   "gate": "gate",
