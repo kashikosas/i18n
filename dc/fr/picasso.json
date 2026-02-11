@@ -89,5 +89,6 @@
   "within-limit": "",
   "over-limit": "",
   "edit-ladder-title": "Modifier echelle",
-  "edit-ladder-content": "Modifiez le type de l'échelle, supprimez-la ou ajustez sa position (en cliquant et en maintenant le bouton gauche de la souris enfoncé tout en faisant glisser, ou en utilisant les touches fléchées)."
+  "edit-ladder-content": "Modifiez le type de l'échelle, supprimez-la ou ajustez sa position (en cliquant et en maintenant le bouton gauche de la souris enfoncé tout en faisant glisser, ou en utilisant les touches fléchées).",
+  "edit-fixed-ladder-content": "Modifiez le type de l'échelle, supprimez-la ou ajustez sa position (en cliquant et en maintenant le bouton gauche de la souris enfoncé tout en faisant glisser, ou en utilisant les touches fléchées)."
 }
