@@ -84,15 +84,9 @@
   "town-correction-factor": "Facteur de correction pour un chantier dans une ville",
   "EN13374-slope-helper": "Les pentes maximales autorisées (vers le bord du toit) sont  10° / 17,6 % avec un parapet et 3° / 5 % sans parapet.",
   "ISO14122-3-slope-helper": "Les pentes maximales autorisées (vers le bord du toit) sont 3° / 5%",
-  "BS13700-slope-helper": "Les pentes maximales autorisées (vers le bord du toit) sont 5° / 8,5 % avec un parapet et 3° / 5 % sans parapet."
+  "BS13700-slope-helper": "Les pentes maximales autorisées (vers le bord du toit) sont 5° / 8,5 % avec un parapet et 3° / 5 % sans parapet.",
 
   "gate-not-possible": "Un portillon n'est pas possible dans cette section.",
   "ladder-not-possible": "Une échelle n'est pas possible dans cette section.",
-  
-  "bra-popup-title": "Comment saisir votre terrasse inaccessible",
-  "bra-popup-content-first": "Tracez la ligne où ira les garde-corps en utilisant les outils <i>Tracer librement</i> ou <i>Tracer un Rectangle</i>.",
-  "bra-popup-content-second": "Choisissez le type de ligne pour chaque ligne en cliquant avec le bouton droit sur la ligne pour ouvrir la <i>fenêtre des propriétés de la ligne</i>. Le type par défaut est <i>garde-corps</i>.",
-  "bra-popup-content-third": "Choisissez les types des extrémités (fixé au mur ou avec bouchon) en cliquant avec le bouton droit sur chaque extrémité.",
-  "bra-popup-content-fourth": "Ajoutez des <i>points de hauteur</i> en cliquant sur un point de coin, ou en cliquant avec le bouton droit sur une ligne.",
-  "bra-popup-content-fifth": "Des portillons ou des échelles peuvent être ajoutées aux lignes de garde-corps à partir de la <i>fenêtre des propriétés de la ligne</i>. Un clic droit sur le portillon ou l’échelle permet de l'ajuster."
+  "not-show-again": "Ne plus afficher"
 }
