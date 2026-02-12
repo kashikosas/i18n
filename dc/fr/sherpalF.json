@@ -276,6 +276,6 @@
 
   "number-of-rows-of-legs-across-width": "Nombre de rangées de potelets sur la largeur",
 
-  "shf-invalid-space-between-posts": "Entraxe entre potelet inférieur à 500mm.",
-  "shf-outside-of-scope": "Cette configuration Sherpal sort du cadre du configurateur - merci de contacter dani alu qui pourra vous aider."
+  "outside-of-scope": "Cette configuration Sherpal sort du cadre du configurateur - merci de contacter dani alu qui pourra vous aider.",
+  "invalid-space-between-posts": "Les entraxes entre les potelets sont trop petits en raison de la charge de vent important."
 }

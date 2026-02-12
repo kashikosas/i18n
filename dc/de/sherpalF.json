@@ -296,6 +296,6 @@
 
   "number-of-rows-of-legs-across-width": "Number of rows of legs across width",
 
-  "invalid-space-between-posts": "Ungültiger Abstand zwischen Beiträgen.",
+  "invalid-space-between-posts": "Aufgrund der hohen Windlast ist der Abstand zwischen den Beinen zu gering.",
   "outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you."
 }
