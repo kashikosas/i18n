@@ -294,5 +294,7 @@
   "germanTerrainIII": "III",
   "germanTerrainIV": "IV",
 
-  "number-of-rows-of-legs-across-width": "Number of rows of legs across width"
+  "number-of-rows-of-legs-across-width": "Number of rows of legs across width",
+
+  "shf-invalid-space-between-posts": "Aufgrund der hohen Windlast ist der Abstand zwischen den Beinen zu gering."
 }

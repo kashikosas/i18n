@@ -272,5 +272,7 @@
   "germanTerrainIII": "III",
   "germanTerrainIV": "IV",
 
-  "number-of-rows-of-legs-across-width": "Number of rows of legs across width"
+  "number-of-rows-of-legs-across-width": "Number of rows of legs across width",
+
+  "shf-invalid-space-between-posts": "The space between the legs is too small due to the high wind load."
 }
