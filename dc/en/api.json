@@ -38,5 +38,8 @@
 
   "submit": "Submit",
 
-  "document-generation-failed": "Failed to export document"
+  "document-generation-failed": "Failed to export document",
+
+  "shf-outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you.",
+  "shf-invalid-space-between-posts": "The space between the legs is too small due to the high wind load."
 }

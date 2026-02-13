@@ -35,5 +35,8 @@
 
   "submit": "Soumettre",
 
-  "document-generation-failed": "Échec de l'exportation du document"
+  "document-generation-failed": "Échec de l'exportation du document",
+
+  "shf-outside-of-scope": "Cette configuration Sherpal sort du cadre du configurateur - merci de contacter dani alu qui pourra vous aider.",
+  "shf-invalid-space-between-posts": "Les entraxes entre les potelets sont trop petits en raison de la charge de vent important."
 }

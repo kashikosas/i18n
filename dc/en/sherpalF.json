@@ -274,8 +274,5 @@
 
   "number-of-rows-of-legs-across-width": "Number of rows of legs across width",
 
-  "outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you.",
-  "invalid-space-between-posts": "The space between the legs is too small due to the high wind load.",
-
   "insulation-sealing-warning": "As the total thickness of the insulation and membrane is greater than 300 mm, sleeves will not be compatible and therefore not included."
 }
