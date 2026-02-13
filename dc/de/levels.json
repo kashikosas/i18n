@@ -126,6 +126,7 @@
   "share-configuration-and-project-description": "Sie definieren die Berechtigungen für die Freigabe der Konfiguration und des Projekts separat.",
   "shared-with-you": "Mit Ihnen geteilt",
   "shared-by-you": "Von Ihnen geteilt",
-  "project-shared-successfully": "Projekt erfolgreich geteilt"
+  "project-shared-successfully": "Projekt erfolgreich geteilt",
+  "cant-share-project-shared-user-no-levels-access": "Sie können dieses Projekt nicht teilen, da der Benutzer, mit dem Sie teilen möchten, keinen Zugriff auf Ebenen hat."
 }
 
