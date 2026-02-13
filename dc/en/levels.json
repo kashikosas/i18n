@@ -126,5 +126,6 @@
   "share-configuration-and-project-description": "You will define the permissions for sharing the configuration and the project separately.",
   "shared-with-you": "Shared with you",
   "shared-by-you": "Shared by you",
-  "project-shared-successfully": "Project shared successfully"
+  "project-shared-successfully": "Project shared successfully",
+  "cant-share-project-shared-user-no-levels-access": "You cannot share this project because the user you are sharing with does not have access to levels."
 }
