@@ -20,9 +20,9 @@
   "tour-modal-welcome-message": "Willkommen beim <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> Konfigurator! Diese Tour zeigt Ihnen, wie Sie Ihr <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> System konfigurieren können.",
   "tour-completion-message": "Fantastisch! Sie haben die <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> Tour abgeschlossen. Sie können jetzt Ihr <span style='text-transform: capitalize;'>{{configuratorLabel}}</span> System effektiv konfigurieren.",
 
-  "title-formular-side-tour-guide": "Formular",
-  "formular-side-tour-guide": "Das Formular ist der erste Schritt der Konfiguration. Hier werden die Informationen zum Standort und der gewünschten Ausführung des Systems gesammelt. Der Konfigurator kann damit die Anforderungen an das System festlegen.<br><br>Im Zweifelsfall wenden Sie sich an eine Fachperson (Ingenieur, Planungsbeauftragter usw.).<br><br>Felder mit * sind Pflichtfelder.",
-  "formular-side-tour-guide-candraw": "Ihr Formular scheint fehlerfrei ausgefüllt zu sein.<br><br>Klicken sie auf <italic>Weiter</italic> um zum nächsten Schritt zu gelangen.",
+  "title-formulo-side-tour-guide": "Formular",
+  "formulo-side-tour-guide": "Das Formular ist der erste Schritt der Konfiguration. Hier werden die Informationen zum Standort und der gewünschten Ausführung des Systems gesammelt. Der Konfigurator kann damit die Anforderungen an das System festlegen.<br><br>Im Zweifelsfall wenden Sie sich an eine Fachperson (Ingenieur, Planungsbeauftragter usw.).<br><br>Felder mit * sind Pflichtfelder.",
+  "formulo-side-tour-guide-candraw": "Ihr Formular scheint fehlerfrei ausgefüllt zu sein.<br><br>Klicken sie auf <italic>Weiter</italic> um zum nächsten Schritt zu gelangen.",
 
   "title-drawer-side-tour-guide": "Zeichnung",
   "drawer-side-tour-guide": "Dies ist der Zeichenbereich.",

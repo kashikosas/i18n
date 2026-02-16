@@ -36,8 +36,10 @@
   "id-exists-already": "ID already exists",
   "invalid-params-for-complex-builder": "Invalid parameters for complex builder",
 
-  "shf-invalid-space-between-posts": "Invalid space between posts.",
   "submit": "Submit",
 
-  "shf-outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you."
+  "document-generation-failed": "Failed to export document",
+
+  "shf-outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you.",
+  "shf-invalid-space-between-posts": "The space between the legs is too small due to the high wind load."
 }

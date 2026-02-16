@@ -272,5 +272,7 @@
   "germanTerrainIII": "III",
   "germanTerrainIV": "IV",
 
-  "number-of-rows-of-legs-across-width": "Number of rows of legs across width"
+  "number-of-rows-of-legs-across-width": "Number of rows of legs across width",
+
+  "insulation-sealing-warning": "As the total thickness of the insulation and membrane is greater than 300 mm, sleeves will not be compatible and therefore not included."
 }

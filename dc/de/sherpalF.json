@@ -294,5 +294,7 @@
   "germanTerrainIII": "III",
   "germanTerrainIV": "IV",
 
-  "number-of-rows-of-legs-across-width": "Number of rows of legs across width"
+  "number-of-rows-of-legs-across-width": "Number of rows of legs across width",
+
+  "insulation-sealing-warning": "Da die Gesamtdicke der Isolierung und Membran mehr als 300 mm beträgt, sind Schläuche nicht kompatibel und werden daher nicht mitgeliefert."
 }
