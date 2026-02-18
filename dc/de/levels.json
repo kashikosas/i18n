@@ -84,6 +84,7 @@
   "configuration-removed-from-project": "Konfiguration aus Projekt entfernt",
   "configuration-copied": "Konfiguration kopiert",
   "configuration-copied-successfully": "Konfiguration erfolgreich kopiert",
+  "failed-to-copy-configuration": "Fehler beim Kopieren der Konfiguration",
   "failed-to-remove-configuration-from-project": "Fehler beim Entfernen der Konfiguration aus dem Projekt",
   "project-created-with-configuration-successfully": "Projekt mit Konfiguration erfolgreich erstellt",
   "failed-to-create-project": "Fehler beim Erstellen des Projekts",
