@@ -290,5 +290,12 @@
   "api-success-data-created": "Données créées avec succès",
   "api-success-data-fetched": "Données récupérées avec succès",
   "api-success-data-updated": "Données mises à jour avec succès",
-  "api-success-data-deleted": "Données supprimées avec succès"
+  "api-success-data-deleted": "Données supprimées avec succès",
+
+  "header-background-color": "Couleur du fond du header",
+  "header-text-color": "Couleur du texte du header",
+  "footer-background-color": "Couleur du fond du footer",
+  "footer-text-color": "Couleur du texte du footer",
+  "button-background-color": "Couleur du fond des boutons",
+  "button-text-color": "Couleur du texte des boutons"
 }
