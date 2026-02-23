@@ -292,6 +292,9 @@
   "api-success-data-updated": "Données mises à jour avec succès",
   "api-success-data-deleted": "Données supprimées avec succès",
 
+  "startup-image": "Image de démarrage",
+  "startup-image-url": "URL de l'image de démarrage",
+  "theme-colors": "Couleurs pour votre portail client",
   "header-background-color": "Couleur du fond du header",
   "header-text-color": "Couleur du texte du header",
   "footer-background-color": "Couleur du fond du footer",

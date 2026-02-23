@@ -292,6 +292,9 @@
   "api-success-data-updated": "Daten erfolgreich aktualisiert",
   "api-success-data-deleted": "Daten erfolgreich gelöscht",
 
+  "startup-image": "Startbild",
+  "startup-image-url": "Startbild-URL",
+  "theme-colors": "Farben für Ihr Kundenportal",
   "header-background-color": "Hintergrundfarbe des Headers",
   "header-text-color": "Textfarbe des Headers",
   "footer-background-color": "Hintergrundfarbe des Footers",
