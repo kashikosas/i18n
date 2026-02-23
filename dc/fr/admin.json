@@ -37,7 +37,7 @@
   "auth-otp-verification-resend-time": "Renvoyer dans : {{time}}",
   "auth-otp-verification-verify-otp-button": "Vérifier l'OTP",
 
-  "footer-powered": "Propulsé par Jikannai<sup>&reg</sup>, un logiciel développé par Kashiko SAS.",
+  "footer-powered": "Propulsé par Jikannai<sup>&reg</sup>, un logiciel développé par Kashiko SAS",
   "footer-copyright": "&copy;Kashiko SAS {{year}}",
   "legal-notice": "Mentions légales",
 
