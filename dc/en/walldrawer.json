@@ -35,6 +35,6 @@
   "reset": "Delete all",
   "terrace": "Terrace",
   "undo": "Undo",
-  "wall": "Facade / wall",
+  "wall": "No guardrail",
   "wall-types": "Type of line"
 }
