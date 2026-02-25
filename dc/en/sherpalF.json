@@ -274,5 +274,7 @@
 
   "number-of-rows-of-legs-across-width": "Number of rows of legs across width",
 
-  "shf-invalid-space-between-posts": "The space between the legs is too small due to the high wind load."
+  "shf-invalid-space-between-posts": "The space between the legs is too small due to the high wind load.",
+
+  "insulation-sealing-warning": "As the total thickness of the insulation and membrane is greater than 300 mm, sleeves will not be compatible and therefore not included."
 }

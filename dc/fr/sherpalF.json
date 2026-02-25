@@ -276,5 +276,7 @@
 
   "number-of-rows-of-legs-across-width": "Nombre de rangées de potelets sur la largeur",
 
-  "shf-invalid-space-between-posts": "Les entraxes entre les potelets sont trop petits en raison de la charge de vent important."
+  "shf-invalid-space-between-posts": "Les entraxes entre les potelets sont trop petits en raison de la charge de vent important.",
+
+  "insulation-sealing-warning": "L'épaisseur totale de l'isolation et de la membrane étant supérieure à 300 mm, les manchons ne seront pas compatibles et ne sont donc pas inclus."
 }
