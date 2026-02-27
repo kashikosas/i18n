@@ -102,6 +102,7 @@
   "configuration-information": "Konfigurationsinformationen",
   "product": "Produkt",
   "price": "Preis",
+  "no-price-selected": "Kein Preis ausgewählt",
   "attach-existing-configuration-to-the-project": "Vorhandene Konfiguration zum Projekt hinzufügen",
   "no-configurations-found": "Keine Konfigurationen gefunden",
   "rows-per-page": "Zeilen pro Seite",
