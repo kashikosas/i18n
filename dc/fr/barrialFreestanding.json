@@ -2,7 +2,7 @@
   "country": "Pays d'utilisation",
   "protectionType": "Type d'utilisation",
   "acrotere": "Hauteur d'acrotère",
-  "acrotere-info": "Y compris les gravillons ou un autre revêtement.",
+  "acrotere-info": "A-dessus des gravillons ou un autre revêtement.",
   "gravel": "Epaisseur de revêtement",
   "handrailHeight": "Hauteur de la main courante",
   "postType": "Type de montant",
@@ -72,9 +72,9 @@
   "is-gravel-helper": "Y compris les gravillons ou un autre revêtement.",
   "gravel-thickness": "Epaisseur du revêtement",
   "position": "Sur ou sous le revêtement",
-  "slabs-shoe": "Dalles pour dessous les sabots fournis",
+  "slabs-shoe": "dani alu devrait-il fournir les dalles pour sous le sabot ?",
   "weight-choice": "Type des contrepoids",
-  "slabs-bacdal": "Fournir des dalles pour les Bacdals",
+  "slabs-bacdal": "dani alu devrait-il fournir les dalles pour les Bacdals ?",
   "altitude-of-site": "Altitude du site",
   "wind-zone": "Zone de vent",
   "category": "Categorie du terrain",
@@ -93,5 +93,5 @@
   "next": "Suivant",
   "previous": "Précédent",
   "finish": "Finition",
-  "skip": "Sauter"
+  "skip": "Ignorer"
 }
