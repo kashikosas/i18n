@@ -202,6 +202,7 @@
   "dxf-file": "DXF file",
   "usinage-fom-csv-export": "FOM CSV export",
   "nomenclature-csv-export": "Nomenclature CSV export",
+  "usinage-lisses": "Machining lisses",
   "gstm-list": "GSTM component list",
   "bar-drilling-list": "Infill module profile drilling list",
 
