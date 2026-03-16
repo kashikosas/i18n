@@ -331,5 +331,8 @@
   "configuration-not-found": "Konfiguration nicht gefunden",
   "forbidden-access": "Zugriff verboten",
   "project-configurator-limit-exceeded": "Projekt-Konfigurator-Limit überschritten",
-  "project-configurator-group-mismatch": "Projekt-Konfigurator-Gruppe stimmt nicht überein"
+  "project-configurator-group-mismatch": "Projekt-Konfigurator-Gruppe stimmt nicht überein",
+
+  "confirm-remove-configuration-from-project": "Sind Sie sicher, dass Sie diese Konfiguration aus dem Projekt entfernen möchten?",
+  "remove-from-project": "Aus Projekt entfernen"
 }
