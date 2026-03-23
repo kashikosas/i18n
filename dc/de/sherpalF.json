@@ -5,6 +5,7 @@
   "date": "Date",
   "sherpalF-welcome-title": "Sherpal® F Configurator",
   "make-sure-form-valid": "Please make sure the form is valid.",
+  "position-in-project": "Position im Projekt",
 
   "welcome-title": "Sherpal&reg; F Configurator",
   "sherpal-custom": "Sherpal Custom",
@@ -284,6 +285,7 @@
   "production-flow-customer": "Client",
   "production-flow-reference": "Référence",
   "production-flow-affair": "Affaire",
+  "production-flow-project": "Projekt",
 
   "country": "Country",
   "france": "Frankreich",
