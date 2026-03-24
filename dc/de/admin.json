@@ -307,5 +307,10 @@
   "footer-background-color": "Hintergrundfarbe des Footers",
   "footer-text-color": "Textfarbe des Footers",
   "button-background-color": "Hintergrundfarbe der Schaltflächen",
-  "button-text-color": "Textfarbe der Schaltflächen"
+  "button-text-color": "Textfarbe der Schaltflächen",
+
+  "select-customer-roles-levels-access": "Hikashop-Benutzerrollen auswählen, die auf Ebenen zugreifen können",
+  "hikashop-internal": "Intern",
+  "hikashop-external-pub": "Extern (öffentlich)",
+  "hikashop-external-pro": "Extern (Pro)"
 }
