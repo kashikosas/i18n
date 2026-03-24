@@ -307,5 +307,10 @@
   "footer-background-color": "Couleur du fond du footer",
   "footer-text-color": "Couleur du texte du footer",
   "button-background-color": "Couleur du fond des boutons",
-  "button-text-color": "Couleur du texte des boutons"
+  "button-text-color": "Couleur du texte des boutons",
+
+  "select-customer-roles-levels-access": "Sélectionner les rôles utilisateurs Hikashop pouvant accéder aux niveaux",
+  "hikashop-internal": "Interne",
+  "hikashop-external-pub": "Externe (public)",
+  "hikashop-external-pro": "Externe (pro)"
 }
