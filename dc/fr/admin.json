@@ -44,6 +44,7 @@
   "ap-domain": "Domaine AP",
   "add-groups-organize-configurators": "Ajouter des groupes pour organiser les configurateurs de cette organisation.",
   "add-levels-default-project-structure": "Ajouter des niveaux pour définir la structure de projet par défaut de cette organisation.",
+  "administrators": "Administrateurs",
   "admin-portal-domain-prefix": "Préfixe du domaine du portail administrateur",
   "confirm-delete-tag": "Êtes-vous sûr de vouloir supprimer le tag? Cette action est irréversible.",
   "confirm-delete-builder": "Êtes-vous sûr de vouloir supprimer ce builder ? Cette action est irréversible.",
