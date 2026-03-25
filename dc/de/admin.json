@@ -172,6 +172,7 @@
   "organization-viewer": "Organisations-Betrachter",
   "sso-customer-id": "SSO-Kunden-ID",
   "save": "Speichern",
+  "search": "Suchen",
   "search-by-name": "Nach Name suchen:",
   "search-customer": "Nach Referenz, Benutzername, Vor- oder Nachname suchen.",
   "search-placeholder": "Suchen...",
@@ -203,6 +204,7 @@
   "user-created-success": "Benutzer wurde erfolgreich erstellt!",
   "user-deleted-success": "Benutzer wurde erfolgreich gelöscht!",
   "user-updated-success": "Benutzer wurde erfolgreich aktualisiert!",
+  "username": "Benutzername",
   "users": "Benutzer",
   "version": "Version",
   "no-permission-create-builder": "Sie sind nicht berechtigt, einen Builder zu erstellen.",
@@ -255,6 +257,7 @@
   "date-created": "Erstellungsdatum",
   "date-updated": "Aktualisierungsdatum",
   "open-configuration": "Konfiguration öffnen",
+  "reference": "Referenz",
   "reset-password": "Passwort zurücksetzen",
   "joomla-db-server-url-required": "Joomla-Datenbankserver-URL ist erforderlich",
   "invalid-url-message": "Bitte geben Sie eine gültige URL ein",
@@ -299,13 +302,18 @@
   "api-success-data-updated": "Daten erfolgreich aktualisiert",
   "api-success-data-deleted": "Daten erfolgreich gelöscht",
 
-  "startup-image": "Startbild",
-  "startup-image-url": "Startbild-URL",
+  "startup-image": "Login-Seitenbild",
+  "startup-image-url": "URL des Login-Seitenbilds",
   "theme-colors": "Farben für Ihr Kundenportal",
   "header-background-color": "Hintergrundfarbe des Headers",
   "header-text-color": "Textfarbe des Headers",
   "footer-background-color": "Hintergrundfarbe des Footers",
   "footer-text-color": "Textfarbe des Footers",
   "button-background-color": "Hintergrundfarbe der Schaltflächen",
-  "button-text-color": "Textfarbe der Schaltflächen"
+  "button-text-color": "Textfarbe der Schaltflächen",
+
+  "select-customer-roles-levels-access": "Hikashop-Benutzerrollen auswählen, die auf Ebenen zugreifen können",
+  "hikashop-internal": "Intern",
+  "hikashop-external-pub": "Extern (öffentlich)",
+  "hikashop-external-pro": "Extern (Pro)"
 }

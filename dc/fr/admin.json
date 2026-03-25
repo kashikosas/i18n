@@ -172,6 +172,7 @@
   "organization-viewer": "Visualiseur d'organisation",
   "sso-customer-id": "ID client SSO",
   "save": "Enregistrer",
+  "search": "Rechercher",
   "search-by-name": "Rechercher par nom :",
   "search-customer": "Rechercher par référence, nom d’utilisateur, prénom ou nom.",
   "search-placeholder": "Rechercher...",
@@ -203,6 +204,7 @@
   "user-created-success": "L’utilisateur a été créé avec succès !",
   "user-deleted-success": "L’utilisateur a été supprimé avec succès !",
   "user-updated-success": "L’utilisateur a été mis à jour avec succès !",
+  "username": "Nom d'utilisateur",
   "users": "Utilisateurs",
   "version": "Version",
   "no-permission-create-builder": "Vous n'êtes pas autorisé à créer un builder.",
@@ -255,6 +257,7 @@
   "date-created": "Date de création",
   "date-updated": "Date de mise à jour",
   "open-configuration": "Ouvrir la configuration",
+  "reference": "Référence",
   "reset-password": "Réinitialiser le mot de passe",
   "joomla-db-server-url-required": "L'URL du serveur DB Joomla est requise",
   "invalid-url-message": "Veuillez entrer une URL valide",
@@ -299,13 +302,18 @@
   "api-success-data-updated": "Données mises à jour avec succès",
   "api-success-data-deleted": "Données supprimées avec succès",
 
-  "startup-image": "Image de démarrage",
-  "startup-image-url": "URL de l'image de démarrage",
+  "startup-image": "Image de la page de connexion",
+  "startup-image-url": "URL de l'image de la page de connexion",
   "theme-colors": "Couleurs pour votre portail client",
   "header-background-color": "Couleur du fond du header",
   "header-text-color": "Couleur du texte du header",
   "footer-background-color": "Couleur du fond du footer",
   "footer-text-color": "Couleur du texte du footer",
   "button-background-color": "Couleur du fond des boutons",
-  "button-text-color": "Couleur du texte des boutons"
+  "button-text-color": "Couleur du texte des boutons",
+
+  "select-customer-roles-levels-access": "Sélectionner les rôles utilisateurs Hikashop pouvant accéder aux niveaux",
+  "hikashop-internal": "Interne",
+  "hikashop-external-pub": "Externe (public)",
+  "hikashop-external-pro": "Externe (pro)"
 }
