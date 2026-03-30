@@ -191,6 +191,9 @@
   "panel-export": "Panel Export",
   "opticoupe-csv-export": "Opticoupe CSV Export",
   "opticoupe-csv-export-toles": "Opticoupe CSV Export Toles",
+  "usinage-fom-csv-export": "FOM CSV export",
+  "nomenclature-csv-export": "Nomenclature CSV export",
+  "usinage-lisses": "Machining lisses",
 
   "note-de-calcul": "Bemaßungszertifikat",
   "dimensioning-certificate": "Bemaßungszertifikat",

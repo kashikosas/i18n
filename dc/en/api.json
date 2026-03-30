@@ -14,7 +14,8 @@
   "deletion-successful": "Deletion successful",
   "configuration-retrieval-failed": "Configuration retrieval failed",
   "configuration-not-found": "Configuration not found",
-  "connection-failed": "Connection failed",
+  "unknown-error": "An unexpected error occurred. Please try again or contact support if the problem persists.",
+  "connection-failed": "Connection failed. Please check your internet connection and try again.",
   "login-failed": "Login failed",
 
   "configuration-successful": "Configuration successful",
