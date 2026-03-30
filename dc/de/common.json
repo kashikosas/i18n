@@ -119,7 +119,9 @@
   "Drawer": "Zeichenprogramm",
   "state": "Zustand",
   "open-formulo": "Formular öffnen",
-
+  "nomenclature": "Nomenklatur",
+  "identity-tag": "Identitätsaufkleber",
+  "post-file": "Stützeproduktionsblatt",
   "write-your-message": "Ihre Nachricht",
   "attach-current-configuration": "Aktuelle Konfiguration anhängen",
   "field-required": "Pflichtfeld",
