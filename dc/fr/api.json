@@ -13,7 +13,8 @@
   "deletion-successful": "Suppression effectuée",
   "configuration-rretrieval-failed": "Echec recherche de configuration",
   "configuration-not-found": "Configuration non trouvée",
-  "connection-failed": "Echec de connexion",
+  "unknown-error": "Une erreur inattendue s'est produite. Veuillez réessayer ou contacter le support si le problème persiste.",
+  "connection-failed": "Échec de la connexion. Veuillez vérifier votre connexion Internet et réessayer.",
   "login-failed": "Echec d'identification",
 
   "configuration-successful": "Configuration terminée",
