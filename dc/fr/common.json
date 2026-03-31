@@ -132,7 +132,9 @@
   "not-includes-vat": "TVA non incluse",
   "not-includes-packaging-shipping-vat": "Frais de port et d'emballage et TVA non compris",
   "linear-meter-unit": "le mètre linéaire",
-
+  "nomenclature": "Nomenclature",
+  "identity-tag": "Etiquette d'identité",
+  "post-file": "Feuille de montage montant",
   "reference": "Référence",
   "configuration-reference": "Référence de configuration",
   "client": "Client",
