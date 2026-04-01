@@ -37,6 +37,10 @@
   "id-exists-already": "ID already exists",
   "invalid-params-for-complex-builder": "Invalid parameters for complex builder",
 
+  "project-configurator-limit-exceeded": "Project configurator limit exceeded",
+  "project-configurator-group-mismatch": "Project configurator group mismatch",
+  "cant-share-project-shared-user-no-levels-access": "You cannot share this project because the user you are sharing with does not have access to levels.",
+
   "submit": "Submit",
 
   "document-generation-failed": "Failed to export document",
