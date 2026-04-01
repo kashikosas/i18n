@@ -113,8 +113,6 @@
   "no-projects": "Keine Projekte",
   "no-options": "Keine Optionen",
   "save": "Speichern",
-  "project-configurator-limit-exceeded": "Projekt-Konfigurator-Limit überschritten",
-  "project-configurator-group-mismatch": "Projekt-Konfigurator-Gruppe stimmt nicht überein",
   "level": "Ebene {{i}}",
   "limit": "Limit",
   "project-not-found": "Projekt nicht gefunden",
@@ -137,6 +135,5 @@
   "share-configuration-and-project-description": "Die Berechtigungen sind für beide gleich.",
   "shared-with-you": "Mit Ihnen geteilt",
   "shared-by-you": "Von Ihnen geteilt",
-  "project-shared-successfully": "Projekt erfolgreich geteilt",
-  "cant-share-project-shared-user-no-levels-access": "Sie können dieses Projekt nicht teilen, da der Benutzer, mit dem Sie teilen möchten, keinen Zugriff auf Ebenen hat."
+  "project-shared-successfully": "Projekt erfolgreich geteilt"
 }
