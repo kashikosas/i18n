@@ -39,7 +39,7 @@
 
   "project-configurator-limit-exceeded": "Projekt-Konfigurator-Limit überschritten",
   "project-configurator-group-mismatch": "Projekt-Konfigurator-Gruppe stimmt nicht überein",
-  "cant-share-project-shared-user-no-levels-access": "Sie können dieses Projekt nicht teilen, da der Benutzer, mit dem Sie teilen möchten, keinen Zugriff auf Ebenen hat.",
+  "cant-share-project-shared-user-no-levels-access": "Sie können dieses Projekt nicht teilen, da der Benutzer, mit dem Sie teilen möchten, keinen Zugriff auf Levels hat.",
 
   "submit": "Einreichen",
 
