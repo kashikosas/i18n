@@ -3,8 +3,8 @@
   "zebral-welcome-title": "Zebral® Configurator",
   "make-sure-form-valid": "Please fill out the form to configure your product.",
   "use-type": "Type of use",
-  "private": "Private use",
-  "public": "Public use",
+  "private": "Use in private areas up to 0.5 kN/m horizontal load (Category: A1-B1)",
+  "public": "Use in private or public areas up to 1.0 kN/m horizontal load (Category: B2-E2.1)",
 
   "type-of-pose": "Type of installation",
   "installation-country": "Country of installation",
@@ -73,7 +73,7 @@
   "entre-tableaux": "Between walls",
   "a10": "A10",
   "a40": "A40",
-  "deporte": "Offset",
+  "deporte": "C",
 
   "balcony": "Balcony",
   "terrace": "Terrace",
@@ -81,7 +81,7 @@
   "handrail_short": "Handrail",
   "shoe_A10": "Shoe A10",
   "shoe_A40": "Shoe A40",
-  "shoe_deporte": "Shoe Offset",
+  "shoe_deporte": "Shoe C",
   "foot": "Base",
   "foot_thin": "Base",
   "foot_short": "Base",
