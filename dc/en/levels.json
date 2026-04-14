@@ -113,8 +113,6 @@
   "no-projects": "No projects",
   "no-options": "No options",
   "save": "Save",
-  "project-configurator-limit-exceeded": "Project configurator limit exceeded",
-  "project-configurator-group-mismatch": "Project configurator group mismatch",
   "level": "Level {{i}}",
   "limit": "Limit",
   "project-not-found": "Project not found",
@@ -137,6 +135,5 @@
   "share-configuration-and-project-description": "Permissions for both will be the same.",
   "shared-with-you": "Shared with you",
   "shared-by-you": "Shared by you",
-  "project-shared-successfully": "Project shared successfully",
-  "cant-share-project-shared-user-no-levels-access": "You cannot share this project because the user you are sharing with does not have access to levels."
+  "project-shared-successfully": "Project shared successfully"
 }
