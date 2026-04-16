@@ -46,5 +46,8 @@
   "document-generation-failed": "Dokumentexport fehlgeschlagen",
 
   "shf-invalid-space-between-posts": "Aufgrund der hohen Windlast ist der Abstand zwischen den Beinen zu gering.",
-  "shf-outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you."
+  "shf-outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you.",
+  "impossible-roof-slopes": "Die Konfiguration kann aufgrund unmöglicher Dachneigungen nicht berechnet werden. Stellen Sie sicher, dass alle Höhenpunkte dreieckige oder rechteckige Formen aufweisen.",
+  "invalid-configuration-field": "Mindestens ein Feld im Formular ist ungültig - bitte überprüfen Sie das Formular.",
+  "invalid-angle-params": "Ein oder mehrere Winkel in der Zeichnung sind ungültig - bitte überprüfen Sie die roten Winkel."
 }
