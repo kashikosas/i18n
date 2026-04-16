@@ -46,5 +46,8 @@
   "document-generation-failed": "Failed to export document",
 
   "shf-outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you.",
-  "shf-invalid-space-between-posts": "The space between the legs is too small due to the high wind load."
+  "shf-invalid-space-between-posts": "The space between the legs is too small due to the high wind load.",
+  "impossible-roof-slopes": "Configuration cannot be computed due to impossible roof slopes. Ensure all height points are in triangle or rectangle forms.",
+  "invalid-configuration-field": "One or more field in the form are invalid - please check the form.",
+  "invalid-angle-params": "One or more angle on the drawing is invalid - please check the red angles."
 }

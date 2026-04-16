@@ -43,5 +43,8 @@
   "document-generation-failed": "Échec de l'exportation du document",
 
   "shf-outside-of-scope": "Cette configuration Sherpal sort du cadre du configurateur - merci de contacter dani alu qui pourra vous aider.",
-  "shf-invalid-space-between-posts": "Les entraxes entre les potelets sont trop petits en raison de la charge de vent important."
+  "shf-invalid-space-between-posts": "Les entraxes entre les potelets sont trop petits en raison de la charge de vent important.",
+  "impossible-roof-slopes": "La configuration ne peut être calculée en raison de pentes de toit impossibles. Veillez à ce que tous les points de hauteur soient de forme triangulaire ou rectangulaire.",
+  "invalid-configuration-field": "Un ou plusieurs champs du formulaire sont invalides - veuillez vérifier le formulaire.",
+  "invalid-angle-params": "Un ou plusieurs angles du dessin sont invalides - veuillez vérifier les angles en rouge."
 }
