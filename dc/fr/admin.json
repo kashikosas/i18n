@@ -103,6 +103,7 @@
   "email-notification": "Notification par email",
   "email-required": "L’email est requis",
   "toggle-levels-configuration": "Activer ou désactiver la configuration levels pour cette organisation",
+  "enter-administrator-email": "Saisir l’email de l’administrateur",
   "enter-administrator-email-placeholder": "Saisir l’e-mail de l’administrateur...",
   "enter-builder-name": "Saisir le nom du builder...",
   "enter-contact-email": "Saisir l’adresse email de contact",
