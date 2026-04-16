@@ -103,6 +103,7 @@
   "email-notification": "E-Mail-Benachrichtigung",
   "email-required": "E-Mail ist erforderlich",
   "toggle-levels-configuration": "Levels-Konfiguration für diese Organisation aktivieren oder deaktivieren",
+  "enter-administrator-email": "Administrator-E-Mail eingeben",
   "enter-administrator-email-placeholder": "Administrator-E-Mail eingeben...",
   "enter-builder-name": "Builder-Namen eingeben...",
   "enter-contact-email": "Kontakt-E-Mail-Adresse eingeben",
