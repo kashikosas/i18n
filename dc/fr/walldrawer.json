@@ -1,10 +1,11 @@
 {
   "a-length-is-out-of-bound": "Une longueur est hors limites.",
+  "a-terrace-is-not-closed": "Terrasse non fermée.",
+  "an-angle-is-out-of-bound": "Un angle est hors de l'intervalle autorisé",
   "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "Terrasse non fermée ou type d'extremité non défini",
   "add-gate": "Ajouter un portillon",
   "add-door": "Ajouter une porte ou une fenêtre",
   "additions": "Ajouts",
-  "an-angle-is-out-of-bound": "Un angle est hors de l'intervalle autorisé",
   "angle": "Angle",
   "close": "Fermer",
   "close-terrace": "Fermer la terrasse",

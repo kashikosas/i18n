@@ -6,7 +6,7 @@
   "loading-failed": "Loading failed",
   "configuration-saving-failed": "Configuration saving failed",
   "configuration-saved-successfully": "Configuration saved successfully",
-  "invalid-username-or-password": "Invalid username or password",
+  "invalid-username-or-password": "The username or password you entered is incorrect. Please try again.",
   "builder-not-found": "Builder not found",
   "builder-loading-failed": "Builder loading failed",
   "builder-saving-failed": "Builder saving failed",
@@ -14,7 +14,8 @@
   "deletion-successful": "Deletion successful",
   "configuration-retrieval-failed": "Configuration retrieval failed",
   "configuration-not-found": "Configuration not found",
-  "connection-failed": "Connection failed",
+  "unknown-error": "An unexpected error occurred. Please try again or contact support if the problem persists.",
+  "connection-failed": "Connection failed. Please check your internet connection and try again.",
   "login-failed": "Login failed",
 
   "configuration-successful": "Configuration successful",
@@ -36,9 +37,17 @@
   "id-exists-already": "ID already exists",
   "invalid-params-for-complex-builder": "Invalid parameters for complex builder",
 
+  "project-configurator-limit-exceeded": "Project configurator limit exceeded",
+  "project-configurator-group-mismatch": "Project configurator group mismatch",
+  "cant-share-project-shared-user-no-levels-access": "You cannot share this project because the user you are sharing with does not have access to levels.",
 
-  "shf-invalid-space-between-posts": "Invalid space between posts.",
   "submit": "Submit",
 
-  "shf-outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you."
+  "document-generation-failed": "Failed to export document",
+
+  "shf-outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you.",
+  "shf-invalid-space-between-posts": "The space between the legs is too small due to the high wind load.",
+  "impossible-roof-slopes": "Configuration cannot be computed due to impossible roof slopes. Ensure all height points are in triangle or rectangle forms.",
+  "invalid-configuration-field": "One or more field in the form are invalid - please check the form.",
+  "invalid-angle-params": "One or more angle on the drawing is invalid - please check the red angles."
 }

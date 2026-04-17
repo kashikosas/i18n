@@ -42,8 +42,10 @@
   "signin-to": "Sign in to",
   "logout": "Logout",
   "remember-me": "Remember me",
-  "return-to-da": "Continue on dani alu website",
+  "return-to": "Continue on",
+  "website": "website",
   "help": "Help",
+  "forgot-password": "Forgotten password? Click here.",
 
   "configuration-builders": "Configuration builders",
   "form-validation-failed": "Form validation failed",
@@ -103,6 +105,7 @@
   "save": "Save",
   "send": "Send",
   "open": "Open",
+  "select": "Select",
   "selected": "Selected",
   "submit": "Submit",
   "update": "Update",
@@ -115,10 +118,10 @@
   "drawer": "Drawer",
   "state": "State",
 
-  "open-formular": "Open form",
+  "open-formulo": "Open form",
 
   "write-your-message": "Write your message",
-  "attach-current-config": "Attach current configuration",
+  "attach-current-configuration": "Attach current configuration",
   "field-required": "Required field",
   "nothing-found": "Nothing found",
   "add-to-cart": "Add to cart",
@@ -131,6 +134,7 @@
   "linear-meter-unit": "per linear meter",
 
   "reference": "Reference",
+  "configuration-reference": "Configuration reference",
   "client": "Customer",
 
   "formular": "Form",
@@ -143,7 +147,7 @@
   "cutting-paint-list": "Cutting list - Painted",
   "descriptive-text": "Descriptive Text",
 
-  "about-to-leave-daniconfigs": "Leave DaniConfigs",
+  "about-to-leave-jikannai": "Would you like to leave Jikannai?",
   "about-to-delete-builder": "Delete configurator",
   "about-to-reset-configuration": "Reset configuration",
   "about-to-delete-configuration": "Delete configuration: {{ids}}.",
@@ -196,6 +200,12 @@
   "opticoupe-csv-export": "Opticoupe export",
   "opticoupe-csv-export-toles": "Opticoupe Panel export",
   "dxf-file": "DXF file",
+  "usinage-fom-csv-export": "FOM CSV export",
+  "nomenclature-csv-export": "Nomenclature CSV export",
+  "nomenclature": "Parts list",
+  "identity-tag": "Identity sticker",
+  "post-file": "Post production sheet",
+  "usinage-lisses": "Machining lisses",
   "gstm-list": "GSTM component list",
   "bar-drilling-list": "Infill module profile drilling list",
 
@@ -203,7 +213,7 @@
   "created-at": "Date creation",
   "created-by": "User created",
   "updated-at": "Date modification",
-  "updated-by": "Modifying user",
+  "updated-by": "User modified",
   "version": "Version",
   "actions": "Actions",
   "search-field": "Search field",
@@ -211,6 +221,7 @@
   "total": "Total",
   "clear-all": "Clear All",
 
+  "config-view": "View",
   "config-edit": "Edit",
   "config-share": "Share",
   "config-duplicate": "Duplicate",
@@ -230,6 +241,8 @@
   "affaire": "Project",
   "study": "Study",
   "project": "Project",
+  "projects": "Projects",
+  "project-and-position": "Project and Position",
   "site-status": "Site status",
   "site-type": "Site type",
   "configuration-status": "Configuration status",
@@ -238,20 +251,23 @@
   "delivery-date": "Delivery date",
   "contact-info": "Contact info",
   "attach-price": "Attach a price",
+  "configuration-information": "Configuration information",
 
-  "work-in-progress": "Work in progress",
-  "in-quote": "In quote",
+  "work_in_progress": "Work in progress",
+  "in_quote": "In quote",
   "validated": "Validated",
-  "in-cart": "In cart",
+  "in_cart": "In cart",
   "ordered": "Ordered",
 
   "delete-configuration": "Delete configuration",
-  "confirm-delete-single-configuration": "Are you sure you want to delete this configuration?",
+  "confirm-delete-single-configuration": "Are you sure you want to delete this configuration?<br>This will delete the configuration for all users and cannot be undone.",
   "delete-multiple-configurations": "Delete multiple configurations",
-  "confirm-delete-multiple-configurations": "Are you sure you want to delete these configurations?",
+  "confirm-delete-multiple-configurations": "Are you sure you want to delete these configurations?<br>This will delete the configurations for all users and cannot be undone.",
   "configuration-saved-successfully": "Configuration is saved successfully",
   "deletion-configuration-successful": "Configuration is deleted successfully",
   "configuration-add-to-cart-successfully": "Configuration is added to cart successfully",
+  "duplication-configuration-successful": "Configuration is duplicated successfully",
+  "configuration-shared-successfully": "Configuration is shared successfully",
 
   "feature-coming-soon": "Feature is coming soon!",
   "invalid-request-data": "Invalid request data",
@@ -267,6 +283,7 @@
   "indicative-project-price-contact": "Contact dani alu",
 
   "invalid-form": "Please input all necessary fields marked with an asterisk (*).",
+  "invalid-email": "Please input a valid email address.",
 
   "shop-data-required": "Please select the price and quantity.",
 
@@ -284,7 +301,7 @@
   "order-id": "Order ID",
   "of-id": "OF ID",
 
-  "footer-powered": "Powered by Jikannai<sup>&reg</sup>, a software developed by Kashiko SAS.",
+  "footer-powered": "Powered by Jikannai<sup>&reg</sup>, a software developed by Kashiko SAS",
   "footer-copyright": "&copy;Kashiko SAS {{year}}",
   "legal-notice": "Legal notice",
 
@@ -308,5 +325,16 @@
   "share-permission": "Permission",
   "share-permission-read-only": "Read only",
   "share-permission-edit": "Edit",
-  "add-order-number": "Add order number"
+  "add-order-number": "Add order number",
+
+  "handrail": "Handrail",
+  "glass": "Glass",
+
+  "screenshot": "Screenshot",
+
+  "configuration-not-found": "Configuration not found",
+  "forbidden-access": "Forbidden access",
+
+  "confirm-remove-configuration-from-project": "Are you sure you want to remove this configuration from the project?",
+  "remove-from-project": "Remove from project"
 }

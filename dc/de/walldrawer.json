@@ -1,7 +1,8 @@
 {
   "a-length-is-out-of-bound": "Eine Länge ist außerhalb der Grenzen.",
-  "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "Eine Terrasse ist nicht geschlossen oder ein Endpunkttyp ist nicht definiert.",
+  "a-terrace-is-not-closed": "Eine Terrasse ist nicht geschlossen.",
   "an-angle-is-out-of-bound": "Ein Winkelmaß ist unzulässig.",
+  "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "Eine Terrasse ist nicht geschlossen oder ein Endpunkttyp ist nicht definiert.",
   "add-gate": "Tür hinzufügen",
   "add-door": "Tür oder Fenster hinzufügen",
   "additions": "Ergänzungen",
