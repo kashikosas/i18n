@@ -42,8 +42,10 @@
   "signin-to": "Melden Sie sich bei",
   "logout": "Abmeldung",
   "remember-me": "Daten speichern",
-  "return-to-da": "Weiter zur dani alu Seite",
+  "return-to": "Weiter auf",
+  "website": "website",
   "help": "Helfen",
+  "forgot-password": "Passwort vergessen? Klicke hier.",
 
   "configuration-builders": "Konfigurationseditor",
   "form-validation-failed": "Formular Validierung fehlgeschlagen",
@@ -103,6 +105,7 @@
   "save": "Speichern",
   "send": "Senden",
   "open": "Öffnen",
+  "select": "Auswählen",
   "selected": "Ausgewählt",
   "submit": "Einreichen",
   "update": "Aktualisieren",
@@ -112,12 +115,15 @@
   "production-documents": "Produktionsdokumente",
   "technical-drawings": "Technische Zeichnungen",
   "builder": "Editor",
-  "drawer": "Zeichner",
+  "drawer": "Zeichenprogramm",
+  "Drawer": "Zeichenprogramm",
   "state": "Zustand",
-  "open-formular": "Formular öffnen",
-
+  "open-formulo": "Formular öffnen",
+  "nomenclature": "Nomenklatur",
+  "identity-tag": "Identitätsaufkleber",
+  "post-file": "Stützeproduktionsblatt",
   "write-your-message": "Ihre Nachricht",
-  "attach-current-config": "Aktuelle Konfiguration anhängen",
+  "attach-current-configuration": "Aktuelle Konfiguration anhängen",
   "field-required": "Pflichtfeld",
   "nothing-found": "Kein Ergebnis",
   "add-to-cart": "Zum Warenkorb hinzufügen",
@@ -127,6 +133,7 @@
   "edit-copy": "Kopie bearbeiten",
 
   "reference": "Referenz",
+  "configuration-reference": "Konfigurationsreferenz",
   "client": "Kunde",
 
   "formular": "Formular",
@@ -134,7 +141,7 @@
   "list-colisage": "Packliste",
   "fabrication-order": "Fertigungsauftrag",
 
-  "about-to-leave-daniconfigs": "DaniConfigs verlassen",
+  "about-to-leave-jikannai": "Würden Sie Jikannai verlassen?",
   "about-to-delete-builder": "Editor löschen",
   "about-to-reset-configuration": "Aktuelle Konfiguration zurücksetzen",
   "about-to-delete-configuration": "Konfiguration löschen: {{ids}}.",
@@ -186,6 +193,9 @@
   "panel-export": "Panel Export",
   "opticoupe-csv-export": "Opticoupe CSV Export",
   "opticoupe-csv-export-toles": "Opticoupe CSV Export Toles",
+  "usinage-fom-csv-export": "FOM CSV export",
+  "nomenclature-csv-export": "Nomenclature CSV export",
+  "usinage-lisses": "Machining lisses",
 
   "note-de-calcul": "Bemaßungszertifikat",
   "dimensioning-certificate": "Bemaßungszertifikat",
@@ -211,7 +221,8 @@
   "total": "Gesamt",
   "clear-all": "Alle löschen",
 
-  "config-edit": "Konfiguration bearbeiten",
+  "config-view": "Ansehen",
+  "config-edit": "Bearbeiten",
   "config-share": "Teilen",
   "config-duplicate": "Duplizieren",
   "config-delete": "Löschen",
@@ -230,6 +241,8 @@
   "affaire": "Projekt",
   "study": "Studie",
   "project": "Projekt",
+  "projects": "Projekte",
+  "project-and-position": "Projekt und Position",
   "site-status": "Baustellenstatus",
   "site-type": "Art der Baustelle",
   "configuration-status": "Konfigurationsstatus",
@@ -238,20 +251,23 @@
   "delivery-date": "Gewünschter Liefertermin",
   "contact-info": "Kontaktinformationen",
   "attach-price": "Einen Preis hinzufügen",
+  "configuration-information": "Konfigurationsinformationen",
 
-  "work-in-progress": "In Arbeit",
-  "in-quote": "Im Angebot",
+  "work_in_progress": "In Arbeit",
+  "in_quote": "Im Angebot",
   "validated": "Validiert",
-  "in-cart": "Im Warenkorb",
+  "in_cart": "Im Warenkorb",
   "ordered": "Bestellt",
 
   "delete-configuration": "Konfiguration löschen",
-  "confirm-delete-single-configuration": "Soll die Konfiguration wirklich gelöscht werden?",
+  "confirm-delete-single-configuration": "Soll die Konfiguration wirklich gelöscht werden?<br>Die Konfiguration wird für alle Benutzer gelöscht und kann nicht rückgängig gemacht werden.",
   "delete-multiple-configurations": "Mehrere Konfigurationen löschen",
-  "confirm-delete-multiple-configurations": "Sollen die Konfigurationen wirklich gelöscht werden?",
+  "confirm-delete-multiple-configurations": "Soll die Konfigurationen wirklich gelöscht werden?<br>Die Konfigurationen werden für alle Benutzer gelöscht und können nicht rückgängig gemacht werden.",
   "configuration-saved-successfully": "Konfiguration erfolgreich gespeichert",
   "deletion-configuration-successful": "Konfiguration erfolgreich gelöscht",
   "configuration-add-to-cart-successfully": "Konfiguration erfolgreich zum Warenkorb hinzugefügt",
+  "duplication-configuration-successful": "Konfiguration erfolgreich dupliziert",
+  "configuration-shared-successfully": "Konfiguration erfolgreich geteilt",
 
   "feature-coming-soon": "Feature bald verfügbar!",
   "invalid-request-data": "Ungültige Anfrage",
@@ -267,6 +283,7 @@
   "indicative-project-price-contact": "Kontaktieren Sie dani alu",
 
   "invalid-form": "Bitte geben Sie alle erforderlichen Felder ein, die mit einem Stern (*) markiert sind.",
+  "invalid-email": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
 
   "shop-data-required": "Bitte wählen Sie den Preis und die Menge aus.",
 
@@ -308,5 +325,16 @@
   "share-permission": "Berechtigung",
   "share-permission-read-only": "Nur lesen",
   "share-permission-edit": "Bearbeiten",
-  "add-order-number": "Bestellnummer hinzufügen"
+  "add-order-number": "Bestellnummer hinzufügen",
+
+  "handrail": "Handlauf",
+  "glass": "VSG",
+
+  "screenshot": "Bildschirmfoto",
+
+  "configuration-not-found": "Konfiguration nicht gefunden",
+  "forbidden-access": "Zugriff verboten",
+
+  "confirm-remove-configuration-from-project": "Sind Sie sicher, dass Sie diese Konfiguration aus dem Projekt entfernen möchten?",
+  "remove-from-project": "Aus Projekt entfernen"
 }

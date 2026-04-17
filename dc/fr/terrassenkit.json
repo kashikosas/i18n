@@ -122,8 +122,8 @@
   "horizontal": "Horizontale",
   "vertical": "Verticale",
 
-  "color": "Peinture",
-  "color-info": "Choisissez une couleur de peinture standard ou demandez une peinture/couleur/finition spécifique en sélectionnant « peinture non standard ».",
+  "color": "Laquage",
+  "color-info": "Choisissez une teinte standard, ou demandez une teinte et finition spécifique en sélectionnant « finition hors standard ».",
 
   "open-input-form": "Ouvrir le formulaire",
 
@@ -140,7 +140,7 @@
   "walldrawer-changed-recompute": "Le tracé a changé. Regénérer le calcul.",
   "search...": "Chercher par nom, RAL, etc...",
   "*-required-fields": "(*) Champs obligatoires.",
-  "standard paint is gloss": "La peinture standard est une peinture en poudre semi-brillante.",
+  "standard paint is gloss": "En standard, le laquage est semi-brillant.",
 
   "accept-terrace-offset-title": "Note pour mesurer la terrasse",
   "accept-terrace-offset-content": "Lors du dessin de la terrasse, réduire les dimensions de <bold>{{offset}}</bold> mm par rapport au parapet.",
@@ -266,5 +266,7 @@
   "1.4kN/m²": "1,4 kN/m²",
   "2.4kN/m²": "2,4 kN/m²",
   "3.3kN/m²": "3,3 kN/m²",
-  "category-country": "Campagne"
+  "category-country": "Campagne",
+
+  "nothing-found": "Pas de résultat"
 }

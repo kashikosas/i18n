@@ -5,6 +5,7 @@
   "date": "Date",
   "sherpalF-welcome-title": "Configurateur Sherpal® F",
   "make-sure-form-valid": "Merci de remplir le formulaire pour avoir un visuel de votre produit.",
+  "position-in-project": "Position dans le projet",
 
   "welcome-title": "Configurateur Sherpal&reg; F",
   "sherpal-custom": "Sherpal sur mesure",
@@ -264,6 +265,7 @@
   "production-flow-customer": "Client",
   "production-flow-reference": "Référence",
   "production-flow-affair": "Affaire",
+  "production-flow-project": "Projet",
 
   "country": "Pays",
   "france": "France",
@@ -275,8 +277,6 @@
   "germanTerrainIV": "IV",
 
   "number-of-rows-of-legs-across-width": "Nombre de rangées de potelets sur la largeur",
-
-  "shf-invalid-space-between-posts": "Les entraxes entre les potelets sont trop petits en raison de la charge de vent important.",
 
   "insulation-sealing-warning": "L'épaisseur totale de l'isolation et de la membrane étant supérieure à 300 mm, les manchons ne seront pas compatibles et ne sont donc pas inclus."
 }

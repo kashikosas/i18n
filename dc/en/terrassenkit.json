@@ -262,5 +262,7 @@
   "1.4kN/m²": "1.4 kN/m²",
   "2.4kN/m²": "2.4 kN/m²",
   "3.3kN/m²": "3.3 kN/m²",
-  "category-country": "Country"
+  "category-country": "Country",
+
+  "nothing-found": "Nothing found"
 }

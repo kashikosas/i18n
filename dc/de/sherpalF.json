@@ -5,6 +5,7 @@
   "date": "Date",
   "sherpalF-welcome-title": "Sherpal® F Configurator",
   "make-sure-form-valid": "Please make sure the form is valid.",
+  "position-in-project": "Position im Projekt",
 
   "welcome-title": "Sherpal&reg; F Configurator",
   "sherpal-custom": "Sherpal Custom",
@@ -241,7 +242,7 @@
   "descriptif-text-part-8": "Finish: the finish will be mill finish aluminium",
   "descriptif-text-part-9": "Installation and qualifications <br> The installation will be carried out by a company with qualifications 3211, 3212, 3213, 3214 (waterproofing).",
   "descriptif-text-part-10": "Note: The connection between the equipment and the support must be handled by the equipment supplier in such a way as not to transmit vibrations to the structure.",
- 
+
   "max-machine-weight": "Max equipment weight",
   "max-machine-height": "Max equipment height",
   "max-leg-height": "Max leg height (LE)",
@@ -284,6 +285,7 @@
   "production-flow-customer": "Client",
   "production-flow-reference": "Référence",
   "production-flow-affair": "Affaire",
+  "production-flow-project": "Projekt",
 
   "country": "Country",
   "france": "Frankreich",
@@ -295,8 +297,6 @@
   "germanTerrainIV": "IV",
 
   "number-of-rows-of-legs-across-width": "Number of rows of legs across width",
-
-  "shf-invalid-space-between-posts": "Aufgrund der hohen Windlast ist der Abstand zwischen den Beinen zu gering.",
 
   "insulation-sealing-warning": "Da die Gesamtdicke der Isolierung und Membran mehr als 300 mm beträgt, sind Schläuche nicht kompatibel und werden daher nicht mitgeliefert."
 }

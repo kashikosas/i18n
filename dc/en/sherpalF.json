@@ -5,6 +5,7 @@
   "date": "Date",
   "sherpalF-welcome-title": "Sherpal® F Configurator",
   "make-sure-form-valid": "Please make sure the form is valid.",
+  "position-in-project": "Position in project",
 
   "welcome-title": "Sherpal&reg; F Configurator",
   "sherpal-custom": "Sherpal Custom",
@@ -262,6 +263,7 @@
   "production-flow-customer": "Customer",
   "production-flow-reference": "Reference",
   "production-flow-affair": "Affair",
+  "production-flow-project": "Project",
 
   "country": "Country",
   "france": "France",
@@ -273,8 +275,6 @@
   "germanTerrainIV": "IV",
 
   "number-of-rows-of-legs-across-width": "Number of rows of legs across width",
-
-  "shf-invalid-space-between-posts": "The space between the legs is too small due to the high wind load.",
 
   "insulation-sealing-warning": "As the total thickness of the insulation and membrane is greater than 300 mm, sleeves will not be compatible and therefore not included."
 }
