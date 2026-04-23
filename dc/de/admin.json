@@ -48,6 +48,13 @@
   "auth-type-joomla": "Joomla",
   "auth-type-microsoft-entra-id": "Microsoft Entra ID",
   "auth-type-none": "Nicht festgelegt",
+  "org-authentication": "Authentifizierung",
+  "org-auth-joomla-requires-db-url": "Legen Sie unter „Detail“ eine Joomla-Datenbank-Server-URL fest, bevor Sie die Joomla-Anmeldung aktivieren können.",
+  "org-auth-google-coming-soon": "Demnächst verfügbar.",
+  "microsoft-entra-tenant-id": "Microsoft Entra Mandanten-ID",
+  "microsoft-entra-tenant-id-placeholder": "z. B. xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "microsoft-entra-tenant-id-required": "Die Microsoft Entra Mandanten-ID ist erforderlich, wenn die Microsoft-Anmeldung aktiviert ist.",
+  "no-permission-org-authentication": "Nur Super-Admins können auf die Organisationsauthentifizierung zugreifen.",
 
   "footer-powered": "Betrieben von Jikannai<sup>&reg</sup>, einer von Kashiko SAS entwickelten Software.",
   "footer-copyright": "&copy;Kashiko SAS {{year}}",

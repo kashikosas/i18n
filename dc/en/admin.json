@@ -48,6 +48,13 @@
   "auth-type-joomla": "Joomla",
   "auth-type-microsoft-entra-id": "Microsoft Entra ID",
   "auth-type-none": "Not set",
+  "org-authentication": "Authentication",
+  "org-auth-joomla-requires-db-url": "Set a Joomla DB server URL on the Detail tab before you can enable Joomla sign-in.",
+  "org-auth-google-coming-soon": "Coming soon.",
+  "microsoft-entra-tenant-id": "Microsoft Entra tenant ID",
+  "microsoft-entra-tenant-id-placeholder": "e.g. xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "microsoft-entra-tenant-id-required": "Microsoft Entra tenant ID is required when Microsoft sign-in is enabled.",
+  "no-permission-org-authentication": "Only super admins can access organisation authentication settings.",
 
   "footer-powered": "Powered by Jikannai<sup>&reg</sup>, a software developed by Kashiko SAS",
   "footer-copyright": "&copy;Kashiko SAS {{year}}",

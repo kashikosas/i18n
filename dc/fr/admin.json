@@ -48,6 +48,13 @@
   "auth-type-joomla": "Joomla",
   "auth-type-microsoft-entra-id": "Microsoft Entra ID",
   "auth-type-none": "Non défini",
+  "org-authentication": "Authentification",
+  "org-auth-joomla-requires-db-url": "Définissez une URL de serveur de base Joomla dans l’onglet Détail avant d’activer la connexion Joomla.",
+  "org-auth-google-coming-soon": "Bientôt disponible.",
+  "microsoft-entra-tenant-id": "ID de locataire Microsoft Entra",
+  "microsoft-entra-tenant-id-placeholder": "ex. xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "microsoft-entra-tenant-id-required": "L’ID de locataire Microsoft Entra est obligatoire lorsque la connexion Microsoft est activée.",
+  "no-permission-org-authentication": "Seuls les super administrateurs peuvent accéder aux paramètres d’authentification de l’organisation.",
 
   "footer-powered": "Propulsé par Jikannai<sup>&reg</sup>, un logiciel développé par Kashiko SAS",
   "footer-copyright": "&copy;Kashiko SAS {{year}}",
