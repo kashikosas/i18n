@@ -114,6 +114,7 @@
   "customer-not-found": "Customer Not Found",
   "customer-portal-domain-prefix": "Customer Portal Domain Prefix",
   "customer-created-success": "Customer was created successfully!",
+  "customer-role-internal": "Internal",
   "customer-deleted-success": "Customer was deleted successfully!",
   "customer-select-organization": "Select an organisation",
   "customer-updated-success": "Customer was updated successfully!",

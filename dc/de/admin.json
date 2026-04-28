@@ -114,6 +114,7 @@
   "customer-not-found": "Kunde nicht gefunden",
   "customer-portal-domain-prefix": "Domain-Präfix des Kundenportals",
   "customer-created-success": "Kunde wurde erfolgreich erstellt!",
+  "customer-role-internal": "Intern",
   "customer-deleted-success": "Kunde wurde erfolgreich gelöscht!",
   "customer-select-organization": "Organisation auswählen",
   "customer-updated-success": "Kunde wurde erfolgreich aktualisiert!",
