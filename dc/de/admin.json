@@ -111,6 +111,8 @@
   "create-administrator": "Administrator erstellen",
   "create-builder": "Builder erstellen",
   "create-customer": "Kunde erstellen",
+  "generate-password": "Temporäres Passwort generieren",
+  "customer-generate-password-tip": "Wenn aktiviert, wird ein temporäres Passwort erstellt und per E-Mail gesendet. Der Kunde kann sich mit seiner E-Mail und diesem Passwort anmelden.",
   "add-builder": "Builder hinzufügen",
   "create-new-tag": "Neues Tag erstellen",
   "create-organization": "Organisation erstellen",

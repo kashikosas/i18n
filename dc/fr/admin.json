@@ -111,6 +111,8 @@
   "create-administrator": "Créer un administrateur",
   "create-builder": "Créer un builder",
   "create-customer": "Créer un client",
+  "generate-password": "Générer un mot de passe temporaire",
+  "customer-generate-password-tip": "Si activé, un mot de passe temporaire est généré et envoyé par e-mail. Le client peut se connecter avec son e-mail et ce mot de passe.",
   "add-builder": "Ajouter un builder",
   "create-new-tag": "Créer un nouveau tag",
   "create-organization": "Créer une organisation",

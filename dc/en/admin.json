@@ -111,6 +111,8 @@
   "create-administrator": "Create Administrator",
   "create-builder": "Create Builder",
   "create-customer": "Create Customer",
+  "generate-password": "Generate temporary password",
+  "customer-generate-password-tip": "If enabled, a temporary password is generated and sent by email. The customer can log in with their email and this password.",
   "add-builder": "Add Builder",
   "create-new-tag": "Create New Tag",
   "create-organization": "Create Organisation",
