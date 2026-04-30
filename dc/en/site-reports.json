@@ -1,0 +1,9 @@
+{
+  "delete-site-reports": "Delete site report",
+  "delete-multiple-site-reports": "Delete multiple site reports",
+  "confirm-delete-single-site-reports": "Are you sure you want to delete this site report?<br>This will delete the site report for all users and cannot be undone.",
+  "confirm-delete-multiple-site-reports": "Are you sure you want to delete these site reports?<br>This will delete the site reports for all users and cannot be undone.",
+  "deletion-site-reports-successful": "Site report deleted successfully",
+  "site-reports-menu-delete": "Delete",
+  "site-reports-client": "Client"
+}

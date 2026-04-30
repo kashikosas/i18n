@@ -1,0 +1,9 @@
+{
+  "delete-site-reports": "Supprimer le rapport de chantier",
+  "delete-multiple-site-reports": "Supprimer plusieurs rapports de chantier",
+  "confirm-delete-single-site-reports": "Êtes-vous sûr de vouloir supprimer ce rapport de chantier?<br>Cela supprimera le rapport pour tous les utilisateurs et ne pourra pas être annulé.",
+  "confirm-delete-multiple-site-reports": "Êtes-vous sûr de vouloir supprimer ces rapports de chantier?<br>Cela supprimera les rapports pour tous les utilisateurs et ne pourra pas être annulé.",
+  "deletion-site-reports-successful": "Rapport de chantier supprimé avec succès",
+  "site-reports-menu-delete": "Supprimer",
+  "site-reports-client": "Client"
+}

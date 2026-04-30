@@ -1,0 +1,9 @@
+{
+  "delete-site-reports": "Site-Bericht löschen",
+  "delete-multiple-site-reports": "Mehrere Site-Berichte löschen",
+  "confirm-delete-single-site-reports": "Möchten Sie diesen Site-Bericht wirklich löschen?<br>Dies löscht den Site-Bericht für alle Benutzer und kann nicht rückgängig gemacht werden.",
+  "confirm-delete-multiple-site-reports": "Möchten Sie diese Site-Berichte wirklich löschen?<br>Dies löscht die Site-Berichte für alle Benutzer und kann nicht rückgängig gemacht werden.",
+  "deletion-site-reports-successful": "Site-Bericht erfolgreich gelöscht",
+  "site-reports-menu-delete": "Löschen",
+  "site-reports-client": "Kunde"
+}
