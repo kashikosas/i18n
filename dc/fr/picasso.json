@@ -104,6 +104,8 @@
   "show-plan-background-content": "Affiche l'arrière-plan importé dans la visionneuse.",
   "hide-plan-background": "Masquer le plan",
   "hide-plan-background-content": "Masque l'arrière-plan sans le supprimer.",
+  "plan-calibration": "Étalonner l'échelle du plan",
+  "plan-calibration-content": "Tracez une ligne de référence sur le plan, puis saisissez sa longueur réelle pour définir l'échelle. Suivez les instructions de la bannière pendant l'étalonnage.",
   "plan-calibration-start": "Choisissez deux points sur le plan le long d'une distance connue, puis saisissez cette distance en mètres pour définir l'échelle.",
   "plan-import-dwg-no-api": "L'import DWG nécessite `dwgImportApiUrl` (URL POST complète pour plan-import/dwg-to-svg).",
   "calibrate-dialog-title": "Longueur réelle (mètres)",
