@@ -108,7 +108,7 @@
   "hide-plan-background": "Grundriss ausblenden",
   "hide-plan-background-content": "Blendet den Hintergrund aus, ohne ihn zu entfernen.",
   "plan-calibration": "Grundrissmaßstab kalibrieren",
-  "plan-calibration-content": "Zeichnen Sie auf dem Plan eine Referenzlinie, geben Sie dann ihre reale Länge ein, um den Maßstab festzulegen. Befolgen Sie beim Kalibrieren die Anweisungen in der Leiste.",
+  "plan-calibration-content": "Zeichnen Sie auf dem Plan eine Referenzlinie, geben Sie dann ihre reale Länge ein, um den Maßstab festzulegen. Beim Kalibrieren halten Sie Shift gedrückt, um eine gerade Linie zu zeichnen, oder drücken Sie Esc zum Abbrechen. Befolgen Sie die Anweisungen in der Leiste.",
   "plan-calibration-start": "Wählen Sie zwei Punkte auf dem Plan entlang einer bekannten Strecke und geben Sie diese Strecke in Metern ein, um die Skalierung festzulegen.",
   "plan-import-dwg-no-api": "DWG-Import erfordert `dwgImportApiUrl` (vollständige POST-URL für plan-import/dwg-to-svg).",
   "calibrate-dialog-title": "Reale Länge (Meter)",
