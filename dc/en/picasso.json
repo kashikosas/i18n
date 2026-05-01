@@ -105,6 +105,8 @@
   "show-plan-background-content": "Show the imported background in the viewer.",
   "hide-plan-background": "Hide floor plan",
   "hide-plan-background-content": "Hide the background without removing it.",
+  "plan-calibration": "Calibrate plan scale",
+  "plan-calibration-content": "Draw a reference line on the plan, then enter its real length to set scale. Follow the banner instructions while calibrating.",
   "plan-calibration-start": "Pick two points on the plan along a known distance, then enter that distance in meters to set the scale.",
   "plan-import-dwg-no-api": "DWG import requires `dwgImportApiUrl` (full POST URL for plan-import/dwg-to-svg).",
   "calibrate-dialog-title": "Real-world length (meters)",
