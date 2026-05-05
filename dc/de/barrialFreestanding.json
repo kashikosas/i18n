@@ -88,9 +88,9 @@
   "exposure-factor": "Sicherheitsbeiwert für Windexposition",
   "contact-to-dani-alu": "Bitte kontaktieren Sie dani alu.",
   "town-correction-factor": "Sicherheitsbeiwert für Städte",
-  "EN13374-slope-helper": "Die maximal zulässige Dachneigung (zum Dachrand hin) beträgt 10° / 17,6 % bei Verwendung einer Brüstung und 3° / 5 % ohne Brüstung.",
-  "ISO14122-3-slope-helper": "Die maximal zulässige Dachneigung (zum Dachrand hin) beträgt 3° / 5%",
-  "BS13700-slope-helper": "Die maximal zulässige Dachneigung (zum Dachrand hin) beträgt 5° / 8,5 % bei Verwendung einer Brüstung und 3° / 5 % ohne Brüstung.",
+  "EN13374-slope-helper": "Die maximal zulässige Dachneigung (zum Dachrand hin) beträgt 10° / 17,6 % bei Verwendung einer Brüstung und 1,1° / 2 % ohne Brüstung.",
+  "ISO14122-3-slope-helper": "Die maximal zulässige Dachneigung (zum Dachrand hin) beträgt 3° / 5 %.",
+  "BS13700-slope-helper": "Die maximal zulässige Dachneigung (zum Dachrand hin) beträgt 5° / 8,5 % bei Verwendung einer Brüstung und 1,1° / 2 % ohne Brüstung.",
   "not-show-again": "Nicht mehr anzeigen",
   
   "draw": "Zeichnen",
