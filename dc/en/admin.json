@@ -124,6 +124,7 @@
   "customer-role-internal": "Internal",
   "customer-role-sika-basic-office": "Basic Office",
   "customer-role-sika-office-plus": "Office Plus",
+  "customer-role-sika-office-admin": "Office Admin",
   "customer-role-sika-technical-inspector": "Technical Inspector",
   "customer-role-sika-rtc-inspector": "RTC Inspector",
   "customer-deleted-success": "Customer was deleted successfully!",
