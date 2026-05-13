@@ -122,7 +122,7 @@
   "customer-portal-domain-prefix": "Préfixe du domaine du portail client",
   "customer-created-success": "Le client a été créé avec succès !",
   "customer-role-internal": "Interne",
-  "customer-role-sika-basic-office": "Bureau basique",
+  "customer-role-sika-office-basic": "Office Basic",
   "customer-role-sika-office-plus": "Bureau plus",
   "customer-role-sika-office-admin": "Administrateur bureau",
   "customer-role-sika-technical-inspector": "Inspecteur technicien",

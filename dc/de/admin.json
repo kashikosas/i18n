@@ -122,7 +122,7 @@
   "customer-portal-domain-prefix": "Domain-Präfix des Kundenportals",
   "customer-created-success": "Kunde wurde erfolgreich erstellt!",
   "customer-role-internal": "Intern",
-  "customer-role-sika-basic-office": "Basic Office",
+  "customer-role-sika-office-basic": "Office Basic",
   "customer-role-sika-office-plus": "Office Plus",
   "customer-role-sika-office-admin": "Büro-Administrator",
   "customer-role-sika-technical-inspector": "Technischer Prüfer",
