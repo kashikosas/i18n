@@ -5,6 +5,8 @@
   "confirm-delete-multiple-site-reports": "Are you sure you want to delete these site reports?<br>This will delete the site reports for all users and cannot be undone.",
   "deletion-site-reports-successful": "Site report deleted successfully",
   "site-reports-menu-delete": "Delete",
+  "open-site-report": "Open the site report",
+  "delete-the-site-report": "Delete the site report",
   "site-reports-client": "Client",
   "list-of-enterprises": "List of enterprises",
   "list-of-installers": "List of installers",

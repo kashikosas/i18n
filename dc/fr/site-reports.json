@@ -5,6 +5,8 @@
   "confirm-delete-multiple-site-reports": "Êtes-vous sûr de vouloir supprimer ces rapports de chantier?<br>Cela supprimera les rapports pour tous les utilisateurs et ne pourra pas être annulé.",
   "deletion-site-reports-successful": "Rapport de chantier supprimé avec succès",
   "site-reports-menu-delete": "Supprimer",
+  "open-site-report": "Ouvrir le rapport de chantier",
+  "delete-the-site-report": "Supprimer le rapport de chantier",
   "site-reports-client": "Client",
   "list-of-enterprises": "Liste des entreprises",
   "list-of-installers": "Liste des poseurs",

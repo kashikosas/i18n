@@ -5,6 +5,8 @@
   "confirm-delete-multiple-site-reports": "Möchten Sie diese Site-Berichte wirklich löschen?<br>Dies löscht die Site-Berichte für alle Benutzer und kann nicht rückgängig gemacht werden.",
   "deletion-site-reports-successful": "Site-Bericht erfolgreich gelöscht",
   "site-reports-menu-delete": "Löschen",
+  "open-site-report": "Site-Bericht öffnen",
+  "delete-the-site-report": "Site-Bericht löschen",
   "site-reports-client": "Kunde",
   "list-of-enterprises": "Liste der Unternehmen",
   "list-of-installers": "Liste der Monteure",
