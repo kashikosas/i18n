@@ -67,6 +67,8 @@
   "customer-role-office_admin": "Office Admin",
   "customer-role-office_plus": "Office Plus",
   "customer-role-office_basic": "Office Basic",
+  "customer-role-technical_inspector": "Technical Inspector",
+  "customer-role-rtc_inspector": "RTC Inspector",
   "plans-zoning-title": "Zoning plan",
   "plans-option-download": "Download a plan",
   "plans-option-from-project": "From the project",
