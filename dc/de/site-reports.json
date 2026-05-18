@@ -82,6 +82,7 @@
   "enterprise-details-contacts-heading": "Kontakte",
   "enterprise-details-no-contacts": "Keine Kontakte",
   "validation-reference": "Bitte geben Sie die Baustellenbericht-Referenz ein.",
+  "save-reference-required-warning": "Geben Sie vor dem Speichern eine Baustellenbericht-Referenz ein.",
   "validation-type": "Bitte wählen Sie den Baustellenbericht-Typ.",
   "validation-order-arc": "Bitte fügen Sie die Bestell-ARC bei.",
   "validation-office": "Bitte wählen Sie mindestens eine Niederlassung.",

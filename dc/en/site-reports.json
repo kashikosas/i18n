@@ -82,6 +82,7 @@
   "enterprise-details-contacts-heading": "Contacts",
   "enterprise-details-no-contacts": "No contacts",
   "validation-reference": "Please enter the site report reference.",
+  "save-reference-required-warning": "Enter a site report reference before saving.",
   "validation-type": "Please choose a site report type.",
   "validation-order-arc": "Please add the order ARC.",
   "validation-office": "Please select at least one office.",

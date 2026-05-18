@@ -82,6 +82,7 @@
   "enterprise-details-contacts-heading": "Contacts",
   "enterprise-details-no-contacts": "Aucun contact",
   "validation-reference": "Veuillez saisir la référence du rapport chantier.",
+  "save-reference-required-warning": "Saisissez une référence de rapport chantier avant d'enregistrer.",
   "validation-type": "Veuillez choisir le type de Rapport Chantier.",
   "validation-order-arc": "Veuillez joindre l'ARC de commande.",
   "validation-office": "Veuillez sélectionner au moins un bureau.",
