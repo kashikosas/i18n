@@ -1,10 +1,11 @@
 {
   "a-length-is-out-of-bound": "A length is out of bounds.",
+  "a-terrace-is-not-closed": "A terrace is not closed.",
+  "an-angle-is-out-of-bound": "An angle is out of bounds",
   "a-terrace-is-not-closed-or-an-endpoint-type-is-not-defined": "A terrace is not closed or an endpoint type is not defined",
   "add-gate": "Add a gate",
   "add-door": "Add a door or window",
   "additions": "Additions",
-  "an-angle-is-out-of-bound": "An angle is out of bounds",
   "angle": "Angle",
   "close": "Close",
   "close-terrace": "Close terrace",

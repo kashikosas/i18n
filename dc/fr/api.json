@@ -6,14 +6,15 @@
   "loading-failed": "Le chargement a échoué",
   "configuration-saving-failed": "Echec enregistrement configuration",
   "configuration-saved-successfully": "Configuration enregistrée",
-  "invalid-username-or-password": "Nom d'utilisateur et/ou mot de passe incorrect(s).",
+  "invalid-username-or-password": "Le nom d'utilisateur ou le mot de passe est incorrect. Veuillez réessayer.",
   "builder-not-found": "Constructeur non trouvé",
   "builder-loading-failed": "Echec chargement constructeur",
   "deletion-failed": "Echec suppression",
   "deletion-successful": "Suppression effectuée",
   "configuration-rretrieval-failed": "Echec recherche de configuration",
   "configuration-not-found": "Configuration non trouvée",
-  "connection-failed": "Echec de connexion",
+  "unknown-error": "Une erreur inattendue s'est produite. Veuillez réessayer ou contacter le support si le problème persiste.",
+  "connection-failed": "Échec de la connexion. Veuillez vérifier votre connexion Internet et réessayer.",
   "login-failed": "Echec d'identification",
 
   "configuration-successful": "Configuration terminée",
@@ -30,11 +31,20 @@
   "invalid-outputs-format": "Format de résultat non valide",
   "invalid-inputs-format": "Format de saisie non valide",
   "invalid-bom-format": "Format de nomenclature non valide",
-  "cannot-update-a-cart-product":"Impossible de mettre à jour le produit dans le panier",
+  "cannot-update-a-cart-product": "Impossible de mettre à jour le produit dans le panier",
   "form-saved-succesfully": "Sauvegarde formulaire réussie",
 
-  "shf-invalid-space-between-posts": "Entraxe entre potelet inférieur à 500mm.",
+  "project-configurator-limit-exceeded": "Limite de configurateur de projet dépassée",
+  "project-configurator-group-mismatch": "Incompatibilité de groupe de configurateur de projet",
+  "cant-share-project-shared-user-no-levels-access": "Vous ne pouvez pas partager ce projet car l'utilisateur avec lequel vous partagez n'a pas accès aux levels.",
+
   "submit": "Soumettre",
 
-  "shf-outside-of-scope": "Cette configuration Sherpal sort du cadre du configurateur - merci de contacter dani alu qui pourra vous aider."
+  "document-generation-failed": "Échec de l'exportation du document",
+
+  "shf-outside-of-scope": "Cette configuration Sherpal sort du cadre du configurateur - merci de contacter dani alu qui pourra vous aider.",
+  "shf-invalid-space-between-posts": "Les entraxes entre les potelets sont trop petits en raison de la charge de vent important.",
+  "impossible-roof-slopes": "La configuration ne peut être calculée en raison de pentes de toit impossibles. Veillez à ce que tous les points de hauteur soient de forme triangulaire ou rectangulaire.",
+  "invalid-configuration-field": "Un ou plusieurs champs du formulaire sont invalides - veuillez vérifier le formulaire.",
+  "invalid-angle-params": "Un ou plusieurs angles du dessin sont invalides - veuillez vérifier les angles en rouge."
 }
