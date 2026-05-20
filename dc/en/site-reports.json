@@ -99,6 +99,7 @@
   "add-existing-enterprise-field-label": "Enterprises",
   "add-existing-enterprise-autocomplete-placeholder": "Search and select enterprises",
   "add-existing-enterprise-empty": "No other enterprises are available to add.",
+  "add-existing-enterprise-load-failed": "Could not load enterprises. Please try again.",
   "add-existing-enterprise-confirm": "Add selected",
   "enterprise-details-contacts-heading": "Contacts",
   "enterprise-details-no-contacts": "No contacts",
