@@ -243,6 +243,8 @@
   "metadata": "Métadonnées",
   "project-type": "Type de projet",
   "renovation": "Rénovation",
+  "renovation_without_existing_structure": "Réfection sans existant",
+  "renovation_with_existing_structure": "Réfection avec existant",
   "new": "Neuf",
   "project-status": "Statut du projet",
   "etude": "Etude",

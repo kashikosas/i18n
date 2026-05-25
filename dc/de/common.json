@@ -244,6 +244,8 @@
   "metadata": "Metadaten",
   "project-type": "Projekttyp",
   "renovation": "Renovierung",
+  "renovation_without_existing_structure": "Instandsetzung ohne Bestand",
+  "renovation_with_existing_structure": "Instandsetzung mit Bestand",
   "new": "Neun",
   "project-status": "Projektstatus",
   "etude": "Studie",

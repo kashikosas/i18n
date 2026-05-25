@@ -338,8 +338,6 @@
   "samafast-tube": "Samafast tube",
   "project-new": "New build",
   "project-renovation": "Renovation",
-  "renovation-without-existing-structure": "Repair without existing substrate",
-  "renovation-with-existing-structure": "Repair with existing substrate",
   "common": {
     "cancel": "Cancel",
     "back": "Back"
