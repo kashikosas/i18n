@@ -338,6 +338,8 @@
   "samafast-tube": "Samafast tube",
   "project-new": "Neubau",
   "project-renovation": "Sanierung",
+  "renovation-without-existing-structure": "Instandsetzung ohne Bestand",
+  "renovation-with-existing-structure": "Instandsetzung mit Bestand",
   "common": {
     "cancel": "Abbrechen",
     "back": "Zurück"
