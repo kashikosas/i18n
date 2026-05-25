@@ -245,6 +245,8 @@
   "metadata": "Metadata",
   "project-type": "Project type",
   "renovation": "Renovation",
+  "renovation_without_existing_structure": "Repair without existing substrate",
+  "renovation_with_existing_structure": "Repair with existing substrate",
   "new": "New",
   "project-status": "Project status",
   "etude": "Study",
