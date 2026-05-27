@@ -61,6 +61,7 @@
   "internal-users": "Utilisateurs internes",
   "enterprises": "Entreprises",
   "complexes": "Complexes",
+  "complex": "Complexe {{index}}",
   "contacts": "Contacts",
   "plans": "Plans",
   "status-draft": "Brouillon",

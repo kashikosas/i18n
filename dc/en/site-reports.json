@@ -61,6 +61,7 @@
   "internal-users": "Internal users",
   "enterprises": "Enterprises",
   "complexes": "Complexes",
+  "complex": "Complex {{index}}",
   "contacts": "Contacts",
   "plans": "Plans",
   "status-draft": "Draft",
