@@ -123,6 +123,8 @@
   "validation-reference": "Bitte geben Sie die Baustellenbericht-Referenz ein.",
   "save-reference-required-warning": "Geben Sie vor dem Speichern eine Baustellenbericht-Referenz ein.",
   "site-report-saved-successfully": "Baustellenbericht erfolgreich gespeichert.",
+  "launch-site-report-successfully": "Baustellenbericht erfolgreich gestartet.",
+  "launch-site-report-failed": "Baustellenbericht konnte nicht gestartet werden. Bitte versuchen Sie es erneut.",
   "save-site-report-failed": "Baustellenbericht konnte nicht gespeichert werden. Bitte versuchen Sie es erneut.",
   "save-site-report-node-required": "Wählen Sie einen Projektknoten aus, bevor Sie den Baustellenbericht speichern.",
   "validation-type": "Bitte wählen Sie den Baustellenbericht-Typ.",

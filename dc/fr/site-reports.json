@@ -123,6 +123,8 @@
   "validation-reference": "Veuillez saisir la référence du rapport chantier.",
   "save-reference-required-warning": "Saisissez une référence de rapport chantier avant d'enregistrer.",
   "site-report-saved-successfully": "Rapport chantier enregistré avec succès.",
+  "launch-site-report-successfully": "Rapport de chantier lancé avec succès.",
+  "launch-site-report-failed": "Échec du lancement du rapport de chantier. Veuillez réessayer.",
   "save-site-report-failed": "Échec de l'enregistrement du rapport chantier. Veuillez réessayer.",
   "save-site-report-node-required": "Sélectionnez un nœud de projet avant d'enregistrer le rapport chantier.",
   "validation-type": "Veuillez choisir le type de Rapport Chantier.",
