@@ -9,6 +9,7 @@
   "invalid-username-or-password": "Le nom d'utilisateur ou le mot de passe est incorrect. Veuillez réessayer.",
   "enterprise-user-invalid-passcode": "Le code d'accès est invalide ou a expiré. Veuillez réessayer ou demander un nouveau code.",
   "enterprise-user-contact-not-active": "Ce contact n'est pas actif et ne peut pas se connecter. Veuillez contacter votre administrateur.",
+  "enterprise-user-invalid-login-link": "Ce lien de connexion n'est pas valide. Veuillez utiliser le lien que vous avez reçu ou contacter votre administrateur.",
 
   "microsoft-sign-in-not-added": "Nous n'avons pas trouvé votre adresse e-mail dans notre système. Votre accès n'est pas encore configuré. Veuillez contacter vos administrateurs.",
   "microsoft-sign-in-inactive": "Votre compte n'est pas actif : vous ne pouvez pas vous connecter. Veuillez contacter vos administrateurs.",
