@@ -350,6 +350,7 @@
   "samafast-tube": "Samafast tube",
   "project-new": "Construction neuve",
   "project-renovation": "Rénovation",
+  "enterprise-user-login-title": "Connexion utilisateur entreprise",
   "enterprise-user-login-description": "Nous avons envoyé un code d'accès à usage unique à votre e-mail. Veuillez vérifier votre boîte de réception et le saisir ci-dessous.",
   "enterprise-user-login-code-label": "Code d'accès",
   "enterprise-user-login-code-placeholder": "Entrez le code à 6 chiffres",
