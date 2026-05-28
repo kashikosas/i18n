@@ -7,6 +7,8 @@
   "configuration-saving-failed": "Configuration saving failed",
   "configuration-saved-successfully": "Configuration saved successfully",
   "invalid-username-or-password": "The username or password you entered is incorrect. Please try again.",
+  "enterprise-user-invalid-passcode": "The access code is invalid or has expired. Please try again or request a new code.",
+  "enterprise-user-contact-not-active": "This contact is not active and cannot sign in. Please contact your administrator.",
 
   "microsoft-sign-in-not-added": "We could not find your email in our system. Your access has not been set up yet. Please contact your administrators.",
   "microsoft-sign-in-inactive": "Your account is not active, so you cannot sign in. Please contact your administrators.",
