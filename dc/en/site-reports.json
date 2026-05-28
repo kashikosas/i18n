@@ -350,6 +350,7 @@
   "samafast-tube": "Samafast tube",
   "project-new": "New build",
   "project-renovation": "Renovation",
+  "enterprise-user-login-description": "We've sent a one-time passcode to your email. Please check your inbox and enter it below.",
   "enterprise-user-login-code-label": "Access code",
   "enterprise-user-login-code-placeholder": "Enter 6-digit code",
   "enterprise-user-login-submit": "Continue",
