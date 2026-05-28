@@ -280,6 +280,8 @@
   "project-manager-name": "Saisissez le nom du maître d'œuvre",
   "inspection-agency-name": "Saisissez le nom du bureau de contrôle",
   "order-arc-add": "Ajouter l'ARC de commande",
+  "order-arc-download": "Télécharger l'ARC de commande",
+  "order-arc-download-failed": "Échec du téléchargement de l'ARC de commande. Veuillez réessayer.",
   "order-arc-remove": "Retirer l'ARC de commande",
   "office": "Bureau",
   "technical-inspector": "Inspecteur Technicien",

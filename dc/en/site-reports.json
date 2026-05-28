@@ -280,6 +280,8 @@
   "project-manager-name": "Enter the design consultant's name",
   "inspection-agency-name": "Enter the inspection agency name",
   "order-arc-add": "Add the order ARC",
+  "order-arc-download": "Download the order ARC",
+  "order-arc-download-failed": "Failed to download the order ARC. Please try again.",
   "order-arc-remove": "Remove the order ARC",
   "office": "Office",
   "technical-inspector": "Technical inspector",

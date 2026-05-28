@@ -280,6 +280,8 @@
   "project-manager-name": "Geben Sie den Namen des Entwurfsverantwortlichen ein",
   "inspection-agency-name": "Geben Sie den Namen des Prüfbüros ein",
   "order-arc-add": "Bestell-ARC hinzufügen",
+  "order-arc-download": "Bestell-ARC herunterladen",
+  "order-arc-download-failed": "Download der Bestell-ARC fehlgeschlagen. Bitte versuchen Sie es erneut.",
   "order-arc-remove": "Bestell-ARC entfernen",
   "office": "Niederlassung",
   "technical-inspector": "Technischer Inspektor",
