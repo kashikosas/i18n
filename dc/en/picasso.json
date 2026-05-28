@@ -126,5 +126,12 @@
   "context-line-slope": "Slope",
   "context-line-slope-checkbox": "Use slope arrow on this line",
   "context-zone-slope-value": "Slope value",
-  "context-zone-type": "Type"
+  "context-zone-type": "Type",
+  "clearance-holes": "Window fixings clearance holes",
+  "upper-clearance-hole": "Position of upper hole",
+  "lower-clearance-hole": "Position of lower hole",
+  "clearance-holes-content": "Enter the position from the circulation surface, measuring in the plane of the windows.",
+  "profile-direction": "Profile orientation",
+  "parallel-to-roof-profiles": "Line parallel to profiles of metal roofing",
+  "parallel-to-roof-profiles-content": "Select a line which runs in the same direction as the profiles of the metal roofing."
 }
