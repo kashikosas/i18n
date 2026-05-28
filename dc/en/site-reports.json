@@ -350,6 +350,12 @@
   "samafast-tube": "Samafast tube",
   "project-new": "New build",
   "project-renovation": "Renovation",
+  "enterprise-user-login-code-label": "Access code",
+  "enterprise-user-login-code-placeholder": "Enter 6-digit code",
+  "enterprise-user-login-submit": "Continue",
+  "enterprise-user-login-code-required": "Access code is required",
+  "enterprise-user-login-code-length": "Access code must be 6 digits",
+  "enterprise-user-login-code-numeric": "Access code must contain only numbers",
   "common": {
     "cancel": "Cancel",
     "back": "Back"
