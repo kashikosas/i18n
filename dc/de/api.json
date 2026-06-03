@@ -10,6 +10,7 @@
   "enterprise-user-invalid-passcode": "Der Zugangscode ist ungültig oder abgelaufen. Bitte versuchen Sie es erneut oder fordern Sie einen neuen Code an.",
   "enterprise-user-contact-not-active": "Dieser Kontakt ist nicht aktiv und kann sich nicht anmelden. Bitte wenden Sie sich an Ihren Administrator.",
   "enterprise-user-invalid-login-link": "Dieser Anmeldelink ist ungültig. Bitte verwenden Sie den Link, den Sie erhalten haben, oder wenden Sie sich an Ihren Administrator.",
+  "installer-invalid-login-link": "Dieser Anmeldelink ist ungültig. Bitte verwenden Sie den Link aus Ihrer SMS oder wenden Sie sich an Ihren Administrator.",
 
   "microsoft-sign-in-not-added": "Wir haben Ihre E-Mail-Adresse nicht in unserem System gefunden. Ihr Zugang wurde noch nicht eingerichtet. Bitte wenden Sie sich an Ihre Administratoren.",
   "microsoft-sign-in-inactive": "Ihr Konto ist nicht aktiv, daher können Sie sich nicht anmelden. Bitte wenden Sie sich an Ihre Administratoren.",

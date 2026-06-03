@@ -378,7 +378,7 @@
   "send-login-email-failed": "Échec de l'envoi de l'e-mail de connexion. Veuillez réessayer.",
   "installer-sign-in-site-name-placeholder": "Nom du chantier",
   "installer-sign-in-welcome": "Bienvenue au chantier <siteName>{{siteName}}</siteName>, <installerName>{{installerName}}</installerName>.",
-  "installer-sign-in-instructions": "Pour créer un Rapport PAQ ou consulter les détails du chantier, veuillez saisir votre code d’accès unique.",
+  "installer-sign-in-instructions": "Nous avons envoyé un code d'accès à usage unique sur votre téléphone mobile. Veuillez vérifier vos messages et le saisir ci-dessous.",
   "installer-sign-in-access-code-label": "Code d’accès",
   "installer-sign-in-submit": "Se connecter",
   "installer-home-create-paq-report": "Créer un nouveau Rapport PAQ",

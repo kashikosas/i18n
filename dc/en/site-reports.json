@@ -378,7 +378,7 @@
   "send-login-email-failed": "Failed to send login email. Please try again.",
   "installer-sign-in-site-name-placeholder": "Site name",
   "installer-sign-in-welcome": "Welcome to site <siteName>{{siteName}}</siteName>, <installerName>{{installerName}}</installerName>.",
-  "installer-sign-in-instructions": "To create a PAQ report or view site details, please enter your unique access code.",
+  "installer-sign-in-instructions": "We've sent a one-time passcode to your mobile phone. Please check your messages and enter it below.",
   "installer-sign-in-access-code-label": "Access code",
   "installer-sign-in-submit": "Sign in",
   "installer-home-create-paq-report": "Create a new PAQ report",

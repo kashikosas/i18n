@@ -378,7 +378,7 @@
   "send-login-email-failed": "Anmelde-E-Mail konnte nicht gesendet werden. Bitte versuchen Sie es erneut.",
   "installer-sign-in-site-name-placeholder": "Name der Baustelle",
   "installer-sign-in-welcome": "Willkommen auf der Baustelle <siteName>{{siteName}}</siteName>, <installerName>{{installerName}}</installerName>.",
-  "installer-sign-in-instructions": "Um einen PAQ-Bericht zu erstellen oder Baustellendetails anzuzeigen, geben Sie bitte Ihren eindeutigen Zugangscode ein.",
+  "installer-sign-in-instructions": "Wir haben einen Einmal-Zugangscode an Ihr Mobiltelefon gesendet. Bitte prüfen Sie Ihre Nachrichten und geben Sie ihn unten ein.",
   "installer-sign-in-access-code-label": "Zugangscode",
   "installer-sign-in-submit": "Anmelden",
   "installer-home-create-paq-report": "Neuen PAQ-Bericht erstellen",
