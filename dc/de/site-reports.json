@@ -393,6 +393,7 @@
   "installer-site-details-field-isolant": "Dämmung",
   "installer-site-details-field-fixations": "Befestigungen",
   "installer-site-details-view-layout-plan": "Verlegeplan anzeigen",
+  "installer-site-details-no-complexes": "Für diesen Baustellenbericht sind keine Komplexdetails verfügbar.",
   "installer-site-details-back-home": "Zurück zur Startseite",
   "installer-paq-reports-page-title": "Bestehende PAQ-Berichte",
   "installer-paq-report-title": "PAQ-Bericht {{number}}",

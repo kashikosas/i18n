@@ -393,6 +393,7 @@
   "installer-site-details-field-isolant": "Isolant",
   "installer-site-details-field-fixations": "Fixations",
   "installer-site-details-view-layout-plan": "Voir le plan de calepinage",
+  "installer-site-details-no-complexes": "Aucun détail de complexe n'est disponible pour ce rapport de site.",
   "installer-site-details-back-home": "Retour à l'accueil",
   "installer-paq-reports-page-title": "Rapports PAQ existants",
   "installer-paq-report-title": "Rapport PAQ {{number}}",

@@ -393,6 +393,7 @@
   "installer-site-details-field-isolant": "Insulation",
   "installer-site-details-field-fixations": "Fasteners",
   "installer-site-details-view-layout-plan": "View layout plan",
+  "installer-site-details-no-complexes": "No complex details are available for this site report.",
   "installer-site-details-back-home": "Back to home",
   "installer-paq-reports-page-title": "Existing PAQ reports",
   "installer-paq-report-title": "PAQ report {{number}}",
