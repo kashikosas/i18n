@@ -54,6 +54,7 @@
 
   "configuration-builders": "Configuration builders",
   "form-validation-failed": "Form validation failed",
+  "fill-all-required-fields": "Please fill in all required fields.",
   "form-saved-successfully": "Form saved successfully",
   "editting-builder": "Editing builder - {{builderLabel}}",
   "configurating-with": "Configurating with: {{builderLabel}}",

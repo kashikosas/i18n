@@ -54,6 +54,7 @@
 
   "configuration-builders": "Konfigurationseditor",
   "form-validation-failed": "Formular Validierung fehlgeschlagen",
+  "fill-all-required-fields": "Bitte füllen Sie alle Pflichtfelder aus.",
   "form-saved-successfully": "Formular erfolgreich gespeichert",
   "editting-builder": "Bearbeitungseditor - {{builderLabel}}",
   "configurating-with": "Konfigurieren mit: {{builderLabel}}",

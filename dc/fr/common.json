@@ -54,6 +54,7 @@
 
   "configuration-builders": "Constructeurs de configurateurs",
   "form-validation-failed": "Echec de validation du formulaire",
+  "fill-all-required-fields": "Veuillez renseigner tous les champs obligatoires.",
   "form-saved-successfully": "Formulaire enregistré",
   "editting-builder": "Edition de configurateur - {{builderLabel}}",
   "configurating-with": "Configuration avec : {{builderLabel}}",
