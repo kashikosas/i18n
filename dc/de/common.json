@@ -350,6 +350,10 @@
   "glass": "VSG",
 
   "screenshot": "Bildschirmfoto",
+  "take-photo": "Foto aufnehmen",
+  "take-photo-modal-title": "Foto aufnehmen",
+  "take-photo-capture": "Aufnehmen",
+  "take-photo-camera-error": "Kamera konnte nicht geöffnet werden. Bitte überprüfen Sie Ihre Berechtigungen.",
 
   "configuration-not-found": "Konfiguration nicht gefunden",
   "forbidden-access": "Zugriff verboten",

@@ -349,6 +349,10 @@
   "glass": "Vitres",
 
   "screenshot": "Capture d'écran",
+  "take-photo": "Prendre une photo",
+  "take-photo-modal-title": "Prendre une photo",
+  "take-photo-capture": "Capturer",
+  "take-photo-camera-error": "Impossible d'accéder à la caméra. Veuillez vérifier vos autorisations.",
 
   "configuration-not-found": "Configuration non trouvée",
   "forbidden-access": "Accès interdit",

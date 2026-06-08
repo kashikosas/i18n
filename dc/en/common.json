@@ -351,6 +351,10 @@
   "glass": "Glass",
 
   "screenshot": "Screenshot",
+  "take-photo": "Take photo",
+  "take-photo-modal-title": "Take a photo",
+  "take-photo-capture": "Capture",
+  "take-photo-camera-error": "Unable to access the camera. Please check your permissions.",
 
   "configuration-not-found": "Configuration not found",
   "forbidden-access": "Forbidden access",
