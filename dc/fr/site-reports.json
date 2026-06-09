@@ -323,6 +323,7 @@
   "second-insulation-type": "Choisissez le type du deuxième isolant",
   "second-insulation-thickness": "Saisissez l’épaisseur du deuxième isolant",
   "thermal-barrier-type": "Choisissez le type d’écran thermique",
+  "thermal-barrier-thickness": "Saisissez l’épaisseur de l’écran thermique",
   "insulation-on-thermal-barrier": "Choisissez l’isolant sur écran thermique",
   "insulation-type-on-thermal-barrier": "Saisissez le type de l’isolant sur écran thermique",
   "insulation-thickness-on-thermal-barrier": "Saisissez épaisseur de l’isolant sur écran thermique",
