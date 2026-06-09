@@ -323,6 +323,7 @@
   "second-insulation-type": "Choose the type of the second insulation",
   "second-insulation-thickness": "Enter the thickness of the second insulation",
   "thermal-barrier-type": "Choose the type of thermal screen",
+  "thermal-barrier-thickness": "Enter the thickness of the thermal screen",
   "insulation-on-thermal-barrier": "Choose the insulation on the thermal screen",
   "insulation-type-on-thermal-barrier": "Enter the insulation type on the thermal screen",
   "insulation-thickness-on-thermal-barrier": "Enter the insulation thickness on the thermal screen",
