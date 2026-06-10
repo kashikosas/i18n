@@ -295,7 +295,7 @@
   "group": "Groupe",
 
   "indicative-project-price": "Prix indicatif du projet",
-  "indicative-project-price-input": "Saisissez le nombre total de mètres linéaires du projet",
+  "indicative-project-price-input": "Saisissez le nombre total de mètre linéaires du projet",
   "indicative-project-price-calculate": "Afficher le prix indicatif",
   "indicative-project-price-result": "Total sans la TVA, les frais de port et d'emballage pour le projet",
   "indicative-project-price-contact": "Contactez dani alu",
