@@ -492,6 +492,8 @@
   "installer-new-paq-field-temperature": "Temperature",
   "installer-new-paq-field-weather-conditions": "Weather conditions",
   "installer-new-paq-weather-placeholder": "Select",
+  "installer-new-paq-fetch-weather": "Get weather",
+  "installer-new-paq-fetch-weather-failed": "Could not fetch weather. Allow location access or enter the values manually.",
   "installer-new-paq-weather-sunny": "Sunny",
   "installer-new-paq-weather-cloudy": "Cloudy",
   "installer-new-paq-weather-rainy": "Rainy",

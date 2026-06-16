@@ -491,6 +491,8 @@
   "installer-new-paq-field-temperature": "Température",
   "installer-new-paq-field-weather-conditions": "Conditions météorologiques",
   "installer-new-paq-weather-placeholder": "Sélectionner",
+  "installer-new-paq-fetch-weather": "Obtenir la météo",
+  "installer-new-paq-fetch-weather-failed": "Impossible de récupérer la météo. Autorisez l'accès à la localisation ou saisissez les valeurs manuellement.",
   "installer-new-paq-weather-sunny": "Ensoleillé",
   "installer-new-paq-weather-cloudy": "Nuageux",
   "installer-new-paq-weather-rainy": "Pluvieux",
