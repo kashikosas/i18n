@@ -216,6 +216,8 @@
   "installer-subcontractor-name": "Nom du sous-traitant",
   "installer-name": "Nom du poseur",
   "installer-mobile-number": "Numéro portable",
+  "installer-validation-mobile-number-required": "Le numéro de mobile est requis",
+  "installer-validation-mobile-number-invalid": "Saisissez un numéro de téléphone valide",
   "installer-certified": "Poseur certifié",
   "installer-certification-date": "Date de certification",
   "installer-active-toggle": "Activer / Désactiver",
