@@ -491,6 +491,8 @@
   "installer-new-paq-field-temperature": "Temperatur",
   "installer-new-paq-field-weather-conditions": "Wetterbedingungen",
   "installer-new-paq-weather-placeholder": "Auswählen",
+  "installer-new-paq-fetch-weather": "Wetter abrufen",
+  "installer-new-paq-fetch-weather-failed": "Wetter konnte nicht abgerufen werden. Erlauben Sie den Standortzugriff oder geben Sie die Werte manuell ein.",
   "installer-new-paq-weather-sunny": "Sonnig",
   "installer-new-paq-weather-cloudy": "Bewölkt",
   "installer-new-paq-weather-rainy": "Regnerisch",
