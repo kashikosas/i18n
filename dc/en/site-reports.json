@@ -322,6 +322,7 @@
   "nc-urgency-urgent": "Yes",
   "nc-urgency-not-urgent": "No",
   "nc-status-open": "Open",
+  "nc-status-accepted": "Accepted",
   "nc-status-closed": "Closed",
   "view-nc-and-corrections": "View NC and corrections",
   "report-photos": "Photo(s)",
