@@ -273,6 +273,7 @@
   "inspection-nc-remarks": "Remarques",
   "open-plan": "Ouvrir le plan",
   "confirm-nc-add-correction": "Confirmer la NC et ajouter une correction",
+  "accept-non-conformity-modal-title": "Accepter la non-conformité et ajouter une instruction de correction",
   "close-nc": "Fermer la NC",
   "download-non-conformity": "Télécharger la Non-conformité",
   "rectifications": "Rectifications",

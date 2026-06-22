@@ -274,6 +274,7 @@
   "inspection-nc-remarks": "Remarks",
   "open-plan": "Open plan",
   "confirm-nc-add-correction": "Confirm NC and add a correction",
+  "accept-non-conformity-modal-title": "Accept non-conformity and add correction instruction",
   "close-nc": "Close NC",
   "download-non-conformity": "Download non-conformity",
   "rectifications": "Corrections",
