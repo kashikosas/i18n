@@ -26,7 +26,8 @@
   "connection-failed": "Verbindung fehlgeschlagen. Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.",
   "login-failed": "Anmeldung fehlgeschlagen",
 
-  "configuration-successful": "Konfiguration erfolgreich",
+  "configuration-successful": "Die Konfiguration wurde aktualisiert",
+  "configuration-example-successful": "Die Beispielkonfiguration wird angezeigt",
   "configuration-failed": "Konfiguration fehlgeschlagen",
 
   "added-to-cart": "Konfiguration zum Warenkorb hinzugefügt",
