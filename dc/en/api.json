@@ -26,7 +26,8 @@
   "connection-failed": "Connection failed. Please check your internet connection and try again.",
   "login-failed": "Login failed",
 
-  "configuration-successful": "Configuration successful",
+  "configuration-successful": "The configuration has been updated",
+  "configuration-example-successful": "The example configuration is displayed",
   "configuration-failed": "Configuration failed",
 
   "added-to-cart": "Configuration added to cart",
