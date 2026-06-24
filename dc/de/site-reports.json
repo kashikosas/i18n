@@ -599,6 +599,7 @@
   "inspection-report-created-successfully": "Inspektionsbericht erfolgreich erstellt.",
   "inspection-report-create-failed": "Inspektionsbericht konnte nicht erstellt werden. Bitte erneut versuchen.",
   "inspection-validation-names-of-approved-applicators-on-site": "Geben Sie die Namen der zugelassenen Verarbeiter vor Ort ein.",
+  "inspection-validation-visit-type": "Wählen Sie mindestens einen Besuchstyp aus.",
   "inspection-section-visit": "Besuchsinformationen",
   "inspection-section-installer": "Monteur und Team",
   "inspection-section-site-conditions": "Baustellenbedingungen",

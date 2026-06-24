@@ -599,6 +599,7 @@
   "inspection-report-created-successfully": "Inspection report created successfully.",
   "inspection-report-create-failed": "Failed to create the inspection report. Please try again.",
   "inspection-validation-names-of-approved-applicators-on-site": "Enter the names of approved applicators on site.",
+  "inspection-validation-visit-type": "Select at least one visit type.",
   "inspection-section-visit": "Visit information",
   "inspection-section-installer": "Installer and team",
   "inspection-section-site-conditions": "Site conditions",
