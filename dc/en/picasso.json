@@ -133,5 +133,9 @@
   "clearance-holes-content": "Enter the position from the circulation surface, measuring in the plane of the windows.",
   "profile-direction": "Profile orientation",
   "parallel-to-roof-profiles": "Line parallel to profiles of metal roofing",
-  "parallel-to-roof-profiles-content": "Select a line which runs in the same direction as the profiles of the metal roofing."
+  "parallel-to-roof-profiles-content": "Select a line which runs in the same direction as the profiles of the metal roofing.",
+  "window-frame-centres": "Window frame dimensions",
+  "window-frame-centres-content": "Enter the distance between window frames.",
+  "rail-length": "Rail length",
+  "rail-length-content": "Select the length of the rail for the selected section."
 }

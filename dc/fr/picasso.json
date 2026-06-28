@@ -125,5 +125,7 @@
   "context-line-slope": "Pente",
   "context-line-slope-checkbox": "Utiliser la flèche de pente sur cette ligne",
   "context-zone-slope-value": "Valeur de pente",
-  "context-zone-type": "Type"
+  "context-zone-type": "Type",
+  "rail-length": "Longueur du rail",
+  "rail-length-content": "Sélectionnez la longueur du rail pour la section sélectionnée."
 }
