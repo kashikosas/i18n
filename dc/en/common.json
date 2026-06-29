@@ -146,6 +146,7 @@
 
   "reference": "Reference",
   "name": "Name",
+  "installer": "Installer",
   "configuration-reference": "Configuration reference",
   "client": "Customer",
 
