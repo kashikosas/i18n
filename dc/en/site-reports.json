@@ -332,6 +332,8 @@
   "correction-report-field-status": "Status",
   "rectification-instruction-created-successfully": "Correction instruction created successfully",
   "rectification-instruction-create-failed": "Failed to create the correction instruction. Please try again.",
+  "rectification-instruction-updated-successfully": "Correction instruction updated successfully",
+  "rectification-instruction-update-failed": "Failed to update the correction instruction. Please try again.",
   "rectification-instruction-assigned-successfully": "Correction instruction assigned to installer successfully",
   "rectification-instruction-assign-failed": "Failed to assign the correction instruction. Please try again.",
   "reassign-rectification-to-installer": "Reassign to another installer",

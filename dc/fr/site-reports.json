@@ -331,6 +331,8 @@
   "correction-report-field-status": "Statut",
   "rectification-instruction-created-successfully": "Instruction de correction créée avec succès",
   "rectification-instruction-create-failed": "Échec de la création de l'instruction de correction. Veuillez réessayer.",
+  "rectification-instruction-updated-successfully": "Instruction de correction mise à jour avec succès",
+  "rectification-instruction-update-failed": "Échec de la mise à jour de l'instruction de correction. Veuillez réessayer.",
   "rectification-instruction-assigned-successfully": "Instruction de correction attribuée au poseur avec succès",
   "rectification-instruction-assign-failed": "Échec de l'attribution de l'instruction de correction. Veuillez réessayer.",
   "reassign-rectification-to-installer": "Réattribuer à un autre poseur",

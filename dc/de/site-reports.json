@@ -331,6 +331,8 @@
   "correction-report-field-status": "Status",
   "rectification-instruction-created-successfully": "Korrekturanweisung erfolgreich erstellt",
   "rectification-instruction-create-failed": "Korrekturanweisung konnte nicht erstellt werden. Bitte erneut versuchen.",
+  "rectification-instruction-updated-successfully": "Korrekturanweisung erfolgreich aktualisiert",
+  "rectification-instruction-update-failed": "Korrekturanweisung konnte nicht aktualisiert werden. Bitte erneut versuchen.",
   "rectification-instruction-assigned-successfully": "Korrekturanweisung erfolgreich dem Monteur zugewiesen",
   "rectification-instruction-assign-failed": "Korrekturanweisung konnte nicht zugewiesen werden. Bitte erneut versuchen.",
   "reassign-rectification-to-installer": "Einem anderen Monteur neu zuweisen",
