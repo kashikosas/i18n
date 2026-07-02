@@ -547,7 +547,7 @@
   "installer-problems-empty": "Ihnen wurden noch keine Probleme zugewiesen.",
   "installer-problems-item-title": "Festgestelltes Problem {{number}}",
   "installer-problems-report-title": "Korrekturbericht {{number}}",
-  "installer-problems-field-notes": "Beschreibung",
+  "installer-problems-field-notes": "Kommentare",
   "installer-problems-field-photos": "Problemfoto(s)",
   "paq-weather-fine": "Heiter",
   "paq-weather-cloudy": "Bewölkt",

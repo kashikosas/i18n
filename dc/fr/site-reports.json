@@ -557,7 +557,7 @@
   "installer-problems-empty": "Aucun problème ne vous a encore été assigné.",
   "installer-problems-item-title": "Problème constaté {{number}}",
   "installer-problems-report-title": "Rapport de rectification {{number}}",
-  "installer-problems-field-notes": "Description",
+  "installer-problems-field-notes": "Commentaires",
   "installer-problems-field-photos": "Photo(s) du problème",
   "paq-weather-fine": "Beau",
   "paq-weather-cloudy": "Nuageux",
