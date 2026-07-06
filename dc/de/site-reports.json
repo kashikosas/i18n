@@ -297,6 +297,7 @@
   "inspection-nc-topic": "Themenbereich",
   "inspection-nc-responsible-enterprise": "Verantwortliches Unternehmen",
   "inspection-nc-zone-id": "Zone",
+  "inspection-nc-number": "NC-Nummer",
   "nc-zone-not-detected": "Zone konnte anhand der gewählten Position nicht erkannt werden",
   "nc-zone-enterprise-not-detected": "Die Position liegt in einer Zone ohne zugewiesenes Unternehmen",
   "save-non-conformity": "Abweichung speichern",

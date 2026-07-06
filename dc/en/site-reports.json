@@ -309,6 +309,7 @@
   "inspection-nc-topic": "Subject area",
   "inspection-nc-responsible-enterprise": "Responsible enterprise",
   "inspection-nc-zone-id": "Zone",
+  "inspection-nc-number": "NC number",
   "nc-zone-not-detected": "Zone could not be detected from the selected position",
   "nc-zone-enterprise-not-detected": "Position is inside a zone without an assigned enterprise",
   "save-non-conformity": "Save non-conformity",
