@@ -351,7 +351,7 @@
   "nc-position-set": "Position im Plan ausgewählt",
   "nc-position-set": "Position im Plan ausgewählt",
   "nc-add-photo": "Foto(s) hinzufügen",
-  "nc-photo-count": "{{count}} Foto(s) ausgewählt",
+  "nc-photo-count": "{{count}} von {{max}} Foto(s) ausgewählt",
   "nc-topic-standard-surface-area": "Standardfläche",
   "nc-topic-upstands": "Aufkantungen",
   "nc-topic-skylights": "Oberlichter",

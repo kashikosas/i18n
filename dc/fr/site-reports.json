@@ -361,7 +361,7 @@
   "nc-position-not-set": "Aucune position sélectionnée sur le plan",
   "nc-position-set": "Position sélectionnée sur le plan",
   "nc-add-photo": "Ajouter une ou des photo(s)",
-  "nc-photo-count": "{{count}} photo(s) sélectionnée(s)",
+  "nc-photo-count": "{{count}} sur {{max}} photo(s) sélectionnée(s)",
   "nc-topic-standard-surface-area": "Surface standard",
   "nc-topic-upstands": "Relevés",
   "nc-topic-skylights": "Lanterneaux",

@@ -362,7 +362,7 @@
   "nc-position-not-set": "No position selected on the plan yet",
   "nc-position-set": "Position selected on the plan",
   "nc-add-photo": "Add photo(s)",
-  "nc-photo-count": "{{count}} photo(s) selected",
+  "nc-photo-count": "{{count}} of {{max}} photo(s) selected",
   "nc-topic-standard-surface-area": "Standard surface area",
   "nc-topic-upstands": "Upstands",
   "nc-topic-skylights": "Skylights",
