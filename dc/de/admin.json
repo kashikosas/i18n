@@ -385,5 +385,11 @@
   "select-customer-roles-levels-access": "Hikashop-Benutzerrollen auswählen, die auf Levels zugreifen können",
   "hikashop-internal": "Intern",
   "hikashop-external-pub": "Extern (öffentlich)",
-  "hikashop-external-pro": "Extern (Pro)"
+  "hikashop-external-pro": "Extern (Pro)",
+
+  "site-reports": "Baustellenberichte",
+  "site-report-auto-archive-period": "Automatische Archivierungsfrist",
+  "site-report-auto-archive-period-days": "Automatische Archivierungsfrist (Tage)",
+  "site-report-auto-archive-period-hint": "Baustellenberichte werden nach dieser Anzahl von Tagen automatisch archiviert. Leer lassen, um die automatische Archivierung zu deaktivieren.",
+  "days": "Tage"
 }

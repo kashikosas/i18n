@@ -385,5 +385,11 @@
   "select-customer-roles-levels-access": "Select Hikashop user roles that can access levels",
   "hikashop-internal": "Internal",
   "hikashop-external-pub": "External (public)",
-  "hikashop-external-pro": "External (pro)"
+  "hikashop-external-pro": "External (pro)",
+
+  "site-reports": "Site Reports",
+  "site-report-auto-archive-period": "Auto-Archive Period",
+  "site-report-auto-archive-period-days": "Auto-archive period (days)",
+  "site-report-auto-archive-period-hint": "Site reports will be automatically archived after this many days. Leave empty to disable auto-archiving.",
+  "days": "days"
 }
