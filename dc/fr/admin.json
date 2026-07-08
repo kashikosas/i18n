@@ -390,6 +390,7 @@
   "site-reports": "Rapports de chantier",
   "site-report-auto-archive-period": "Période d'archivage automatique",
   "site-report-auto-archive-period-days": "Période d'archivage automatique (jours)",
-  "site-report-auto-archive-period-hint": "Les rapports de chantier seront automatiquement archivés après ce nombre de jours. Laissez vide pour désactiver l'archivage automatique.",
+  "site-report-auto-archive-period-hint": "Les rapports de chantier seront automatiquement archivés après ce nombre de jours.",
+  "site-report-auto-archive-period-min-error": "La période d'archivage automatique doit être d'au moins 1 jour.",
   "days": "jours"
 }

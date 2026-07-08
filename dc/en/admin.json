@@ -390,6 +390,7 @@
   "site-reports": "Site Reports",
   "site-report-auto-archive-period": "Auto-Archive Period",
   "site-report-auto-archive-period-days": "Auto-archive period (days)",
-  "site-report-auto-archive-period-hint": "Site reports will be automatically archived after this many days. Leave empty to disable auto-archiving.",
+  "site-report-auto-archive-period-hint": "Site reports will be automatically archived after this many days.",
+  "site-report-auto-archive-period-min-error": "Auto-archive period must be at least 1 day.",
   "days": "days"
 }

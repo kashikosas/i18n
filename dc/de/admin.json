@@ -390,6 +390,7 @@
   "site-reports": "Baustellenberichte",
   "site-report-auto-archive-period": "Automatische Archivierungsfrist",
   "site-report-auto-archive-period-days": "Automatische Archivierungsfrist (Tage)",
-  "site-report-auto-archive-period-hint": "Baustellenberichte werden nach dieser Anzahl von Tagen automatisch archiviert. Leer lassen, um die automatische Archivierung zu deaktivieren.",
+  "site-report-auto-archive-period-hint": "Baustellenberichte werden nach dieser Anzahl von Tagen automatisch archiviert.",
+  "site-report-auto-archive-period-min-error": "Die automatische Archivierungsfrist muss mindestens 1 Tag betragen.",
   "days": "Tage"
 }
