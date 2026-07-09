@@ -696,7 +696,7 @@
   "installer-new-paq-field-peel-test-ok": "Test de peelage OK",
   "installer-new-paq-field-comments": "Commentaires",
   "installer-new-paq-save-report": "Enregistrer le rapport",
-  "save-inspection-report": "Enregistrer le rapport d'inspection",
+  "save-inspection-report": "Soumettre le rapport d'inspection",
   "inspection-report-created-successfully": "Rapport d'inspection créé avec succès.",
   "inspection-report-create-failed": "Échec de la création du rapport d'inspection. Veuillez réessayer.",
   "inspection-validation-names-of-approved-applicators-on-site": "Saisissez les noms des applicateurs agréés sur place.",
