@@ -695,7 +695,7 @@
   "installer-new-paq-field-machine-temperature": "Température de la machine",
   "installer-new-paq-field-peel-test-ok": "Test de peelage OK",
   "installer-new-paq-field-comments": "Commentaires",
-  "installer-new-paq-save-report": "Enregistrer le rapport",
+  "installer-new-paq-save-report": "Soumettre le rapport",
   "save-inspection-report": "Soumettre le rapport d'inspection",
   "inspection-report-created-successfully": "Rapport d'inspection créé avec succès.",
   "inspection-report-create-failed": "Échec de la création du rapport d'inspection. Veuillez réessayer.",

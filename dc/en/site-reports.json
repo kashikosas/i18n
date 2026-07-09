@@ -696,7 +696,7 @@
   "installer-new-paq-field-machine-temperature": "Machine temperature",
   "installer-new-paq-field-peel-test-ok": "Peel test OK",
   "installer-new-paq-field-comments": "Comments",
-  "installer-new-paq-save-report": "Save report",
+  "installer-new-paq-save-report": "Submit report",
   "save-inspection-report": "Submit inspection report",
   "inspection-report-created-successfully": "Inspection report created successfully.",
   "inspection-report-create-failed": "Failed to create the inspection report. Please try again.",
