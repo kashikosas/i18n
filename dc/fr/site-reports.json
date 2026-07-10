@@ -93,6 +93,7 @@
   "plans-zoner-view-modal-title": "Plan de zonage",
   "plans-action-launch-rc": "Lancer le rapport de chantier",
   "validation-plan-zoning": "Veuillez choisir comment fournir le plan de zonage.",
+  "validation-zone-enterprise-complex": "Chaque zone doit avoir une entreprise et un complexe assignés.",
   "action-add-internal-users": "Choisissez les utilisateurs à ajouter Rapport Chantier",
   "action-add-enterprises": "Ajouter des entreprises",
   "action-add-complexes": "Ajouter des complexes",

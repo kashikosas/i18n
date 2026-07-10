@@ -93,6 +93,7 @@
   "plans-zoner-view-modal-title": "Zonierungsplan",
   "plans-action-launch-rc": "Baustellenbericht starten",
   "validation-plan-zoning": "Bitte wählen Sie, wie der Zonierungsplan bereitgestellt wird.",
+  "validation-zone-enterprise-complex": "Jeder Zone müssen ein Unternehmen und ein Komplex zugewiesen sein.",
   "action-add-internal-users": "Wählen Sie die Benutzer für den Baustellenbericht",
   "action-add-enterprises": "Unternehmen hinzufügen",
   "action-add-complexes": "Komplexe hinzufügen",

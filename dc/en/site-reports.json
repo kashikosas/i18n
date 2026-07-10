@@ -93,6 +93,7 @@
   "plans-zoner-view-modal-title": "Zoning plan",
   "plans-action-launch-rc": "Launch site report",
   "validation-plan-zoning": "Please choose how to supply the zoning plan.",
+  "validation-zone-enterprise-complex": "Each zone must have an enterprise and a complex assigned.",
   "action-add-internal-users": "Choose the users to add to the site report",
   "action-add-enterprises": "Add enterprises",
   "action-add-complexes": "Add complexes",
