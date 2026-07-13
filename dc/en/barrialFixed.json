@@ -171,8 +171,8 @@
   "30°": "30°",
   "required": "Required field",
   "position-on-parapet": "Position on parapet",
-  "gap-shoe-z-int": "Gap circulation surface - bottom of shoe Z",
-  "minimum-parapet-height-ext": "Minimum parapet height (on facade)",
+  "gap-shoe-z-int": "Gap circulation surface - bottom of shoe Z: ",
+  "minimum-parapet-height-ext": "Minimum parapet height (on facade): ",
   "head-of-profile": "Height of profiles",
-  "minimum-parapet-height-shoe-a-int": "Minimum parapet height (inside parapet) (HP)"
+  "minimum-parapet-height-shoe-a-int": "Minimum parapet height (inside parapet) (HP): "
 }
