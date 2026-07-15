@@ -282,6 +282,8 @@
   "paq-report-preview": "PAQ report preview",
   "paq-report-updated-successfully": "PAQ report updated successfully.",
   "paq-report-update-failed": "Failed to update PAQ report.",
+  "paq-report-created-successfully": "PAQ report created successfully.",
+  "paq-report-create-failed": "Failed to create the PAQ report. Please try again.",
   "inspection-report-preview": "Inspection report preview",
   "non-conformity-report-preview": "Non-conformity preview",
   "preview-date-time": "Date/time",
