@@ -137,5 +137,8 @@
   "window-frame-centres": "Window frame dimensions",
   "window-frame-centres-content": "Enter the distance between window frames.",
   "rail-length": "Rail length",
-  "rail-length-content": "Select the length of the rail for the selected section."
+  "rail-length-content": "Select the length of the rail for the selected section.",
+  "complex": "Complex",
+  "reference": "Reference",
+  "enterprise": "Enterprise"
 }

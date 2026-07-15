@@ -271,6 +271,8 @@
   "paq-report-preview": "PAQ-Berichtsvorschau",
   "paq-report-updated-successfully": "PAQ-Bericht erfolgreich aktualisiert.",
   "paq-report-update-failed": "PAQ-Bericht konnte nicht aktualisiert werden.",
+  "paq-report-created-successfully": "PAQ-Bericht erfolgreich erstellt.",
+  "paq-report-create-failed": "PAQ-Bericht konnte nicht erstellt werden. Bitte versuchen Sie es erneut.",
   "inspection-report-preview": "Inspektionsberichtsvorschau",
   "non-conformity-report-preview": "Abweichungsvorschau",
   "preview-date-time": "Datum/Uhrzeit",
