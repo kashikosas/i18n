@@ -130,5 +130,8 @@
   "context-zone-slope-value": "Neigungswert",
   "context-zone-type": "Typ",
   "rail-length": "Schienenlänge",
-  "rail-length-content": "Wählen Sie die Länge der Schiene für den ausgewählten Abschnitt"
+  "rail-length-content": "Wählen Sie die Länge der Schiene für den ausgewählten Abschnitt",
+  "complex": "Komplex",
+  "reference": "Referenz",
+  "enterprise": "Unternehmen"
 }

@@ -127,5 +127,8 @@
   "context-zone-slope-value": "Valeur de pente",
   "context-zone-type": "Type",
   "rail-length": "Longueur du rail",
-  "rail-length-content": "Sélectionnez la longueur du rail pour la section sélectionnée."
+  "rail-length-content": "Sélectionnez la longueur du rail pour la section sélectionnée.",
+  "complex": "Complexe",
+  "reference": "Référence",
+  "enterprise": "Entreprise"
 }
