@@ -101,7 +101,7 @@
   "guardrail-position": "Position du garde-corps",
   "handrail-height": "Hauteur de la main courante",
 
-  "insulation-on-horizontal-parapet": Isolation de la face supérieure de l'acrotère",
+  "insulation-on-horizontal-parapet": "Isolation de la face supérieure de l'acrotère",
   "parapet-height-on": "Hauteur du garde-corps au-dessus de la surface de circulation (H<sub>P</sub>)",
   "horizontal-insulation-thickness-on": "Épaisseur de l'isolation supérieure  (H<sub>I,T</sub>)",
   "shoe-option-on": "Sabot requis",
@@ -118,7 +118,7 @@
   "parapet-slope-int": "Pente de l'acrotère",
   "vertical-insulation-thickness": "Épaisseur de l'isolation intérieure (W<sub>I,S</sub>)",
   "horizontal-insulation-thickness-int": "Épaisseur de l'isolation supérieure (W<sub>I,T</sub>)",
-  "gap-shoe-a-int": Espace entre la surface de circulation et le sabot (G<sub>S</sub>)",
+  "gap-shoe-a-int": "Espace entre la surface de circulation et le sabot (G<sub>S</sub>)",
   "parapet-height-int": "Hauteur de l'acrotère",
   "folding-int": "Version rabattable requise",
 
