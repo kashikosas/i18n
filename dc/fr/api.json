@@ -7,6 +7,8 @@
   "configuration-saving-failed": "Echec enregistrement configuration",
   "configuration-saved-successfully": "Configuration enregistrée",
   "invalid-username-or-password": "Le nom d'utilisateur ou le mot de passe est incorrect. Veuillez réessayer.",
+  "invalid-previous-password": "L'ancien mot de passe est incorrect.",
+  "email-auth-not-enabled": "Le changement de mot de passe n'est pas disponible pour cette organisation.",
   "enterprise-user-invalid-passcode": "Le code d'accès est invalide ou a expiré. Veuillez réessayer ou demander un nouveau code.",
   "enterprise-user-contact-not-active": "Ce contact n'est pas actif et ne peut pas se connecter. Veuillez contacter votre administrateur.",
   "enterprise-user-invalid-login-link": "Ce lien de connexion n'est pas valide. Veuillez utiliser le lien que vous avez reçu ou contacter votre administrateur.",

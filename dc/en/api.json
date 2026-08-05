@@ -7,6 +7,8 @@
   "configuration-saving-failed": "Configuration saving failed",
   "configuration-saved-successfully": "Configuration saved successfully",
   "invalid-username-or-password": "The username or password you entered is incorrect. Please try again.",
+  "invalid-previous-password": "Previous password is incorrect.",
+  "email-auth-not-enabled": "Password changes are not available for this organization.",
   "enterprise-user-invalid-passcode": "The access code is invalid or has expired. Please try again or request a new code.",
   "enterprise-user-contact-not-active": "This contact is not active and cannot sign in. Please contact your administrator.",
   "enterprise-user-invalid-login-link": "This login link is not valid. Please use the link you received or contact your administrator.",
