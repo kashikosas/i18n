@@ -211,6 +211,7 @@
   "end-date-works": "Date de fin des travaux",
   "subcontractor-1": "Sous-traitant 1",
   "subcontractor-2": "Sous-traitant 2",
+  "subcontractor-item-title": "Sous-traitant {{number}}",
   "reception-date": "Date de réception",
   "edit-site-information-rc": "Modifier informations du Rapport Chantier",
   "launch-rc": "Lancer le Rapport Chantier",

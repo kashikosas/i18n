@@ -211,6 +211,7 @@
   "end-date-works": "Work end date",
   "subcontractor-1": "Subcontractor 1",
   "subcontractor-2": "Subcontractor 2",
+  "subcontractor-item-title": "Subcontractor {{number}}",
   "reception-date": "Reception date",
   "edit-site-information-rc": "Edit site report information",
   "launch-rc": "Launch RC",

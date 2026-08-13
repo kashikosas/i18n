@@ -211,6 +211,7 @@
   "end-date-works": "Enddatum der Arbeiten",
   "subcontractor-1": "Subunternehmer 1",
   "subcontractor-2": "Subunternehmer 2",
+  "subcontractor-item-title": "Subunternehmer {{number}}",
   "reception-date": "Abnahmedatum",
   "edit-site-information-rc": "RC-Informationen bearbeiten",
   "launch-rc": "RC starten",
