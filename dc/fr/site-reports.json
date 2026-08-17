@@ -243,6 +243,7 @@
   "installer-subcontractor-name": "Nom du sous-traitant",
   "installer-name": "Nom du Poseur",
   "installer-mobile-number": "Numéro portable",
+  "installer-mobile-country-code": "Indicatif pays",
   "installer-validation-mobile-number-required": "Le numéro de mobile est requis",
   "installer-validation-mobile-number-invalid": "Saisissez un numéro de téléphone valide",
   "installer-certified": "Poseur certifié",

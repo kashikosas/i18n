@@ -243,6 +243,7 @@
   "installer-subcontractor-name": "Name des Subunternehmers",
   "installer-name": "Name des Monteurs",
   "installer-mobile-number": "Handynummer",
+  "installer-mobile-country-code": "Ländervorwahl",
   "installer-validation-mobile-number-required": "Handynummer ist erforderlich",
   "installer-validation-mobile-number-invalid": "Geben Sie eine gültige Telefonnummer ein",
   "installer-certified": "Zertifizierter Monteur",

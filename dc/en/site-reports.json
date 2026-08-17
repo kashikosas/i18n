@@ -243,6 +243,7 @@
   "installer-subcontractor-name": "Subcontractor name",
   "installer-name": "Installer name",
   "installer-mobile-number": "Mobile number",
+  "installer-mobile-country-code": "Country calling code",
   "installer-validation-mobile-number-required": "Mobile number is required",
   "installer-validation-mobile-number-invalid": "Enter a valid phone number",
   "installer-certified": "Certified installer",
