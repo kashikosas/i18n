@@ -29,6 +29,13 @@
   "page-build": "Constructeur",
   "page-profil": "Profil",
 
+  "sika-home-welcome": "Bienvenue sur l’outil Jikannai Sika®",
+  "sika-home-intro": "Cet outil vous permet de :",
+  "sika-home-feature-projects": "Créer des projets",
+  "sika-home-feature-site-reports": "Gérer vos rapports de chantiers",
+  "sika-home-feature-layout-studies": "Réaliser vos études de calepinage",
+  "sika-home-feature-products": "Définir les produits nécessaires à votre projet",
+
   "forms": "Formulaires",
   "customs": "Avancés",
   "search": "Rechercher",
