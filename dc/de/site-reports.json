@@ -246,6 +246,7 @@
   "installer-mobile-country-code": "Ländervorwahl",
   "installer-validation-mobile-number-required": "Handynummer ist erforderlich",
   "installer-validation-mobile-number-invalid": "Geben Sie eine gültige Telefonnummer ein",
+  "validation-installer-certified-required": "Bitte stellen Sie sicher, dass mindestens ein Monteur zertifiziert ist.",
   "installer-certified": "Zertifizierter Monteur",
   "installer-certification-date": "Zertifizierungsdatum",
   "installer-active-toggle": "Aktivieren / Deaktivieren",

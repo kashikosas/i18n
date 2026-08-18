@@ -246,6 +246,7 @@
   "installer-mobile-country-code": "Country calling code",
   "installer-validation-mobile-number-required": "Mobile number is required",
   "installer-validation-mobile-number-invalid": "Enter a valid phone number",
+  "validation-installer-certified-required": "Please ensure at least one Installer is certified.",
   "installer-certified": "Certified installer",
   "installer-certification-date": "Certification date",
   "installer-active-toggle": "Enable / Disable",

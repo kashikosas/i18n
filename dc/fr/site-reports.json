@@ -246,6 +246,7 @@
   "installer-mobile-country-code": "Indicatif pays",
   "installer-validation-mobile-number-required": "Le numéro de mobile est requis",
   "installer-validation-mobile-number-invalid": "Saisissez un numéro de téléphone valide",
+  "validation-installer-certified-required": "Veuillez assurer qu'au moins un poseur est agréé.",
   "installer-certified": "Poseur certifié",
   "installer-certification-date": "Date de certification",
   "installer-active-toggle": "Activer / Désactiver",
