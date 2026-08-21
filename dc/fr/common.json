@@ -29,6 +29,13 @@
   "page-build": "Constructeur",
   "page-profil": "Profil",
 
+  "sika-home-welcome": "Bienvenue sur l’outil Jikannai Sika®",
+  "sika-home-intro": "Cet outil vous permet de :",
+  "sika-home-feature-projects": "Créer des projets",
+  "sika-home-feature-site-reports": "Gérer vos rapports de chantiers",
+  "sika-home-feature-layout-studies": "Réaliser vos études de calepinage",
+  "sika-home-feature-products": "Définir les produits nécessaires à votre projet",
+
   "forms": "Formulaires",
   "customs": "Avancés",
   "search": "Rechercher",
@@ -197,6 +204,14 @@
 
   "open-prices-options": "Ouvrir tarifs",
   "prices-options": "Tarifs",
+  "open-price-details": "Ouvrir tarifs détaillés",
+  "price-details": "Tarifs détaillés",
+  "catalogue-price": "Prix catalogue",
+  "discount": "Remise",
+  "your-price": "Votre prix",
+  "silver": "Argent",
+  "gold": "Or",
+  "platinum": "Platine",
   "quantity": "Quantité",
 
   "valid-number-interval": "Valeur comprise entre {{0}} et {{1}}.",

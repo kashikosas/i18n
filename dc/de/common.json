@@ -29,6 +29,13 @@
   "page-build": "Zeichnungs-Konfigurator",
   "page-profil": "Profil",
 
+  "sika-home-welcome": "Willkommen beim Jikannai Sika®-Tool",
+  "sika-home-intro": "Mit diesem Tool können Sie:",
+  "sika-home-feature-projects": "Projekte erstellen",
+  "sika-home-feature-site-reports": "Ihre Baustellenberichte verwalten",
+  "sika-home-feature-layout-studies": "Ihre Verlegepläne erstellen",
+  "sika-home-feature-products": "Die für Ihr Projekt benötigten Produkte festlegen",
+
   "forms": "Formulare",
   "customs": "Individualisiert",
   "search": "Suche",

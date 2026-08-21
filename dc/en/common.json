@@ -29,6 +29,13 @@
   "page-build": "Builders",
   "page-profil": "Profile",
 
+  "sika-home-welcome": "Welcome to the Jikannai Sika® tool",
+  "sika-home-intro": "This tool allows you to:",
+  "sika-home-feature-projects": "Create projects",
+  "sika-home-feature-site-reports": "Manage your site reports",
+  "sika-home-feature-layout-studies": "Carry out your layout studies",
+  "sika-home-feature-products": "Define the products needed for your project",
+
   "forms": "Forms",
   "customs": "Customs",
   "search": "Search",
@@ -196,6 +203,14 @@
 
   "open-prices-options": "Open price options",
   "prices-options": "Prices options",
+  "open-price-details": "See price details",
+  "price-details": "Price details",
+  "catalogue-price": "Catalogue price",
+  "discount": "Discount",
+  "your-price": "Your price",
+  "silver": "Silver",
+  "gold": "Gold",
+  "platinum": "Platinum",
   "quantity": "Quantity",
 
   "valid-number-interval": "Value must be between {{0}} and {{1}}",
