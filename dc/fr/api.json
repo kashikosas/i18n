@@ -17,7 +17,8 @@
   "connection-failed": "Échec de la connexion. Veuillez vérifier votre connexion Internet et réessayer.",
   "login-failed": "Echec d'identification",
 
-  "configuration-successful": "Configuration terminée",
+  "configuration-successful": "La configuration a été actualisée",
+  "configuration-example-successful": "L'exemple de configuration est visualisé",
   "configuration-failed": "Echec de configuration",
 
   "added-to-cart": "Ajouté au panier",
