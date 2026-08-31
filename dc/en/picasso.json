@@ -146,5 +146,7 @@
   "rail-length-content": "Select the length of the rail for the selected section.",
   "complex": "Complex",
   "reference": "Reference",
-  "enterprise": "Enterprise"
+  "enterprise": "Enterprise",
+  "rotate": "Rotate",
+  "rotate-content": "Rotate the satellite image"
 }
