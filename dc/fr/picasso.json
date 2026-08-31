@@ -135,5 +135,7 @@
   "rail-length-content": "Sélectionnez la longueur du rail pour la section sélectionnée.",
   "complex": "Complexe",
   "reference": "Référence",
-  "enterprise": "Entreprise"
+  "enterprise": "Entreprise",
+  "rotate": "Pivoter",
+  "rotate-content": "Faire pivoter l'arrière-plan"
 }
