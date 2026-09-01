@@ -98,6 +98,9 @@
   "postalCode-content": "Enter a postal code to find a specific location",
   "address": "Address",
   "address-content": "Enter an address to find a specific location",
+  "search-by-address": "Search by Address",
+  "search-by-postal-code": "Search by Postal Code",
+  "search": "Search",
   "export-dxf": "Export DXF",
   "export-dxf-content": "Export the current drawing as a DXF file",
   "divide-line": "Divide line by adding a point",
@@ -113,6 +116,11 @@
   "plan-calibration": "Calibrate plan scale",
   "plan-calibration-content": "Draw a reference line on the plan, then enter its real length to set scale. While calibrating, hold Shift to draw a straight line or press Esc to cancel. Follow the banner instructions while calibrating.",
   "plan-calibration-start": "Pick two points on the plan along a known distance, then enter that distance in meters to set the scale. Hold Shift for a straight line or press Esc to cancel.",
+  "plan-upload-prompt-title": "Upload a floor plan?",
+  "plan-upload-prompt-content": "Would you like to import a PDF, DXF, or DWG floor plan?",
+  "yes": "Yes",
+  "no": "No",
+  "wall-calibration-start": "Select a wall of the drawn zone, then enter its real length in meters.",
   "plan-import-dwg-no-api": "DWG import requires `dwgImportApiUrl` (full POST URL for plan-import/dwg-to-svg).",
   "calibrate-dialog-title": "Real-world length (meters)",
   "meters": "Meters",
@@ -141,5 +149,7 @@
   "rail-length-content": "Select the length of the rail for the selected section.",
   "complex": "Complex",
   "reference": "Reference",
-  "enterprise": "Enterprise"
+  "enterprise": "Enterprise",
+  "rotate": "Rotate",
+  "rotate-content": "Rotate the satellite image"
 }

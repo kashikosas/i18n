@@ -93,9 +93,7 @@
   "next": "Suivant",
   "previous": "Précédent",
   "finish": "Finition",
-  "skip": "Ignorer"
-
-
+  "skip": "Ignorer",
   "barrialFixed": "Barrial fixation mécanique",
   "barrialFixed-welcome-title": "Configurateur Barrial fixation mécanique",
   "guardrail-position": "Position du garde-corps",
