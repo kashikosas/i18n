@@ -26,7 +26,7 @@
   "draw-line": "Freies Zeichnen",
   "draw-dpline": "Punkte verbinden",
   "draw-dpline-content": "Mit diesem Werkzeug können Sie zwei Punkte miteinander verbinden, indem Sie nacheinander auf einen klicken.",
-  "draw-line-content": "Mit diesem Werkzeug können Sie mehrere gerade Linien frei zeichnen. Klicken Sie auf das Selektor-Werkzeug, um das Zeichnen zu beenden.",
+  "draw-line-content": "Mit diesem Werkzeug können Sie mehrere gerade Linien frei zeichnen. Klicken Sie auf das Auswahlwerkzeug-Werkzeug, um das Zeichnen zu beenden.",
   "draw-rectangle": "Rechteck zeichnen",
   "draw-rectangle-content": "Mit diesem Werkzeug können Sie Rechtecke zeichnen.",
   "drawing-precision": "Segmentdaten",
