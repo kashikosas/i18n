@@ -2,7 +2,7 @@
   "zebral": "Zebral",
   "zebral-welcome-title": "Zebral® Konfigurator",
   "make-sure-form-valid": "Bitte füllen Sie das Formular aus, um Ihr Produkt zu konfigurieren.",
-  "private": "Einsatz im privaten oder öffentlichen Bereich bis 0,5 kN/m horizontale Nutzlast (Kategorie: A1-B1)",
+  "private": "Einsatzbereich im privaten Bereich bis 0,5 kN/m horizontale Nutzlast (Kategorie: A1-B1)",
   "public": "Einsatz im privaten oder öffentlichen Bereich bis 1,0 KN/m horizontale Nutzlast (Kategorie: B2-E2.1)",
 
   "type-of-pose": "Befestigungsmöglichkeiten",
