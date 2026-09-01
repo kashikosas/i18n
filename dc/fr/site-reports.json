@@ -3,8 +3,6 @@
   "delete-multiple-site-reports": "Supprimer plusieurs Rapports Chantiers",
   "confirm-delete-single-site-reports": "Êtes-vous sûr de vouloir supprimer ce Rapport Chantier ?<br>Cela supprimera le Rapport Chantier pour tous les utilisateurs et ne pourra pas être annulé.",
   "confirm-delete-multiple-site-reports": "Êtes-vous sûr de vouloir supprimer ces Rapports Chantiers ?<br>Cela supprimera les Rapports Chantiers pour tous les utilisateurs et ne pourra pas être annulé.",
-  "confirm-delete-single-site-reports": "Êtes-vous sûr de vouloir supprimer ce Rapport Chantier ?<br>Cela supprimera le Rapport Chantier pour tous les utilisateurs et ne pourra pas être annulé.",
-  "confirm-delete-multiple-site-reports": "Êtes-vous sûr de vouloir supprimer ces Rapports Chantiers ?<br>Cela supprimera les Rapports Chantiers pour tous les utilisateurs et ne pourra pas être annulé.",
   "deletion-site-reports-successful": "Rapport Chantier supprimé avec succès",
   "site-reports-menu-delete": "Supprimer",
   "open-site-report": "Ouvrir le Rapport Chantier",
