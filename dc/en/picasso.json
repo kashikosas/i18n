@@ -151,5 +151,12 @@
   "reference": "Reference",
   "enterprise": "Enterprise",
   "rotate": "Rotate",
-  "rotate-content": "Rotate the satellite image"
+  "rotate-content": "Rotate the satellite image",
+  "add-rooflights": "Add rooflights",
+  "add-rooflights-content": "Place rooflight openings on a closed zone. Enter width and length in meters, then click to place. Select another tool when finished.",
+  "add-rooflights-title": "Add rooflights",
+  "add-rooflights-confirm": "Continue",
+  "rooflight-width": "Width (m)",
+  "rooflight-length": "Length (m)",
+  "place-rooflight-start": "Click inside a closed zone to place rooflights."
 }

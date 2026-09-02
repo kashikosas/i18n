@@ -153,5 +153,12 @@
   "reference": "Referenz",
   "enterprise": "Unternehmen",
   "rotate": "Drehen",
-  "rotate-content": "Satellitenbild drehen"
+  "rotate-content": "Satellitenbild drehen",
+  "add-rooflights": "Oberlichter hinzufügen",
+  "add-rooflights-content": "Platzieren Sie Oberlichtöffnungen auf einer geschlossenen Zone. Geben Sie Breite und Länge in Metern ein und klicken Sie zum Platzieren. Wählen Sie ein anderes Werkzeug, wenn Sie fertig sind.",
+  "add-rooflights-title": "Oberlichter hinzufügen",
+  "add-rooflights-confirm": "Weiter",
+  "rooflight-width": "Breite (m)",
+  "rooflight-length": "Länge (m)",
+  "place-rooflight-start": "Klicken Sie in eine geschlossene Zone, um Oberlichter zu platzieren."
 }

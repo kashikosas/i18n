@@ -140,5 +140,12 @@
   "reference": "Référence",
   "enterprise": "Entreprise",
   "rotate": "Pivoter",
-  "rotate-content": "Faire pivoter l'arrière-plan"
+  "rotate-content": "Faire pivoter l'arrière-plan",
+  "add-rooflights": "Ajouter des lanterneaux",
+  "add-rooflights-content": "Placez des ouvertures de lanterneaux sur une zone fermée. Saisissez la largeur et la longueur en mètres, puis cliquez pour les placer. Sélectionnez un autre outil une fois terminé.",
+  "add-rooflights-title": "Ajouter des lanterneaux",
+  "add-rooflights-confirm": "Continuer",
+  "rooflight-width": "Largeur (m)",
+  "rooflight-length": "Longueur (m)",
+  "place-rooflight-start": "Cliquez dans une zone fermée pour placer des lanterneaux."
 }
