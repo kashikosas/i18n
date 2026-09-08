@@ -195,6 +195,8 @@
   "level": "Niveau",
   "levels": "Levels",
   "levels-updated-success": "Levels a été mis à jour avec succès !",
+  "prices": "Prices",
+  "prices-updated-success": "Prices a été mis à jour avec succès !",
   "loading": "Chargement...",
   "login-as-customer": "Se connecter en tant que client",
   "logo": "Logo",
@@ -389,7 +391,10 @@
   "button-text-color": "Couleur du texte des boutons",
 
   "select-customer-roles-levels-access": "Sélectionner les rôles utilisateurs Hikashop pouvant accéder aux levels",
+  "select-customer-roles-prices-access": "Sélectionner les rôles utilisateurs Hikashop pouvant accéder aux prices",
   "hikashop-internal": "Interne",
+  "hikashop-internal-management": "Interne (management)",
+  "hikashop-internal-standard": "Interne (standard)",
   "hikashop-external-pub": "Externe (public)",
   "hikashop-external-pro": "Externe (pro)",
 
