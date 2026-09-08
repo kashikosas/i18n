@@ -171,8 +171,8 @@
   "30°": "30°",
   "required": "Required field",
   "position-on-parapet": "Position on parapet",
-  "gap-shoe-z-int": "Gap between the circulation surface and the bottom of shoe: ",
-  "minimum-parapet-height-ext": "Minimum parapet height: ",
+  "gap-shoe-z-int": "Gap between the circulation surface and the bottom of shoe (G<sub>S</sub>): ",
+  "minimum-parapet-height-ext": "Minimum parapet height (H<sub>P</sub>): ",
   "head-of-profile": "Height of roof deck profiles",
   "minimum-parapet-height-shoe-a-int": "Minimum parapet height (H<sub>P</sub>): "
 }
