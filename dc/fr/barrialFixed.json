@@ -170,7 +170,7 @@
   "required": "Champ obligatoire",
   "position-on-parapet": "Position sur l'acrotère",
   "gap-shoe-z-int": "Espace entre la surface de circulation et le sabot (G<sub>S</sub>) : ",
-  "minimum-parapet-height-ext": "Hauteur minimale de l'acrotère : ",
+  "minimum-parapet-height-ext": "Hauteur minimale de l'acrotère (H<sub>P</sub>) : ",
   "head-of-profile": "Hauteur des profiles du revêtement",
   "minimum-parapet-height-shoe-a-int": "Hauteur minimale de l'acrotère (H<sub>P</sub>) : "
 }
