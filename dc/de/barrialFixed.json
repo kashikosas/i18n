@@ -174,7 +174,7 @@
   "required": "Pflichtfeld",
   "position-on-parapet": "Position der Befestigungen auf der Attika (D<sub>fix</sub>)",
   "gap-shoe-z-int": "Abstand zwischen Laufebene und der Unterkante Fuß (G<sub>S</sub>): ",
-  "minimum-parapet-height-ext": "Mindesthöhe der Attika: ",
+  "minimum-parapet-height-ext": "Mindesthöhe der Attika (H<sub>P</sub>): ",
   "head-of-profile": "Höhe der Metalldachfalze",
   "minimum-parapet-height-shoe-a-int": "Mindesthöhe der Attika (H<sub>P</sub>): "
 }
