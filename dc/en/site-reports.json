@@ -808,6 +808,13 @@
   "open-meteo-weather-95": "Thunderstorm: Slight or moderate",
   "open-meteo-weather-96": "Thunderstorm with slight hail",
   "open-meteo-weather-99": "Thunderstorm with heavy hail",
+  "filters": "Filters",
+  "open-filters": "Open filters",
+  "close-site-information": "Close site information",
+  "close-report-preview": "Close report preview",
+  "close-report-information": "Close report information",
+  "close-non-conformity-information": "Close non-conformity information",
+  "report-actions": "Report actions",
   "common": {
     "cancel": "Cancel",
     "back": "Back"

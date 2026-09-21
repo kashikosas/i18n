@@ -799,6 +799,13 @@
   "open-meteo-weather-95": "Gewitter: Leicht oder mäßig",
   "open-meteo-weather-96": "Gewitter mit leichtem Hagel",
   "open-meteo-weather-99": "Gewitter mit schwerem Hagel",
+  "filters": "Filter",
+  "open-filters": "Filter öffnen",
+  "close-site-information": "Baustelleninformationen schließen",
+  "close-report-preview": "Berichtsvorschau schließen",
+  "close-report-information": "Berichtsinformationen schließen",
+  "close-non-conformity-information": "Abweichungsinformationen schließen",
+  "report-actions": "Berichtsaktionen",
   "common": {
     "cancel": "Abbrechen",
     "back": "Zurück"

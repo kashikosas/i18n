@@ -141,5 +141,6 @@
   "share-configuration-and-project-description": "Permissions for both will be the same.",
   "shared-with-you": "Shared with you",
   "shared-by-you": "Shared by you",
-  "project-shared-successfully": "Project shared successfully"
+  "project-shared-successfully": "Project shared successfully",
+  "select-item-to-view-details": "Select a site report or configuration to view details."
 }
