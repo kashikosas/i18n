@@ -193,7 +193,7 @@
   "joomla-db-server-url": "Joomla DB Server URL",
   "kapi": "KAPI",
   "kapi-key": "KAPI Key",
-  "htaccess-credentials": "htaccess credentials",
+  "htaccess-credentials": "Htaccess Credentials",
   "htaccess-username": "Username",
   "htaccess-password": "Password",
   "label": "Label",
