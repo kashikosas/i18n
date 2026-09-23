@@ -9,7 +9,7 @@
   "my-saved-configurations": "Configurations enregistrées",
   "account-info": "Mon compte",
   "configurations": "Configurations",
-  "site-reports": "Sika Roof Pilot",
+  "site-reports": "Rapports Chantiers",
   "configurators": "Configurateurs",
   "product": "Produit",
   "organization": "Organisation",
@@ -29,10 +29,10 @@
   "page-build": "Constructeur",
   "page-profil": "Profil",
 
-  "sika-home-welcome": "Bienvenue sur l’outil Jikannai Sika®",
+  "sika-home-welcome": "Bienvenue sur l’outil Sika Roof Pilot®",
   "sika-home-intro": "Cet outil vous permet de :",
   "sika-home-feature-projects": "Créer des projets",
-  "sika-home-feature-site-reports": "Gérer vos rapports de chantiers",
+  "sika-home-feature-site-reports": "Gérer vos Rapports chantiers",
   "sika-home-feature-layout-studies": "Réaliser vos études de calepinage",
   "sika-home-feature-products": "Définir les produits nécessaires à votre projet",
 
