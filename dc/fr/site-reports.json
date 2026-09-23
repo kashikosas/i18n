@@ -247,7 +247,7 @@
   "installer-validation-mobile-number-required": "Le numéro de mobile est requis",
   "installer-validation-mobile-number-invalid": "Saisissez un numéro de téléphone valide",
   "validation-installer-certified-required": "Votre poseur n’est pas agréé SIKA  - merci de vérifier l’agrément de vos poseurs",
-  "installer-certified": "Poseur agrééé",
+  "installer-certified": "Poseur agréé",
   "installer-certification-date": "Date de certification",
   "installer-active-toggle": "Activer / Désactiver",
   "select-installer-placeholder": "Sélectionner un Poseur",
