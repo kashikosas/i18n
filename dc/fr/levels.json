@@ -141,5 +141,6 @@
   "share-configuration-and-project-description": "Les permissions seront les mêmes pour les deux.",
   "shared-with-you": "Partagé avec vous",
   "shared-by-you": "Partagé par vous",
-  "project-shared-successfully": "Projet partagé avec succès"
+  "project-shared-successfully": "Projet partagé avec succès",
+  "select-item-to-view-details": "Sélectionnez un Rapport Chantier ou une configuration pour afficher les détails."
 }

@@ -389,5 +389,9 @@
   "forbidden-access": "Zugriff verboten",
 
   "confirm-remove-configuration-from-project": "Sind Sie sicher, dass Sie diese Konfiguration aus dem Projekt entfernen möchten?",
-  "remove-from-project": "Aus Projekt entfernen"
+  "remove-from-project": "Aus Projekt entfernen",
+
+  "open-menu": "Menü öffnen",
+  "close-project-information": "Projektinformationen schließen",
+  "close-details": "Details schließen"
 }
