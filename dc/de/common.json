@@ -223,6 +223,11 @@
 
   "cant-display-pdf": "Hoppla! Ihr Browser erlaubt die Anzeige des PDFs nicht!",
   "download-instead": "Laden Sie das Dokument herunter",
+  "download": "Herunterladen",
+  "print": "Drucken",
+  "price-details-download-title": "Herunterladen",
+  "price-details-download-pdf": "Als PDF herunterladen",
+  "price-details-download-excel": "Als Excel herunterladen",
 
   "not-includes-vat": "Nicht inklusive MwSt.",
   "not-includes-packaging-shipping-vat": "Versand- und Verpackungskosten sowie Mehrwertsteuer nicht inbegriffen",
