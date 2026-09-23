@@ -247,7 +247,7 @@
   "installer-validation-mobile-number-required": "Le numéro de mobile est requis",
   "installer-validation-mobile-number-invalid": "Saisissez un numéro de téléphone valide",
   "validation-installer-certified-required": "Votre poseur n’est pas agréé SIKA  - merci de vérifier l’agrément de vos poseurs",
-  "installer-certified": "Poseur agrééé",
+  "installer-certified": "Poseur agréé",
   "installer-certification-date": "Date de certification",
   "installer-active-toggle": "Activer / Désactiver",
   "select-installer-placeholder": "Sélectionner un Poseur",
@@ -808,6 +808,13 @@
   "open-meteo-weather-95": "Orage : faible ou modéré",
   "open-meteo-weather-96": "Orage avec grêle légère",
   "open-meteo-weather-99": "Orage avec grêle forte",
+  "filters": "Filtres",
+  "open-filters": "Ouvrir les filtres",
+  "close-site-information": "Fermer les informations du chantier",
+  "close-report-preview": "Fermer l'aperçu du rapport",
+  "close-report-information": "Fermer les informations du rapport",
+  "close-non-conformity-information": "Fermer les informations de la non-conformité",
+  "report-actions": "Actions du rapport",
   "common": {
     "cancel": "Annuler",
     "back": "Retour"
