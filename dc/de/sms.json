@@ -1,5 +1,5 @@
 {
-  "installer-site-report-assigned": "Sie wurden einem Baustellenbericht hinzugefügt. Öffnen Sie ihn hier: {{link}}",
-  "installer-rectification-instruction-assigned": "Ihnen wurde eine neue Korrekturanweisung zugewiesen. Öffnen Sie sie hier: {{link}}",
+  "installer-site-report-assigned": "Sie wurden einem von Sika gestarteten Bericht für die Baustelle {{projectName}} hinzugefügt. {{link}}",
+  "installer-rectification-instruction-assigned": "Ihnen wurde eine neue Korrekturanweisung von Sika für die Baustelle {{projectName}} zugewiesen. {{link}}",
   "installer-one-time-passcode": "Ihr Zugangscode für den Baustellenbericht lautet {{code}}. Er läuft in 5 Minuten ab. Teilen Sie diesen Code nicht."
 }
