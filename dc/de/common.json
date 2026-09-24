@@ -228,6 +228,13 @@
   "price-details-download-title": "Herunterladen",
   "price-details-download-pdf": "Als PDF herunterladen",
   "price-details-download-excel": "Als Excel herunterladen",
+  "total-price": "Gesamtpreis",
+  "neg-price": "NEG-Preis",
+  "pro-price": "PRO-Preis",
+  "ent-gen-price": "ENT_GEN-Preis",
+  "pre-price": "PRE-Preis",
+  "par-price": "PAR-Preis",
+  "loyalty-level": "Treuestufe",
 
   "not-includes-vat": "Nicht inklusive MwSt.",
   "not-includes-packaging-shipping-vat": "Versand- und Verpackungskosten sowie Mehrwertsteuer nicht inbegriffen",
