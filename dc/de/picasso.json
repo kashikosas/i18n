@@ -67,7 +67,7 @@
   "place-mark-limit-content": "Entfernen Sie eine Markierung oder erhöhen Sie das Limit, um weitere zu setzen.",
   "point-title": "Punkt bearbeiten",
   "pointer": "Auswahlwerkzeug",
-  "pointer-content": "Mit diesem Werkzeug können Sie mehrere gerade Linien frei zeichnen. Klicken Sie auf das Auswahlwerkzeug-Werkzeug, um das Zeichnen zu beenden.",
+  "pointer-content": "Mit diesem Werkzeug können Sie vorhandene Linien, Ecken und Punkte auswählen und bearbeiten.",
   "properties": "Eigenschaften",
   "redo": "Wiederherstellen",
   "redo-content": "Stellt eine zuvor rückgängig gemachte Aktion wieder her.",
