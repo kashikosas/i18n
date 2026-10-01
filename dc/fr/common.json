@@ -89,6 +89,7 @@
   "id": "ID",
   "label": "Désignation",
   "imageUrl": "URL d'image",
+  "illustrative-view": "Vue illustrative",
   "published": "Publié",
   "type": "Type",
   "simple": "Simple",
