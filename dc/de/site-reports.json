@@ -92,6 +92,8 @@
   "plans-calepinage-download": "Einmessplan herunterladen",
   "plans-zoner-modal-title": "Zonierungsplan",
   "plans-zoner-view-modal-title": "Zonierungsplan",
+  "plans-zoning-edit-blocked-with-non-conformities": "Die Zonen können nicht bearbeitet werden, da bereits ein Inspektionsbericht mit Abweichungen eingereicht wurde.",
+  "plans-zoning-edit-confirm-after-inspection": "Es wurde bereits ein Inspektionsbericht eingereicht. Bestätigen Sie die Änderung am Zonierungsplan?",
   "plans-action-launch-rc": "Baustellenbericht starten",
   "validation-plan-zoning": "Bitte wählen Sie, wie der Zonierungsplan bereitgestellt wird.",
   "validation-zone-enterprise-complex": "Jeder Zone müssen ein Unternehmen und ein Komplex zugewiesen sein.",

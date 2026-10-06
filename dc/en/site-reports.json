@@ -92,6 +92,8 @@
   "plans-calepinage-download": "Download layout",
   "plans-zoner-modal-title": "Zoning plan",
   "plans-zoner-view-modal-title": "Zoning plan",
+  "plans-zoning-edit-blocked-with-non-conformities": "It is impossible to edit the zones as an inspection report with non-conformities has already been submitted.",
+  "plans-zoning-edit-confirm-after-inspection": "An inspection report has already been submitted. Please confirm the modification of the zoning plan?",
   "plans-action-launch-rc": "Launch site report",
   "validation-plan-zoning": "Please choose how to supply the zoning plan.",
   "validation-zone-enterprise-complex": "Each zone must have an enterprise and a complex assigned.",

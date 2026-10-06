@@ -92,6 +92,8 @@
   "plans-calepinage-download": "Télécharger le calepinage",
   "plans-zoner-modal-title": "Plan de zonage",
   "plans-zoner-view-modal-title": "Plan de zonage",
+  "plans-zoning-edit-blocked-with-non-conformities": "Il est impossible de modifier les zones, car un rapport d'inspection comportant des non-conformités a déjà été soumis.",
+  "plans-zoning-edit-confirm-after-inspection": "Un rapport d'inspection a déjà été soumis, confirmez-vous la modification du plan de zonage ?",
   "plans-action-launch-rc": "Lancer le Rapport Chantier",
   "validation-plan-zoning": "Veuillez choisir comment fournir le plan de zonage.",
   "validation-zone-enterprise-complex": "Chaque zone doit avoir une Entreprise et un complexe assignés.",
