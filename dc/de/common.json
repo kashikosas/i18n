@@ -405,5 +405,8 @@
 
   "open-menu": "Menü öffnen",
   "close-project-information": "Projektinformationen schließen",
-  "close-details": "Details schließen"
+  "close-details": "Details schließen",
+  "bc-data": "Business Central XML-Datei",
+
+  "rows-per-page": "Zeilen pro Seite"
 }
