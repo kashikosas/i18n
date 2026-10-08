@@ -439,5 +439,7 @@
   "open-menu": "Ouvrir le menu",
   "close-project-information": "Fermer les informations sur le projet",
   "close-details": "Fermer les détails",
-  "bc-data": "Fichier XML Business Central"
+  "bc-data": "Fichier XML Business Central",
+
+  "rows-per-page": "Lignes par page"
 }
