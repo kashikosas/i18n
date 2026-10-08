@@ -433,5 +433,8 @@
 
   "open-menu": "Open menu",
   "close-project-information": "Close project information",
-  "close-details": "Close details"
+  "close-details": "Close details",
+  "bc-data": "Business Central XML file",
+
+  "rows-per-page": "Rows per page"
 }
