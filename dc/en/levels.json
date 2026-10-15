@@ -142,5 +142,12 @@
   "shared-with-you": "Shared with you",
   "shared-by-you": "Shared by you",
   "project-shared-successfully": "Project shared successfully",
-  "select-item-to-view-details": "Select a site report or configuration to view details."
+  "select-item-to-view-details": "Select a site report or configuration to view details.",
+  "duplicate": "Duplicate",
+  "duplicate-all": "Duplicate all",
+  "duplicate-structure": "Duplicate structure",
+  "creator": "Creator",
+  "date-created": "Date created",
+  "last-modifier": "Last modifier",
+  "date-last-modified": "Date last modifier"
 }
