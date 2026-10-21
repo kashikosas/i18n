@@ -153,8 +153,8 @@
   "lower-clearance-hole": "Position du trou inférieur",
   "clearance-holes-content": "Saisissez la position à partir de la surface de circulation, en mesurant dans le plan des fenêtres.",
   "profile-direction": "Profile orientation",
-  "parallel-to-roof-profiles": "Line parallel to profiles of metal roofing",
-  "parallel-to-roof-profiles-content": "Select a line which runs in the same direction as the profiles of the metal roofing.",
+  "parallel-to-roof-profiles": "Ligne parallèle aux profils de la couverture",
+  "parallel-to-roof-profiles-content": "Sélectionnez une ligne qui suit la même direction que les profils de la couverture.",
   "window-frame-centres": "Dimensions du cadre des fenêtres",
   "window-frame-centre": "Dimensions du cadre des fenêtres",
   "window-frame-centres-content": "Saisissez la distance entre les cadres de fenêtre."
