@@ -158,5 +158,6 @@
   "reference": "Referenz",
   "enterprise": "Unternehmen",
   "rotate": "Drehen",
-  "rotate-content": "Satellitenbild drehen"
+  "rotate-content": "Satellitenbild drehen",
+  "window-frame-centre-required-on-every-line": "Die Abmessungen des Fensterrahmens müssen zu allen Zeilen hinzugefügt werden"
 }
