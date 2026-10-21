@@ -649,7 +649,7 @@
   "installer-rectification-create-report": "Créer un rapport de rectification",
   "installer-rectification-report-title": "Rapport de rectification",
   "installer-rectification-report-problem-title": "Problème constaté",
-  "installer-rectification-report-problem-content": Détail du problème constaté",
+  "installer-rectification-report-problem-content": "Détail du problème constaté",
   "installer-rectification-report-instruction-title": "Instruction de rectification",
   "installer-rectification-report-instruction-content": "Détail de l'instruction de rectification",
   "installer-rectification-report-field-photos": "Photo(s) de la reprise",
