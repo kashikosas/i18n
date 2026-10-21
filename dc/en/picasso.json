@@ -156,5 +156,6 @@
   "reference": "Reference",
   "enterprise": "Enterprise",
   "rotate": "Rotate",
-  "rotate-content": "Rotate the satellite image"
+  "rotate-content": "Rotate the satellite image",
+  "window-frame-centre-required-on-every-line": "Window frame dimesions must be added to all lines"
 }
