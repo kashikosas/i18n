@@ -142,5 +142,12 @@
   "shared-with-you": "Partagé avec vous",
   "shared-by-you": "Partagé par vous",
   "project-shared-successfully": "Projet partagé avec succès",
-  "select-item-to-view-details": "Sélectionnez un Rapport Chantier ou une configuration pour afficher les détails."
+  "select-item-to-view-details": "Sélectionnez un Rapport Chantier ou une configuration pour afficher les détails.",
+  "duplicate": "Dupliquer",
+  "duplicate-all": "Tout dupliquer",
+  "duplicate-structure": "Dupliquer la structure",
+  "creator": "Créateur",
+  "date-created": "Date de création",
+  "last-modifier": "Dernier modificateur",
+  "date-last-modified": "Date de dernière modification"
 }

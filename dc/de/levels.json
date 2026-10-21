@@ -142,5 +142,12 @@
   "shared-with-you": "Mit Ihnen geteilt",
   "shared-by-you": "Von Ihnen geteilt",
   "project-shared-successfully": "Projekt erfolgreich geteilt",
-  "select-item-to-view-details": "Wählen Sie einen Baustellenbericht oder eine Konfiguration aus, um die Details anzuzeigen."
+  "select-item-to-view-details": "Wählen Sie einen Baustellenbericht oder eine Konfiguration aus, um die Details anzuzeigen.",
+  "duplicate": "Duplizieren",
+  "duplicate-all": "Alles duplizieren",
+  "duplicate-structure": "Struktur duplizieren",
+  "creator": "Ersteller",
+  "date-created": "Erstellungsdatum",
+  "last-modifier": "Letzter Bearbeiter",
+  "date-last-modified": "Datum der letzten Änderung"
 }
