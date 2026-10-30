@@ -142,8 +142,8 @@
   "lower-clearance-hole": "Position des unteren Lochs",
   "clearance-holes-content": "Geben Sie die Position von der Verkehrsfläche aus fest und messen Sie dabei in der Ebene der Fenster.",
   "profile-direction": "Profilorientierung",
-  "parallel-to-roof-profiles": "Parallel zu den Profilen der Metalldach verlaufende Linie",
-  "parallel-to-roof-profiles-content": "Wählen Sie eine Linie aus, die in derselben Richtung verläuft wie die Profile der Metalldach.",
+  "parallel-to-roof-profiles": "Linie parallel zu den Profilen der Dacheindeckung",
+  "parallel-to-roof-profiles-content": "Wählen Sie eine Linie aus, die in dieselbe Richtung verläuft wie die Profile der Dacheindeckung.",
   "window-frame-centres": "Horizontaler Abstand der Fensterpfosten",
   "window-frame-centre": "Horizontaler Abstand der Fensterpfosten",
   "window-frame-centres-content": "Geben Sie den Horizontaler Abstand der Fensterpfosten.",
@@ -153,5 +153,6 @@
   "reference": "Referenz",
   "enterprise": "Unternehmen",
   "rotate": "Drehen",
-  "rotate-content": "Satellitenbild drehen"
+  "rotate-content": "Satellitenbild drehen",
+  "window-frame-centre-required-on-every-line": "Die Abmessungen des Fensterrahmens müssen zu allen Zeilen hinzugefügt werden"
 }
