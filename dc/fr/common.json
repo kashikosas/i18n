@@ -447,5 +447,30 @@
   "close-details": "Fermer les détails",
   "bc-data": "Fichier XML Business Central",
 
-  "rows-per-page": "Lignes par page"
+  "rows-per-page": "Lignes par page",
+
+  "access-as-guest": "Accès en tant qu'invité",
+  "guest-access-to": "Accès invité à {{organization}}",
+  "guest-role": "Rôle",
+  "guest-client-type-particulier": "Particulier",
+  "guest-client-type-prescripteur": "Prescripteur",
+  "guest-client-type-maitre_ouvrage": "Maître d'ouvrage",
+  "guest-client-type-professionnel": "Professionnel",
+  "guest-client-type-negoce": "Négoce",
+  "guest-client-type-entreprise_generale": "Entreprise générale",
+  "guest-first-name": "Prénom",
+  "guest-last-name": "Nom",
+  "guest-company": "Société",
+  "guest-email": "Adresse mail",
+  "guest-country": "Pays",
+  "guest-postcode": "Code postal",
+  "guest-phone": "Téléphone",
+  "guest-field-required": "Ce champ est obligatoire",
+  "guest-field-invalid": "Cette valeur n'est pas valide",
+  "guest-email-invalid": "Veuillez saisir une adresse mail valide",
+  "guest-phone-too-long": "Le numéro de téléphone ne doit pas dépasser 30 caractères",
+  "guest-code-sent": "Nous avons envoyé un code à 6 chiffres à {{email}}.",
+  "guest-code-instructions": "Saisissez le code reçu par mail. Il est valable 5 minutes.",
+  "guest-change-details": "Modifier mes informations",
+  "guest-back-to-sign-in": "Retour à la connexion"
 }

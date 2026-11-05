@@ -61,5 +61,14 @@
   "shf-outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you.",
   "impossible-roof-slopes": "Die Konfiguration kann aufgrund unmöglicher Dachneigungen nicht berechnet werden. Stellen Sie sicher, dass alle Höhenpunkte dreieckige oder rechteckige Formen aufweisen.",
   "invalid-configuration-field": "Mindestens ein Feld im Formular ist ungültig - bitte überprüfen Sie das Formular.",
-  "invalid-angle-params": "Ein oder mehrere Winkel in der Zeichnung sind ungültig - bitte überprüfen Sie die roten Winkel."
+  "invalid-angle-params": "Ein oder mehrere Winkel in der Zeichnung sind ungültig - bitte überprüfen Sie die roten Winkel.",
+
+  "guest-access-disabled": "Der Gastzugang ist für diese Organisation nicht verfügbar.",
+  "guest-email-registered": "Diese E-Mail-Adresse gehört zu einem registrierten Konto. Bitte melden Sie sich mit Ihrem Konto an.",
+  "guest-invalid-passcode": "Der Code ist ungültig oder abgelaufen. Bitte versuchen Sie es erneut oder fordern Sie einen neuen Code an.",
+  "guest-too-many-attempts": "Zu viele falsche Codes. Bitte fordern Sie einen neuen Code an.",
+  "guest-passcode-resend-too-soon": "Bitte warten Sie eine Minute, bevor Sie einen neuen Code anfordern.",
+  "guest-invalid-link": "Dieser Link ist nicht mehr gültig. Bitte greifen Sie erneut als Gast auf den Konfigurator zu.",
+  "guest-forbidden": "Diese Aktion ist mit dem Gastzugang nicht verfügbar.",
+  "guest-invalid-fields": "Einige Felder fehlen oder sind ungültig. Bitte überprüfen Sie das Formular."
 }

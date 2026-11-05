@@ -59,5 +59,14 @@
   "shf-invalid-space-between-posts": "Les entraxes entre les potelets sont trop petits en raison de la charge de vent important.",
   "impossible-roof-slopes": "La configuration ne peut être calculée en raison de pentes de toit impossibles. Veillez à ce que tous les points de hauteur soient de forme triangulaire ou rectangulaire.",
   "invalid-configuration-field": "Un ou plusieurs champs du formulaire sont invalides - veuillez vérifier le formulaire.",
-  "invalid-angle-params": "Un ou plusieurs angles du dessin sont invalides - veuillez vérifier les angles en rouge."
+  "invalid-angle-params": "Un ou plusieurs angles du dessin sont invalides - veuillez vérifier les angles en rouge.",
+
+  "guest-access-disabled": "L'accès invité n'est pas disponible pour cette organisation.",
+  "guest-email-registered": "Cette adresse mail correspond à un compte existant. Veuillez vous connecter avec votre compte.",
+  "guest-invalid-passcode": "Le code est invalide ou a expiré. Veuillez réessayer ou demander un nouveau code.",
+  "guest-too-many-attempts": "Trop de codes incorrects. Veuillez demander un nouveau code.",
+  "guest-passcode-resend-too-soon": "Veuillez patienter une minute avant de demander un nouveau code.",
+  "guest-invalid-link": "Ce lien n'est plus valide. Veuillez accéder à nouveau au configurateur en tant qu'invité.",
+  "guest-forbidden": "Cette action n'est pas disponible en accès invité.",
+  "guest-invalid-fields": "Certains champs sont manquants ou invalides. Veuillez vérifier le formulaire."
 }
