@@ -467,6 +467,9 @@
   "guest-phone-too-long": "Die Telefonnummer darf höchstens 30 Zeichen lang sein",
   "guest-code-sent": "Wir haben einen 6-stelligen Code an {{email}} gesendet.",
   "guest-code-instructions": "Geben Sie den Code ein, den Sie per E-Mail erhalten haben. Er ist 5 Minuten gültig.",
-  "guest-change-details": "Meine Angaben ändern",
+  "guest-change-email": "Andere E-Mail-Adresse verwenden",
+  "guest-complete-profile": "Bitte vervollständigen Sie Ihre Angaben, um fortzufahren.",
+  "change-profile": "Profil ändern",
+  "guest-profile-updated": "Ihre Angaben wurden aktualisiert.",
   "guest-back-to-sign-in": "Zurück zur Anmeldung"
 }

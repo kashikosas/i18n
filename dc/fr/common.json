@@ -471,6 +471,9 @@
   "guest-phone-too-long": "Le numéro de téléphone ne doit pas dépasser 30 caractères",
   "guest-code-sent": "Nous avons envoyé un code à 6 chiffres à {{email}}.",
   "guest-code-instructions": "Saisissez le code reçu par mail. Il est valable 5 minutes.",
-  "guest-change-details": "Modifier mes informations",
+  "guest-change-email": "Utiliser une autre adresse e-mail",
+  "guest-complete-profile": "Veuillez compléter vos informations pour continuer.",
+  "change-profile": "Modifier le profil",
+  "guest-profile-updated": "Vos informations ont été mises à jour.",
   "guest-back-to-sign-in": "Retour à la connexion"
 }

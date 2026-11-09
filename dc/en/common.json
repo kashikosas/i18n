@@ -473,6 +473,9 @@
   "guest-phone-too-long": "The phone number must not exceed 30 characters",
   "guest-code-sent": "We have sent a 6-digit code to {{email}}.",
   "guest-code-instructions": "Enter the code you received by email. It is valid for 5 minutes.",
-  "guest-change-details": "Change my details",
+  "guest-change-email": "Use another email",
+  "guest-complete-profile": "Please complete your details to continue.",
+  "change-profile": "Change profile",
+  "guest-profile-updated": "Your details have been updated.",
   "guest-back-to-sign-in": "Back to sign in"
 }
