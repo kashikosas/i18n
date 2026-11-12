@@ -7,6 +7,8 @@
 
   "type-of-pose": "Type of installation",
   "type-of-pose-germany": "Type of installation",
+  "covering-slab-edge": "Slab edge cladding?",
+  "covering-parapet-edge": "Slab edge cladding?",
   "installation-country": "Country of installation",
   "france": "France",
   "germany": "Germany",
