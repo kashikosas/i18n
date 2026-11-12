@@ -7,6 +7,8 @@
 
   "type-of-pose": "Befestigungsmöglichkeiten",
   "type-of-pose-germany": "Befestigungsmöglichkeiten",
+  "covering-slab-edge": "Stirnverkleidung?",
+  "covering-parapet-edge": "Stirnverkleidung?",
   "installation-country": "Land",
   "france": "Frankreich",
   "germany": "Deutschland",
