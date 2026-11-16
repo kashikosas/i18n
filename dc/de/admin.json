@@ -105,6 +105,7 @@
   "usage-notifications-month-day": "Tag des Monats",
   "usage-notifications-month-day-last": "Letzter Tag",
   "usage-notifications-hour": "Versand um (Stunde)",
+  "usage-notifications-schedule": "Zeitplan",
   "usage-notifications-timezone": "Zeitzone",
   "usage-notifications-summary-daily": "Täglich um {{time}} ({{zone}}).",
   "usage-notifications-summary-weekly": "Jeden {{days}} um {{time}} ({{zone}}).",

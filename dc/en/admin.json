@@ -105,6 +105,7 @@
   "usage-notifications-month-day": "Day of the month",
   "usage-notifications-month-day-last": "Last day",
   "usage-notifications-hour": "Send at (hour)",
+  "usage-notifications-schedule": "Schedule",
   "usage-notifications-timezone": "Time zone",
   "usage-notifications-summary-daily": "Every day at {{time}} ({{zone}}).",
   "usage-notifications-summary-weekly": "Every {{days}} at {{time}} ({{zone}}).",

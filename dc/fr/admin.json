@@ -105,6 +105,7 @@
   "usage-notifications-month-day": "Jour du mois",
   "usage-notifications-month-day-last": "Dernier jour",
   "usage-notifications-hour": "Envoyer à (heure)",
+  "usage-notifications-schedule": "Planification",
   "usage-notifications-timezone": "Fuseau horaire",
   "usage-notifications-summary-daily": "Tous les jours à {{time}} ({{zone}}).",
   "usage-notifications-summary-weekly": "Chaque {{days}} à {{time}} ({{zone}}).",
