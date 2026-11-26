@@ -88,6 +88,9 @@
 
   "gate-not-possible": "Un portillon n'est pas possible dans cette section.",
   "ladder-not-possible": "Une échelle n'est pas possible dans cette section.",
+  "line-too-short-with-gate": "Cette ligne ne peut pas être plus courte tant que le portillon n'est pas supprimé.",
+  "line-too-short-with-ladder": "Cette ligne ne peut pas être plus courte tant que l'échelle n'est pas supprimée.",
+  "line-too-short-with-gate-or-ladder": "Cette ligne ne peut pas être plus courte tant que le portillon ou l'échelle n'est pas supprimé.",
   "not-show-again": "Ne plus afficher",
   "draw": "Dessiner",
   "next": "Suivant",

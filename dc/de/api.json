@@ -61,6 +61,7 @@
   "shf-outside-of-scope": "This Sherpal configuration is outside of the scope of the configurator - please contact dani alu who will be able to assist you.",
   "impossible-roof-slopes": "Die Konfiguration kann aufgrund unmöglicher Dachneigungen nicht berechnet werden. Stellen Sie sicher, dass alle Höhenpunkte dreieckige oder rechteckige Formen aufweisen.",
   "invalid-configuration-field": "Mindestens ein Feld im Formular ist ungültig - bitte überprüfen Sie das Formular.",
+  "roof-slope-too-great": "Die Dachneigung ist größer als der für dieses Land und diese Norm zulässige Höchstwert.",
   "invalid-angle-params": "Ein oder mehrere Winkel in der Zeichnung sind ungültig - bitte überprüfen Sie die roten Winkel.",
 
   "guest-access-disabled": "Der Gastzugang ist für diese Organisation nicht verfügbar.",

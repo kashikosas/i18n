@@ -224,6 +224,7 @@
 
   "gate-not-possible-not-moving": "Ein Tür dieser Breite ist in diesem Abschnitt nicht möglich.",
   "gate-not-possible-moving": "Ein Tür dieser Breite ist in diesem Teil dieses Abschnitts nicht möglich.",
+  "line-too-short-with-gate": "Diese Linie kann nicht kürzer sein, es sei denn, das Tor wird gelöscht.",
   "door-not-possible": "Eine Tür oder ein Fenster dieser Breite ist in diesem Abschnitt nicht möglich.",
 
   "terrace-info": "Terrassendetails",

@@ -59,6 +59,7 @@
   "shf-invalid-space-between-posts": "Les entraxes entre les potelets sont trop petits en raison de la charge de vent important.",
   "impossible-roof-slopes": "La configuration ne peut être calculée en raison de pentes de toit impossibles. Veillez à ce que tous les points de hauteur soient de forme triangulaire ou rectangulaire.",
   "invalid-configuration-field": "Un ou plusieurs champs du formulaire sont invalides - veuillez vérifier le formulaire.",
+  "roof-slope-too-great": "La pente du toit est supérieure au maximum autorisé pour ce pays et cette norme.",
   "invalid-angle-params": "Un ou plusieurs angles du dessin sont invalides - veuillez vérifier les angles en rouge.",
 
   "guest-access-disabled": "L'accès invité n'est pas disponible pour cette organisation.",

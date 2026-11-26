@@ -50,6 +50,7 @@
   "guardrail": "Geländer",
   "height": "Höhe",
   "width": "Breite",
+  "include-overall-position-dimension": "Gesamtpositionsdimension einbeziehen",
   "invert-faces": "Seiten spiegeln",
   "invert-inside-outside": "Innen und außen umkehren",
   "invert-inside-outside-content": "Kehrt Innen- und Außenseite der Linie um.",
