@@ -227,6 +227,7 @@
 
   "gate-not-possible-not-moving": "Une portillon de cette largeur n'est pas possible dans cette section.",
   "gate-not-possible-moving": "Une portillon de cette largeur n'est pas possible dans cette partie de cette section.",
+  "line-too-short-with-gate": "Cette ligne ne peut pas être plus courte tant que le portillon n'est pas supprimé.",
   "door-not-possible": "Une porte ou fenêtre de cette largeur n'est pas possible dans cette section.",
 
   "terrace-info": "Détails de la terrasse",

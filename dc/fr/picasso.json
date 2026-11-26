@@ -47,6 +47,7 @@
   "guardrail": "Garde-corps",
   "height": "Hauteur",
   "width": "Largeur",
+  "include-overall-position-dimension": "Inclure la dimension de position globale",
   "invert-faces": "Inverser faces",
   "invert-inside-outside": "Inverser l'intérieur et l'extérieur",
   "invert-inside-outside-content": "Inverser l'intérieur et l'extérieur de la ligne.",

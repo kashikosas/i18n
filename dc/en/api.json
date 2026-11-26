@@ -61,6 +61,7 @@
   "shf-invalid-space-between-posts": "The space between the legs is too small due to the high wind load.",
   "impossible-roof-slopes": "Configuration cannot be computed due to impossible roof slopes. Ensure all height points are in triangle or rectangle forms.",
   "invalid-configuration-field": "One or more field in the form are invalid - please check the form.",
+  "roof-slope-too-great": "The roof slope is greater than the maximum permitted for this country and standard.",
   "invalid-angle-params": "One or more angle on the drawing is invalid - please check the red angles.",
 
   "guest-access-disabled": "Guest access is not available for this organization.",

@@ -223,6 +223,7 @@
   "not-show-again": "Don't show me again.",
   "gate-not-possible-not-moving": "A gate of this width is not possible in this section",
   "gate-not-possible-moving": "A gate of this width is not possible in this part of the section",
+  "line-too-short-with-gate": "This line cannot be shorter unless the gate is deleted.",
   "door-not-possible": "A door or window of this width is not possible in this section.",
 
   "terrace-info": "Terrace details",

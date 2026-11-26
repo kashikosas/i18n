@@ -58,6 +58,7 @@
   "guardrail": "Guardrail",
   "height": "Height",
   "width": "Width",
+  "include-overall-position-dimension": "Include overall position dimension",
   "invert-faces": "Reverse terrace",
   "invert-inside-outside": "Reverse inside and outside",
   "invert-inside-outside-content": "Reverse the inside and the outside of the line.",

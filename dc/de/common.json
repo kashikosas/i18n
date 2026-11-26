@@ -151,6 +151,7 @@
   "open-formulo": "Formular öffnen",
   "nomenclature": "Nomenklatur",
   "identity-tag": "Identitätsaufkleber",
+  "delivery-label-output": "Installationsanleitung",
   "post-file": "Stützeproduktionsblatt",
   "write-your-message": "Ihre Nachricht",
   "attach-current-configuration": "Aktuelle Konfiguration anhängen",
@@ -427,6 +428,7 @@
   "share-permission-read-only": "Nur lesen",
   "share-permission-edit": "Bearbeiten",
   "add-order-number": "Bestellnummer hinzufügen",
+  "production-order-number": "Produktionsauftragsnummer",
 
   "handrail": "Handlauf",
   "glass": "VSG",

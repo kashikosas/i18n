@@ -177,6 +177,7 @@
   "linear-meter-unit": "le mètre linéaire",
   "nomenclature": "Nomenclature",
   "identity-tag": "Etiquette d'identité",
+  "delivery-label-output": "Notice MEO",
   "post-file": "Feuille de montage montant",
   "reference": "Référence",
   "name": "Nom",
@@ -431,6 +432,7 @@
   "share-permission-read-only": "Lecture seule",
   "share-permission-edit": "Modifier",
   "add-order-number": "Ajouter le numéro de commande",
+  "production-order-number": "Numéro d'OF",
 
   "handrail": "Main courante",
   "glass": "Vitres",

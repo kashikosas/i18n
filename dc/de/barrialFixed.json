@@ -68,6 +68,9 @@
 
   "gate-not-possible": "Ein Tor ist in diesem Abschnitt nicht möglich.",
   "ladder-not-possible": "In diesem Abschnitt ist der Bau einer Leiter nicht möglich.",
+  "line-too-short-with-gate": "Diese Linie kann nicht kürzer sein, es sei denn, das Tor wird gelöscht.",
+  "line-too-short-with-ladder": "Diese Linie kann nicht kürzer sein, es sei denn, die Leiter wird gelöscht.",
+  "line-too-short-with-gate-or-ladder": "Diese Linie kann nicht kürzer sein, es sei denn, das Tor oder die Leiter wird gelöscht.",
 
   
   "building-check": "Die Gebäudehöhe beträgt 40 m oder weniger",

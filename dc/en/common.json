@@ -302,6 +302,7 @@
   "nomenclature-csv-export": "Nomenclature CSV export",
   "nomenclature": "Parts list",
   "identity-tag": "Identity sticker",
+  "delivery-label-output": "Installation instruction notice",
   "post-file": "Post production sheet",
   "usinage-lisses": "Machining lisses",
   "gstm-list": "GSTM component list",
@@ -433,6 +434,7 @@
   "share-permission-read-only": "Read only",
   "share-permission-edit": "Edit",
   "add-order-number": "Add order number",
+  "production-order-number": "Production order number",
 
   "handrail": "Handrail",
   "glass": "Glass",
